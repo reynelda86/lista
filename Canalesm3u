@@ -10,6 +10,12 @@ http://alv.encohd.co:39591/live/xj0roNAC/n43XT33x/337.m3u8
 http://alv.encohd.co:39591/live/xj0roNAC/n43XT33x/338.m3u8
 #EXTINF:-1,REG- TELEMUNDO6
 http://alv.encohd.co:39591/live/xj0roNAC/n43XT33x/339.m3u8
+#EXTINF:-1,REG- TELEMUNDO7
+http://fortv.cc:8080/Ronnie/Ronnie/56430
+#EXTINF:-1,REG- TELEMUNDO8
+http://fortv.cc:8080/Ronnie/Ronnie/120661
+#EXTINF:-1,REG- TELEMUNDO9
+http://fortv.cc:8080/Ronnie/Ronnie/120665
 #EXTINF:-1,REG- TELEMUNDO DEPORTES
 https://live-content.xumo.com/2592/content/XM06GWT4TVFWAW/22861908/3.m3u8
 http://fortv.cc:8080/Ronnie/Ronnie/120806
