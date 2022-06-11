@@ -12,11 +12,19 @@ http://hispanotv.net:8080/ADOLFO1234/ADOLFO1234/151766
 http://iptvplay.xyz:8080/Rodrigo2022/2022Rodrigo/57773
 #EXTINF:-1,REG- TELEMUNDO OK 6
 http://iptvplay.xyz:8080/Rodrigo2022/2022Rodrigo/57775
+#EXTINF:-1,REG- TUDN
+http://hispanotv.net:8080/Manuel1/Manuel1/140219
 #EXTINF:-1,REG- ESPN DEPORTES
 http://hispanotv.net:8080/Fabio123/Fabio123/140228
 #EXTINF:-1,REG- ESPN DEPORTES 1
+http://hispanotv.net:8080/Manuel1/Manuel1/140228
+#EXTINF:-1,REG- ESPN DEPORTES 2
 http://mytv.fun:8080/eirik22171/jensen22095/677142
-#EXTINF:-1,REG- Fox Sports 2
+#EXTINF:-1,REG- Fox Sports
+http://hispanotv.net:8080/Manuel1/Manuel1/157343
+#EXTINF:-1,REG- Fox Sports
+http://hispanotv.net:8080/Manuel1/Manuel1/157336
+#EXTINF:-1,REG- Fox Sports
 http://satelliteiptv.xyz:8080/4ovvyl7n0f/23mndmred/67132
 #EXTINF:-1,REG- CARTOON NETWORK
 http://quality-restream.com:8080/rhaddaoui90/58b4b54325/9043
@@ -28,7 +36,35 @@ http://hispanotv.net:8080/ADOLFO1234/ADOLFO1234/151330
 http://hispanotv.net:8080/ADOLFO1234/ADOLFO1234/151328
 #EXTINF:-1,REG- TOONCAST
 http://hispanotv.net:8080/ADOLFO1234/ADOLFO1234/151332
+#EXTINF:-1,REG- CINECANAL
+http://hispanotv.net:8080/Fabio123/Fabio123/85844
 #EXTINF:-1,REG- SPACE
 http://hispanotv.net:8080/ADOLFO1234/ADOLFO1234/85900
 #EXTINF:-1,REG- SONY
 http://hispanotv.net:8080/ADOLFO1234/ADOLFO1234/85897
+#EXTINF:-1,REG- A&E
+http://hispanotv.net:8080/Manuel1/Manuel1/85836
+#EXTINF:-1,REG- DHE
+http://hispanotv.net:8080/Manuel1/Manuel1/85850
+#EXTINF:-1,REG- WARNER TV
+http://hispanotv.net:8080/Manuel1/Manuel1/147950
+#EXTINF:-1,REG- LAS ESTRELLAS
+http://cdiplus.org:8080/4hEAANDQkR/eIreUxbMj6/81836
+#EXTINF:-1,REG- LAS ESTRELLAS
+http://compitv.info:8080/Alejandro1/Alejandro1/335057
+#EXTINF:-1,REG- LAS ESTRELLAS
+http://compitv.info:8080/Alejandro1/Alejandro1/335058
+#EXTINF:-1,REG- AZTECA 7
+http://cdiplus.org:8080/4hEAANDQkR/eIreUxbMj6/81832
+#EXTINF:-1,REG- AZTECA UNO
+http://cdiplus.org:8080/4hEAANDQkR/eIreUxbMj6/81753
+#EXTINF:-1,REG- PERU LATINA
+http://hispanotv.net:8080/Manuel1/Manuel1/101815
+#EXTINF:-1,REG- PERU LATINA 1
+http://cdiplus.org:8080/4hEAANDQkR/eIreUxbMj6/22616
+#EXTINF:-1,REG- PERU AMERICA
+http://cdiplus.org:8080/4hEAANDQkR/eIreUxbMj6/19007
+#EXTINF:-1,REG- PERU AMERICA 1
+http://cdiplus.org:8080/4hEAANDQkR/eIreUxbMj6/22145
+#EXTINF:-1,REG- PERU ESPN
+http://cdiplus.org:8080/4hEAANDQkR/eIreUxbMj6/1194938
