@@ -1,53 +1,37 @@
-#EXTINF:-1,REG- TELEMUNDO OK
-http://hispanotv.net:8080/Manuel1/Manuel1/151766
 #EXTINF:-1,REG- TELEMUNDO OK 1
 http://hispanotv.net:8080/Fabio123/Fabio123/151766
 #EXTINF:-1,REG- TELEMUNDO OK 2
 http://satelliteiptv.xyz:8080/oanpvduoq/794kwqmxb0pd/16982
-#EXTINF:-1,REG- TELEMUNDO OK 3
-http://satelliteiptv.xyz:8080/4ovvyl7n0f/23mndmred/16982
 #EXTINF:-1,REG- TELEMUNDO OK 4
 http://hispanotv.net:8080/ADOLFO1234/ADOLFO1234/151766
 #EXTINF:-1,REG- TELEMUNDO OK 5
 http://iptvplay.xyz:8080/Rodrigo2022/2022Rodrigo/57773
 #EXTINF:-1,REG- TELEMUNDO OK 6
 http://iptvplay.xyz:8080/Rodrigo2022/2022Rodrigo/57775
-#EXTINF:-1,REG- TUDN
-http://hispanotv.net:8080/Manuel1/Manuel1/140219
 #EXTINF:-1,REG- ESPN DEPORTES
 http://hispanotv.net:8080/Fabio123/Fabio123/140228
-#EXTINF:-1,REG- ESPN DEPORTES 1
-http://hispanotv.net:8080/Manuel1/Manuel1/140228
-#EXTINF:-1,REG- ESPN DEPORTES 2
-http://mytv.fun:8080/eirik22171/jensen22095/677142
-#EXTINF:-1,REG- Fox Sports
-http://hispanotv.net:8080/Manuel1/Manuel1/157343
-#EXTINF:-1,REG- Fox Sports
-http://hispanotv.net:8080/Manuel1/Manuel1/157336
-#EXTINF:-1,REG- Fox Sports
-http://satelliteiptv.xyz:8080/4ovvyl7n0f/23mndmred/67132
+#EXTINF:-1,REG- Fox Sports 2
+http://45.71.185.142:8500/play/a01n
+#EXTINF:-1,REG- HBO
+http://45.71.185.142:8500/play/a02v
 #EXTINF:-1,REG- CARTOON NETWORK
-http://quality-restream.com:8080/rhaddaoui90/58b4b54325/9043
-#EXTINF:-1,REG- CARTOON NETWORK 1
-http://satelliteiptv.xyz:8080/4ovvyl7n0f/23mndmred/6689
+http://45.71.185.142:8500/play/a00f
 #EXTINF:-1,REG- CARTOON NETWORK 2
 http://hispanotv.net:8080/ADOLFO1234/ADOLFO1234/151330
-#EXTINF:-1,REG- BOOMERANG
-http://hispanotv.net:8080/ADOLFO1234/ADOLFO1234/151328
-#EXTINF:-1,REG- TOONCAST
-http://hispanotv.net:8080/ADOLFO1234/ADOLFO1234/151332
+#EXTINF:-1,REG- FX
+http://45.71.185.142:8500/play/a030
 #EXTINF:-1,REG- CINECANAL
-http://hispanotv.net:8080/Fabio123/Fabio123/85844
+http://45.71.185.142:8500/play/a005
+#EXTINF:-1,REG- CINEMAX
+http://45.71.185.142:8500/play/a02w
 #EXTINF:-1,REG- SPACE
-http://hispanotv.net:8080/ADOLFO1234/ADOLFO1234/85900
-#EXTINF:-1,REG- SONY
-http://hispanotv.net:8080/ADOLFO1234/ADOLFO1234/85897
+http://45.71.185.142:8500/play/a02z
 #EXTINF:-1,REG- A&E
-http://hispanotv.net:8080/Manuel1/Manuel1/85836
-#EXTINF:-1,REG- DHE
-http://hispanotv.net:8080/Manuel1/Manuel1/85850
+http://45.71.185.142:8500/play/a01i
 #EXTINF:-1,REG- WARNER TV
-http://hispanotv.net:8080/Manuel1/Manuel1/147950
+http://45.71.185.142:8500/play/a01a
+#EXTINF:-1,REG- LAS ESTRELLAS
+http://45.71.185.142:8500/play/a01m
 #EXTINF:-1,REG- LAS ESTRELLAS
 http://cdiplus.org:8080/4hEAANDQkR/eIreUxbMj6/81836
 #EXTINF:-1,REG- LAS ESTRELLAS
@@ -60,8 +44,6 @@ http://cdiplus.org:8080/4hEAANDQkR/eIreUxbMj6/81832
 http://cdiplus.org:8080/4hEAANDQkR/eIreUxbMj6/81753
 #EXTINF:-1,REG- PERU LATINA
 http://177.53.152.186:8000/play/a019/index.m3u8
-#EXTINF:-1,REG- PERU LATINA 1
-http://hispanotv.net:8080/Manuel1/Manuel1/101815
 #EXTINF:-1,REG- PERU LATINA 2
 http://cdiplus.org:8080/4hEAANDQkR/eIreUxbMj6/22616
 #EXTINF:-1,REG- PERU AMERICA
