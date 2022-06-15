@@ -65,8 +65,10 @@ https://tvazteca-live-cdn-mdstrm-com.akamaized.net/live-stream-gdai/linear/hls/p
 #EXTINF:-1,REG- AZTECA UNO
 http://cdiplus.org:8080/4hEAANDQkR/eIreUxbMj6/81753
 #EXTINF:-1,REG- PERU LATINA
-http://hispanotv.net:8080/Manuel1/Manuel1/101815
+http://177.53.152.186:8000/play/a019/index.m3u8
 #EXTINF:-1,REG- PERU LATINA 1
+http://hispanotv.net:8080/Manuel1/Manuel1/101815
+#EXTINF:-1,REG- PERU LATINA 2
 http://cdiplus.org:8080/4hEAANDQkR/eIreUxbMj6/22616
 #EXTINF:-1,REG- PERU AMERICA
 http://cdiplus.org:8080/4hEAANDQkR/eIreUxbMj6/19007
@@ -74,3 +76,5 @@ http://cdiplus.org:8080/4hEAANDQkR/eIreUxbMj6/19007
 http://cdiplus.org:8080/4hEAANDQkR/eIreUxbMj6/22145
 #EXTINF:-1,REG- PERU ESPN
 http://cdiplus.org:8080/4hEAANDQkR/eIreUxbMj6/1194938
+#EXTINF:-1,ESTRELLA TV
+https://estrellatv-roku.amagi.tv/playlist.m3u8
