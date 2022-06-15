@@ -56,12 +56,6 @@ http://compitv.info:8080/Alejandro1/Alejandro1/335057
 http://compitv.info:8080/Alejandro1/Alejandro1/335058
 #EXTINF:-1,REG- AZTECA 7
 http://cdiplus.org:8080/4hEAANDQkR/eIreUxbMj6/81832
-#EXTINF:-1,REG- AZTECA 7
-https://tvazteca-live-cdn-mdstrm-com.akamaized.net/live-stream-gdai/linear/hls/pa/event/PNEbbcJZRAaP4wDlQMW2LA/stream/ecf342fd-0e98-4b20-abc6-fd36824958bb:TUL/variant/b388673d758a4b4ec4fdf3031e044386/bandwidth/409200.m3u8?es=tvazteca-live-cdn-mdstrm-com.akamaized.net&proto=https
-#EXTINF:-1,REG- AZTECA 7
-https://tvazteca-live-cdn-mdstrm-com.akamaized.net/live-stream-gdai/linear/hls/pa/event/PNEbbcJZRAaP4wDlQMW2LA/stream/ecf342fd-0e98-4b20-abc6-fd36824958bb:TUL/variant/3b91a036d5bc81775e530b2a69fe2ecb/bandwidth/510400.m3u8?es=tvazteca-live-cdn-mdstrm-com.akamaized.net&proto=https
-#EXTINF:-1,REG- AZTECA 7
-https://tvazteca-live-cdn-mdstrm-com.akamaized.net/live-stream-gdai/linear/hls/pa/event/PNEbbcJZRAaP4wDlQMW2LA/stream/ecf342fd-0e98-4b20-abc6-fd36824958bb:TUL/variant/9d262b9df379dfef3c9a8cd4357be0e6/bandwidth/712800.m3u8?es=tvazteca-live-cdn-mdstrm-com.akamaized.net&proto=https
 #EXTINF:-1,REG- AZTECA UNO
 http://cdiplus.org:8080/4hEAANDQkR/eIreUxbMj6/81753
 #EXTINF:-1,REG- PERU LATINA
