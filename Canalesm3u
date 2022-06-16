@@ -6,8 +6,10 @@ http://190.83.119.67:8000/play/a0p8/index.m3u8
 http://190.83.119.67:8000/play/a0s3/index.m3u8
 #EXTINF:-1,CARTOONITO
 http://190.83.119.67:8000/play/a0pa/index.m3u8
-#EXTINF:-1,Claro Sports SD
+#EXTINF:-1,Claro Sports
 http://190.83.119.67:8000/play/a0ra/index.m3u8
+#EXTINF:-1,Claro Sports
+http://190.83.119.67:8000/play/a0o2/index.m3u8
 #EXTINF:-1,REG- ESPN
 http://190.83.119.67:8000/play/a0se/index.m3u8
 #EXTINF:-1,REG- ESPN HD
@@ -88,6 +90,10 @@ http://hispanotv.net:8080/ADOLFO1234/ADOLFO1234/151766
 http://iptvplay.xyz:8080/Rodrigo2022/2022Rodrigo/57773
 #EXTINF:-1,REG- TELEMUNDO OK 6
 http://iptvplay.xyz:8080/Rodrigo2022/2022Rodrigo/57775
+#EXTINF:-1,REG- CANAL CLARO
+http://190.83.119.67:8000/play/a0oo/index.m3u8
+#EXTINF:-1,REG- CLARO MUSICA
+http://190.83.119.67:8000/play/a0re/index.m3u8
 #EXTINF:-1,REG- LAS ESTRELLAS
 http://45.71.185.142:8500/play/a01m
 #EXTINF:-1,REG- LAS ESTRELLAS
