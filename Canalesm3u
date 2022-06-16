@@ -1,4 +1,6 @@
 #EXTINF:-1,CARTOON NETWORK
+http://190.83.119.67:8000/play/a0op/index.m3u8
+#EXTINF:-1,CARTOON NETWORK
 http://190.83.119.67:8000/play/a0p8/index.m3u8
 #EXTINF:-1,TOONCATS
 http://190.83.119.67:8000/play/a0s3/index.m3u8
@@ -54,6 +56,8 @@ http://45.71.185.142:8500/play/a02z
 http://190.83.119.67:8000/play/a0sq/index.m3u8
 #EXTINF:-1,REG- TNT
 http://200.24.132.99:8000/play/a01n
+#EXTINF:-1,REG- AMC
+http://190.83.119.67:8000/play/a0q8/index.m3u8
 #EXTINF:-1,REG- A&E
 http://190.83.119.67:8000/play/a0q7/index.m3u8
 #EXTINF:-1,REG- A&E
@@ -70,6 +74,10 @@ http://45.71.185.142:8500/play/a01a
 http://200.24.132.99:8000/play/a01z
 #EXTINF:-1,REG- UNIVERSAL
 http://190.83.119.67:8000/play/a0q2/index.m3u8
+#EXTINF:-1,REG- UNIVERSAL PREMIER
+http://190.83.119.67:8000/play/a0ui/index.m3u8
+#EXTINF:-1,REG- UNIVERSAL COMEDIA
+http://190.83.119.67:8000/play/a0t1/index.m3u8
 #EXTINF:-1,REG- TELEMUNDO OK 1
 http://hispanotv.net:8080/Fabio123/Fabio123/151766
 #EXTINF:-1,REG- TELEMUNDO OK 2
@@ -106,7 +114,5 @@ http://cdiplus.org:8080/4hEAANDQkR/eIreUxbMj6/22616
 http://cdiplus.org:8080/4hEAANDQkR/eIreUxbMj6/19007
 #EXTINF:-1,REG- PERU AMERICA 1
 http://cdiplus.org:8080/4hEAANDQkR/eIreUxbMj6/22145
-#EXTINF:-1,REG- PERU ESPN
-http://cdiplus.org:8080/4hEAANDQkR/eIreUxbMj6/1194938
 #EXTINF:-1,ESTRELLA TV
 https://estrellatv-roku.amagi.tv/playlist.m3u8
