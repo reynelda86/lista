@@ -1,3 +1,17 @@
+#EXTINF:-1,REG- CARTOON NETWORK
+http://45.169.148.19:8000/play/a0yy/index.m3u8
+#EXTINF:-1,REG- CARTOON NETWORK
+http://190.83.119.67:8000/play/a0p8/index.m3u8
+#EXTINF:-1,REG- CARTOON NETWORK
+http://45.71.185.142:8500/play/a00f
+#EXTINF:-1,REG- CARTOON NETWORK
+http://200.24.132.99:8000/play/a01m
+#EXTINF:-1,REG- CARTOON NETWORK
+http://190.4.0.200:8000/play/a01b/index.m3u8
+#EXTINF:-1,REG- CARTOON NETWORK 2
+http://hispanotv.net:8080/ADOLFO1234/ADOLFO1234/151330
+#EXTINF:-1,TOONCATS
+http://190.4.0.200:8000/play/a02t/index.m3u8
 #EXTINF:-1,REG- TELEMUNDO OK 1
 http://hispanotv.net:8080/Fabio123/Fabio123/151766
 #EXTINF:-1,REG- TELEMUNDO OK 2
@@ -10,36 +24,46 @@ http://iptvplay.xyz:8080/Rodrigo2022/2022Rodrigo/57773
 http://iptvplay.xyz:8080/Rodrigo2022/2022Rodrigo/57775
 #EXTINF:-1,Claro Sports SD
 http://190.4.0.200:8000/play/a02b/index.m3u8
+#EXTINF:-1,Claro Sports SD
+http://190.83.119.67:8000/play/a0on/index.m3u8
 #EXTINF:-1,REG- ESPN DEPORTES
 http://hispanotv.net:8080/Fabio123/Fabio123/140228
 #EXTINF:-1,REG- ESPN
 http://200.24.132.99:8000/play/a021
 #EXTINF:-1,REG- ESPN
 http://200.24.132.99:8000/play/a02m
+#EXTINF:-1,REG- Fox Sports
+http://45.169.148.19:8000/play/a0yp/index.m3u8
+#EXTINF:-1,REG- Fox Sports 2
+http://190.83.119.67:8000/play/a0sp/index.m3u8
 #EXTINF:-1,REG- Fox Sports 2
 http://45.71.185.142:8500/play/a01n
 #EXTINF:-1,REG- HBO
+http://45.169.148.19:8000/play/a0yw/index.m3u8
+#EXTINF:-1,REG- HBO
+http://190.83.119.67:8000/play/a0or/index.m3u8
+#EXTINF:-1,REG- HBO
 http://45.71.185.142:8500/play/a02v
-#EXTINF:-1,REG- CARTOON NETWORK
-http://45.71.185.142:8500/play/a00f
-#EXTINF:-1,REG- CARTOON NETWORK
-http://200.24.132.99:8000/play/a01m
-#EXTINF:-1,REG- CARTOON NETWORK
-http://190.4.0.200:8000/play/a01b/index.m3u8
-#EXTINF:-1,REG- CARTOON NETWORK 2
-http://hispanotv.net:8080/ADOLFO1234/ADOLFO1234/151330
-#EXTINF:-1,TOONCATS
-http://190.4.0.200:8000/play/a02t/index.m3u8
+#EXTINF:-1,REG- HBO 2
+http://190.83.119.67:8000/play/a0os/index.m3u8
+#EXTINF:-1,REG- PARAMOUNT
+http://190.83.119.67:8000/play/a0t9/index.m3u8
 #EXTINF:-1,REG- STAR CHANNEL
 http://190.4.0.200:8000/play/a03e/index.m3u8
+#EXTINF:-1,REG- STAR CHANNEL
+http://190.83.119.67:8000/play/a0si/index.m3u8
 #EXTINF:-1,REG- HBO
 http://190.4.0.200:8000/play/a03t/index.m3u8
 #EXTINF:-1,REG- HBO 2
 http://190.4.0.200:8000/play/a03u/index.m3u8
 #EXTINF:-1,REG- FX
+http://190.83.119.67:8000/play/a0qa/index.m3u8
+#EXTINF:-1,REG- FX
 http://200.24.132.99:8000/play/a02r
 #EXTINF:-1,REG- FX
 http://45.71.185.142:8500/play/a030
+#EXTINF:-1,REG- CINECANAL
+http://45.169.148.19:8000/play/a0yv/index.m3u8
 #EXTINF:-1,REG- CINECANAL
 http://45.71.185.142:8500/play/a005
 #EXTINF:-1,REG- CINECANAL
@@ -48,6 +72,8 @@ http://200.24.132.99:8000/play/a01f
 http://200.24.132.99:8000/play/a02n
 #EXTINF:-1,REG- CINEMAX
 http://45.71.185.142:8500/play/a02w
+#EXTINF:-1,REG- SPACE
+http://45.169.148.19:8000/play/a12j/index.m3u8
 #EXTINF:-1,REG- SPACE
 http://200.24.132.99:8000/play/a02q
 #EXTINF:-1,REG- SPACE
@@ -59,13 +85,19 @@ http://200.24.132.99:8000/play/a025
 #EXTINF:-1,REG- A&E
 http://45.71.185.142:8500/play/a01i
 #EXTINF:-1,REG- WARNER TV
+http://190.83.119.67:8000/play/a0tk/index.m3u8
+#EXTINF:-1,REG- WARNER TV
 http://45.71.185.142:8500/play/a01a
 #EXTINF:-1,REG- WARNER TV
 http://200.24.132.99:8000/play/a01z
+#EXTINF:-1,REG- WARNER TV
+http://190.83.119.67:8000/play/a0q7/index.m3u8
 #EXTINF:-1,REG- UNIVERSAL
 http://200.24.132.99:8000/play/a01g
 #EXTINF:-1,REG- LAS ESTRELLAS
 http://45.71.185.142:8500/play/a01m
+#EXTINF:-1,REG- LAS ESTRELLAS
+http://45.169.148.19:8000/play/a128/index.m3u8
 #EXTINF:-1,REG- LAS ESTRELLAS
 http://cdiplus.org:8080/4hEAANDQkR/eIreUxbMj6/81836
 #EXTINF:-1,REG- LAS ESTRELLAS
@@ -78,6 +110,8 @@ http://cdiplus.org:8080/4hEAANDQkR/eIreUxbMj6/81832
 http://cdiplus.org:8080/4hEAANDQkR/eIreUxbMj6/81753
 #EXTINF:-1,REG- AZTECA
 http://190.4.0.200:8000/play/a02o/index.m3u8
+#EXTINF:-1,REG- AZTECA
+http://190.83.119.67:8000/play/a0rq/index.m3u8
 #EXTINF:-1,REG- PERU LATINA
 http://177.53.152.186:8000/play/a019/index.m3u8
 #EXTINF:-1,REG- PERU LATINA 2
