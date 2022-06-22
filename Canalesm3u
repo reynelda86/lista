@@ -86,6 +86,8 @@ http://190.83.119.67:8000/play/a0q2/index.m3u8
 http://190.83.119.67:8000/play/a0ui/index.m3u8
 #EXTINF:-1,REG- UNIVERSAL COMEDIA
 http://190.83.119.67:8000/play/a0t1/index.m3u8
+#EXTINF:-1,REG- TELEMUNDO OK
+http://cdiplus.org:8080/s9EPQfFfXq/ml1WCEaEeL/19339
 #EXTINF:-1,REG- TELEMUNDO OK 1
 http://hispanotv.net:8080/Fabio123/Fabio123/151766
 #EXTINF:-1,REG- TELEMUNDO OK 2
