@@ -11,6 +11,8 @@ http://190.83.119.67:8000/play/a0ra/index.m3u8
 #EXTINF:-1,Claro Sports
 http://190.83.119.67:8000/play/a0o2/index.m3u8
 #EXTINF:-1,REG- ESPN
+http://45.153.165.190:8000/play/31/index.m3u8
+#EXTINF:-1,REG- ESPN
 http://190.83.119.67:8000/play/a0se/index.m3u8
 #EXTINF:-1,REG- ESPN HD
 http://190.83.119.67:8000/play/a0t4/index.m3u8
@@ -28,6 +30,8 @@ http://45.71.185.142:8500/play/a02v
 http://190.83.119.67:8000/play/a0os/index.m3u8
 #EXTINF:-1,REG- PARAMOUNT
 http://190.83.119.67:8000/play/a0t9/index.m3u8
+#EXTINF:-1,REG- STAR CHANNEL 
+http://45.5.119.202:8000/play/a01e/index.m3u8
 #EXTINF:-1,REG- STAR CHANNEL
 http://190.83.119.67:8000/play/a0si/index.m3u8
 #EXTINF:-1,REG- FX
@@ -66,6 +70,8 @@ http://190.83.119.67:8000/play/a0q7/index.m3u8
 http://200.24.132.99:8000/play/a025
 #EXTINF:-1,REG- A&E
 http://45.71.185.142:8500/play/a01i
+#EXTINF:-1,REG- WARNER TV
+http://45.153.165.190:8000/play/a04w/index.m3u8
 #EXTINF:-1,REG- WARNER TV
 http://190.83.119.67:8000/play/a0tk/index.m3u8
 #EXTINF:-1,REG- WARNER TV
@@ -117,8 +123,14 @@ http://177.53.152.186:8000/play/a019/index.m3u8
 #EXTINF:-1,REG- PERU LATINA 2
 http://cdiplus.org:8080/4hEAANDQkR/eIreUxbMj6/22616
 #EXTINF:-1,REG- PERU AMERICA
-http://cdiplus.org:8080/4hEAANDQkR/eIreUxbMj6/19007
+http://45.177.109.47:58001/play/a075/index.m3u8
 #EXTINF:-1,REG- PERU AMERICA 1
+http://cdiplus.org:8080/s9EPQfFfXq/ml1WCEaEeL/1194929
+#EXTINF:-1,REG- PERU AMERICA 2
+http://cdiplus.org:8080/s9EPQfFfXq/ml1WCEaEeL/1194928
+#EXTINF:-1,REG- PERU AMERICA 3
+http://cdiplus.org:8080/4hEAANDQkR/eIreUxbMj6/19007
+#EXTINF:-1,REG- PERU AMERICA 4
 http://cdiplus.org:8080/4hEAANDQkR/eIreUxbMj6/22145
 #EXTINF:-1,ESTRELLA TV
 https://estrellatv-roku.amagi.tv/playlist.m3u8
