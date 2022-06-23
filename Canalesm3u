@@ -88,6 +88,8 @@ http://190.83.119.67:8000/play/a0ui/index.m3u8
 http://190.83.119.67:8000/play/a0t1/index.m3u8
 #EXTINF:-1,REG- TELEMUNDO OK
 http://cdiplus.org:8080/s9EPQfFfXq/ml1WCEaEeL/19339
+#EXTINF:-1,REG- TELEMUNDO OK
+
 #EXTINF:-1,REG- TELEMUNDO OK 1
 http://hispanotv.net:8080/Fabio123/Fabio123/151766
 #EXTINF:-1,REG- TELEMUNDO OK 2
@@ -124,8 +126,6 @@ http://190.83.119.67:8000/play/a0rq/index.m3u8
 http://177.53.152.186:8000/play/a019/index.m3u8
 #EXTINF:-1,REG- PERU LATINA 2
 http://cdiplus.org:8080/4hEAANDQkR/eIreUxbMj6/22616
-#EXTINF:-1,REG- PERU AMERICA
-http://45.177.109.47:58001/play/a075/index.m3u8
 #EXTINF:-1,REG- PERU AMERICA 1
 http://cdiplus.org:8080/s9EPQfFfXq/ml1WCEaEeL/1194929
 #EXTINF:-1,REG- PERU AMERICA 2
