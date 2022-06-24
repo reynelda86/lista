@@ -1,4 +1,8 @@
 #EXTINF:-1,CARTOON NETWORK
+http://cdiplus.org:8080/s9EPQfFfXq/ml1WCEaEeL/1165175
+#EXTINF:-1,CARTOON NETWORK
+http://cdiplus.org:8080/s9EPQfFfXq/ml1WCEaEeL/81725
+#EXTINF:-1,CARTOON NETWORK
 http://190.83.119.67:8000/play/a0op/index.m3u8
 #EXTINF:-1,CARTOON NETWORK
 http://190.83.119.67:8000/play/a0p8/index.m3u8
@@ -10,6 +14,8 @@ http://190.83.119.67:8000/play/a0pa/index.m3u8
 http://190.83.119.67:8000/play/a0ra/index.m3u8
 #EXTINF:-1,Claro Sports
 http://190.83.119.67:8000/play/a0o2/index.m3u8
+#EXTINF:-1,REG- ESPN
+http://cdiplus.org:8080/s9EPQfFfXq/ml1WCEaEeL/1165195
 #EXTINF:-1,REG- ESPN
 http://45.153.165.190:8000/play/31/index.m3u8
 #EXTINF:-1,REG- ESPN
@@ -86,10 +92,12 @@ http://190.83.119.67:8000/play/a0q2/index.m3u8
 http://190.83.119.67:8000/play/a0ui/index.m3u8
 #EXTINF:-1,REG- UNIVERSAL COMEDIA
 http://190.83.119.67:8000/play/a0t1/index.m3u8
+#EXTINF:-1,REG- UNIVISION
+https://v-ny.theus6tv.tk/hls/41.1/playlist.m3u8
+#EXTINF:-1,REG- TELEMUNDO OK
+https://v-ny.theus6tv.tk/hls/47.1/playlist.m3u8
 #EXTINF:-1,REG- TELEMUNDO OK
 http://cdiplus.org:8080/s9EPQfFfXq/ml1WCEaEeL/19339
-#EXTINF:-1,REG- TELEMUNDO OK
-
 #EXTINF:-1,REG- TELEMUNDO OK 1
 http://hispanotv.net:8080/Fabio123/Fabio123/151766
 #EXTINF:-1,REG- TELEMUNDO OK 2
@@ -123,9 +131,15 @@ http://190.4.0.200:8000/play/a02o/index.m3u8
 #EXTINF:-1,REG- AZTECA
 http://190.83.119.67:8000/play/a0rq/index.m3u8
 #EXTINF:-1,REG- PERU LATINA
+http://cdiplus.org:8080/s9EPQfFfXq/ml1WCEaEeL/19005
+#EXTINF:-1,REG- PERU LATINA
+http://cdiplus.org:8080/s9EPQfFfXq/ml1WCEaEeL/22616
+#EXTINF:-1,REG- PERU LATINA
 http://177.53.152.186:8000/play/a019/index.m3u8
 #EXTINF:-1,REG- PERU LATINA 2
 http://cdiplus.org:8080/4hEAANDQkR/eIreUxbMj6/22616
+#EXTINF:-1,REG- PERU AMERICA
+http://cdiplus.org:8080/s9EPQfFfXq/ml1WCEaEeL/19007
 #EXTINF:-1,REG- PERU AMERICA 1
 http://cdiplus.org:8080/s9EPQfFfXq/ml1WCEaEeL/1194929
 #EXTINF:-1,REG- PERU AMERICA 2
