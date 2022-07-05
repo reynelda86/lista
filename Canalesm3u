@@ -1,5 +1,7 @@
 #EXTINF:-1,CARTOON NETWORK
 http://cdiplus.org:8080/s9EPQfFfXq/ml1WCEaEeL/1165175
+#EXTINF:-1,Cartoon Network
+http://45.225.47.234:41/play/a0c8/index.m3u8
 #EXTINF:-1,CARTOON NETWORK
 http://cdiplus.org:8080/s9EPQfFfXq/ml1WCEaEeL/81725
 #EXTINF:-1,CARTOON NETWORK
@@ -28,6 +30,10 @@ http://190.83.119.67:8000/play/a0t6/index.m3u8
 http://190.83.119.67:8000/play/a0sp/index.m3u8
 #EXTINF:-1,REG- Fox Sports 2 HD
 http://190.83.119.67:8000/play/a0sp/index.m3u8
+#EXTINF:-1,HBO
+http://168.232.168.242:8089/play/a057/index.m3u8
+#EXTINF:-1,HBO XTREME
+http://200.60.18.178:21214/play/a09b/index.m3u8
 #EXTINF:-1,REG- HBO HD
 http://190.83.119.67:8000/play/a0or/index.m3u8
 #EXTINF:-1,REG- HBO
@@ -138,6 +144,10 @@ http://cdiplus.org:8080/s9EPQfFfXq/ml1WCEaEeL/22616
 http://177.53.152.186:8000/play/a019/index.m3u8
 #EXTINF:-1,REG- PERU LATINA 2
 http://cdiplus.org:8080/4hEAANDQkR/eIreUxbMj6/22616
+#EXTINF:-1,Telecentro
+http://stream2.grupotelemicro.com:8081/live/13/chunks.m3u8
+#EXTINF:-1,America TV PERU
+http://181.64.11.222:8000/play/a01i
 #EXTINF:-1,REG- PERU AMERICA
 http://cdiplus.org:8080/s9EPQfFfXq/ml1WCEaEeL/19007
 #EXTINF:-1,REG- PERU AMERICA 1
