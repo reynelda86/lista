@@ -433,8 +433,24 @@ http://kp-thebestiptv.com:8080/Galindo21/5anJqAHmvb/60985
 http://kp-thebestiptv.com:8080/Galindo21/5anJqAHmvb/63965
 #EXTINF:-1 group-title="LISTA NUEVA",Tooncast
 http://kp-thebestiptv.com:8080/Galindo21/5anJqAHmvb/61383
+#EXTINF:-1 group-title="LISTA NUEVA 2",FX
+http://190.61.102.67:31589/play/a05z/index.m3u8
+#EXTINF:-1 group-title="LISTA NUEVA 2",CANAL DE LAS ESTRELLAS
+http://190.61.102.67:31589/play/a00g/index.m3u8
+#EXTINF:-1 group-title="LISTA NUEVA 2",Universal
+http://190.61.102.67:31589/play/a03d/index.m3u8
+#EXTINF:-1 group-title="LISTA NUEVA 2",Space MX
+http://190.61.102.67:31589/play/a04x/index.m3u8
+#EXTINF:-1 group-title="LISTA NUEVA 2",ESPN
+http://190.61.102.67:31589/play/a064/index.m3u8
+#EXTINF:-1 group-title="LISTA NUEVA 2",ESPN 2
+http://190.61.102.67:31589/play/a063/index.m3u8
+#EXTINF:-1 group-title="LISTA NUEVA 2",ESPN3
+http://190.61.102.67:31589/play/a03n/index.m3u8
+#EXTINF:-1 group-title="LISTA NUEVA 2",TUDN
+http://190.61.102.67:31589/play/a08j/index.m3u8
 
-http://kp-thebestiptv.com:8080/Galindo21/5anJqAHmvb/63964
+
 
 
 
