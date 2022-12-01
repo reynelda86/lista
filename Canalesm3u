@@ -7,19 +7,19 @@ http://streamgo.vip:8008/nando/nando/147255
 http://streamgo.vip:8008/nando/nando/147257
 #EXTINF:-1 group-title="CINE LISTA 2",HBO
 http://streamgo.vip:8008/nando/nando/147272
-
+#EXTINF:-1 group-title="CINE LISTA 2",CINECANAL
+http://streamgo.vip:8008/nando/nando/147284
 
 #EXTINF:-1 group-title="CINE LISTA 3",CINEMAX
 http://megatitan.net:8080/mattfelipe/9wamh4g92v/15128
-
-#EXTINF:-1 group-title="LISTA NUEVA",HBO
+#EXTINF:-1 group-title="CINE LISTA 3",HBO
 http://megatitan.net:8080/mattfelipe/9wamh4g92v/1799
-#EXTINF:-1 group-title="LISTA NUEVA",HBO
+#EXTINF:-1 group-title="CINE LISTA 3",HBO
 http://megatitan.net:8080/mattfelipe/9wamh4g92v/1856
-#EXTINF:-1 group-title="LISTA NUEVA",CINECANAL
-http://streamgo.vip:8008/nando/nando/147284
-#EXTINF:-1 group-title="LISTA NUEVA",CINECANAL
+#EXTINF:-1 group-title="CINE LISTA 3",CINECANAL
 http://megatitan.net:8080/mattfelipe/9wamh4g92v/32215
+
+
 #EXTINF:-1 group-title="LISTA NUEVA",UNIVERSAL CHANEL
 http://streamgo.vip:8008/nando/nando/147299
 #EXTINF:-1 group-title="LISTA NUEVA",FX
