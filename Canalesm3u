@@ -37,12 +37,34 @@ http://megatitan.net:8080/mattfelipe/9wamh4g92v/119680
 
 #EXTINF:-1 group-title="DEPORTES LISTA 5",ESPN ARG
 http://megatitan.net:8080/mattfelipe/9wamh4g92v/115725
+#EXTINF:-1 group-title="DEPORTES LISTA 5",DIRECTV SPORT
+http://megatitan.net:8080/mattfelipe/9wamh4g92v/233833
+#EXTINF:-1 group-title="DEPORTES LISTA 5",AFIZZIONADOS
+http://megatitan.net:8080/mattfelipe/9wamh4g92v/451932
+#EXTINF:-1 group-title="DEPORTES LISTA 5",ESPN 1
+http://megatitan.net:8080/mattfelipe/9wamh4g92v/24637
+
+#EXTINF:-1 group-title="MEXICO LISTA 5",AZTECA 7
+http://megatitan.net:8080/mattfelipe/9wamh4g92v/24033
+
+
 
 
 #EXTINF:-1 group-title="CINE LISTA 3",HBO PLUS
 http://kp-thebestiptv.com:8080/Galindo21/5anJqAHmvb/64059
+#EXTINF:-1 group-title="CINE LISTA 3",Universal Cinema
+http://kp-thebestiptv.com:8080/Galindo21/5anJqAHmvb/60980
 
 
+
+#EXTINF:-1 group-title="DEPORTES LISTA 3",Fox Sports
+http://kp-thebestiptv.com:8080/Galindo21/5anJqAHmvb/60988
+#EXTINF:-1 group-title="DEPORTES LISTA 3",Fox Sports
+http://kp-thebestiptv.com:8080/Galindo21/5anJqAHmvb/63964
+#EXTINF:-1 group-title="DEPORTES LISTA 3",Fox Sports 2
+http://kp-thebestiptv.com:8080/Galindo21/5anJqAHmvb/60985
+#EXTINF:-1 group-title="DEPORTES LISTA 3",Fox Sports 2
+http://kp-thebestiptv.com:8080/Galindo21/5anJqAHmvb/63965
 #EXTINF:-1 group-title="DEPORTES LISTA 3",NBA ON ESPN
 http://kp-thebestiptv.com:8080/Galindo21/5anJqAHmvb/65907
 #EXTINF:-1 group-title="DEPORTES LISTA 3",TUDN
@@ -54,41 +76,28 @@ http://kp-thebestiptv.com:8080/Galindo21/5anJqAHmvb/74909
 #EXTINF:-1 group-title="PERU LISTA 3",AMERICA PERU
 http://kp-thebestiptv.com:8080/Galindo21/5anJqAHmvb/42952
 
-
-
-
-#EXTINF:-1 group-title="LISTA NUEVA",DIRECTV SPORT
-http://megatitan.net:8080/mattfelipe/9wamh4g92v/233833
-#EXTINF:-1 group-title="LISTA NUEVA",AZTECA 7
-http://megatitan.net:8080/mattfelipe/9wamh4g92v/24033
-#EXTINF:-1 group-title="LISTA NUEVA",AFIZZIONADOS
-http://megatitan.net:8080/mattfelipe/9wamh4g92v/451932
-#EXTINF:-1 group-title="LISTA NUEVA",ESPN 1
-http://megatitan.net:8080/mattfelipe/9wamh4g92v/24637
-#EXTINF:-1 group-title="LISTA NUEVA",TELETICA
-http://kp-thebestiptv.com:8080/Galindo21/5anJqAHmvb/62387
-#EXTINF:-1 group-title="LISTA NUEVA",Universal Cinema
-http://kp-thebestiptv.com:8080/Galindo21/5anJqAHmvb/60980
-#EXTINF:-1 group-title="LISTA NUEVA",Fox Sports
-http://kp-thebestiptv.com:8080/Galindo21/5anJqAHmvb/60988
-#EXTINF:-1 group-title="LISTA NUEVA",Fox Sports
-http://kp-thebestiptv.com:8080/Galindo21/5anJqAHmvb/63964
-#EXTINF:-1 group-title="LISTA NUEVA",Fox Sports 2
-http://kp-thebestiptv.com:8080/Galindo21/5anJqAHmvb/60985
-#EXTINF:-1 group-title="LISTA NUEVA",Fox Sports 2
-http://kp-thebestiptv.com:8080/Galindo21/5anJqAHmvb/63965
-#EXTINF:-1 group-title="LISTA NUEVA",Tooncast
+#EXTINF:-1 group-title="INFANTIL LISTA 3",Tooncast
 http://kp-thebestiptv.com:8080/Galindo21/5anJqAHmvb/61383
-#EXTINF:-1 group-title="LISTA NUEVA 2",UNIVISION
+
+#EXTINF:-1 group-title="LATINO USA LISTA 3",UNIVISION
 http://kp-thebestiptv.com:8080/Galindo21/5anJqAHmvb/3
-#EXTINF:-1 group-title="LISTA NUEVA 2",FX
+
+
+
+#EXTINF:-1 group-title="CINE LISTA 2",FX
 http://190.61.102.67:31589/play/a05z/index.m3u8
-#EXTINF:-1 group-title="LISTA NUEVA 2",CANAL DE LAS ESTRELLAS
-http://190.61.102.67:31589/play/a00g/index.m3u8
-#EXTINF:-1 group-title="LISTA NUEVA 2",Universal
+#EXTINF:-1 group-title="CINE LISTA 2",Universal
 http://190.61.102.67:31589/play/a03d/index.m3u8
-#EXTINF:-1 group-title="LISTA NUEVA 2",Space MX
+#EXTINF:-1 group-title="CINE LISTA 2",Space MX
 http://190.61.102.67:31589/play/a04x/index.m3u8
+
+
+
+#EXTINF:-1 group-title="MEXICO LISTA 2",CANAL DE LAS ESTRELLAS
+http://190.61.102.67:31589/play/a00g/index.m3u8
+
+
+
 #EXTINF:-1 group-title="LISTA NUEVA 2",ESPN
 http://190.61.102.67:31589/play/a064/index.m3u8
 #EXTINF:-1 group-title="LISTA NUEVA 2",ESPN 2
