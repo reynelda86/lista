@@ -7,6 +7,18 @@ http://777back.xyz:8080/restreamUSA/tmDYEuwqAs/100080
 
 #EXTINF:-1 group-title="LATINO USA",TELEMUNDO
 http://777back.xyz:8080/restreamUSA/tmDYEuwqAs/207817
+#EXTINF:-1 group-title="LATINO USA",GALAVISION
+http://777back.xyz:8080/restreamUSA/tmDYEuwqAs/264084
+#EXTINF:-1 group-title="LATINO USA",TELEMUNDO NEW YORK
+http://777back.xyz:8080/restreamUSA/tmDYEuwqAs/264085
+#EXTINF:-1 group-title="LATINO USA",TELEMUNDO MIAMI
+http://777back.xyz:8080/restreamUSA/tmDYEuwqAs/264086
+#EXTINF:-1 group-title="LATINO USA",TELEMUNDO LOS ANGELES
+http://777back.xyz:8080/restreamUSA/tmDYEuwqAs/264087
+#EXTINF:-1 group-title="LATINO USA",UNIMAS
+http://777back.xyz:8080/restreamUSA/tmDYEuwqAs/264088
+#EXTINF:-1 group-title="LATINO USA",UNIVISION
+http://777back.xyz:8080/restreamUSA/tmDYEuwqAs/264089
 
 #EXTINF:-1 group-title="CINE",UNIVERSAL TV
 http://777back.xyz:8080/restreamUSA/tmDYEuwqAs/207779
@@ -16,6 +28,17 @@ http://777back.xyz:8080/restreamUSA/tmDYEuwqAs/207752
 http://777back.xyz:8080/restreamUSA/tmDYEuwqAs/28499
 #EXTINF:-1 group-title="CINE",MULTIPREMIER
 http://777back.xyz:8080/restreamUSA/tmDYEuwqAs/84937
+#EXTINF:-1 group-title="CINE",TNT
+http://777back.xyz:8080/restreamUSA/tmDYEuwqAs/97
+#EXTINF:-1 group-title="CINE",SPACE
+http://777back.xyz:8080/restreamUSA/tmDYEuwqAs/28497
+#EXTINF:-1 group-title="CINE",CINECANAL
+http://777back.xyz:8080/restreamUSA/tmDYEuwqAs/60
+#EXTINF:-1 group-title="CINE",STUDIO UNIVERSAL
+http://777back.xyz:8080/restreamUSA/tmDYEuwqAs/90
+#EXTINF:-1 group-title="CINE",STAR CHANNEL
+http://777back.xyz:8080/restreamUSA/tmDYEuwqAs/58344
+
 
 #EXTINF:-1 group-title="DEPORTRES",AFIZZIONADOS
 http://777back.xyz:8080/restreamUSA/tmDYEuwqAs/68413
@@ -29,6 +52,10 @@ http://777back.xyz:8080/restreamUSA/tmDYEuwqAs/207805
 http://777back.xyz:8080/restreamUSA/tmDYEuwqAs/73368
 #EXTINF:-1 group-title="DEPORTRES",SKY SPORTS
 http://777back.xyz:8080/restreamUSA/tmDYEuwqAs/145252
+#EXTINF:-1 group-title="DEPORTRES",SKY SPORTS FOOTBALL
+http://777back.xyz:8080/restreamUSA/tmDYEuwqAs/264030
+#EXTINF:-1 group-title="DEPORTRES",SKY SPORTS Premier League
+http://777back.xyz:8080/restreamUSA/tmDYEuwqAs/264043
 #EXTINF:-1 group-title="DEPORTRES",DIRECTV SPORTS 2
 http://777back.xyz:8080/restreamUSA/tmDYEuwqAs/145191
 #EXTINF:-1 group-title="DEPORTRES",TNT USA
@@ -37,8 +64,19 @@ http://777back.xyz:8080/restreamUSA/tmDYEuwqAs/145265
 http://777back.xyz:8080/restreamUSA/tmDYEuwqAs/160605
 #EXTINF:-1 group-title="DEPORTRES",FOX DEPORTES
 http://777back.xyz:8080/restreamUSA/tmDYEuwqAs/128962
+#EXTINF:-1 group-title="DEPORTRES",FOX DEPORTES
+http://777back.xyz:8080/restreamUSA/tmDYEuwqAs/263974
 #EXTINF:-1 group-title="DEPORTRES",ESPN DEPORTES
 http://777back.xyz:8080/restreamUSA/tmDYEuwqAs/263970
+#EXTINF:-1 group-title="DEPORTRES",NBA
+http://777back.xyz:8080/restreamUSA/tmDYEuwqAs/113554
+#EXTINF:-1 group-title="DEPORTRES",NBA
+http://777back.xyz:8080/restreamUSA/tmDYEuwqAs/113556
+#EXTINF:-1 group-title="DEPORTRES",NBA TV
+http://777back.xyz:8080/restreamUSA/tmDYEuwqAs/263998
+#EXTINF:-1 group-title="DEPORTRES",TUDN USA
+http://777back.xyz:8080/restreamUSA/tmDYEuwqAs/264026
+
 
 #EXTINF:-1 group-title="CANALES 24/7",Cinema Disney Pixar
 http://777back.xyz:8080/restreamUSA/tmDYEuwqAs/111889
@@ -62,6 +100,14 @@ http://777back.xyz:8080/restreamUSA/tmDYEuwqAs/197641
 http://777back.xyz:8080/restreamUSA/tmDYEuwqAs/197677
 #EXTINF:-1 group-title="CANALES 24/7",TOM Y JERRY
 http://777back.xyz:8080/restreamUSA/tmDYEuwqAs/197682
+
+#EXTINF:-1 group-title="MEXICO",AZTECA 7
+http://777back.xyz:8080/restreamUSA/tmDYEuwqAs/160995
+#EXTINF:-1 group-title="MEXICO",LAS ESTRELLAS
+http://777back.xyz:8080/restreamUSA/tmDYEuwqAs/264396
+
+
+
 
 #EXTINF:-1 group-title="PERU LISTA 1",AMERICA PERU
 http://satline.xyz:8080/live/9271659859001279/3361659859001279/10774.ts
