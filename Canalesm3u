@@ -647,9 +647,6 @@ http://streamgo.vip:8008/nando/nando/147327
 #EXTINF:-1 group-title="CINE LISTA 4",CINE LATINO
 #EXTINF:-1 group-title="PELICULAS LISTA 5",La patrulla canina: La película (2021)
 http://streamgo.vip:8008/movie/nando/nando/105197.mkv
-
-
-
 #EXTINF:-1 group-title="CINE LISTA 5",CINEMAX
 http://megatitan.net:8080/mattfelipe/9wamh4g92v/15128
 #EXTINF:-1 group-title="CINE LISTA 5",HBO
@@ -662,15 +659,12 @@ http://megatitan.net:8080/mattfelipe/9wamh4g92v/32215
 http://megatitan.net:8080/mattfelipe/9wamh4g92v/102713
 #EXTINF:-1 group-title="CINE LISTA 5",TNT
 http://megatitan.net:8080/mattfelipe/9wamh4g92v/24131
-
 #EXTINF:-1 group-title="PERU LISTA 5",AMERICA PERU
 http://megatitan.net:8080/mattfelipe/9wamh4g92v/277
 #EXTINF:-1 group-title="PERU LISTA 5",AMERICA PERU
 http://megatitan.net:8080/mattfelipe/9wamh4g92v/276
 #EXTINF:-1 group-title="PERU LISTA 5",AMERICA PERU
 http://megatitan.net:8080/mattfelipe/9wamh4g92v/119680
-
-
 #EXTINF:-1 group-title="DEPORTES LISTA 5",ESPN ARG
 http://megatitan.net:8080/mattfelipe/9wamh4g92v/115725
 #EXTINF:-1 group-title="DEPORTES LISTA 5",DIRECTV SPORT
@@ -679,14 +673,10 @@ http://megatitan.net:8080/mattfelipe/9wamh4g92v/233833
 http://megatitan.net:8080/mattfelipe/9wamh4g92v/451932
 #EXTINF:-1 group-title="DEPORTES LISTA 5",ESPN 1
 http://megatitan.net:8080/mattfelipe/9wamh4g92v/24637
-
 #EXTINF:-1 group-title="MEXICO LISTA 5",AZTECA 7
 http://megatitan.net:8080/mattfelipe/9wamh4g92v/24033
-
 #EXTINF:-1 group-title="PELICULAS LISTA 5",Black Adam
 http://megatitan.net:8080/movie/mattfelipe/9wamh4g92v/455746.mkv
-
-
 #EXTINF:-1 group-title="CINE LISTA 6",CINECANAL
 http://200.24.132.99:8000/play/a01f
 #EXTINF:-1 group-title="DEPORTES LISTA 6",ESPN
@@ -699,10 +689,5 @@ http://200.24.132.99:8000/play/a021
 http://200.24.132.99:8000/play/a02w
 #EXTINF:-1 group-title="DEPORTES LISTA 6",ESPN CO
 http://200.24.132.99:8000/play/a02m
-#EXTINF:-1 group-title="PELICULAS",Black Adam
-http://54.39.52.63/PELICULAS%20POR%20MES/NOVIEMBRE/24NOV/Black.Adam.2160p.4K-dual-lat.mkv
 #EXTINF:-1 group-title="PELICULAS",Scooby Doo Dulce O Travesura
 http://vod.tuxchannel.tv/peliculas/720/minions%20the%20rise%20of%20gru%202022.mkv
-
-
-
