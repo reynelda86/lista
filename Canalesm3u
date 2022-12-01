@@ -346,20 +346,24 @@ http://satline.xyz:8080/live/9271659859001279/3361659859001279/18733.ts
 http://satline.xyz:8080/live/9271659859001279/3361659859001279/18402.ts
 #EXTINF:-1 group-title="COLOMBIA LISTA 1",CARACOL
 http://satline.xyz:8080/live/9271659859001279/3361659859001279/18723.ts
-
-
 #EXTINF:-1 group-title="CINE LISTA 2",FX
 http://190.61.102.67:31589/play/a05z/index.m3u8
 #EXTINF:-1 group-title="CINE LISTA 2",Universal
 http://190.61.102.67:31589/play/a03d/index.m3u8
 #EXTINF:-1 group-title="CINE LISTA 2",Space MX
 http://190.61.102.67:31589/play/a04x/index.m3u8
-
-
+#EXTINF:-1 group-title="CINE LISTA 2",TNT
+http://190.61.102.67:31589/play/a018/index.m3u8
+#EXTINF:-1 group-title="CINE LISTA 2",MULTIPREMIERE
+http://190.61.102.67:31589/play/a01e/index.m3u8
+#EXTINF:-1 group-title="CINE LISTA 2",CINECANAL
+http://190.61.102.67:31589/play/a04q/index.m3u8
+#EXTINF:-1 group-title="CINE LISTA 2",CINE LATINO
+http://190.61.102.67:31589/play/a05v/index.m3u8
 #EXTINF:-1 group-title="MEXICO LISTA 2",CANAL DE LAS ESTRELLAS
 http://190.61.102.67:31589/play/a00g/index.m3u8
-
-
+#EXTINF:-1 group-title="MEXICO LISTA 2",MULTIMEDIOS
+http://190.61.102.67:31589/play/a039/index.m3u8
 #EXTINF:-1 group-title="DEPORTES LISTA 2",ESPN
 http://190.61.102.67:31589/play/a064/index.m3u8
 #EXTINF:-1 group-title="DEPORTES LISTA 2",ESPN 2
