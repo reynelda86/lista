@@ -47,7 +47,14 @@ http://megatitan.net:8080/mattfelipe/9wamh4g92v/24637
 #EXTINF:-1 group-title="MEXICO LISTA 5",AZTECA 7
 http://megatitan.net:8080/mattfelipe/9wamh4g92v/24033
 
+#EXTINF:-1 group-title="PELICULAS LISTA 5",Black Adam
+http://megatitan.net:8080/movie/mattfelipe/9wamh4g92v/455746.mkv
 
+
+
+
+#EXTINF:-1 group-title="PELICULAS LISTA 3",Black Adam
+http://kp-thebestiptv.com:8080/movie/Galindo21/5anJqAHmvb/150439.mkv
 
 
 #EXTINF:-1 group-title="CINE LISTA 3",HBO PLUS
@@ -82,6 +89,44 @@ http://kp-thebestiptv.com:8080/Galindo21/5anJqAHmvb/61383
 #EXTINF:-1 group-title="LATINO USA LISTA 3",UNIVISION
 http://kp-thebestiptv.com:8080/Galindo21/5anJqAHmvb/3
 
+#EXTINF:-1 group-title="PELICULAS LISTA 3",Scooby Doo: La Maldición del Monstruo del Lago
+http://kp-thebestiptv.com:8080/movie/Galindo21/5anJqAHmvb/2281.mp4
+#EXTINF:-1 group-title="PELICULAS LISTA 3",Scooby-Doo 3: Comienza el misterio
+http://kp-thebestiptv.com:8080/movie/Galindo21/5anJqAHmvb/2282.mp4
+#EXTINF:-1 group-title="PELICULAS LISTA 3",Lego Scooby-Doo! Fiesta en la Playa de Blowout
+http://kp-thebestiptv.com:8080/movie/Galindo21/5anJqAHmvb/3886.mp4
+#EXTINF:-1 group-title="PELICULAS LISTA 3",Scooby-Doo 2: Desatado
+http://kp-thebestiptv.com:8080/movie/Galindo21/5anJqAHmvb/3988.mp4
+#EXTINF:-1 group-title="PELICULAS LISTA 3",Scooby-Doo
+http://kp-thebestiptv.com:8080/movie/Galindo21/5anJqAHmvb/3989.mp4
+#EXTINF:-1 group-title="PELICULAS LISTA 3",¡Scooby-doo! y el Intrépido Batman
+http://kp-thebestiptv.com:8080/movie/Galindo21/5anJqAHmvb/3990.mp4
+#EXTINF:-1 group-title="PELICULAS LISTA 3",¡Scooby Doo! Y el Fantasma Gourmet
+http://kp-thebestiptv.com:8080/movie/Galindo21/5anJqAHmvb/3992.mp4
+#EXTINF:-1 group-title="PELICULAS LISTA 3",Scooby-Doo! Y el Monstruo de la Luna 
+http://kp-thebestiptv.com:8080/movie/Galindo21/5anJqAHmvb/3993.mp4
+#EXTINF:-1 group-title="PELICULAS LISTA 3",Scooby-Doo! Frankencreepy
+http://kp-thebestiptv.com:8080/movie/Galindo21/5anJqAHmvb/4197.mkv
+#EXTINF:-1 group-title="PELICULAS LISTA 3",¡Scooby Doo! Conoce a Kiss: Misterio a Ritmo de Rock and Roll
+http://kp-thebestiptv.com:8080/movie/Galindo21/5anJqAHmvb/4198.mkv
+#EXTINF:-1 group-title="PELICULAS LISTA 3",Scooby-Doo! Retorno a la Isla Zombie
+http://kp-thebestiptv.com:8080/movie/Galindo21/5anJqAHmvb/7105.mkv
+#EXTINF:-1 group-title="PELICULAS LISTA 3",¡Scooby-Doo! Y la maldición del fantasma número 13
+http://kp-thebestiptv.com:8080/movie/Galindo21/5anJqAHmvb/23530.mp4
+#EXTINF:-1 group-title="PELICULAS LISTA 3",Happy Halloween: Scooby Doo
+http://kp-thebestiptv.com:8080/movie/Galindo21/5anJqAHmvb/68968.mp4
+#EXTINF:-1 group-title="PELICULAS LISTA 3",SupermanShazam! El Regreso de Black Adam
+http://kp-thebestiptv.com:8080/movie/Galindo21/5anJqAHmvb/3800.mkv
+
+
+#EXTINF:-1 group-title="VIX PLUS LISTA 3",Afizzionados Vix+
+http://kp-thebestiptv.com:8080/Galindo21/5anJqAHmvb/142992
+#EXTINF:-1 group-title="VIX PLUS LISTA 3",Las Estrellas Vix+
+http://kp-thebestiptv.com:8080/Galindo21/5anJqAHmvb/143224
+#EXTINF:-1 group-title="VIX PLUS LISTA 3",Las Estrellas -1 Hr Vix+
+http://kp-thebestiptv.com:8080/Galindo21/5anJqAHmvb/143225
+#EXTINF:-1 group-title="VIX PLUS LISTA 3",Las Estrellas -2 Hrs Vix+
+http://kp-thebestiptv.com:8080/Galindo21/5anJqAHmvb/143226
 
 
 #EXTINF:-1 group-title="CINE LISTA 2",FX
@@ -92,98 +137,76 @@ http://190.61.102.67:31589/play/a03d/index.m3u8
 http://190.61.102.67:31589/play/a04x/index.m3u8
 
 
-
 #EXTINF:-1 group-title="MEXICO LISTA 2",CANAL DE LAS ESTRELLAS
 http://190.61.102.67:31589/play/a00g/index.m3u8
 
 
-
-#EXTINF:-1 group-title="LISTA NUEVA 2",ESPN
+#EXTINF:-1 group-title="DEPORTES LISTA 2",ESPN
 http://190.61.102.67:31589/play/a064/index.m3u8
-#EXTINF:-1 group-title="LISTA NUEVA 2",ESPN 2
+#EXTINF:-1 group-title="DEPORTES LISTA 2",ESPN 2
 http://190.61.102.67:31589/play/a063/index.m3u8
-#EXTINF:-1 group-title="LISTA NUEVA 2",ESPN3
+#EXTINF:-1 group-title="DEPORTES LISTA 2",ESPN3
 http://190.61.102.67:31589/play/a03n/index.m3u8
-#EXTINF:-1 group-title="LISTA NUEVA 2",TUDN
+#EXTINF:-1 group-title="DEPORTES LISTA 2",TUDN
 http://190.61.102.67:31589/play/a08j/index.m3u8
+
+
+
 #EXTINF:-1 group-title="PELICULAS",Black Adam
 http://54.39.52.63/PELICULAS%20POR%20MES/NOVIEMBRE/24NOV/Black.Adam.2160p.4K-dual-lat.mkv
-#EXTINF:-1 group-title="PELICULAS",Black Adam
-http://kp-thebestiptv.com:8080/movie/Galindo21/5anJqAHmvb/150439.mkv
-#EXTINF:-1 group-title="PELICULAS",Black Adam
-http://megatitan.net:8080/movie/mattfelipe/9wamh4g92v/455746.mkv
-#EXTINF:-1 group-title="PELICULAS",Black Adam: ¿Heroe o Villano? 
-http://kp-thebestiptv.com:8080/movie/Galindo21/5anJqAHmvb/150567.mkv
 #EXTINF:-1 group-title="PELICULAS",Scooby Doo Dulce O Travesura
 http://vod.tuxchannel.tv/peliculas/720/minions%20the%20rise%20of%20gru%202022.mkv
-#EXTINF:-1 group-title="PELICULAS",Scooby Doo: La Maldición del Monstruo del Lago
-http://kp-thebestiptv.com:8080/movie/Galindo21/5anJqAHmvb/2281.mp4
-#EXTINF:-1 group-title="PELICULAS",Scooby-Doo 3: Comienza el misterio
-http://kp-thebestiptv.com:8080/movie/Galindo21/5anJqAHmvb/2282.mp4
-#EXTINF:-1 group-title="PELICULAS",Lego Scooby-Doo! Fiesta en la Playa de Blowout
-http://kp-thebestiptv.com:8080/movie/Galindo21/5anJqAHmvb/3886.mp4
-#EXTINF:-1 group-title="PELICULAS",Scooby-Doo 2: Desatado
-http://kp-thebestiptv.com:8080/movie/Galindo21/5anJqAHmvb/3988.mp4
-#EXTINF:-1 group-title="PELICULAS",Scooby-Doo
-http://kp-thebestiptv.com:8080/movie/Galindo21/5anJqAHmvb/3989.mp4
-#EXTINF:-1 group-title="PELICULAS",¡Scooby-doo! y el Intrépido Batman
-http://kp-thebestiptv.com:8080/movie/Galindo21/5anJqAHmvb/3990.mp4
-#EXTINF:-1 group-title="PELICULAS",¡Scooby Doo! Y el Fantasma Gourmet
-http://kp-thebestiptv.com:8080/movie/Galindo21/5anJqAHmvb/3992.mp4
-#EXTINF:-1 group-title="PELICULAS",Scooby-Doo! Y el Monstruo de la Luna 
-http://kp-thebestiptv.com:8080/movie/Galindo21/5anJqAHmvb/3993.mp4
-#EXTINF:-1 group-title="PELICULAS",Scooby-Doo! Frankencreepy
-http://kp-thebestiptv.com:8080/movie/Galindo21/5anJqAHmvb/4197.mkv
-#EXTINF:-1 group-title="PELICULAS",¡Scooby Doo! Conoce a Kiss: Misterio a Ritmo de Rock and Roll
-http://kp-thebestiptv.com:8080/movie/Galindo21/5anJqAHmvb/4198.mkv
-#EXTINF:-1 group-title="PELICULAS",Scooby-Doo! Retorno a la Isla Zombie
-http://kp-thebestiptv.com:8080/movie/Galindo21/5anJqAHmvb/7105.mkv
-#EXTINF:-1 group-title="PELICULAS",¡Scooby-Doo! Y la maldición del fantasma número 13
-http://kp-thebestiptv.com:8080/movie/Galindo21/5anJqAHmvb/23530.mp4
-#EXTINF:-1 group-title="PELICULAS",Happy Halloween: Scooby Doo
-http://kp-thebestiptv.com:8080/movie/Galindo21/5anJqAHmvb/68968.mp4
-#EXTINF:-1 group-title="PELICULAS",SupermanShazam! El Regreso de Black Adam
-http://kp-thebestiptv.com:8080/movie/Galindo21/5anJqAHmvb/3800.mkv
-#EXTINF:-1 group-title="VIX PLUS",Afizzionados Vix+
-http://kp-thebestiptv.com:8080/Galindo21/5anJqAHmvb/142992
-#EXTINF:-1 group-title="VIX PLUS",Las Estrellas Vix+
-http://kp-thebestiptv.com:8080/Galindo21/5anJqAHmvb/143224
-#EXTINF:-1 group-title="VIX PLUS",Las Estrellas -1 Hr Vix+
-http://kp-thebestiptv.com:8080/Galindo21/5anJqAHmvb/143225
-#EXTINF:-1 group-title="VIX PLUS",Las Estrellas -2 Hrs Vix+
-http://kp-thebestiptv.com:8080/Galindo21/5anJqAHmvb/143226
-#EXTINF:-1 group-title="PERU 2",AMERICA PERU
+
+
+
+#EXTINF:-1 group-title="PERU LISTA 1",AMERICA PERU
 http://satline.xyz:8080/live/9271659859001279/3361659859001279/10774.ts
-#EXTINF:-1 group-title="PERU 2",AMERICA PERU
+#EXTINF:-1 group-title="PERU LISTA 1",AMERICA PERU
 http://satline.xyz:8080/live/9271659859001279/3361659859001279/10775.ts
-#EXTINF:-1 group-title="LISTA NUEVA 3",CARTOON NETWORK
+
+
+#EXTINF:-1 group-title="INFANTIL LISTA 1",CARTOON NETWORK
 http://satline.xyz:8080/live/9271659859001279/3361659859001279/18397.ts
-#EXTINF:-1 group-title="LISTA NUEVA 3",HBO
+
+
+#EXTINF:-1 group-title="CINE LISTA 1",HBO
 http://satline.xyz:8080/live/9271659859001279/3361659859001279/18422.ts
-#EXTINF:-1 group-title="LISTA NUEVA 3",HBO 2
+#EXTINF:-1 group-title="CINE LISTA 1",HBO 2
 http://satline.xyz:8080/live/9271659859001279/3361659859001279/18419.ts
-#EXTINF:-1 group-title="LISTA NUEVA 3",HBO FAMILY
+#EXTINF:-1 group-title="CINE LISTA 1",HBO FAMILY
 http://satline.xyz:8080/live/9271659859001279/3361659859001279/18421.ts
-#EXTINF:-1 group-title="LISTA NUEVA 3",HBO PLUS
+#EXTINF:-1 group-title="CINE LISTA 1",HBO PLUS
 http://satline.xyz:8080/live/9271659859001279/3361659859001279/18423.ts
-#EXTINF:-1 group-title="LISTA NUEVA 3",TELEMUNDO
-http://satline.xyz:8080/live/9271659859001279/3361659859001279/18456.ts
-#EXTINF:-1 group-title="LISTA NUEVA 3",SPACE
+#EXTINF:-1 group-title="CINE LISTA 1",SPACE
 http://satline.xyz:8080/live/9271659859001279/3361659859001279/18500.ts
-#EXTINF:-1 group-title="LISTA NUEVA 3",SPACE
+#EXTINF:-1 group-title="CINE LISTA 1",SPACE
 http://satline.xyz:8080/live/9271659859001279/3361659859001279/18670.ts
-#EXTINF:-1 group-title="LISTA NUEVA 3",FX
+#EXTINF:-1 group-title="CINE LISTA 1",FX
 http://satline.xyz:8080/live/9271659859001279/3361659859001279/18509.ts
-#EXTINF:-1 group-title="LISTA NUEVA 3",CINECANAL
+#EXTINF:-1 group-title="CINE LISTA 1",CINECANAL
 http://satline.xyz:8080/live/9271659859001279/3361659859001279/18529.ts
-#EXTINF:-1 group-title="LISTA NUEVA 3",CINECANAL
-http://200.24.132.99:8000/play/a01f
-#EXTINF:-1 group-title="LISTA NUEVA 3",LAS ESTRELLAS
+
+
+#EXTINF:-1 group-title="LATINO USA LISTA 1",TELEMUNDO
+http://satline.xyz:8080/live/9271659859001279/3361659859001279/18456.ts
+
+#EXTINF:-1 group-title="MEXICO LISTA 1",LAS ESTRELLAS
 http://satline.xyz:8080/live/9271659859001279/3361659859001279/18530.ts
-#EXTINF:-1 group-title="LISTA NUEVA 3",LAS ESTRELLAS
+#EXTINF:-1 group-title="MEXICO LISTA 1",LAS ESTRELLAS
 http://satline.xyz:8080/live/9271659859001279/3361659859001279/18596.ts
-#EXTINF:-1 group-title="LISTA NUEVA 3",LAS ESTRELLAS
+#EXTINF:-1 group-title="MEXICO LISTA 1",LAS ESTRELLAS
 http://satline.xyz:8080/live/9271659859001279/3361659859001279/18646.ts
+
+
+
+
+
+#EXTINF:-1 group-title="CINE LISTA 6",CINECANAL
+http://200.24.132.99:8000/play/a01f
+
+
+
+
 #EXTINF:-1 group-title="LISTA NUEVA 3",DISNEY CHANNEL
 http://satline.xyz:8080/live/9271659859001279/3361659859001279/18538.ts
 #EXTINF:-1 group-title="LISTA NUEVA 3",UNIVERSAL CHANNEL
