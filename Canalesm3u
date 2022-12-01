@@ -5,6 +5,18 @@ http://777back.xyz:8080/restreamUSA/tmDYEuwqAs/10776
 #EXTINF:-1 group-title="PERU",LATINA
 http://777back.xyz:8080/restreamUSA/tmDYEuwqAs/100080
 
+#EXTINF:-1 group-title="LATINO USA",TELEMUNDO
+http://777back.xyz:8080/restreamUSA/tmDYEuwqAs/207817
+
+#EXTINF:-1 group-title="CINE",UNIVERSAL TV
+http://777back.xyz:8080/restreamUSA/tmDYEuwqAs/207779
+#EXTINF:-1 group-title="CINE",CINEMAX
+http://777back.xyz:8080/restreamUSA/tmDYEuwqAs/207752
+#EXTINF:-1 group-title="CINE",SONY
+http://777back.xyz:8080/restreamUSA/tmDYEuwqAs/28499
+#EXTINF:-1 group-title="CINE",MULTIPREMIER
+http://777back.xyz:8080/restreamUSA/tmDYEuwqAs/84937
+
 
 #EXTINF:-1 group-title="PERU LISTA 1",AMERICA PERU
 http://satline.xyz:8080/live/9271659859001279/3361659859001279/10774.ts
