@@ -372,8 +372,6 @@ http://190.61.102.67:31589/play/a063/index.m3u8
 http://190.61.102.67:31589/play/a03n/index.m3u8
 #EXTINF:-1 group-title="DEPORTES LISTA 2",TUDN
 http://190.61.102.67:31589/play/a08j/index.m3u8
-
-
 #EXTINF:-1 group-title="PELICULAS LISTA 3",Black Adam
 http://kp-thebestiptv.com:8080/movie/Galindo21/5anJqAHmvb/150439.mkv
 #EXTINF:-1 group-title="PELICULAS LISTA 3",Scooby Doo: La Maldición del Monstruo del Lago
@@ -404,14 +402,38 @@ http://kp-thebestiptv.com:8080/movie/Galindo21/5anJqAHmvb/23530.mp4
 http://kp-thebestiptv.com:8080/movie/Galindo21/5anJqAHmvb/68968.mp4
 #EXTINF:-1 group-title="PELICULAS LISTA 3",SupermanShazam! El Regreso de Black Adam
 http://kp-thebestiptv.com:8080/movie/Galindo21/5anJqAHmvb/3800.mkv
-
 #EXTINF:-1 group-title="CINE LISTA 3",HBO PLUS
 http://kp-thebestiptv.com:8080/Galindo21/5anJqAHmvb/64059
 #EXTINF:-1 group-title="CINE LISTA 3",Universal Cinema
 http://kp-thebestiptv.com:8080/Galindo21/5anJqAHmvb/60980
-
-
-
+#EXTINF:-1 group-title="CINE LISTA 3",WARNER
+http://kp-thebestiptv.com:8080/Galindo21/5anJqAHmvb/254
+#EXTINF:-1 group-title="CINE LISTA 3",UNIVERSO
+http://kp-thebestiptv.com:8080/Galindo21/5anJqAHmvb/259
+#EXTINF:-1 group-title="CINE LISTA 3",Universal Cinema SD
+http://kp-thebestiptv.com:8080/Galindo21/5anJqAHmvb/60980
+#EXTINF:-1 group-title="CINE LISTA 3",Universal Premium SD
+http://kp-thebestiptv.com:8080/Galindo21/5anJqAHmvb/60981
+#EXTINF:-1 group-title="CINE LISTA 3",Universal Crime SD
+http://kp-thebestiptv.com:8080/Galindo21/5anJqAHmvb/60982
+#EXTINF:-1 group-title="CINE LISTA 3",Universal Movies SD
+http://kp-thebestiptv.com:8080/Galindo21/5anJqAHmvb/60983
+#EXTINF:-1 group-title="CINE LISTA 3",Universal Premium SD
+http://kp-thebestiptv.com:8080/Galindo21/5anJqAHmvb/60984
+#EXTINF:-1 group-title="CINE LISTA 3",HBO 2 SD
+http://kp-thebestiptv.com:8080/Galindo21/5anJqAHmvb/60991
+#EXTINF:-1 group-title="CINE LISTA 3",HBO Family SD
+http://kp-thebestiptv.com:8080/Galindo21/5anJqAHmvb/60992
+#EXTINF:-1 group-title="CINE LISTA 3",HBO Plus SD
+http://kp-thebestiptv.com:8080/Galindo21/5anJqAHmvb/60993
+#EXTINF:-1 group-title="CINE LISTA 3",HBO SD
+http://kp-thebestiptv.com:8080/Galindo21/5anJqAHmvb/60994
+#EXTINF:-1 group-title="CINE LISTA 3",CINELATINO
+http://kp-thebestiptv.com:8080/Galindo21/5anJqAHmvb/60976
+#EXTINF:-1 group-title="CINE LISTA 3",CINELATINO
+http://kp-thebestiptv.com:8080/Galindo21/5anJqAHmvb/235
+#EXTINF:-1 group-title="DEPORTES LISTA 3",STAR CHANNEL
+http://kp-thebestiptv.com:8080/Galindo21/5anJqAHmvb/60989
 #EXTINF:-1 group-title="DEPORTES LISTA 3",Fox Sports
 http://kp-thebestiptv.com:8080/Galindo21/5anJqAHmvb/60988
 #EXTINF:-1 group-title="DEPORTES LISTA 3",Fox Sports
@@ -420,26 +442,84 @@ http://kp-thebestiptv.com:8080/Galindo21/5anJqAHmvb/63964
 http://kp-thebestiptv.com:8080/Galindo21/5anJqAHmvb/60985
 #EXTINF:-1 group-title="DEPORTES LISTA 3",Fox Sports 2
 http://kp-thebestiptv.com:8080/Galindo21/5anJqAHmvb/63965
+#EXTINF:-1 group-title="DEPORTES LISTA 3",NBA ON TNT
+http://kp-thebestiptv.com:8080/Galindo21/5anJqAHmvb/65910
 #EXTINF:-1 group-title="DEPORTES LISTA 3",NBA ON ESPN
 http://kp-thebestiptv.com:8080/Galindo21/5anJqAHmvb/65907
 #EXTINF:-1 group-title="DEPORTES LISTA 3",TUDN
 http://kp-thebestiptv.com:8080/Galindo21/5anJqAHmvb/73630
+#EXTINF:-1 group-title="DEPORTES LISTA 3",TUDN
+http://kp-thebestiptv.com:8080/Galindo21/5anJqAHmvb/354
 #EXTINF:-1 group-title="DEPORTES LISTA 3",ESPN DEPORTES
 http://kp-thebestiptv.com:8080/Galindo21/5anJqAHmvb/74909
-
-
+#EXTINF:-1 group-title="DEPORTES LISTA 3",ESPN DEPORTES
+http://kp-thebestiptv.com:8080/Galindo21/5anJqAHmvb/437
+#EXTINF:-1 group-title="DEPORTES LISTA 3",FOX SPORTS 1 MX
+http://kp-thebestiptv.com:8080/Galindo21/5anJqAHmvb/414
+#EXTINF:-1 group-title="DEPORTES LISTA 3",FOX SPORTS 3 MX
+http://kp-thebestiptv.com:8080/Galindo21/5anJqAHmvb/415
+#EXTINF:-1 group-title="DEPORTES LISTA 3",FOX SPORTS 2 MX
+http://kp-thebestiptv.com:8080/Galindo21/5anJqAHmvb/416
+#EXTINF:-1 group-title="DEPORTES LISTA 3",CO FOX SPORTS 2
+http://kp-thebestiptv.com:8080/Galindo21/5anJqAHmvb/456
+#EXTINF:-1 group-title="DEPORTES LISTA 3",CO FOX SPORTS 1
+http://kp-thebestiptv.com:8080/Galindo21/5anJqAHmvb/457
+#EXTINF:-1 group-title="DEPORTES LISTA 3",FOX SPORTS 2 ARG
+http://kp-thebestiptv.com:8080/Galindo21/5anJqAHmvb/48298
+#EXTINF:-1 group-title="DEPORTES LISTA 3",FOX SPORTS 1 ARG
+http://kp-thebestiptv.com:8080/Galindo21/5anJqAHmvb/48299
+#EXTINF:-1 group-title="DEPORTES LISTA 3",Fox Sports 2 SD
+http://kp-thebestiptv.com:8080/Galindo21/5anJqAHmvb/60985
+#EXTINF:-1 group-title="DEPORTES LISTA 3",Fox Sports 3 SD
+http://kp-thebestiptv.com:8080/Galindo21/5anJqAHmvb/60987
+#EXTINF:-1 group-title="DEPORTES LISTA 3",Fox Sports SD
+http://kp-thebestiptv.com:8080/Galindo21/5anJqAHmvb/60988
+#EXTINF:-1 group-title="DEPORTES LISTA 3",FOX SPORTS 1 SUR FHD
+http://kp-thebestiptv.com:8080/Galindo21/5anJqAHmvb/63964
+#EXTINF:-1 group-title="DEPORTES LISTA 3",FOX SPORTS 2 SUR FHD
+http://kp-thebestiptv.com:8080/Galindo21/5anJqAHmvb/63965
+#EXTINF:-1 group-title="DEPORTES LISTA 3",FOX SPORTS 3 SUR FHD
+http://kp-thebestiptv.com:8080/Galindo21/5anJqAHmvb/63966
+#EXTINF:-1 group-title="DEPORTES LISTA 3",ESPN 1 SUR FHD
+http://kp-thebestiptv.com:8080/Galindo21/5anJqAHmvb/63967
+#EXTINF:-1 group-title="DEPORTES LISTA 3",ESPN 3 SUR FHD
+http://kp-thebestiptv.com:8080/Galindo21/5anJqAHmvb/63969
 #EXTINF:-1 group-title="PERU LISTA 3",AMERICA PERU
 http://kp-thebestiptv.com:8080/Galindo21/5anJqAHmvb/42952
-
+#EXTINF:-1 group-title="PERU LISTA 3",AMERICA PERU
+http://kp-thebestiptv.com:8080/Galindo21/5anJqAHmvb/55632
+#EXTINF:-1 group-title="MEXICO LISTA 3",LAS ESTRELLAS
+http://kp-thebestiptv.com:8080/Galindo21/5anJqAHmvb/246
+#EXTINF:-1 group-title="MEXICO LISTA 3",LAS ESTRELLAS -2H
+http://kp-thebestiptv.com:8080/Galindo21/5anJqAHmvb/245
+#EXTINF:-1 group-title="MEXICO LISTA 3",AZTECA UNO
+http://kp-thebestiptv.com:8080/Galindo21/5anJqAHmvb/50654
+#EXTINF:-1 group-title="MEXICO LISTA 3",AZTECA UNO
+http://kp-thebestiptv.com:8080/Galindo21/5anJqAHmvb/251
+#EXTINF:-1 group-title="MEXICO LISTA 3",AZTECA UNO -2
+http://kp-thebestiptv.com:8080/Galindo21/5anJqAHmvb/51197
+#EXTINF:-1 group-title="MEXICO LISTA 3",Azteca 7 SD
+http://kp-thebestiptv.com:8080/Galindo21/5anJqAHmvb/61335
+#EXTINF:-1 group-title="MEXICO LISTA 3",Azteca Uno SD
+http://kp-thebestiptv.com:8080/Galindo21/5anJqAHmvb/61336
 #EXTINF:-1 group-title="INFANTIL LISTA 3",Tooncast
 http://kp-thebestiptv.com:8080/Galindo21/5anJqAHmvb/61383
-
+#EXTINF:-1 group-title="INFANTIL LISTA 3",Tooncast
+http://kp-thebestiptv.com:8080/Galindo21/5anJqAHmvb/314
+#EXTINF:-1 group-title="INFANTIL LISTA 3",CARTOON NETWORK
+http://kp-thebestiptv.com:8080/Galindo21/5anJqAHmvb/330
+#EXTINF:-1 group-title="INFANTIL LISTA 3",BOOMERANG
+http://kp-thebestiptv.com:8080/Galindo21/5anJqAHmvb/332
+#EXTINF:-1 group-title="INFANTIL LISTA 3",Cartoon Network SD
+http://kp-thebestiptv.com:8080/Galindo21/5anJqAHmvb/61341
 #EXTINF:-1 group-title="LATINO USA LISTA 3",UNIVISION
 http://kp-thebestiptv.com:8080/Galindo21/5anJqAHmvb/3
-
-
-
-
+#EXTINF:-1 group-title="LATINO USA LISTA 3",UNIVISION SAN FRANCISCO
+http://kp-thebestiptv.com:8080/Galindo21/5anJqAHmvb/255
+#EXTINF:-1 group-title="LATINO USA LISTA 3",TELEMUNDO SAN ANTINIO
+http://kp-thebestiptv.com:8080/Galindo21/5anJqAHmvb/270
+#EXTINF:-1 group-title="LATINO USA LISTA 3",TELEMUNDO NEW YORK
+http://kp-thebestiptv.com:8080/Galindo21/5anJqAHmvb/274
 #EXTINF:-1 group-title="VIX PLUS LISTA 3",Afizzionados Vix+
 http://kp-thebestiptv.com:8080/Galindo21/5anJqAHmvb/142992
 #EXTINF:-1 group-title="VIX PLUS LISTA 3",Las Estrellas Vix+
