@@ -9,6 +9,10 @@ http://streamgo.vip:8008/nando/nando/147257
 http://streamgo.vip:8008/nando/nando/147272
 #EXTINF:-1 group-title="CINE LISTA 4",CINECANAL
 http://streamgo.vip:8008/nando/nando/147284
+#EXTINF:-1 group-title="CINE LISTA 4",UNIVERSAL CHANEL
+http://streamgo.vip:8008/nando/nando/147299
+#EXTINF:-1 group-title="CINE LISTA 4",FX
+http://streamgo.vip:8008/nando/nando/147305
 
 #EXTINF:-1 group-title="CINE LISTA 5",CINEMAX
 http://megatitan.net:8080/mattfelipe/9wamh4g92v/15128
@@ -18,34 +22,41 @@ http://megatitan.net:8080/mattfelipe/9wamh4g92v/1799
 http://megatitan.net:8080/mattfelipe/9wamh4g92v/1856
 #EXTINF:-1 group-title="CINE LISTA 5",CINECANAL
 http://megatitan.net:8080/mattfelipe/9wamh4g92v/32215
-
-
-#EXTINF:-1 group-title="LISTA NUEVA",UNIVERSAL CHANEL
-http://streamgo.vip:8008/nando/nando/147299
-#EXTINF:-1 group-title="LISTA NUEVA",FX
-http://streamgo.vip:8008/nando/nando/147305
-#EXTINF:-1 group-title="LISTA NUEVA",FX
+#EXTINF:-1 group-title="CINE LISTA 5",FX
 http://megatitan.net:8080/mattfelipe/9wamh4g92v/102713
-#EXTINF:-1 group-title="LISTA NUEVA",TNT
+#EXTINF:-1 group-title="CINE LISTA 5",TNT
 http://megatitan.net:8080/mattfelipe/9wamh4g92v/24131
-#EXTINF:-1 group-title="LISTA NUEVA",HBO PLUS
-http://kp-thebestiptv.com:8080/Galindo21/5anJqAHmvb/64059
-#EXTINF:-1 group-title="LISTA NUEVA",NBA ON ESPN
-http://kp-thebestiptv.com:8080/Galindo21/5anJqAHmvb/65907
-#EXTINF:-1 group-title="LISTA NUEVA",TUDN
-http://kp-thebestiptv.com:8080/Galindo21/5anJqAHmvb/73630
-#EXTINF:-1 group-title="LISTA NUEVA",ESPN DEPORTES
-http://kp-thebestiptv.com:8080/Galindo21/5anJqAHmvb/74909
-#EXTINF:-1 group-title="LISTA NUEVA",ESPN ARG
-http://megatitan.net:8080/mattfelipe/9wamh4g92v/115725
-#EXTINF:-1 group-title="LISTA NUEVA",AMERICA PERU
-http://kp-thebestiptv.com:8080/Galindo21/5anJqAHmvb/42952
-#EXTINF:-1 group-title="LISTA NUEVA",AMERICA PERU
+
+#EXTINF:-1 group-title="PERU LISTA 5",AMERICA PERU
 http://megatitan.net:8080/mattfelipe/9wamh4g92v/277
-#EXTINF:-1 group-title="LISTA NUEVA",AMERICA PERU
+#EXTINF:-1 group-title="PERU LISTA 5",AMERICA PERU
 http://megatitan.net:8080/mattfelipe/9wamh4g92v/276
-#EXTINF:-1 group-title="LISTA NUEVA",AMERICA PERU
+#EXTINF:-1 group-title="PERU LISTA 5",AMERICA PERU
 http://megatitan.net:8080/mattfelipe/9wamh4g92v/119680
+
+
+#EXTINF:-1 group-title="DEPORTES LISTA 5",ESPN ARG
+http://megatitan.net:8080/mattfelipe/9wamh4g92v/115725
+
+
+#EXTINF:-1 group-title="CINE LISTA 3",HBO PLUS
+http://kp-thebestiptv.com:8080/Galindo21/5anJqAHmvb/64059
+
+
+#EXTINF:-1 group-title="DEPORTES LISTA 3",NBA ON ESPN
+http://kp-thebestiptv.com:8080/Galindo21/5anJqAHmvb/65907
+#EXTINF:-1 group-title="DEPORTES LISTA 3",TUDN
+http://kp-thebestiptv.com:8080/Galindo21/5anJqAHmvb/73630
+#EXTINF:-1 group-title="DEPORTES LISTA 3",ESPN DEPORTES
+http://kp-thebestiptv.com:8080/Galindo21/5anJqAHmvb/74909
+
+
+#EXTINF:-1 group-title="PERU LISTA 3",AMERICA PERU
+http://kp-thebestiptv.com:8080/Galindo21/5anJqAHmvb/42952
+
+
+
+
 #EXTINF:-1 group-title="LISTA NUEVA",DIRECTV SPORT
 http://megatitan.net:8080/mattfelipe/9wamh4g92v/233833
 #EXTINF:-1 group-title="LISTA NUEVA",AZTECA 7
