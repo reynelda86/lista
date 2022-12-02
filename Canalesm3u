@@ -644,23 +644,56 @@ http://streamgo.vip:8008/nando/nando/147324
 http://streamgo.vip:8008/nando/nando/147326
 #EXTINF:-1 group-title="CINE LISTA 4",GOLDEN PLUS SD
 http://streamgo.vip:8008/nando/nando/147327
-#EXTINF:-1 group-title="CINE LISTA 4",CINE LATINO
-#EXTINF:-1 group-title="PELICULAS LISTA 5",La patrulla canina: La película (2021)
+#EXTINF:-1 group-title="PELICULAS LISTA 4",La patrulla canina: La película (2021)
 http://streamgo.vip:8008/movie/nando/nando/105197.mkv
-#EXTINF:-1 group-title="CINE LISTA 4",Big Hero 6: Baymax Returns (2017)
+#EXTINF:-1 group-title="PELICULAS LISTA 4",Big Hero 6: Baymax Returns (2017)
 http://streamgo.vip:8008/movie/nando/nando/111438.mkv
+#EXTINF:-1 group-title="PELICULAS LISTA 5",MARVEL
+http://megatitan.net:8080/mattfelipe/9wamh4g92v/70964
+#EXTINF:-1 group-title="PELICULAS LISTA 5",MARVEL 2
+http://megatitan.net:8080/mattfelipe/9wamh4g92v/127149
+#EXTINF:-1 group-title="PELICULAS LISTA 5",DC COMICS
+http://megatitan.net:8080/mattfelipe/9wamh4g92v/71731
+#EXTINF:-1 group-title="PELICULAS LISTA 5",LEGO
+http://megatitan.net:8080/mattfelipe/9wamh4g92v/71735
+#EXTINF:-1 group-title="PELICULAS LISTA 5",DC FILMS
+http://megatitan.net:8080/mattfelipe/9wamh4g92v/77337
+#EXTINF:-1 group-title="PELICULAS LISTA 5",NAVIDAD
+http://megatitan.net:8080/mattfelipe/9wamh4g92v/102269
+#EXTINF:-1 group-title="PELICULAS LISTA 5",MARVEL ANIMADO
+http://megatitan.net:8080/mattfelipe/9wamh4g92v/71722
+#EXTINF:-1 group-title="PELICULAS LISTA 5",ACCION
+http://megatitan.net:8080/mattfelipe/9wamh4g92v/85598
 #EXTINF:-1 group-title="CINE LISTA 5",CINEMAX
 http://megatitan.net:8080/mattfelipe/9wamh4g92v/15128
 #EXTINF:-1 group-title="CINE LISTA 5",HBO
 http://megatitan.net:8080/mattfelipe/9wamh4g92v/1799
 #EXTINF:-1 group-title="CINE LISTA 5",HBO
+http://megatitan.net:8080/mattfelipe/9wamh4g92v/65730
+#EXTINF:-1 group-title="CINE LISTA 5",HBO
 http://megatitan.net:8080/mattfelipe/9wamh4g92v/1856
 #EXTINF:-1 group-title="CINE LISTA 5",CINECANAL
 http://megatitan.net:8080/mattfelipe/9wamh4g92v/32215
+#EXTINF:-1 group-title="CINE LISTA 5",CINECANAL
+http://megatitan.net:8080/mattfelipe/9wamh4g92v/1816
+#EXTINF:-1 group-title="CINE LISTA 5",CINECANAL
+http://megatitan.net:8080/mattfelipe/9wamh4g92v/32214
+#EXTINF:-1 group-title="CINE LISTA 5",CINECANAL
+http://megatitan.net:8080/mattfelipe/9wamh4g92v/32216
 #EXTINF:-1 group-title="CINE LISTA 5",FX
 http://megatitan.net:8080/mattfelipe/9wamh4g92v/102713
+#EXTINF:-1 group-title="CINE LISTA 5",FX
+http://megatitan.net:8080/mattfelipe/9wamh4g92v/102710
+#EXTINF:-1 group-title="CINE LISTA 5",FX
+http://megatitan.net:8080/mattfelipe/9wamh4g92v/26396
 #EXTINF:-1 group-title="CINE LISTA 5",TNT
 http://megatitan.net:8080/mattfelipe/9wamh4g92v/24131
+#EXTINF:-1 group-title="CINE LISTA 5",CINE DINAMITA
+http://megatitan.net:8080/mattfelipe/9wamh4g92v/65074
+#EXTINF:-1 group-title="CINE LISTA 5",CINE DINAMITA
+http://megatitan.net:8080/mattfelipe/9wamh4g92v/1818
+#EXTINF:-1 group-title="CINE LISTA 5",CINE LATINO
+http://megatitan.net:8080/mattfelipe/9wamh4g92v/1817
 #EXTINF:-1 group-title="PERU LISTA 5",AMERICA PERU
 http://megatitan.net:8080/mattfelipe/9wamh4g92v/277
 #EXTINF:-1 group-title="PERU LISTA 5",AMERICA PERU
@@ -715,6 +748,14 @@ http://megatitan.net:8080/mattfelipe/9wamh4g92v/16827
 http://megatitan.net:8080/mattfelipe/9wamh4g92v/176537
 #EXTINF:-1 group-title="MEXICO LISTA 5",LAS ESTRELLAS USA
 http://megatitan.net:8080/mattfelipe/9wamh4g92v/16826
+#EXTINF:-1 group-title="LATINO USA LISTA 5",TELEMUNDO
+http://megatitan.net:8080/mattfelipe/9wamh4g92v/41445
+#EXTINF:-1 group-title="LATINO USA LISTA 5",TELEMUNDO
+http://megatitan.net:8080/mattfelipe/9wamh4g92v/153858
+#EXTINF:-1 group-title="LATINO USA LISTA 5",TELEMUNDO
+http://megatitan.net:8080/mattfelipe/9wamh4g92v/1560
+#EXTINF:-1 group-title="LATINO USA LISTA 5",TELEMUNDO
+http://megatitan.net:8080/mattfelipe/9wamh4g92v/1564
 #EXTINF:-1 group-title="PELICULAS LISTA 5",Black Adam
 http://megatitan.net:8080/movie/mattfelipe/9wamh4g92v/455746.mkv
 #EXTINF:-1 group-title="CINE LISTA 6",CINECANAL
