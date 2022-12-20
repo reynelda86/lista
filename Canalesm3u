@@ -372,36 +372,6 @@ http://190.61.102.67:31589/play/a063/index.m3u8
 http://190.61.102.67:31589/play/a03n/index.m3u8
 #EXTINF:-1 group-title="DEPORTES LISTA 2",TUDN
 http://190.61.102.67:31589/play/a08j/index.m3u8
-#EXTINF:-1 group-title="PELICULAS LISTA 3",Black Adam
-http://kp-thebestiptv.com:8080/movie/Galindo21/5anJqAHmvb/150439.mkv
-#EXTINF:-1 group-title="PELICULAS LISTA 3",Scooby Doo: La Maldición del Monstruo del Lago
-http://kp-thebestiptv.com:8080/movie/Galindo21/5anJqAHmvb/2281.mp4
-#EXTINF:-1 group-title="PELICULAS LISTA 3",Scooby-Doo 3: Comienza el misterio
-http://kp-thebestiptv.com:8080/movie/Galindo21/5anJqAHmvb/2282.mp4
-#EXTINF:-1 group-title="PELICULAS LISTA 3",Lego Scooby-Doo! Fiesta en la Playa de Blowout
-http://kp-thebestiptv.com:8080/movie/Galindo21/5anJqAHmvb/3886.mp4
-#EXTINF:-1 group-title="PELICULAS LISTA 3",Scooby-Doo 2: Desatado
-http://kp-thebestiptv.com:8080/movie/Galindo21/5anJqAHmvb/3988.mp4
-#EXTINF:-1 group-title="PELICULAS LISTA 3",Scooby-Doo
-http://kp-thebestiptv.com:8080/movie/Galindo21/5anJqAHmvb/3989.mp4
-#EXTINF:-1 group-title="PELICULAS LISTA 3",¡Scooby-doo! y el Intrépido Batman
-http://kp-thebestiptv.com:8080/movie/Galindo21/5anJqAHmvb/3990.mp4
-#EXTINF:-1 group-title="PELICULAS LISTA 3",¡Scooby Doo! Y el Fantasma Gourmet
-http://kp-thebestiptv.com:8080/movie/Galindo21/5anJqAHmvb/3992.mp4
-#EXTINF:-1 group-title="PELICULAS LISTA 3",Scooby-Doo! Y el Monstruo de la Luna 
-http://kp-thebestiptv.com:8080/movie/Galindo21/5anJqAHmvb/3993.mp4
-#EXTINF:-1 group-title="PELICULAS LISTA 3",Scooby-Doo! Frankencreepy
-http://kp-thebestiptv.com:8080/movie/Galindo21/5anJqAHmvb/4197.mkv
-#EXTINF:-1 group-title="PELICULAS LISTA 3",¡Scooby Doo! Conoce a Kiss: Misterio a Ritmo de Rock and Roll
-http://kp-thebestiptv.com:8080/movie/Galindo21/5anJqAHmvb/4198.mkv
-#EXTINF:-1 group-title="PELICULAS LISTA 3",Scooby-Doo! Retorno a la Isla Zombie
-http://kp-thebestiptv.com:8080/movie/Galindo21/5anJqAHmvb/7105.mkv
-#EXTINF:-1 group-title="PELICULAS LISTA 3",¡Scooby-Doo! Y la maldición del fantasma número 13
-http://kp-thebestiptv.com:8080/movie/Galindo21/5anJqAHmvb/23530.mp4
-#EXTINF:-1 group-title="PELICULAS LISTA 3",Happy Halloween: Scooby Doo
-http://kp-thebestiptv.com:8080/movie/Galindo21/5anJqAHmvb/68968.mp4
-#EXTINF:-1 group-title="PELICULAS LISTA 3",SupermanShazam! El Regreso de Black Adam
-http://kp-thebestiptv.com:8080/movie/Galindo21/5anJqAHmvb/3800.mkv
 #EXTINF:-1 group-title="CINE LISTA 3",HBO PLUS
 http://kp-thebestiptv.com:8080/Galindo21/5anJqAHmvb/64059
 #EXTINF:-1 group-title="CINE LISTA 3",Universal Cinema
@@ -964,3 +934,76 @@ http://megatitan.net:8080/movie/mattfelipe/9wamh4g92v/149404.mp4
 http://megatitan.net:8080/movie/mattfelipe/9wamh4g92v/178037.mp4
 #EXTINF:-1 group-title="SCOOBY DOO LISTA 5",Scooby-Doo! El comienzo del misterio (2009) (LAT)
 http://megatitan.net:8080/movie/mattfelipe/9wamh4g92v/111176.mkv
+#EXTINF:-1 group-title="SCOOBY DOO LISTA 12",Scooby-Doo! - Duelo En El Viejo Oeste
+http://c.proserver.in:8080/movie/vodstest/lw5p6ojDQq/201170.mp4
+#EXTINF:-1 group-title="SCOOBY DOO LISTA 12",Scooby Doo Y El Fantasma Gourmet
+http://c.proserver.in:8080/movie/vodstest/lw5p6ojDQq/201110.mp4
+#EXTINF:-1 group-title="SCOOBY DOO LISTA 12",Scooby-doo! Y El Intrepido Batman
+http://c.proserver.in:8080/movie/vodstest/lw5p6ojDQq/200716.mp4
+#EXTINF:-1 group-title="SCOOBY DOO LISTA 3",La Maldición del Monstruo del Lago (Lat)
+http://kp-thebestiptv.com:8080/movie/Galindo21/5anJqAHmvb/2281.mp4
+#EXTINF:-1 group-title="SCOOBY DOO LISTA 3",Scooby-Doo 3: Comienza el misterio (Lat)
+http://kp-thebestiptv.com:8080/movie/Galindo21/5anJqAHmvb/2282.mp4
+#EXTINF:-1 group-title="SCOOBY DOO LISTA 3",Lego Scooby-Doo! Fiesta en la Playa de Blowout (Dual)
+http://kp-thebestiptv.com:8080/movie/Galindo21/5anJqAHmvb/3886.mp4
+#EXTINF:-1 group-title="SCOOBY DOO LISTA 3",Scooby-Doo 2: Desatado ( Lat)
+http://kp-thebestiptv.com:8080/movie/Galindo21/5anJqAHmvb/3988.mp4
+#EXTINF:-1 group-title="SCOOBY DOO LISTA 3",Scooby-Doo (Lat)
+http://kp-thebestiptv.com:8080/movie/Galindo21/5anJqAHmvb/3989.mp4
+#EXTINF:-1 group-title="SCOOBY DOO LISTA 3",¡Scooby-doo! y el Intrépido Batman (Lat)
+http://kp-thebestiptv.com:8080/movie/Galindo21/5anJqAHmvb/3990.mp4
+#EXTINF:-1 group-title="SCOOBY DOO LISTA 3",¡Scooby Doo! Y el Fantasma Gourmet (Lat)
+http://kp-thebestiptv.com:8080/movie/Galindo21/5anJqAHmvb/3992.mp4
+#EXTINF:-1 group-title="SCOOBY DOO LISTA 3",Scooby-Doo! Y el Monstruo de la Luna (Lat)
+http://kp-thebestiptv.com:8080/movie/Galindo21/5anJqAHmvb/3993.mp4
+#EXTINF:-1 group-title="SCOOBY DOO LISTA 3",Scooby-Doo! Retorno a la Isla Zombie (Dual)
+http://kp-thebestiptv.com:8080/movie/Galindo21/5anJqAHmvb/7105.mkv
+#EXTINF:-1 group-title="SCOOBY DOO LISTA 3",¡Scooby-Doo! Y la maldición del fantasma número 13 (Lat)
+http://kp-thebestiptv.com:8080/movie/Galindo21/5anJqAHmvb/23530.mp4
+#EXTINF:-1 group-title="SCOOBY DOO LISTA 3",¡Scooby! (Dual)
+http://kp-thebestiptv.com:8080/movie/Galindo21/5anJqAHmvb/61770.mp4
+#EXTINF:-1 group-title="SCOOBY DOO LISTA 3",Happy Halloween: Scooby Doo (Dual)
+http://kp-thebestiptv.com:8080/movie/Galindo21/5anJqAHmvb/68968.mp4
+#EXTINF:-1 group-title="SCOOBY DOO LISTA 3",Scooby-Doo! The Sword and the Scoob (Dual)
+http://kp-thebestiptv.com:8080/movie/Galindo21/5anJqAHmvb/76798.mkv
+#EXTINF:-1 group-title="SCOOBY DOO LISTA 3",Straight Outta Nowhere: Scooby-Doo! Meets Courage the Cowardly Dog (Dual)
+http://kp-thebestiptv.com:8080/movie/Galindo21/5anJqAHmvb/95161.mkv
+#EXTINF:-1 group-title="SCOOBY DOO LISTA 3",Scooby-Doo y el Fantasma de la Bruja (Dual)
+http://kp-thebestiptv.com:8080/movie/Galindo21/5anJqAHmvb/99163.mkv
+#EXTINF:-1 group-title="SCOOBY DOO LISTA 3",Scooby Doo y los Robots (Dual)
+http://kp-thebestiptv.com:8080/movie/Galindo21/5anJqAHmvb/99164.mkv
+#EXTINF:-1 group-title="SCOOBY DOO LISTA 3",Scooby-Doo y el Monstruo del Lago Ness (Dual)
+http://kp-thebestiptv.com:8080/movie/Galindo21/5anJqAHmvb/99165.mkv
+#EXTINF:-1 group-title="SCOOBY DOO LISTA 3",Scooby Doo: Piratas a la Vista (Dual)
+http://kp-thebestiptv.com:8080/movie/Galindo21/5anJqAHmvb/99166.mkv
+#EXTINF:-1 group-title="SCOOBY DOO LISTA 3",Scooby-Doo y el Abominable Hombre de las Nieves (Dual)
+http://kp-thebestiptv.com:8080/movie/Galindo21/5anJqAHmvb/99167.mkv
+#EXTINF:-1 group-title="SCOOBY DOO LISTA 3",Scooby-Doo y los Hermanos Boo (Dual)
+http://kp-thebestiptv.com:8080/movie/Galindo21/5anJqAHmvb/99381.mkv
+#EXTINF:-1 group-title="SCOOBY DOO LISTA 3",Scooby Doo y la Invasion Extraterrestre (Dual)
+http://kp-thebestiptv.com:8080/movie/Galindo21/5anJqAHmvb/99493.mkv
+#EXTINF:-1 group-title="SCOOBY DOO LISTA 3",Scooby Doo y la Maldicion de Cleopatra (Dual)
+http://kp-thebestiptv.com:8080/movie/Galindo21/5anJqAHmvb/106002.mkv
+#EXTINF:-1 group-title="SCOOBY DOO LISTA 3",Scooby-Doo y la Leyenda del Vampiro  (Dual)
+http://kp-thebestiptv.com:8080/movie/Galindo21/5anJqAHmvb/3987.mkv
+#EXTINF:-1 group-title="SCOOBY DOO LISTA 3",Scooby-Doo en la Isla de los Zombies (Dual)
+http://kp-thebestiptv.com:8080/movie/Galindo21/5anJqAHmvb/3986.mkv
+#EXTINF:-1 group-title="SCOOBY DOO LISTA 3",Truco o Trato Scooby-Doo! (Dual)
+http://kp-thebestiptv.com:8080/movie/Galindo21/5anJqAHmvb/145849.mkv
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
