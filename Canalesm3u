@@ -1022,7 +1022,7 @@ http://latinanplad.com:8080/smartbconven/DJMCDKMuW2tt/445
 http://latinanplad.com:8080/smartbconven/DJMCDKMuW2tt/448
 #EXTINF:-1 group-title="CINE",ACCION Y CLASICAS
 http://latinanplad.com:8080/smartbconven/DJMCDKMuW2tt/1463
-#EXTINF:-1 group-title="PCINE",ACCION Y CLASICAS
+#EXTINF:-1 group-title="CINE",ACCION Y CLASICAS
 http://latinanplad.com:8080/Rodriguez26/Rodriguez26/1463
 
 #EXTINF:-1 group-title="CINE PPV",CINE PPV LATINOS 1
@@ -1268,8 +1268,6 @@ http://kp-thebestiptv.com:8080/movie/Galindo21/5anJqAHmvb/145849.mkv
 http://latinanplad.com:8080/movie/Rodriguez26/Rodriguez26/148225.mp4
 #EXTINF:-1 group-title="SCOOBY DOO",Scooby Doo! (2020) 4K
 http://latinanplad.com:8080/movie/Rodriguez26/Rodriguez26/120879.mkv
-
-
 #EXTINF:-1 group-title="SCOOBY DOO",Scooby-Doo! La Espada (2021)
 http://allstar.is-by.us:25461/movie/CELIAPLAN/DS23Xum3dh/6370.mp4
 #EXTINF:-1 group-title="SCOOBY DOO",Scooby-Doo Misterio En La Lucha Libre
@@ -1322,36 +1320,34 @@ http://kp-thebestiptv.com:8080/movie/Galindo21/5anJqAHmvb/61770.mp4
 http://kp-thebestiptv.com:8080/movie/Galindo21/5anJqAHmvb/68968.mp4
 #EXTINF:-1 group-title="SCOOBY DOO",Scooby-Doo! The Sword and the Scoob (Dual)
 http://kp-thebestiptv.com:8080/movie/Galindo21/5anJqAHmvb/76798.mkv
-#EXTINF:-1,Straight Outta Nowhere: Scooby-Doo! Meets Courage the Cowardly Dog (Dual)
+#EXTINF:-1 group-title="SCOOBY DOO",Straight Outta Nowhere: Scooby-Doo! Meets Courage the Cowardly Dog (Dual)
 http://kp-thebestiptv.com:8080/movie/Galindo21/5anJqAHmvb/95161.mkv
-#EXTINF:-1,Scooby-Doo y el Fantasma de la Bruja (Dual)
+#EXTINF:-1 group-title="SCOOBY DOO",Scooby-Doo y el Fantasma de la Bruja (Dual)
 http://kp-thebestiptv.com:8080/movie/Galindo21/5anJqAHmvb/99163.mkv
-#EXTINF:-1,Scooby Doo y los Robots (Dual)
+#EXTINF:-1 group-title="SCOOBY DOO",Scooby Doo y los Robots (Dual)
 http://kp-thebestiptv.com:8080/movie/Galindo21/5anJqAHmvb/99164.mkv
-#EXTINF:-1,Scooby-Doo y el Monstruo del Lago Ness (Dual)
+#EXTINF:-1 group-title="SCOOBY DOO",Scooby-Doo y el Monstruo del Lago Ness (Dual)
 http://kp-thebestiptv.com:8080/movie/Galindo21/5anJqAHmvb/99165.mkv
-#EXTINF:-1,Scooby Doo: Piratas a la Vista (Dual)
+#EXTINF:-1 group-title="SCOOBY DOO",Scooby Doo: Piratas a la Vista (Dual)
 http://kp-thebestiptv.com:8080/movie/Galindo21/5anJqAHmvb/99166.mkv
-#EXTINF:-1,Scooby-Doo y el Abominable Hombre de las Nieves (Dual)
+#EXTINF:-1 group-title="SCOOBY DOO",Scooby-Doo y el Abominable Hombre de las Nieves (Dual)
 http://kp-thebestiptv.com:8080/movie/Galindo21/5anJqAHmvb/99167.mkv
-#EXTINF:-1,Scooby-Doo y los Hermanos Boo (Dual)
+#EXTINF:-1 group-title="SCOOBY DOO",Scooby-Doo y los Hermanos Boo (Dual)
 http://kp-thebestiptv.com:8080/movie/Galindo21/5anJqAHmvb/99381.mkv
-#EXTINF:-1,Scooby Doo y la Invasion Extraterrestre (Dual)
+#EXTINF:-1 group-title="SCOOBY DOO",Scooby Doo y la Invasion Extraterrestre (Dual)
 http://kp-thebestiptv.com:8080/movie/Galindo21/5anJqAHmvb/99493.mkv
-#EXTINF:-1,Scooby Doo y la Maldicion de Cleopatra (Dual)
+#EXTINF:-1 group-title="SCOOBY DOO",Scooby Doo y la Maldicion de Cleopatra (Dual)
 http://kp-thebestiptv.com:8080/movie/Galindo21/5anJqAHmvb/106002.mkv
-#EXTINF:-1,Scooby-Doo y la Leyenda del Vampiro  (Dual)
+#EXTINF:-1 group-title="SCOOBY DOO",Scooby-Doo y la Leyenda del Vampiro  (Dual)
 http://kp-thebestiptv.com:8080/movie/Galindo21/5anJqAHmvb/3987.mkv
-#EXTINF:-1,Scooby-Doo en la Isla de los Zombies (Dual)
+#EXTINF:-1 group-title="SCOOBY DOO",Scooby-Doo en la Isla de los Zombies (Dual)
 http://kp-thebestiptv.com:8080/movie/Galindo21/5anJqAHmvb/3986.mkv
-#EXTINF:-1,Truco o Trato Scooby-Doo! (Dual)
+#EXTINF:-1 group-title="SCOOBY DOO",Truco o Trato Scooby-Doo! (Dual)
 http://kp-thebestiptv.com:8080/movie/Galindo21/5anJqAHmvb/145849.mkv
-#EXTINF:-1,¡Truco o trato Scooby-Doo! (2022)
+#EXTINF:-1 group-title="SCOOBY DOO",¡Truco o trato Scooby-Doo! (2022)
 http://latinanplad.com:8080/movie/Rodriguez26/Rodriguez26/148225.mp4
-#EXTINF:-1, Scooby Doo! (2020) 4K
+#EXTINF:-1 group-title="SCOOBY DOO",Scooby Doo! (2020) 4K
 http://latinanplad.com:8080/movie/Rodriguez26/Rodriguez26/120879.mkv
-
-
 #EXTINF:-1 group-title="SCOOBY DOO",Scooby Doo! (2020) 4K
 http://latinanplad.com:8080/movie/Tete/Tete/120879.mkv
 #EXTINF:-1 group-title="SCOOBY DOO",¡Truco o trato Scooby-Doo! (2022)
@@ -1505,11 +1501,11 @@ http://latinanplad.com:8080/movie/Rodriguez26/Rodriguez26/112664.mkv
 http://latinanplad.com:8080/movie/Rodriguez26/Rodriguez26/112664.mkv
 #EXTINF:-1 group-title="La Lego Ninjago película",La Lego Ninjago película (2017)
 http://latinanplad.com:8080/movie/Rodriguez26/Rodriguez26/154218.mp4
-#EXTINF:-1 group-title="Jurassic World: Dominion",,Jurassic World: Dominion (2022)
+#EXTINF:-1 group-title="Jurassic World: Dominion",Jurassic World: Dominion (2022)
 http://latinanplad.com:8080/movie/Rodriguez26/Rodriguez26/112635.mp4
 #EXTINF:-1 group-title="Jurassic World: Dominion",Jurassic World: Dominion (2022) 4K
 http://latinanplad.com:8080/movie/Rodriguez26/Rodriguez26/120915.mkv
-#EXTINF:-1 group-title="Jurassic World: Dominion",,Jurassic World: Dominion (2022) 4K
+#EXTINF:-1 group-title="Jurassic World: Dominion",Jurassic World: Dominion (2022) 4K
 http://latinanplad.com:8080/movie/Rodriguez26/Rodriguez26/120915.mkv
 #EXTINF:-1 group-title="Sonic 2",Sonic 2: La película (2022) 4K
 http://latinanplad.com:8080/movie/Rodriguez26/Rodriguez26/120942.mkv
