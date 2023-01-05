@@ -191,8 +191,6 @@ http://777back.xyz:8080/restreamUSA/tmDYEuwqAs/90
 http://777back.xyz:8080/restreamUSA/tmDYEuwqAs/130969
 #EXTINF:-1 group-title="UNIVERSAL",UNIVERSAL PREMIERE
 http://777back.xyz:8080/restreamUSA/tmDYEuwqAs/130968
-#EXTINF:-1 group-title="UNIVERSAL",NBC UNIVERSO HD
-http://777back.xyz:8080/restreamUSA/tmDYEuwqAs/210658
 #EXTINF:-1 group-title="UNIVERSAL",UNIVERSAL CINEMA HD
 http://777back.xyz:8080/restreamUSA/tmDYEuwqAs/210687
 #EXTINF:-1 group-title="UNIVERSAL",Universal Cinema
@@ -201,8 +199,6 @@ http://kp-thebestiptv.com:8080/Galindo21/5anJqAHmvb/60980
 http://777back.xyz:8080/restreamUSA/tmDYEuwqAs/130967
 #EXTINF:-1 group-title="UNIVERSAL",CINEMA UNIVERSAL
 http://777back.xyz:8080/restreamUSA/tmDYEuwqAs/130966
-#EXTINF:-1 group-title="UNIVERSAL",UNIVERSO
-http://kp-thebestiptv.com:8080/Galindo21/5anJqAHmvb/259
 #EXTINF:-1 group-title="UNIVERSAL",Universal Cinema SD
 http://kp-thebestiptv.com:8080/Galindo21/5anJqAHmvb/60980
 #EXTINF:-1 group-title="UNIVERSAL",Universal Premium SD
@@ -249,6 +245,21 @@ http://latinanplad.com:8080/Rodriguez26/Rodriguez26/67
 http://latinanplad.com:8080/Rodriguez26/Rodriguez26/340
 #EXTINF:-1 group-title="UNIVERSAL",UNIVERSAL PREMIER
 http://latinanplad.com:8080/Rodriguez26/Rodriguez26/344
+
+#EXTINF:-1 group-title="UNIVERSO",NBC UNIVERSO HD
+http://777back.xyz:8080/restreamUSA/tmDYEuwqAs/210658
+#EXTINF:-1 group-title="UNIVERSO",NBC Universo
+http://1on2.xyz:25461/Josetiburcio1707/Josetiburcio1707/50705
+#EXTINF:-1 group-title="UNIVERSO",UNIVERSO
+http://kp-thebestiptv.com:8080/Galindo21/5anJqAHmvb/259
+
+#EXTINF:-1 group-title="NOVELAS",Pasiones HD
+http://1on2.xyz:25461/Josetiburcio1707/Josetiburcio1707/50706
+#EXTINF:-1 group-title="NOVELAS",Pasiones (OP2)
+http://1on2.xyz:25461/Josetiburcio1707/Josetiburcio1707/50708
+#EXTINF:-1 group-title="NOVELAS",TL Novelas
+http://1on2.xyz:25461/Josetiburcio1707/Josetiburcio1707/50709
+
 
 #EXTINF:-1 group-title="DC COMICS",DC COMIC
 http://777back.xyz:8080/restreamUSA/tmDYEuwqAs/111607
@@ -419,6 +430,9 @@ http://latinanplad.com:8080/Rodriguez26/Rodriguez26/1459
 #EXTINF:-1 group-title="GARFIELD Y SUS AMIGOS",GARFIELD Y SUS AMIGOS
 http://latinanplad.com:8080/Rodriguez26/Rodriguez26/1474
 
+#EXTINF:-1 group-title="INFANTIL DON GATO Y SU PANDILLA",INFANTIL DON GATO Y SU PANDILLA
+http://latinanplad.com:8080/Tete/Tete/1490
+
 #EXTINF:-1 group-title="SPACE",SPACE HD
 http://777back.xyz:8080/restreamUSA/tmDYEuwqAs/210684
 #EXTINF:-1 group-title="SPACE",SPACE
@@ -544,6 +558,8 @@ http://allstar.is-by.us:25461/CELIAPLAN/DS23Xum3dh/140227
 
 #EXTINF:-1 group-title="LAS ESTRELLAS",LAS ESTRELLAS
 http://777back.xyz:8080/restreamUSA/tmDYEuwqAs/275855
+#EXTINF:-1 group-title="LAS ESTRELLAS",Las Estrellas HD
+http://1on2.xyz:25461/Josetiburcio1707/Josetiburcio1707/50701
 #EXTINF:-1 group-title="LAS ESTRELLAS",LAS ESTRELLAS
 http://190.61.102.67:31589/play/a00g/index.m3u8
 #EXTINF:-1 group-title="LAS ESTRELLAS",LAS ESTRELLAS
@@ -592,9 +608,15 @@ http://777back.xyz:8080/restreamUSA/tmDYEuwqAs/277157
 http://allstar.is-by.us:25461/CELIAPLAN/DS23Xum3dh/140228
 #EXTINF:-1 group-title="UNIMAS",UNIMAS WEST
 http://allstar.is-by.us:25461/CELIAPLAN/DS23Xum3dh/140229
+#EXTINF:-1 group-title="UNIMAS",Unimas Nueva York SD
+http://1on2.xyz:25461/Josetiburcio1707/Josetiburcio1707/50745
+#EXTINF:-1 group-title="UNIMAS",Unimas Nueva York
+http://1on2.xyz:25461/Josetiburcio1707/Josetiburcio1707/50746
 
 #EXTINF:-1 group-title="GALAVISION",GALAVISION
 http://777back.xyz:8080/restreamUSA/tmDYEuwqAs/73005
+#EXTINF:-1 group-title="GALAVISION",Galavision East HD
+http://1on2.xyz:25461/Josetiburcio1707/Josetiburcio1707/50685
 #EXTINF:-1 group-title="GALAVISION",GALAVISION EAST
 http://allstar.is-by.us:25461/CELIAPLAN/DS23Xum3dh/140230
 #EXTINF:-1 group-title="GALAVISION",GALAVISION WEST
@@ -795,6 +817,10 @@ http://777back.xyz:8080/restreamUSA/tmDYEuwqAs/145265
 http://777back.xyz:8080/restreamUSA/tmDYEuwqAs/68413
 #EXTINF:-1 group-title="AFIZZIONADOS",AFIZZIONADOS
 http://777back.xyz:8080/restreamUSA/tmDYEuwqAs/145267
+#EXTINF:-1 group-title="AFIZZIONADOS",DEP HD: Afizzionados HD
+http://1on2.xyz:25461/Josetiburcio1707/Josetiburcio1707/51281
+#EXTINF:-1 group-title="AFIZZIONADOS",DEP HD: Afizzionados FHD (OP2)
+http://1on2.xyz:25461/Josetiburcio1707/Josetiburcio1707/51282
 #EXTINF:-1 group-title="AFIZZIONADOS",AFIZZIONADOS
 http://megatitan.net:8080/mattfelipe/9wamh4g92v/451932
 #EXTINF:-1 group-title="AFIZZIONADOS",AFIZZIONADOS HD
@@ -1460,11 +1486,11 @@ http://54.39.52.63/PELICULAS%20POR%20MES/NOVIEMBRE/23NOV/4658.Black.Adam.2022.10
 #EXTINF:-1 group-title="BLACK ADAM",BLACK ADAM
 http://teamnextlevel.xyz:25461/movie/vicente/vicente/236666.mkv
 
-#EXTINF:-1 group-title="THOR",Thor: Love and Thunder
+#EXTINF:-1 group-title="THOR",Thor Love and Thunder
 http://teamnextlevel.xyz:25461/movie/vicente/vicente/224586.mkv
-#EXTINF:-1 group-title="THOR",Thor: Love and Thunder (2022)
+#EXTINF:-1 group-title="THOR",Thor Love and Thunder (2022)
 http://latinanplad.com:8080/movie/Rodriguez26/Rodriguez26/115011.mp4
-#EXTINF:-1 group-title=""THOR",Thor: Love and Thunder (2022) 4K
+#EXTINF:-1 group-title="THOR",Thor Love and Thunder (2022) 4K
 http://latinanplad.com:8080/movie/Rodriguez26/Rodriguez26/120945.mkv
 
 #EXTINF:-1 group-title="GUARDIANES DE LA GALAXIA",Guardianes de la galaxia Holiday Especial
@@ -1551,7 +1577,7 @@ http://latinanplad.com:8080/movie/Rodriguez26/Rodriguez26/120944.mkv
 http://latinanplad.com:8080/movie/Rodriguez26/Rodriguez26/130565.mkv
 #EXTINF:-1 group-title="La momia",La momia (1999) 4K
 http://latinanplad.com:8080/movie/Rodriguez26/Rodriguez26/120917.mkv
-#EXTINF:-1 group-title=",Morbius",Morbius (2022) 4K
+#EXTINF:-1 group-title="Morbius",Morbius (2022) 4K
 http://latinanplad.com:8080/movie/Rodriguez26/Rodriguez26/120929.mkv
 #EXTINF:-1 group-title="Fast & Furious",Fast & Furious: Hobbs & Shaw (2019) 4K
 http://latinanplad.com:8080/movie/Rodriguez26/Rodriguez26/120937.mkv
