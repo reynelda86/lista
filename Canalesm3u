@@ -986,13 +986,30 @@ http://kp-thebestiptv.com:8080/movie/Galindo21/5anJqAHmvb/145849.mkv
 #EXTINF:-1 group-title="SCOOBY DOO",¡Truco o trato Scooby-Doo! (2022)
 http://latinanplad.com:8080/movie/Rodriguez26/Rodriguez26/148225.mp4
 
+#EXTINF:-1 group-title="AVATAR",Avatar (4K)
+http://vod.tuxchannel.mx/peliculas4k/avatar.mkv
+
+#EXTINF:-1 group-title="CAPITAN AMERICA",Capitan America: Guerra civil (4K)
+http://vod.tuxchannel.mx/peliculas4k/captain%20america%20civil%20war.mkv
+
 #EXTINF:-1 group-title="BLACK ADAM",BLACK ADAM
 http://teamnextlevel.xyz:25461/movie/vicente/vicente/236666.mkv
+#EXTINF:-1 group-title="BLACK ADAM",Black Adam (4K)
+http://54.39.52.63/PELICULAS%20POR%20MES/NOVIEMBRE/24NOV/Black.Adam.2160p.4K-dual-lat.mkv
 
-#EXTINF:-1 group-title="Thor Love and Thunder",Thor Love and Thunder
+#EXTINF:-1,#EXTINF:-1 group-title="GUARDIANES DE LA GALAXIA",Guardianes de la galaxia (4K)
+http://vod.tuxchannel.mx/peliculas4k/guardians%20of%20the%20galaxy.mkv
+#EXTINF:-1,#EXTINF:-1 group-title="GUARDIANES DE LA GALAXIA",Guardianes de la galaxia vol.2 (4K)
+http://vod.tuxchannel.mx/peliculas4k/guardians%20of%20the%20galaxy%20vol%202.mkv
+
+#EXTINF:-1 group-title="THOR",Thor Love and Thunder
 http://teamnextlevel.xyz:25461/movie/vicente/vicente/224586.mkv
-#EXTINF:-1 group-title="Thor Love and Thunder",Thor Love and Thunder (2022)
+#EXTINF:-1 group-title="THOR",Thor Love and Thunder (2022)
 http://latinanplad.com:8080/movie/Rodriguez26/Rodriguez26/115011.mp4
+#EXTINF:-1 group-title="THOR",Thor (4K)
+http://vod.tuxchannel.mx/peliculas4k/thor.mkv
+#EXTINF:-1 group-title="THOR",Thor: El mundo oscuro (4K)
+http://vod.tuxchannel.mx/peliculas4k/thor%20the%20dark%20world.mkv
 
 #EXTINF:-1 group-title="BOB ESPONJA",BOB ESPONJA
 http://teamnextlevel.xyz:25461/vicente/vicente/230051
@@ -1025,6 +1042,8 @@ http://latinanplad.com:8080/movie/Rodriguez26/Rodriguez26/112523.mp4
 
 #EXTINF:-1 group-title="JURASSIC",Jurassic World: Dominion (2022)
 http://latinanplad.com:8080/movie/Rodriguez26/Rodriguez26/112635.mp4
+#EXTINF:-1 group-title="JURASSIC",Jurassic World (4K)
+http://vod.tuxchannel.mx/peliculas4k/jurassic%20world.mkv
 
 #EXTINF:-1 group-title="BATMAN",The Batman (2022) HD
 http://latinanplad.com:8080/movie/Rodriguez26/Rodriguez26/115713.mkv
@@ -1038,3 +1057,23 @@ http://latinanplad.com:8080/movie/Rodriguez26/Rodriguez26/114979.mkv
 http://latinanplad.com:8080/movie/Rodriguez26/Rodriguez26/114980.mkv
 #EXTINF:-1 group-title="IRON MAN",Iron Man 3 (2013)
 http://latinanplad.com:8080/movie/Rodriguez26/Rodriguez26/114981.mkv
+
+#EXTINF:-1 group-title="RESIDENT EVIL",Resident evil 1: El huesped maldito (4K)
+http://vod.tuxchannel.mx/peliculas4k/resident%20evil.mkv
+#EXTINF:-1 group-title="RESIDENT EVIL",Resident evil 2: Apocalipsis (4K)
+http://vod.tuxchannel.mx/peliculas4k/resident%20evil%20apocalypse.mkv
+#EXTINF:-1 group-title="RESIDENT EVIL",Resident evil 3: Extincion (4K)
+http://vod.tuxchannel.mx/peliculas4k/resident%20evil%20extinction.mkv
+#EXTINF:-1 group-title="RESIDENT EVIL",Resident evil 4: Resurreccion (4K)
+http://vod.tuxchannel.mx/peliculas4k/resident%20evil%20afterlife.mkv
+#EXTINF:-1 group-title="RESIDENT EVIL",Resident evil 5: Venganza (4K)
+http://vod.tuxchannel.mx/peliculas4k/resident%20evil%20retribution.mkv
+#EXTINF:-1 group-title="RESIDENT EVIL",Resident evil 6: Capitulo final (4K)
+http://vod.tuxchannel.mx/peliculas4k/resident%20evil%20the%20final%20chapter.mkv
+
+#EXTINF:-1 group-title="VENGADORES",Los Vengadores (2012)
+http://vod.tuxchannel.mx/peliculas/720/the%20avengers.mkv
+#EXTINF:-1 group-title="VENGADORES",Vengadores: La era de Ultrón (4K)
+http://vod.tuxchannel.mx/peliculas4k/avengers%20age%20of%20ultron.mkv
+#EXTINF:-1 group-title="VENGADORES",Vengadores: Infinity war (2018)
+http://vod.tuxchannel.mx/peliculas/720/avengers%20infinity%20war.mkv
