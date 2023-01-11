@@ -1097,3 +1097,9 @@ http://tv.teleclub.xyz/stream/Deportes/FOXSPORTS_PREMIUM/index.m3u8
 http://tv.teleclub.xyz/stream/Paises/AMERICA_TV/index.m3u8
 #EXTINF:-1 group-title="TELECLUB",CINECANAL
 http://tv.teleclub.xyz/stream/Entretenimiento/CINECANAL/index.m3u8
+#EXTINF:-1 group-title="TELECLUB",HBO
+http://tv.teleclub.xyz/stream/Entretenimiento/HBO/index.m3u8
+#EXTINF:-1 group-title="TELECLUB",HBO 2
+http://tv.teleclub.xyz/stream/Entretenimiento/HBO_2/index.m3u8
+#EXTINF:-1 group-title="TELECLUB",HBO PLUS
+http://tv.teleclub.xyz/stream/Entretenimiento/HBO_PLUS/index.m3u8
