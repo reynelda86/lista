@@ -371,6 +371,8 @@ http://allstar.is-by.us:25461/CELIAPLAN/DS23Xum3dh/140231
 #EXTINF:-1 group-title="NFL",NFL
 http://teamnextlevel.xyz:25461/vicente/vicente/201592
 #EXTINF:-1 group-title="NFL",NFL
+http://tv.teleclub.xyz/stream/Deportes/NFL_CHANNEL/index.m3u8
+#EXTINF:-1 group-title="NFL",NFL
 http://teamnextlevel.xyz:25461/vicente/vicente/193300
 #EXTINF:-1 group-title="NFL",NFL HD
 http://allstar.is-by.us:25461/CELIAPLAN/DS23Xum3dh/140200
@@ -397,13 +399,13 @@ http://tv.teleclub.xyz/stream/Deportes/FOXSPORTS_PREMIUM/index.m3u8
 http://arboltv.xyz:8080/josemoralesse/ZQhSTTWax52C/124320
 #EXTINF:-1 group-title="FOX SPORTS PREMIUM",FOX SPORTS PREMIUM HD
 http://latinanplad.com:8080/Rodriguez26/Rodriguez26/27857
-#EXTINF:-1 group-title="FOX SPORTS",FOX SPORTS PREMIUM HD
+#EXTINF:-1 group-title="FOX SPORTS PREMIUM",FOX SPORTS PREMIUM HD
 http://latinanplad.com:8080/Rodriguez26/Rodriguez26/27857
-#EXTINF:-1 group-title="FOX SPORTS",FOX SPORTS PREMIUM
+#EXTINF:-1 group-title="FOX SPORTS PREMIUM",FOX SPORTS PREMIUM
 http://axr.life:80/096154/686531/1044581
-#EXTINF:-1 group-title="FOX SPORTS",FOX SPORTS PREMIUM
+#EXTINF:-1 group-title="FOX SPORTS PREMIUM",FOX SPORTS PREMIUM
 http://axr.life:80/096154/686531/1058496
-#EXTINF:-1,MEXICO DEPORTES | FOX SPORTS PREMIUM
+#EXTINF:-1 group-title="FOX SPORTS PREMIUM",FOX SPORTS PREMIUM
 http://arboltv.xyz:8080/josemoralesse/ZQhSTTWax52C/124320
 
 #EXTINF:-1 group-title="FOX SPORTS",FOX SPORTS 1 HD MEXICO
@@ -781,6 +783,8 @@ http://allstar.is-by.us:25461/CELIAPLAN/DS23Xum3dh/140112
 
 #EXTINF:-1 group-title="1 AMERICA TV",AMERICA TV OPCION 2
 http://latinanplad.com:8080/Tete/Tete/259
+#EXTINF:-1 group-title="1 AMERICA TV",AMERICA TV
+http://tv.teleclub.xyz/stream/Paises/AMERICA_TV/index.m3u8
 #EXTINF:-1 group-title="1 AMERICA TV",AMERICA PERU
 http://kp-thebestiptv.com:8080/Galindo21/5anJqAHmvb/42952
 #EXTINF:-1 group-title="1 AMERICA TV",AMERICA PERU
