@@ -1324,10 +1324,24 @@ http://kp-thebestiptv.com:8080/movie/Galindo21/5anJqAHmvb/145849.mkv
 http://latinanplad.com:8080/movie/Rodriguez26/Rodriguez26/148225.mp4
 
 #EXTINF:-1 group-title="AVATAR",Avatar (4K)
-http://vod.tuxchannel.mx/peliculas4k/avatar.mkv
+http://tv-cool.com:25461/movie/2022850718/26f6d3a754/81230.mp4
 
+
+#EXTINF:-1 group-title="CAPITAN AMERICA",Capitán América: El soldado de invierno (2014)
+http://tv-cool.com:25461/movie/2022850718/26f6d3a754/81429.mp4
 #EXTINF:-1 group-title="CAPITAN AMERICA",Capitan America: Guerra civil (4K)
 http://vod.tuxchannel.mx/peliculas4k/captain%20america%20civil%20war.mkv
+
+#EXTINF:-1 group-title="CONDORITO",Condorito: La película (2017)
+http://tv-cool.com:25461/movie/2022850718/26f6d3a754/92459.mp4
+
+#EXTINF:-1 group-title="DIA DE LA MARMOTA",El día de la marmota (1993)
+http://tv-cool.com:25461/movie/2022850718/26f6d3a754/93081.mp4
+
+
+#EXTINF:-1 group-title="DC COMICS",Aventuras de la Liga de la Justicia: Atrapados en el Tiempo (2014)
+http://tv-cool.com:25461/movie/2022850718/26f6d3a754/93454.mkv
+
 
 #EXTINF:-1 group-title="BLACK ADAM",BLACK ADAM
 http://teamnextlevel.xyz:25461/movie/vicente/vicente/236666.mkv
@@ -1382,6 +1396,9 @@ http://latinanplad.com:8080/movie/Rodriguez26/Rodriguez26/112635.mp4
 #EXTINF:-1 group-title="JURASSIC",Jurassic World (4K)
 http://vod.tuxchannel.mx/peliculas4k/jurassic%20world.mkv
 
+
+#EXTINF:-1 group-title="BATMAN",Batman vs. Teenage Mutant Ninja Turtles (2019)
+http://tv-cool.com:25461/movie/2022850718/26f6d3a754/79858.mp4
 #EXTINF:-1 group-title="BATMAN",The Batman (2022) HD
 http://latinanplad.com:8080/movie/Rodriguez26/Rodriguez26/115713.mkv
 
