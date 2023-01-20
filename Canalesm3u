@@ -171,6 +171,8 @@ http://latinanplad.com:8080/movie/Rodriguez26/Rodriguez26/112664.mkv
 #EXTINF:-1 group-title="LEGO",LEGO Star Wars: Vacaciones de verano (2022)
 http://latinanplad.com:8080/movie/Rodriguez26/Rodriguez26/112664.mkv
 
+#EXTINF:-1 group-title="CINECANAL",Cinecanal ғʜᴅ
+http://tv-cool.com:25461/2022850718/26f6d3a754/29734
 #EXTINF:-1 group-title="CINECANAL",Cinecanal 2ᴍʙ
 http://tv-cool.com:25461/2022850718/26f6d3a754/30661
 #EXTINF:-1 group-title="CINECANAL",CINECANAL
@@ -205,9 +207,13 @@ http://tv-cool.com:25461/2022850718/26f6d3a754/29795
 
 #EXTINF:-1 group-title="AMC",AMC 2ᴍʙ
 http://tv-cool.com:25461/2022850718/26f6d3a754/45928
+#EXTINF:-1 group-title="AMC",AMC ʜᴅ
+http://tv-cool.com:25461/2022850718/26f6d3a754/45874
 
 #EXTINF:-1 group-title="AXN",AXN 2ᴍʙ
 http://tv-cool.com:25461/2022850718/26f6d3a754/30659
+#EXTINF:-1 group-title="AXN",AXN ғʜᴅ
+http://tv-cool.com:25461/2022850718/26f6d3a754/41008
 
 #EXTINF:-1 group-title="TNT",TNT (N)
 http://latinanplad.com:8080/Rodriguez26/Rodriguez26/128
