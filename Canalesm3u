@@ -867,6 +867,24 @@ http://tv-cool.com:25461/2022850718/26f6d3a754/78685
 http://tv-cool.com:25461/2022850718/26f6d3a754/78702
 #EXTINF:-1 group-title="NBC",NBC Kansas City
 http://31.14.41.118:8080/Matt26746595/WmU5aBL80E/145884
+#EXTINF:-1 group-title="NBC",NBC Chicago (WMAQ)
+http://tv-cool.com:25461/2022850718/26f6d3a754/30325
+#EXTINF:-1 group-title="NBC",NBC Miami (WTVJ)
+http://tv-cool.com:25461/2022850718/26f6d3a754/43075
+#EXTINF:-1 group-title="NBC",NBC New Orleans (WDSU)
+http://tv-cool.com:25461/2022850718/26f6d3a754/43078
+#EXTINF:-1 group-title="NBC",NBC New York (WNBC)
+http://tv-cool.com:25461/2022850718/26f6d3a754/43079
+#EXTINF:-1 group-title="NBC",NBC Sports Boston
+http://tv-cool.com:25461/2022850718/26f6d3a754/68024
+#EXTINF:-1 group-title="NBC",NBC Sports California
+http://tv-cool.com:25461/2022850718/26f6d3a754/30326
+#EXTINF:-1 group-title="NBC",NBC Sports Chicago
+http://tv-cool.com:25461/2022850718/26f6d3a754/43066
+#EXTINF:-1 group-title="NBC",NBC Sports Chicago Plus
+http://tv-cool.com:25461/2022850718/26f6d3a754/68025
+#EXTINF:-1 group-title="NBC",NBC Sports Philadelphia Plus
+http://tv-cool.com:25461/2022850718/26f6d3a754/68027
 
 #EXTINF:-1 group-title="DREAMWORKS",CINEMA DREAMWORKS
 http://teamnextlevel.xyz:25461/vicente/vicente/230046
