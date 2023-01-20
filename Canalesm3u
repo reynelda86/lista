@@ -431,6 +431,8 @@ http://tv-cool.com:25461/2022850718/26f6d3a754/43719
 http://190.61.102.67:31589/play/a00g/index.m3u8
 #EXTINF:-1 group-title="LAS ESTRELLAS",LAS ESTRELLAS
 http://kp-thebestiptv.com:8080/Galindo21/5anJqAHmvb/246
+#EXTINF:-1 group-title="LAS ESTRELLAS",Las Estrellas -2
+http://tv-cool.com:25461/2022850718/26f6d3a754/114732
 #EXTINF:-1 group-title="LAS ESTRELLAS",LAS ESTRELLAS -2H
 http://kp-thebestiptv.com:8080/Galindo21/5anJqAHmvb/245
 #EXTINF:-1 group-title="LAS ESTRELLAS",Las Estrellas Vix+
@@ -989,6 +991,8 @@ http://allstar.is-by.us:25461/CELIAPLAN/DS23Xum3dh/140112
 
 #EXTINF:-1 group-title="1 AMERICA TV",AMERICA TV OPCION 2
 http://latinanplad.com:8080/Tete/Tete/259
+#EXTINF:-1 group-title="1 AMERICA TV",America TV
+http://tv-cool.com:25461/2022850718/26f6d3a754/35846
 #EXTINF:-1 group-title="1 AMERICA TV",AMERICA TV
 http://tv-cool.com:25461/2022850718/26f6d3a754/31667
 #EXTINF:-1 group-title="1 AMERICA TV",AMERICA TV
@@ -1005,6 +1009,19 @@ http://fortv.cc:8080/blade123/blade123/110637
 http://iptvtree.es:80/qtvbox/w6kqBNLz48yf/26.ts
 #EXTINF:-1 group-title="1 AMERICA TV",AMERICA TV
 http://allstar.is-by.us:25461/CELIAPLAN/DS23Xum3dh/59398
+
+#EXTINF:-1 group-title="VIX",Andrenalina
+http://tv-cool.com:25461/2022850718/26f6d3a754/114712
+#EXTINF:-1 group-title="VIX",Cine
+http://tv-cool.com:25461/2022850718/26f6d3a754/114741
+#EXTINF:-1 group-title="VIX",Cine Del Ayer
+http://tv-cool.com:25461/2022850718/26f6d3a754/114714
+#EXTINF:-1 group-title="VIX",Distrito Comedia
+http://tv-cool.com:25461/2022850718/26f6d3a754/114723
+#EXTINF:-1 group-title="VIX",Foro TV
+http://tv-cool.com:25461/2022850718/26f6d3a754/114726
+#EXTINF:-1 group-title="VIX",Unicable
+http://tv-cool.com:25461/2022850718/26f6d3a754/114740
 
 #EXTINF:-1 group-title="LATINA",LATINA SD
 http://streamgo.vip:8008/nando/nando/166623
