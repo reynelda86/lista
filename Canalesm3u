@@ -404,6 +404,22 @@ http://latinanplad.com:8080/Rodriguez26/Rodriguez26/110
 #EXTINF:-1 group-title="DHE",DHE ғʜᴅ
 http://tv-cool.com:25461/2022850718/26f6d3a754/30253
 
+#EXTINF:-1 group-title="TELEMUNDO",Telemundo (TELE)
+http://tv-cool.com:25461/2022850718/26f6d3a754/67996
+#EXTINF:-1 group-title="TELEMUNDO",Telemundo Atlanta (WKTB)
+http://tv-cool.com:25461/2022850718/26f6d3a754/66667
+#EXTINF:-1 group-title="TELEMUNDO",Telemundo Houston (KTMD)
+http://tv-cool.com:25461/2022850718/26f6d3a754/63972
+#EXTINF:-1 group-title="TELEMUNDO",Telemundo Las Vegas (KBLR)
+http://tv-cool.com:25461/2022850718/26f6d3a754/42634
+#EXTINF:-1 group-title="TELEMUNDO",Telemundo Orlando (WTMO)
+http://tv-cool.com:25461/2022850718/26f6d3a754/66666
+#EXTINF:-1 group-title="TELEMUNDO",Telemundo Phoenix
+http://tv-cool.com:25461/2022850718/26f6d3a754/67993
+#EXTINF:-1 group-title="TELEMUNDO",Telemundo Sacramento (KCSO)
+http://tv-cool.com:25461/2022850718/26f6d3a754/67997
+#EXTINF:-1 group-title="TELEMUNDO",Telemundo San Antonio (KVDA)
+http://tv-cool.com:25461/2022850718/26f6d3a754/42632
 #EXTINF:-1 group-title="TELEMUNDO",Telemundo West HH ESP
 http://allstar.is-by.us:25461/CELIAPLAN/DS23Xum3dh/140232
 #EXTINF:-1 group-title="TELEMUNDO",Telemundo East HD ESP
@@ -411,15 +427,27 @@ http://allstar.is-by.us:25461/CELIAPLAN/DS23Xum3dh/140233
 #EXTINF:-1 group-title="TELEMUNDO",Telemundo Mountain HD ESP
 http://allstar.is-by.us:25461/CELIAPLAN/DS23Xum3dh/140234
 
-#EXTINF:-1 group-title="UNIVISON",UNIVISION EAST
+#EXTINF:-1 group-title="UNIVISION",Univision Los Angeles (KMEX) ©
+http://tv-cool.com:25461/2022850718/26f6d3a754/43111
+#EXTINF:-1 group-title="UNIVISION",Univision Miami (WLTV) ©
+http://tv-cool.com:25461/2022850718/26f6d3a754/35572
+#EXTINF:-1 group-title="UNIVISION",Univision New York (WXTV) ©
+http://tv-cool.com:25461/2022850718/26f6d3a754/43113
+#EXTINF:-1 group-title="UNIVISION",Univision Philadelphia (WUPV)
+http://tv-cool.com:25461/2022850718/26f6d3a754/44186
+#EXTINF:-1 group-title="UNIVISION",Univision Phoenix (WXTV)
+http://tv-cool.com:25461/2022850718/26f6d3a754/68010
+#EXTINF:-1 group-title="UNIVISION",Univision Puerto Rico (WLII)
+http://tv-cool.com:25461/2022850718/26f6d3a754/43105
+#EXTINF:-1 group-title="UNIVISION",UNIVISION EAST
 http://allstar.is-by.us:25461/CELIAPLAN/DS23Xum3dh/140223
-#EXTINF:-1 group-title="UNIVISON",UNIVISION WEST
+#EXTINF:-1 group-title="UNIVISION",UNIVISION WEST
 http://allstar.is-by.us:25461/CELIAPLAN/DS23Xum3dh/140224
-#EXTINF:-1 group-title="UNIVISON",UNIVERSO EAST
+#EXTINF:-1 group-title="UNIVISION",UNIVERSO EAST
 http://allstar.is-by.us:25461/CELIAPLAN/DS23Xum3dh/140225
-#EXTINF:-1 group-title="UNIVISON",UNIVERSO WEST
+#EXTINF:-1 group-title="UNIVISION",UNIVERSO WEST
 http://allstar.is-by.us:25461/CELIAPLAN/DS23Xum3dh/140226
-#EXTINF:-1 group-title="UNIVISON",UNIVISION MOUNT
+#EXTINF:-1 group-title="UNIVISION",UNIVISION MOUNT
 http://allstar.is-by.us:25461/CELIAPLAN/DS23Xum3dh/140227
 
 
@@ -449,11 +477,27 @@ http://allstar.is-by.us:25461/CELIAPLAN/DS23Xum3dh/140123
 #EXTINF:-1 group-title="5",Canal 5 HD Mexico
 http://allstar.is-by.us:25461/CELIAPLAN/DS23Xum3dh/140213
 
+#EXTINF:-1 group-title="UNIMAS",Unimas Atlanta (WUVG)
+http://tv-cool.com:25461/2022850718/26f6d3a754/59670
+#EXTINF:-1 group-title="UNIMAS",Unimas Austin (KTFO)
+http://tv-cool.com:25461/2022850718/26f6d3a754/68007
+#EXTINF:-1 group-title="UNIMAS",Unimas Miami (WAMI)
+http://tv-cool.com:25461/2022850718/26f6d3a754/44183
+#EXTINF:-1 group-title="UNIMAS",Unimas New York (WFUT)
+http://tv-cool.com:25461/2022850718/26f6d3a754/40706
+#EXTINF:-1 group-title="UNIMAS",Unimas Sacramento
+http://tv-cool.com:25461/2022850718/26f6d3a754/43097
 #EXTINF:-1 group-title="UNIMAS",UNIMAS EAST
 http://allstar.is-by.us:25461/CELIAPLAN/DS23Xum3dh/140228
 #EXTINF:-1 group-title="UNIMAS",UNIMAS WEST
 http://allstar.is-by.us:25461/CELIAPLAN/DS23Xum3dh/140229
 
+#EXTINF:-1 group-title="GALAVISION",Galavision Fresno
+http://tv-cool.com:25461/2022850718/26f6d3a754/78456
+#EXTINF:-1 group-title="GALAVISION",Galavision Houston
+http://tv-cool.com:25461/2022850718/26f6d3a754/78455
+#EXTINF:-1 group-title="GALAVISION",Galavision Salt Lake
+http://tv-cool.com:25461/2022850718/26f6d3a754/78463
 #EXTINF:-1 group-title="GALAVISION",GALAVISION EAST
 http://allstar.is-by.us:25461/CELIAPLAN/DS23Xum3dh/140230
 #EXTINF:-1 group-title="GALAVISION",GALAVISION WEST
@@ -1004,6 +1048,8 @@ http://us1-external-sources.iptvserver.tv:80/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Q
 
 #EXTINF:-1 group-title="ABC",ABC Indianapolis
 http://tv-cool.com:25461/2022850718/26f6d3a754/78593
+#EXTINF:-1 group-title="ABC",ABC New York HD
+http://tv-cool.com:25461/2022850718/26f6d3a754/40538
 #EXTINF:-1 group-title="ABC",ABC Orlando
 http://tv-cool.com:25461/2022850718/26f6d3a754/78602
 #EXTINF:-1 group-title="ABC",ABC Phoenix
