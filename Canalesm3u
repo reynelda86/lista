@@ -645,12 +645,57 @@ http://allstar.is-by.us:25461/CELIAPLAN/DS23Xum3dh/140280
 #EXTINF:-1 group-title="TUDN",TUDN HD
 http://allstar.is-by.us:25461/CELIAPLAN/DS23Xum3dh/140281
 
+#EXTINF:-1 group-title="DAZN",DAZN 4
+http://tv-cool.com:25461/2022850718/26f6d3a754/126815
+#EXTINF:-1 group-title="DAZN",DAZN LaLiga 2 ʜᴅ (ᴇs)
+http://tv-cool.com:25461/2022850718/26f6d3a754/79412
+#EXTINF:-1 group-title="DAZN",DAZN LaLiga 2 ғʜᴅ (ᴇs)
+http://tv-cool.com:25461/2022850718/26f6d3a754/79411
+
+#EXTINF:-1 group-title="DIRECTV SPORTS",Directv Sports 1 ʜᴅ ᴄʟ
+http://tv-cool.com:25461/2022850718/26f6d3a754/61856
+#EXTINF:-1 group-title="DIRECTV SPORTS",Directv Sports 1 ʜᴅ ᴘᴇʀ
+http://tv-cool.com:25461/2022850718/26f6d3a754/76985
+#EXTINF:-1 group-title="DIRECTV SPORTS",Directv Sports 2 ʜᴅ ᴀʀɢ
+http://tv-cool.com:25461/2022850718/26f6d3a754/62551
+#EXTINF:-1 group-title="DIRECTV SPORTS",Directv Sports 2 ʜᴅ ᴄᴏ
+http://tv-cool.com:25461/2022850718/26f6d3a754/76986
+#EXTINF:-1 group-title="DIRECTV SPORTS",Directv Sports Plus ʜᴅ
+http://tv-cool.com:25461/2022850718/26f6d3a754/29930
+
+
 #EXTINF:-1 group-title="ESPN",ESPN
 http://190.61.102.67:31589/play/a064/index.m3u8
 #EXTINF:-1 group-title="ESPN",ESPN 2
 http://190.61.102.67:31589/play/a063/index.m3u8
 #EXTINF:-1 group-title="ESPN",ESPN3
 http://190.61.102.67:31589/play/a03n/index.m3u8
+#EXTINF:-1 group-title="ESPN",ESPN 1 ʜᴅ ᴄᴏ
+http://tv-cool.com:25461/2022850718/26f6d3a754/30250
+#EXTINF:-1 group-title="ESPN",ESPN 1 ғʜᴅ ᴄᴏ
+http://tv-cool.com:25461/2022850718/26f6d3a754/29786
+#EXTINF:-1 group-title="ESPN",ESPN 1 ғʜᴅ ᴄᴏ ᴇɴᴄᴏᴅᴇʀ
+http://tv-cool.com:25461/2022850718/26f6d3a754/76988
+#EXTINF:-1 group-title="ESPN",ESPN 1 ʜᴅ ᴍx
+http://tv-cool.com:25461/2022850718/26f6d3a754/61373
+#EXTINF:-1 group-title="ESPN",ESPN 1 ғʜᴅ ᴍx
+http://tv-cool.com:25461/2022850718/26f6d3a754/78792
+#EXTINF:-1 group-title="ESPN",ESPN 2 ʜᴅ ᴄᴏ
+http://tv-cool.com:25461/2022850718/26f6d3a754/29787
+#EXTINF:-1 group-title="ESPN",ESPN 3 ᴄᴏ
+http://tv-cool.com:25461/2022850718/26f6d3a754/77155
+#EXTINF:-1 group-title="ESPN",ESPN 3 ғʜᴅ ᴄᴏ
+http://tv-cool.com:25461/2022850718/26f6d3a754/30252
+#EXTINF:-1 group-title="ESPN",ESPN 2 ғʜᴅ ᴍx
+http://tv-cool.com:25461/2022850718/26f6d3a754/29749
+#EXTINF:-1 group-title="ESPN",ESPN 4 ғʜᴅ ᴄᴏ
+http://tv-cool.com:25461/2022850718/26f6d3a754/30260
+#EXTINF:-1 group-title="ESPN",ESPN Extra ʜᴅ ᴄᴏ
+http://tv-cool.com:25461/2022850718/26f6d3a754/29789
+#EXTINF:-1 group-title="ESPN",ESPN Extra ʜᴅ ᴍx ᴇɴᴄᴏᴅᴇʀ
+http://tv-cool.com:25461/2022850718/26f6d3a754/61372
+#EXTINF:-1 group-title="ESPN",ESPN Extra ғʜᴅ ᴄᴏ
+http://tv-cool.com:25461/2022850718/26f6d3a754/76987
 #EXTINF:-1 group-title="ESPN",ESPN 1 SUR FHD
 http://kp-thebestiptv.com:8080/Galindo21/5anJqAHmvb/63967
 #EXTINF:-1 group-title="ESPN",ESPN 3 SUR FHD
@@ -803,6 +848,10 @@ http://latinanplad.com:8080/Rodriguez26/Rodriguez26/448
 
 #EXTINF:-1 group-title="CARTOON NETWORK",Cartoon Network 2ᴍʙ
 http://tv-cool.com:25461/2022850718/26f6d3a754/30665
+#EXTINF:-1 group-title="CARTOON NETWORK",Cartoon Network
+http://tv-cool.com:25461/2022850718/26f6d3a754/29799
+#EXTINF:-1 group-title="CARTOON NETWORK",Cartoon Network ғʜᴅ
+http://tv-cool.com:25461/2022850718/26f6d3a754/29733
 #EXTINF:-1 group-title="CARTOON NETWORK",CARTOON NETWORK
 http://kp-thebestiptv.com:8080/Galindo21/5anJqAHmvb/330
 #EXTINF:-1 group-title="CARTOON NETWORK",Cartoon Network SD
@@ -818,6 +867,10 @@ http://allstar.is-by.us:25461/CELIAPLAN/DS23Xum3dh/140142
 
 #EXTINF:-1 group-title="BOOMERANG",Cartoonito 2ᴍʙ
 http://tv-cool.com:25461/2022850718/26f6d3a754/30660
+#EXTINF:-1 group-title="BOOMERANG",Cartoonito
+http://tv-cool.com:25461/2022850718/26f6d3a754/29798
+#EXTINF:-1 group-title="BOOMERANG",Cartoonito ʜᴅ
+http://tv-cool.com:25461/2022850718/26f6d3a754/46256
 #EXTINF:-1 group-title="BOOMERANG",BOOMERANG
 http://kp-thebestiptv.com:8080/Galindo21/5anJqAHmvb/332
 #EXTINF:-1 group-title="BOOMERANG",BOOMERANG
@@ -831,6 +884,12 @@ http://allstar.is-by.us:25461/CELIAPLAN/DS23Xum3dh/140141
 http://allstar.is-by.us:25461/CELIAPLAN/DS23Xum3dh/140143
 #EXTINF:-1 group-title="DISNEY CHANNEL",DISNEY JR HD
 http://allstar.is-by.us:25461/CELIAPLAN/DS23Xum3dh/140144
+#EXTINF:-1 group-title="DISNEY CHANNEL",Disney Channel ʜᴅ (ᴍx)
+http://tv-cool.com:25461/2022850718/26f6d3a754/29746
+#EXTINF:-1 group-title="DISNEY CHANNEL",Disney Junior
+http://tv-cool.com:25461/2022850718/26f6d3a754/41284
+#EXTINF:-1 group-title="DISNEY CHANNEL",Disney Junior ғʜᴅ
+http://tv-cool.com:25461/2022850718/26f6d3a754/62555
 
 #EXTINF:-1 group-title="DISCOVERY KIDS",DISCOVERY KIDS MX HD
 http://allstar.is-by.us:25461/CELIAPLAN/DS23Xum3dh/140145
