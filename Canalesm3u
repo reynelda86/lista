@@ -125,6 +125,13 @@ http://latinanplad.com:8080/Rodriguez26/Rodriguez26/117
 #EXTINF:-1 group-title="HBO",HBO 2 (N)
 http://latinanplad.com:8080/Rodriguez26/Rodriguez26/118
 
+
+#EXTINF:-1 group-title="STARZ",Starz Cinema (ᴅᴜᴀʟ ᴀᴜᴅɪᴏ)
+http://tv-cool.com:25461/2022850718/26f6d3a754/102320
+#EXTINF:-1 group-title="STARZ",Starz Comedy (ᴅᴜᴀʟ ᴀᴜᴅɪᴏ)
+http://tv-cool.com:25461/2022850718/26f6d3a754/102321
+
+
 #EXTINF:-1 group-title="UNIVERSAL",Universal Channel ʜᴅ
 http://tv-cool.com:25461/2022850718/26f6d3a754/41026
 #EXTINF:-1 group-title="UNIVERSAL",Universal Comedy ʜᴅ
