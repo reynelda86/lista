@@ -1462,3 +1462,12 @@ http://tv-cool.com:25461/2022850718/26f6d3a754/49495
 http://tv-cool.com:25461/2022850718/26f6d3a754/49484
 #EXTINF:-1 group-title="24/7",Saga Rapido y Furioso
 http://tv-cool.com:25461/2022850718/26f6d3a754/57575
+
+#EXTINF:-1 group-title="JAMES BOND",007: Casino Royale (2006)
+http://tv-cool.com:25461/movie/2022850718/26f6d3a754/96342.mp4
+#EXTINF:-1 group-title="JAMES BOND",007: Casino Royale (2006) SD
+http://tv-cool.com:25461/movie/2022850718/26f6d3a754/111216.mkv
+#EXTINF:-1 group-title="JAMES BOND",007: Spectre (2015)
+http://tv-cool.com:25461/movie/2022850718/26f6d3a754/96345.mp4
+#EXTINF:-1 group-title="JAMES BOND",007: Spectre (2015) SD
+http://tv-cool.com:25461/movie/2022850718/26f6d3a754/111222.mp4
