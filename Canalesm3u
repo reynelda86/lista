@@ -1,3 +1,9 @@
+#EXTINF:-1 group-title="HBO",HBO 2ᴍʙ
+http://tv-cool.com:25461/2022850718/26f6d3a754/31138
+#EXTINF:-1 group-title="HBO",HBO Family 2ᴍʙ
+http://tv-cool.com:25461/2022850718/26f6d3a754/31139
+#EXTINF:-1 group-title="HBO",HBO Plus 2ᴍʙ
+http://tv-cool.com:25461/2022850718/26f6d3a754/45929
 #EXTINF:-1 group-title="HBO",HBO LATINO (East)
 http://31.14.41.118:8080/Matt26746595/WmU5aBL80E/147306
 #EXTINF:-1 group-title="HBO",HBO LATINO (West)
@@ -165,6 +171,8 @@ http://latinanplad.com:8080/movie/Rodriguez26/Rodriguez26/112664.mkv
 #EXTINF:-1 group-title="LEGO",LEGO Star Wars: Vacaciones de verano (2022)
 http://latinanplad.com:8080/movie/Rodriguez26/Rodriguez26/112664.mkv
 
+#EXTINF:-1 group-title="CINECANAL",Cinecanal 2ᴍʙ
+http://tv-cool.com:25461/2022850718/26f6d3a754/30661
 #EXTINF:-1 group-title="CINECANAL",CINECANAL
 http://190.61.102.67:31589/play/a04q/index.m3u8
 #EXTINF:-1 group-title="CINECANAL",CINECANAL
@@ -248,6 +256,8 @@ http://allstar.is-by.us:25461/CELIAPLAN/DS23Xum3dh/140181
 #EXTINF:-1 group-title="WARNER",WARNER CHANNEL (N)
 http://latinanplad.com:8080/Rodriguez26/Rodriguez26/130
 
+#EXTINF:-1 group-title="FX",FX 2ᴍʙ
+http://tv-cool.com:25461/2022850718/26f6d3a754/31135
 #EXTINF:-1 group-title="FX",FX
 http://190.61.102.67:31589/play/a05z/index.m3u8
 #EXTINF:-1 group-title="FX",FX
