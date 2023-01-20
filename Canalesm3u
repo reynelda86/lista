@@ -264,6 +264,8 @@ http://allstar.is-by.us:25461/CELIAPLAN/DS23Xum3dh/140181
 #EXTINF:-1 group-title="WARNER",WARNER CHANNEL (N)
 http://latinanplad.com:8080/Rodriguez26/Rodriguez26/130
 
+#EXTINF:-1 group-title="FX",FX
+http://tv-cool.com:25461/2022850718/26f6d3a754/77007
 #EXTINF:-1 group-title="FX",FX 2ᴍʙ
 http://tv-cool.com:25461/2022850718/26f6d3a754/31135
 #EXTINF:-1 group-title="FX",FX
@@ -336,6 +338,10 @@ http://allstar.is-by.us:25461/CELIAPLAN/DS23Xum3dh/140155
 #EXTINF:-1 group-title="PARAMOUNT",PARAMOUT (N)
 http://latinanplad.com:8080/Rodriguez26/Rodriguez26/123
 
+#EXTINF:-1 group-title="CINEMAX",Cinemax ʜᴅ
+http://tv-cool.com:25461/2022850718/26f6d3a754/29735
+#EXTINF:-1 group-title="CINEMAX",Cinemax ғʜᴅ
+http://tv-cool.com:25461/2022850718/26f6d3a754/41010
 #EXTINF:-1 group-title="CINEMAX",CINEMAX
 http://streamgo.vip:8008/nando/nando/147255
 #EXTINF:-1 group-title="CINEMAX",CINEMAX HD
@@ -346,6 +352,9 @@ http://allstar.is-by.us:25461/CELIAPLAN/DS23Xum3dh/59079
 http://allstar.is-by.us:25461/CELIAPLAN/DS23Xum3dh/140158
 #EXTINF:-1 group-title="CINEMAX",CINEMAX (N)
 http://latinanplad.com:8080/Rodriguez26/Rodriguez26/110
+
+#EXTINF:-1 group-title="DHE",DHE ғʜᴅ
+http://tv-cool.com:25461/2022850718/26f6d3a754/30253
 
 #EXTINF:-1 group-title="TELEMUNDO",Telemundo West HH ESP
 http://allstar.is-by.us:25461/CELIAPLAN/DS23Xum3dh/140232
