@@ -1390,6 +1390,10 @@ http://latinanplad.com:8080/movie/Rodriguez26/Rodriguez26/112619.mkv
 #EXTINF:-1 group-title="LIGA DE SUPERMASCOTAS",Liga de supermascotas (2022)
 http://latinanplad.com:8080/movie/Rodriguez26/Rodriguez26/112501.mkv
 
+#EXTINF:-1 group-title="DOCTOR STRANGE",Doctor Strange en el multiverso de la locura (2022) 1080p
+http://hidra.live:80/movie/fwcgcnna/63WL3vuzm5/304628.mkv
+#EXTINF:-1 group-title="DOCTOR STRANGE",Doctor Strange en el multiverso de la locura (2022) 720p
+http://hidra.live:80/movie/fwcgcnna/63WL3vuzm5/304629.mkv
 #EXTINF:-1 group-title="DOCTOR STRANGE",Doctor Strange en el multiverso de la locura (2022)
 http://latinanplad.com:8080/movie/Rodriguez26/Rodriguez26/112523.mp4
 
@@ -1398,6 +1402,13 @@ http://latinanplad.com:8080/movie/Rodriguez26/Rodriguez26/112635.mp4
 #EXTINF:-1 group-title="JURASSIC",Jurassic World (4K)
 http://vod.tuxchannel.mx/peliculas4k/jurassic%20world.mkv
 
+#EXTINF:-1 group-title="CHIP Y DALE",Chip y Dale: Al rescate (2022)
+http://hidra.live:80/movie/fwcgcnna/63WL3vuzm5/304665.mkv
+
+#EXTINF:-1 group-title="AMBULANCIA",Ambulance: Plan de Huida (2022) 720p
+http://hidra.live:80/movie/fwcgcnna/63WL3vuzm5/304680.mkv
+#EXTINF:-1 group-title="AMBULANCIA",Ambulance: Plan de Huida (2022) 1080p
+http://hidra.live:80/movie/fwcgcnna/63WL3vuzm5/304681.mkv
 
 #EXTINF:-1 group-title="BATMAN",Batman vs. Teenage Mutant Ninja Turtles (2019)
 http://tv-cool.com:25461/movie/2022850718/26f6d3a754/79858.mp4
@@ -1762,3 +1773,12 @@ http://hidra.live:80/fwcgcnna/63WL3vuzm5/50595
 http://hidra.live:80/movie/fwcgcnna/63WL3vuzm5/304581.mkv
 #EXTINF:-1 group-title="Depredador",Predator: La presa (2022) 720p
 http://hidra.live:80/movie/fwcgcnna/63WL3vuzm5/304582.mkv
+
+
+#EXTINF:-1 group-title="Tortujas Ninjas",El ascenso de las Tortugas Ninja: La película (2022)
+http://hidra.live:80/movie/fwcgcnna/63WL3vuzm5/304599.mkv
+
+#EXTINF:-1 group-title="Minions",Minions: El origen de Gru (2022) 1080p
+http://hidra.live:80/movie/fwcgcnna/63WL3vuzm5/304615.mkv
+#EXTINF:-1 group-title="Minions",Minions: El origen de Gru (2022) 720p
+http://hidra.live:80/movie/fwcgcnna/63WL3vuzm5/304616.mkv
