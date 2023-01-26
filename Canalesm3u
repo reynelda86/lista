@@ -1448,8 +1448,14 @@ http://tv-cool.com:25461/movie/2022850718/26f6d3a754/128263.mp4
 http://tv-cool.com:25461/2022850718/26f6d3a754/61712
 
 
-#EXTINF:-1 group-title="24/7 Scooby Doo",Scooby Doo
+#EXTINF:-1 group-title="Scooby Doo",Scooby Doo
 http://tv-cool.com:25461/2022850718/26f6d3a754/63569
+
+#EXTINF:-1 group-title="Scooby Doo: Dónde estás?",Scooby Doo: Dónde estás? SD
+http://hidra.live:80/fwcgcnna/63WL3vuzm5/35493
+
+#EXTINF:-1 group-title="Scooby Doo HD",Scooby Doo HD
+http://hidra.live:80/fwcgcnna/63WL3vuzm5/35533
 
 #EXTINF:-1 group-title="ALF",ALF
 http://tv-cool.com:25461/2022850718/26f6d3a754/30507
