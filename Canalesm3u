@@ -1451,10 +1451,14 @@ http://tv-cool.com:25461/2022850718/26f6d3a754/61712
 #EXTINF:-1 group-title="24/7 Scooby Doo",Scooby Doo
 http://tv-cool.com:25461/2022850718/26f6d3a754/63569
 
+#EXTINF:-1 group-title="ALF",ALF
+http://tv-cool.com:25461/2022850718/26f6d3a754/30507
+
+#EXTINF:-1 group-title="AVENGERS",Avengers
+http://tv-cool.com:25461/2022850718/26f6d3a754/43119
+
 #EXTINF:-1 group-title="24/7",Alerta Aeropuerto HD
 http://tv-cool.com:25461/2022850718/26f6d3a754/117805
-#EXTINF:-1 group-title="24/7",Alf
-http://tv-cool.com:25461/2022850718/26f6d3a754/30507
 #EXTINF:-1 group-title="24/7",Jhonny Bravo
 http://tv-cool.com:25461/2022850718/26f6d3a754/63781
 #EXTINF:-1 group-title="24/7",XMen
