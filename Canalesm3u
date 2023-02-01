@@ -40,10 +40,6 @@ http://tv-cool.com:25461/2022850718/26f6d3a754/47469
 http://tv-cool.com:25461/2022850718/26f6d3a754/31139
 #EXTINF:-1 group-title="HBO",HBO Plus 2ᴍʙ
 http://tv-cool.com:25461/2022850718/26f6d3a754/45929
-#EXTINF:-1 group-title="HBO",HBO LATINO (East)
-http://31.14.41.118:8080/Matt26746595/WmU5aBL80E/147306
-#EXTINF:-1 group-title="HBO",HBO LATINO (West)
-http://31.14.41.118:8080/Matt26746595/WmU5aBL80E/147307
 #EXTINF:-1 group-title="HBO",HBO
 http://streamgo.vip:8008/nando/nando/147272
 #EXTINF:-1 group-title="HBO",HBO PLUS
@@ -78,16 +74,6 @@ http://streamgo.vip:8008/nando/nando/147272
 http://streamgo.vip:8008/nando/nando/147274
 #EXTINF:-1 group-title="HBO",HBO POP  SD
 http://streamgo.vip:8008/nando/nando/147275
-#EXTINF:-1 group-title="HBO",HBO
-http://teamnextlevel.xyz:25461/vicente/vicente/218136
-#EXTINF:-1 group-title="HBO",HBO
-http://teamnextlevel.xyz:25461/vicente/vicente/218224
-#EXTINF:-1 group-title="HBO",HBO 2
-http://teamnextlevel.xyz:25461/vicente/vicente/218137
-#EXTINF:-1 group-title="HBO",HBO 2
-http://teamnextlevel.xyz:25461/vicente/vicente/218152
-#EXTINF:-1 group-title="HBO",HBO FAMILY HD
-http://teamnextlevel.xyz:25461/vicente/vicente/218138
 #EXTINF:-1 group-title="HBO",HBO
 http://iptvglobal.site:25461/rrtv/rrtv12345/87462
 #EXTINF:-1 group-title="HBO",HBO Plus
@@ -140,13 +126,6 @@ http://allstar.is-by.us:25461/CELIAPLAN/DS23Xum3dh/140177
 http://allstar.is-by.us:25461/CELIAPLAN/DS23Xum3dh/140178
 #EXTINF:-1 group-title="HBO",HBO EXTREME
 http://allstar.is-by.us:25461/CELIAPLAN/DS23Xum3dh/140179
-#EXTINF:-1 group-title="HBO",HBO (N)
-http://latinanplad.com:8080/Rodriguez26/Rodriguez26/116
-#EXTINF:-1 group-title="HBO",HBO PLUS (N)
-http://latinanplad.com:8080/Rodriguez26/Rodriguez26/117
-#EXTINF:-1 group-title="HBO",HBO 2 (N)
-http://latinanplad.com:8080/Rodriguez26/Rodriguez26/118
-
 
 #EXTINF:-1 group-title="STARZ",Starz Cinema (ᴅᴜᴀʟ ᴀᴜᴅɪᴏ)
 http://tv-cool.com:25461/2022850718/26f6d3a754/102320
@@ -168,8 +147,6 @@ http://hidra.live:80/fwcgcnna/63WL3vuzm5/34855
 http://hidra.live:80/fwcgcnna/63WL3vuzm5/34856
 #EXTINF:-1 group-title="UNIVERSAL",Universal Reality SD (LAT)
 http://hidra.live:80/fwcgcnna/63WL3vuzm5/34862
-#EXTINF:-1 group-title="UNIVERSAL",Universal Premiere SD (LAT)
-http://hidra.live:80/fwcgcnna/63WL3vuzm5/34873
 #EXTINF:-1 group-title="UNIVERSAL",Universal Channel ʜᴅ
 http://tv-cool.com:25461/2022850718/26f6d3a754/41026
 #EXTINF:-1 group-title="UNIVERSAL",Universal Comedy ʜᴅ
@@ -178,12 +155,8 @@ http://tv-cool.com:25461/2022850718/26f6d3a754/128512
 http://tv-cool.com:25461/2022850718/26f6d3a754/76353
 #EXTINF:-1 group-title="UNIVERSAL",Universal Crime ʜᴅ
 http://tv-cool.com:25461/2022850718/26f6d3a754/74000
-#EXTINF:-1 group-title="UNIVERSAL",Universal Premiere
-http://tv-cool.com:25461/2022850718/26f6d3a754/128514
 #EXTINF:-1 group-title="UNIVERSAL",Universal
 http://190.61.102.67:31589/play/a03d/index.m3u8
-#EXTINF:-1 group-title="UNIVERSAL",UNIVERSAL CHANEL
-http://streamgo.vip:8008/nando/nando/147299
 #EXTINF:-1 group-title="UNIVERSAL",Universal Cinema
 http://kp-thebestiptv.com:8080/Galindo21/5anJqAHmvb/60980
 #EXTINF:-1 group-title="UNIVERSAL",Universal Cinema SD
@@ -196,14 +169,10 @@ http://kp-thebestiptv.com:8080/Galindo21/5anJqAHmvb/60983
 http://kp-thebestiptv.com:8080/Galindo21/5anJqAHmvb/60984
 #EXTINF:-1 group-title="UNIVERSAL",UNIVERSAL CHANEL  HD
 http://streamgo.vip:8008/nando/nando/147298
-#EXTINF:-1 group-title="UNIVERSAL",UNIVERSAL CHANEL  SD
-http://streamgo.vip:8008/nando/nando/147299
 #EXTINF:-1 group-title="UNIVERSAL",STUDIO UNIVERSAL  HD
 http://streamgo.vip:8008/nando/nando/147301
 #EXTINF:-1 group-title="UNIVERSAL",STUDIO UNIVERSAL  SD
 http://streamgo.vip:8008/nando/nando/147302
-#EXTINF:-1 group-title="UNIVERSAL",UNIVERSAL CHANNEL HD
-http://teamnextlevel.xyz:25461/vicente/vicente/218127
 #EXTINF:-1 group-title="UNIVERSAL",Studio Universal
 http://iptvglobal.site:25461/rrtv/rrtv12345/131131
 #EXTINF:-1 group-title="UNIVERSAL",universal Premier
@@ -224,21 +193,8 @@ http://allstar.is-by.us:25461/CELIAPLAN/DS23Xum3dh/140162
 http://allstar.is-by.us:25461/CELIAPLAN/DS23Xum3dh/140163
 #EXTINF:-1 group-title="UNIVERSAL",UNIVERSAL CRIMEN
 http://allstar.is-by.us:25461/CELIAPLAN/DS23Xum3dh/140164
-#EXTINF:-1 group-title="UNIVERSAL",UNIVERSAL CHANNEL
-http://latinanplad.com:8080/Rodriguez26/Rodriguez26/67
-#EXTINF:-1 group-title="UNIVERSAL",UNIVERSAL CINEMA (N)
-http://latinanplad.com:8080/Rodriguez26/Rodriguez26/340
-#EXTINF:-1 group-title="UNIVERSAL",UNIVERSAL PREMIER
-http://latinanplad.com:8080/Rodriguez26/Rodriguez26/344
 #EXTINF:-1 group-title="UNIVERSAL",UNIVERSO
 http://kp-thebestiptv.com:8080/Galindo21/5anJqAHmvb/259
-
-#EXTINF:-1 group-title="LEGO",Lego Movies
-http://teamnextlevel.xyz:25461/vicente/vicente/230069
-#EXTINF:-1 group-title="LEGO",LEGO Star Wars: Vacaciones de verano (2022)
-http://latinanplad.com:8080/movie/Rodriguez26/Rodriguez26/112664.mkv
-#EXTINF:-1 group-title="LEGO",LEGO Star Wars: Vacaciones de verano (2022)
-http://latinanplad.com:8080/movie/Rodriguez26/Rodriguez26/112664.mkv
 
 #EXTINF:-1 group-title="MULTIPLEMIER",Multipremier
 http://tv-cool.com:25461/2022850718/26f6d3a754/30495
@@ -285,8 +241,6 @@ http://tv-cool.com:25461/2022850718/26f6d3a754/30659
 #EXTINF:-1 group-title="AXN",AXN ғʜᴅ
 http://tv-cool.com:25461/2022850718/26f6d3a754/41008
 
-#EXTINF:-1 group-title="TNT",TNT (N)
-http://latinanplad.com:8080/Rodriguez26/Rodriguez26/128
 #EXTINF:-1 group-title="TNT",TNT HD (LAT)
 http://hidra.live:80/fwcgcnna/63WL3vuzm5/34958
 #EXTINF:-1 group-title="TNT",TNT Series FHD (MX)
@@ -324,14 +278,8 @@ http://kp-thebestiptv.com:8080/Galindo21/5anJqAHmvb/60989
 http://streamgo.vip:8008/nando/nando/147257
 #EXTINF:-1 group-title="STAR CHANNEL",STAR CHANNEL  HD
 http://streamgo.vip:8008/nando/nando/147256
-#EXTINF:-1 group-title="STAR CHANNEL",STAR CHANNEL
-http://teamnextlevel.xyz:25461/vicente/vicente/218104
 #EXTINF:-1 group-title="STAR CHANNEL",STAR CHANNEL MX
 http://allstar.is-by.us:25461/CELIAPLAN/DS23Xum3dh/59119
-#EXTINF:-1 group-title="STAR CHANNEL",STAR CHANNEL (N)
-http://latinanplad.com:8080/Rodriguez26/Rodriguez26/10
-#EXTINF:-1 group-title="STAR CHANNEL",STAR CHANNEL (N)
-http://latinanplad.com:8080/Rodriguez26/Rodriguez26/338
 #EXTINF:-1 group-title="STAR CHANNEL",STAR SERIES HD
 http://allstar.is-by.us:25461/CELIAPLAN/DS23Xum3dh/59071
 #EXTINF:-1 group-title="STAR CHANNEL",STAR HITS HD
@@ -353,16 +301,12 @@ http://kp-thebestiptv.com:8080/Galindo21/5anJqAHmvb/254
 http://streamgo.vip:8008/nando/nando/147289
 #EXTINF:-1 group-title="WARNER",WARNER  SD
 http://streamgo.vip:8008/nando/nando/147290
-#EXTINF:-1 group-title="WARNER",WARNER CHANNEL HD
-http://teamnextlevel.xyz:25461/vicente/vicente/218128
 #EXTINF:-1 group-title="WARNER",Warner HD
 http://iptvglobal.site:25461/rrtv/rrtv12345/131129
 #EXTINF:-1 group-title="WARNER",WARNER CHANNEL
 http://allstar.is-by.us:25461/CELIAPLAN/DS23Xum3dh/59099
 #EXTINF:-1 group-title="WARNER",Warner TV
 http://allstar.is-by.us:25461/CELIAPLAN/DS23Xum3dh/140181
-#EXTINF:-1 group-title="WARNER",WARNER CHANNEL (N)
-http://latinanplad.com:8080/Rodriguez26/Rodriguez26/130
 
 #EXTINF:-1 group-title="FX",FX HD (LAT)*
 http://hidra.live:80/fwcgcnna/63WL3vuzm5/312926
@@ -376,28 +320,16 @@ http://tv-cool.com:25461/2022850718/26f6d3a754/77007
 http://tv-cool.com:25461/2022850718/26f6d3a754/31135
 #EXTINF:-1 group-title="FX",FX
 http://190.61.102.67:31589/play/a05z/index.m3u8
-#EXTINF:-1 group-title="FX",FX
-http://streamgo.vip:8008/nando/nando/147305
 #EXTINF:-1 group-title="FX",FX HD
 http://streamgo.vip:8008/nando/nando/147304
 #EXTINF:-1 group-title="FX",FXM HD
 http://streamgo.vip:8008/nando/nando/147306
-#EXTINF:-1 group-title="FX",FX
-http://teamnextlevel.xyz:25461/vicente/vicente/218107
-#EXTINF:-1 group-title="FX",FXM
-http://teamnextlevel.xyz:25461/vicente/vicente/218177
-#EXTINF:-1 group-title="FX",FXM
-http://teamnextlevel.xyz:25461/vicente/vicente/218108
 #EXTINF:-1 group-title="FX",FX
 http://iptvglobal.site:25461/rrtv/rrtv12345/87458
 #EXTINF:-1 group-title="FX",FX ESP
 http://allstar.is-by.us:25461/CELIAPLAN/DS23Xum3dh/59116
 #EXTINF:-1 group-title="FX",FX HD SUR
 http://allstar.is-by.us:25461/CELIAPLAN/DS23Xum3dh/140169
-#EXTINF:-1 group-title="FX",FX  [HD] (N)
-http://latinanplad.com:8080/Rodriguez26/Rodriguez26/40898
-#EXTINF:-1 group-title="FX",FX (n)
-http://latinanplad.com:8080/Rodriguez26/Rodriguez26/337
 
 #EXTINF:-1 group-title="MARVEL",Cinema Marvel Studios Oeste FHD
 http://hidra.live:80/fwcgcnna/63WL3vuzm5/58068
@@ -405,11 +337,6 @@ http://hidra.live:80/fwcgcnna/63WL3vuzm5/58068
 http://hidra.live:80/fwcgcnna/63WL3vuzm5/50585
 #EXTINF:-1 group-title="MARVEL",VIP Cinema Marvel Studios FHD
 http://hidra.live:80/fwcgcnna/63WL3vuzm5/50586
-#EXTINF:-1 group-title="MARVEL",Marvel
-http://teamnextlevel.xyz:25461/vicente/vicente/230176
-
-#EXTINF:-1 group-title="GARFIELD Y SUS AMIGOS",GARFIELD Y SUS AMIGOS
-http://latinanplad.com:8080/Rodriguez26/Rodriguez26/1474
 
 #EXTINF:-1 group-title="SPACE",Space SD (MX)
 http://hidra.live:80/fwcgcnna/63WL3vuzm5/34968
@@ -421,18 +348,10 @@ http://190.61.102.67:31589/play/a04x/index.m3u8
 http://streamgo.vip:8008/nando/nando/147308
 #EXTINF:-1 group-title="SPACE",SPACE CHANEL SD
 http://streamgo.vip:8008/nando/nando/147309
-#EXTINF:-1 group-title="SPACE",SPACE
-http://teamnextlevel.xyz:25461/vicente/vicente/218231
-#EXTINF:-1 group-title="SPACE",SPACE
-http://teamnextlevel.xyz:25461/vicente/vicente/218120
-#EXTINF:-1 group-title="SPACE",SPACE
-http://teamnextlevel.xyz:25461/vicente/vicente/218148
 #EXTINF:-1 group-title="SPACE",SPACE LATINO HD
 http://allstar.is-by.us:25461/CELIAPLAN/DS23Xum3dh/59184
 #EXTINF:-1 group-title="SPACE",SPACE MEXICO
 http://allstar.is-by.us:25461/CELIAPLAN/DS23Xum3dh/140157
-#EXTINF:-1 group-title="SPACE",SPACE (N)
-http://latinanplad.com:8080/Rodriguez26/Rodriguez26/127
 
 #EXTINF:-1 group-title="PARAMOUNT",Paramount Channel FHD (MX)
 http://hidra.live:80/fwcgcnna/63WL3vuzm5/34981
@@ -450,8 +369,6 @@ http://streamgo.vip:8008/nando/nando/147324
 http://iptvglobal.site:25461/rrtv/rrtv12345/131130
 #EXTINF:-1 group-title="PARAMOUNT",PARAMOUNT
 http://allstar.is-by.us:25461/CELIAPLAN/DS23Xum3dh/140155
-#EXTINF:-1 group-title="PARAMOUNT",PARAMOUT (N)
-http://latinanplad.com:8080/Rodriguez26/Rodriguez26/123
 
 #EXTINF:-1 group-title="SYFY",SYFY HD (LAT)
 http://hidra.live:80/fwcgcnna/63WL3vuzm5/312796
@@ -524,8 +441,6 @@ http://hidra.live:80/fwcgcnna/63WL3vuzm5/313000
 http://hidra.live:80/fwcgcnna/63WL3vuzm5/313001
 #EXTINF:-1 group-title="TELEMUNDO",Telemundo Salt Lake City HQ (US)
 http://hidra.live:80/fwcgcnna/63WL3vuzm5/313017
-#EXTINF:-1 group-title="TELEMUNDO",Telemundo HQ (PR)
-http://hidra.live:80/fwcgcnna/63WL3vuzm5/313024
 #EXTINF:-1 group-title="TELEMUNDO",Telemundo (TELE)
 http://tv-cool.com:25461/2022850718/26f6d3a754/67996
 #EXTINF:-1 group-title="TELEMUNDO",Telemundo Atlanta (WKTB)
@@ -561,8 +476,6 @@ http://hidra.live:80/fwcgcnna/63WL3vuzm5/312980
 http://hidra.live:80/fwcgcnna/63WL3vuzm5/312982
 #EXTINF:-1 group-title="UNIVISION",Univision San Antonio HD (US)
 http://hidra.live:80/fwcgcnna/63WL3vuzm5/312984
-#EXTINF:-1 group-title="UNIVISION",Univision (PR)
-http://hidra.live:80/fwcgcnna/63WL3vuzm5/312991
 #EXTINF:-1 group-title="UNIVISION",Univision Los Angeles HD (US)
 http://hidra.live:80/fwcgcnna/63WL3vuzm5/35152
 #EXTINF:-1 group-title="UNIVISION",Univision Los Angeles (KMEX) ©
@@ -575,10 +488,6 @@ http://tv-cool.com:25461/2022850718/26f6d3a754/43113
 http://tv-cool.com:25461/2022850718/26f6d3a754/44186
 #EXTINF:-1 group-title="UNIVISION",Univision Phoenix (WXTV)
 http://tv-cool.com:25461/2022850718/26f6d3a754/68010
-#EXTINF:-1 group-title="UNIVISION",Univision Puerto Rico (WLII)
-http://tv-cool.com:25461/2022850718/26f6d3a754/43105
-#EXTINF:-1 group-title="UNIVISION",UNIVISION EAST
-http://allstar.is-by.us:25461/CELIAPLAN/DS23Xum3dh/140223
 #EXTINF:-1 group-title="UNIVISION",UNIVISION WEST
 http://allstar.is-by.us:25461/CELIAPLAN/DS23Xum3dh/140224
 #EXTINF:-1 group-title="UNIVISION",UNIVERSO EAST
@@ -636,8 +545,6 @@ http://allstar.is-by.us:25461/CELIAPLAN/DS23Xum3dh/140229
 
 #EXTINF:-1 group-title="GALAVISION",Galavision Fresno
 http://tv-cool.com:25461/2022850718/26f6d3a754/78456
-#EXTINF:-1 group-title="GALAVISION",Galavision Houston
-http://tv-cool.com:25461/2022850718/26f6d3a754/78455
 #EXTINF:-1 group-title="GALAVISION",Galavision Salt Lake
 http://tv-cool.com:25461/2022850718/26f6d3a754/78463
 #EXTINF:-1 group-title="GALAVISION",GALAVISION EAST
@@ -649,10 +556,6 @@ http://allstar.is-by.us:25461/CELIAPLAN/DS23Xum3dh/140231
 http://hidra.live:80/fwcgcnna/63WL3vuzm5/302709
 #EXTINF:-1 group-title="NFL",NFL Network HD (US)
 http://hidra.live:80/fwcgcnna/63WL3vuzm5/34705
-#EXTINF:-1 group-title="NFL",NFL
-http://teamnextlevel.xyz:25461/vicente/vicente/201592
-#EXTINF:-1 group-title="NFL",NFL
-http://teamnextlevel.xyz:25461/vicente/vicente/193300
 #EXTINF:-1 group-title="NFL",NFL HD
 http://allstar.is-by.us:25461/CELIAPLAN/DS23Xum3dh/140200
 #EXTINF:-1 group-title="NFL",NFL Game 02
@@ -671,8 +574,6 @@ http://kp-thebestiptv.com:8080/Galindo21/5anJqAHmvb/65910
 http://hidra.live:80/fwcgcnna/63WL3vuzm5/34737
 #EXTINF:-1 group-title="NBA",NBA ON ESPN
 http://kp-thebestiptv.com:8080/Galindo21/5anJqAHmvb/65907
-#EXTINF:-1 group-title="NBA",NBA HD
-http://teamnextlevel.xyz:25461/vicente/vicente/201567
 #EXTINF:-1 group-title="NBA",NBA HD
 http://allstar.is-by.us:25461/CELIAPLAN/DS23Xum3dh/140201
 #EXTINF:-1 group-title="NBA",NBA League Pass 01
@@ -702,20 +603,6 @@ http://tv-cool.com:25461/2022850718/26f6d3a754/29760
 http://tv-cool.com:25461/2022850718/26f6d3a754/79179
 #EXTINF:-1 group-title="FOX SPORTS PREMIUM",FOX SPORTS PREMIUM HD
 http://tv-cool.com:25461/2022850718/26f6d3a754/61284
-#EXTINF:-1 group-title="FOX SPORTS PREMIUM",FOX SPORTS PREMIUM HD
-http://pro.xviptv.com:25443/live/V16HHeTG1XkMN/vUB78TfZXv/67500.ts
-#EXTINF:-1 group-title="FOX SPORTS PREMIUM",FOX SPORTS PREMIUM
-http://arboltv.xyz:8080/josemoralesse/ZQhSTTWax52C/124320
-#EXTINF:-1 group-title="FOX SPORTS PREMIUM",FOX SPORTS PREMIUM HD
-http://latinanplad.com:8080/Rodriguez26/Rodriguez26/27857
-#EXTINF:-1 group-title="FOX SPORTS PREMIUM",FOX SPORTS PREMIUM HD
-http://latinanplad.com:8080/Rodriguez26/Rodriguez26/27857
-#EXTINF:-1 group-title="FOX SPORTS PREMIUM",FOX SPORTS PREMIUM
-http://axr.life:80/096154/686531/1044581
-#EXTINF:-1 group-title="FOX SPORTS PREMIUM",FOX SPORTS PREMIUM
-http://axr.life:80/096154/686531/1058496
-#EXTINF:-1 group-title="FOX SPORTS PREMIUM",FOX SPORTS PREMIUM
-http://arboltv.xyz:8080/josemoralesse/ZQhSTTWax52C/124320
 
 #EXTINF:-1 group-title="FOX SPORTS",Fox Sports 2 SD (MX)
 http://hidra.live:80/fwcgcnna/63WL3vuzm5/34623
@@ -735,12 +622,6 @@ http://hidra.live:80/fwcgcnna/63WL3vuzm5/34642
 http://hidra.live:80/fwcgcnna/63WL3vuzm5/34647
 #EXTINF:-1 group-title="FOX SPORTS",Fox Sports 1 ʜᴅ ᴀʀɢ
 http://tv-cool.com:25461/2022850718/26f6d3a754/63152
-#EXTINF:-1 group-title="FOX SPORTS",FOX SPORTS 1 HD MEXICO
-http://teamnextlevel.xyz:25461/vicente/vicente/201540
-#EXTINF:-1 group-title="FOX SPORTS",FOX SPORTS 2 HD MEXICO
-http://teamnextlevel.xyz:25461/vicente/vicente/201541
-#EXTINF:-1 group-title="FOX SPORTS",FOX SPORTS 3 HD MEXICO
-http://teamnextlevel.xyz:25461/vicente/vicente/201542
 #EXTINF:-1 group-title="FOX SPORTS",Fox Sports ʜᴅ ᴀʀɢ
 http://tv-cool.com:25461/2022850718/26f6d3a754/128757
 #EXTINF:-1 group-title="FOX SPORTS",Fox Sports 2 ғʜᴅ ᴀʀɢ
@@ -787,8 +668,6 @@ http://iptvglobal.site:25461/rrtv/rrtv12345/87456
 http://iptvglobal.site:25461/rrtv/rrtv12345/87457
 #EXTINF:-1 group-title="FOX SPORTS",Fox Sports 1
 http://iptvtree.es:80/qtvbox/w6kqBNLz48yf/71130.ts
-#EXTINF:-1 group-title="FOX SPORTS",Fox Sports 3
-http://iptvtree.es:80/qtvbox/w6kqBNLz48yf/71136.ts
 #EXTINF:-1 group-title="FOX SPORTS",FOX SPORTS 2
 http://iptvtree.es:80/qtvbox/w6kqBNLz48yf/1975.ts
 #EXTINF:-1 group-title="FOX SPORTS",FOX SPORTS 1
@@ -797,8 +676,6 @@ http://iptvtree.es:80/qtvbox/w6kqBNLz48yf/1974.ts
 http://iptvtree.es:80/qtvbox/w6kqBNLz48yf/1973.ts
 #EXTINF:-1 group-title="FOX SPORTS",Fox Sports 1
 http://iptvtree.es:80/qtvbox/w6kqBNLz48yf/2020.ts
-#EXTINF:-1 group-title="FOX SPORTS",Fox Sports 3
-http://iptvtree.es:80/qtvbox/w6kqBNLz48yf/2023.ts
 #EXTINF:-1 group-title="FOX SPORTS",FOX SPORTS 2
 http://allstar.is-by.us:25461/CELIAPLAN/DS23Xum3dh/140195
 #EXTINF:-1 group-title="FOX SPORTS",FOX SPORTS 3
@@ -811,40 +688,9 @@ http://allstar.is-by.us:25461/CELIAPLAN/DS23Xum3dh/140323
 http://allstar.is-by.us:25461/CELIAPLAN/DS23Xum3dh/140324
 #EXTINF:-1 group-title="FOX SPORTS",FOX SPORTS 3 HD MEX
 http://allstar.is-by.us:25461/CELIAPLAN/DS23Xum3dh/140325
-#EXTINF:-1 group-title="FOX SPORTS",FOX SPORTS 3 ARGENTINA [HD] (N)
-http://latinanplad.com:8080/Rodriguez26/Rodriguez26/84
-#EXTINF:-1 group-title="FOX SPORTS",FOX SPORTS 2 ARGENTINA [HD] (N)
-http://latinanplad.com:8080/Rodriguez26/Rodriguez26/85
-#EXTINF:-1,#EXTINF:-1 group-title="FOX SPORTS",FOX SPORTS 2 HD LATINO (N)
-http://latinanplad.com:8080/Rodriguez26/Rodriguez26/138
-#EXTINF:-1 group-title="FOX SPORTS",FOX SPORTS 1 FHD LATINO (N)
-http://latinanplad.com:8080/Rodriguez26/Rodriguez26/139
-#EXTINF:-1 group-title="FOX SPORTS",FOX SPORTS 2 ARGENTINA [HD] (N)
-http://latinanplad.com:8080/Rodriguez26/Rodriguez26/142
-#EXTINF:-1 group-title="FOX SPORTS",FOX SPORTS 3 ARGENTINA [FHD] (N)
-http://latinanplad.com:8080/Rodriguez26/Rodriguez26/143
-#EXTINF:-1 group-title="FOX SPORTS",FOX SPORTS ARGENTINA [FHD] (N)
-http://latinanplad.com:8080/Rodriguez26/Rodriguez26/144
-#EXTINF:-1 group-title="FOX SPORTS",FOX SPORTS MEXICO [SD]
-http://latinanplad.com:8080/Rodriguez26/Rodriguez26/284
 #EXTINF:-1 group-title="FOX SPORTS",FOX SPORTS 1 FHD LATINO
 http://latinanplad.com:8080/Rodriguez26/Rodriguez26/374
-#EXTINF:-1 group-title="FOX SPORTS",FOX SPORTS 1 MX [FHD]
-http://latinanplad.com:8080/Rodriguez26/Rodriguez26/375
-#EXTINF:-1 group-title="FOX SPORTS",FOX SPORTS 2 FHD LATINO
-http://latinanplad.com:8080/Rodriguez26/Rodriguez26/378
-#EXTINF:-1 group-title="FOX SPORTS",FOX SPORTS 2 FULL HD LATINO (N)
-http://latinanplad.com:8080/Rodriguez26/Rodriguez26/381
-#EXTINF:-1 group-title="FOX SPORTS",FOX SPORTS 2  [FHD]
-http://latinanplad.com:8080/Rodriguez26/Rodriguez26/379
-#EXTINF:-1 group-title="FOX SPORTS",FOX SPORTS 3 [FHD]
-http://latinanplad.com:8080/Rodriguez26/Rodriguez26/383
-#EXTINF:-1 group-title="FOX SPORTS",FOX SPORTS 3 FHD LATINO (N)
-http://latinanplad.com:8080/Rodriguez26/Rodriguez26/384
-#EXTINF:-1 group-title="FOX SPORTS",FOX SPORTS 1 [HD]
-http://latinanplad.com:8080/Rodriguez26/Rodriguez26/523
-#EXTINF:-1 group-title="FOX SPORTS",FOX SPORTS [HD]
-http://latinanplad.com:8080/Rodriguez26/Rodriguez26/233
+
 #EXTINF:-1 group-title="AFIZZIONADOS",Afizzionados
 http://iptvtree.es:80/qtvbox/w6kqBNLz48yf/71117.ts
 #EXTINF:-1 group-title="AFIZZIONADOS",Afizzionados FHD
@@ -858,16 +704,8 @@ http://190.61.102.67:31589/play/a08j/index.m3u8
 http://kp-thebestiptv.com:8080/Galindo21/5anJqAHmvb/73630
 #EXTINF:-1 group-title="TUDN",TUDN
 http://kp-thebestiptv.com:8080/Galindo21/5anJqAHmvb/354
-#EXTINF:-1 group-title="TUDN",TUDN USA
-http://teamnextlevel.xyz:25461/vicente/vicente/201537
-#EXTINF:-1 group-title="TUDN",TUDN  HD MEXICO
-http://teamnextlevel.xyz:25461/vicente/vicente/201547
-#EXTINF:-1 group-title="TUDN",UNIVISION DEPORTES
-http://teamnextlevel.xyz:25461/vicente/vicente/201538
 #EXTINF:-1 group-title="TUDN",TUDN (USA)
 http://iptvtree.es:80/qtvbox/w6kqBNLz48yf/71140.ts
-#EXTINF:-1 group-title="TUDN",TUDN HD
-http://allstar.is-by.us:25461/CELIAPLAN/DS23Xum3dh/140190
 #EXTINF:-1 group-title="TUDN",TUDN MX
 http://allstar.is-by.us:25461/CELIAPLAN/DS23Xum3dh/140278
 #EXTINF:-1 group-title="TUDN",Zona TUDN US
@@ -988,8 +826,6 @@ http://tv-cool.com:25461/2022850718/26f6d3a754/40533
 http://tv-cool.com:25461/2022850718/26f6d3a754/78685
 #EXTINF:-1 group-title="NBC",NBC Miami
 http://tv-cool.com:25461/2022850718/26f6d3a754/78702
-#EXTINF:-1 group-title="NBC",NBC Kansas City
-http://31.14.41.118:8080/Matt26746595/WmU5aBL80E/145884
 #EXTINF:-1 group-title="NBC",NBC Chicago (WMAQ)
 http://tv-cool.com:25461/2022850718/26f6d3a754/30325
 #EXTINF:-1 group-title="NBC",NBC Miami (WTVJ)
@@ -1019,8 +855,6 @@ http://hidra.live:80/fwcgcnna/63WL3vuzm5/34482
 http://hidra.live:80/fwcgcnna/63WL3vuzm5/34486
 #EXTINF:-1 group-title="CINE",PPV: Cinema 12
 http://hidra.live:80/fwcgcnna/63WL3vuzm5/34488
-#EXTINF:-1 group-title="CINE",PPV: Cinema 13
-http://hidra.live:80/fwcgcnna/63WL3vuzm5/34489
 #EXTINF:-1 group-title="CINE",PPV: Cinema 16
 http://hidra.live:80/fwcgcnna/63WL3vuzm5/34492
 #EXTINF:-1 group-title="CINE",PPV: Cinema 22
@@ -1033,34 +867,6 @@ http://hidra.live:80/fwcgcnna/63WL3vuzm5/34511
 http://hidra.live:80/fwcgcnna/63WL3vuzm5/34512
 #EXTINF:-1 group-title="CINE",PPV: Cinema 37
 http://hidra.live:80/fwcgcnna/63WL3vuzm5/34513
-#EXTINF:-1 group-title="CINE",LATINOS
-http://latinanplad.com:8080/Rodriguez26/Rodriguez26/320
-#EXTINF:-1 group-title="CINE",LATINOS 3
-http://latinanplad.com:8080/Rodriguez26/Rodriguez26/322
-#EXTINF:-1 group-title="CINE",LATINOS 4
-http://latinanplad.com:8080/Rodriguez26/Rodriguez26/323
-#EXTINF:-1 group-title="CINE",PPV ACCION
-http://latinanplad.com:8080/Rodriguez26/Rodriguez26/429
-#EXTINF:-1 group-title="CINE",PPV MOVIES
-http://latinanplad.com:8080/Rodriguez26/Rodriguez26/430
-#EXTINF:-1 group-title="CINE",PPV ROMANCES
-http://latinanplad.com:8080/Rodriguez26/Rodriguez26/431
-#EXTINF:-1 group-title="CINE",PPV COMEDIA
-http://latinanplad.com:8080/Rodriguez26/Rodriguez26/43
-#EXTINF:-1 group-title="CINE",PPV SAGAS FANTASIA
-http://latinanplad.com:8080/Rodriguez26/Rodriguez26/437
-#EXTINF:-1 group-title="CINE",PPV CINEMA 1
-http://latinanplad.com:8080/Rodriguez26/Rodriguez26/439
-#EXTINF:-1 group-title="CINE",PPV CINEMA 2
-http://latinanplad.com:8080/Rodriguez26/Rodriguez26/440
-#EXTINF:-1 group-title="CINE",PPV CINEMA 6
-http://latinanplad.com:8080/Rodriguez26/Rodriguez26/444
-#EXTINF:-1 group-title="CINE",PPV CINEMA 7
-http://latinanplad.com:8080/Rodriguez26/Rodriguez26/445
-#EXTINF:-1 group-title="CINE",PPV CINEMA 9
-http://latinanplad.com:8080/Rodriguez26/Rodriguez26/447
-#EXTINF:-1 group-title="CINE",PPV CINEMA 10
-http://latinanplad.com:8080/Rodriguez26/Rodriguez26/448
 
 #EXTINF:-1 group-title="CARTOON NETWORK",Cartoon Network FHD (E)
 http://hidra.live:80/fwcgcnna/63WL3vuzm5/35222
@@ -1136,8 +942,6 @@ http://hidra.live:80/fwcgcnna/63WL3vuzm5/34796
 http://kp-thebestiptv.com:8080/Galindo21/5anJqAHmvb/61383
 #EXTINF:-1 group-title="TOONCAST",Tooncast
 http://kp-thebestiptv.com:8080/Galindo21/5anJqAHmvb/314
-#EXTINF:-1 group-title="TOONCAST",TOONCAST HD
-http://teamnextlevel.xyz:25461/vicente/vicente/218181
 
 #EXTINF:-1 group-title="CBS",CBS Baltimore
 http://tv-cool.com:25461/2022850718/26f6d3a754/78611
@@ -1245,11 +1049,6 @@ http://tv-cool.com:25461/2022850718/26f6d3a754/114723
 http://tv-cool.com:25461/2022850718/26f6d3a754/114726
 #EXTINF:-1 group-title="VIX",Unicable
 http://tv-cool.com:25461/2022850718/26f6d3a754/114740
-
-#EXTINF:-1 group-title="LATINA",LATINA SD
-http://streamgo.vip:8008/nando/nando/166623
-#EXTINF:-1 group-title="LATINA",LATINA
-http://teamnextlevel.xyz:25461/vicente/vicente/220604
 
 #EXTINF:-1 group-title="SCOOBY DOO",Scooby-Doo! La Espada (2021)
 http://allstar.is-by.us:25461/movie/CELIAPLAN/DS23Xum3dh/6370.mp4
@@ -1466,10 +1265,6 @@ http://vod.tuxchannel.mx/peliculas4k/guardians%20of%20the%20galaxy%20vol%202.mkv
 
 #EXTINF:-1 group-title="THOR",Thor: Love and Thunder (2022)
 http://tv-cool.com:25461/movie/2022850718/26f6d3a754/83253.mp4
-#EXTINF:-1 group-title="THOR",Thor Love and Thunder
-http://teamnextlevel.xyz:25461/movie/vicente/vicente/224586.mkv
-#EXTINF:-1 group-title="THOR",Thor Love and Thunder (2022)
-http://latinanplad.com:8080/movie/Rodriguez26/Rodriguez26/115011.mp4
 #EXTINF:-1 group-title="THOR",Thor (4K)
 http://vod.tuxchannel.mx/peliculas4k/thor.mkv
 #EXTINF:-1 group-title="THOR",Thor: El mundo oscuro (4K)
@@ -1478,34 +1273,11 @@ http://vod.tuxchannel.mx/peliculas4k/thor%20the%20dark%20world.mkv
 #EXTINF:-1 group-title="BOB ESPONJA",Bob Esponja SD
 http://hidra.live:80/fwcgcnna/63WL3vuzm5/58076
 
-#EXTINF:-1 group-title="SKY PREMIER",SKY Premiere 10
-http://allstar.is-by.us:25461/CELIAPLAN/DS23Xum3dh/89516
-#EXTINF:-1 group-title="SKY PREMIER",SKY Premiere 13
-http://allstar.is-by.us:25461/CELIAPLAN/DS23Xum3dh/89519
-#EXTINF:-1 group-title="SKY PREMIER",SKY Premiere 15 Sonic 2 HD
-http://allstar.is-by.us:25461/CELIAPLAN/DS23Xum3dh/89521
-#EXTINF:-1 group-title="SKY PREMIER",SKY Premiere 2
-http://allstar.is-by.us:25461/CELIAPLAN/DS23Xum3dh/89508
-#EXTINF:-1 group-title="SKY PREMIER",SKY Premiere 5
-http://allstar.is-by.us:25461/CELIAPLAN/DS23Xum3dh/89511
-#EXTINF:-1 group-title="SKY PREMIER",SKY Premiere 9
-http://allstar.is-by.us:25461/CELIAPLAN/DS23Xum3dh/89515
-
-#EXTINF:-1 group-title="HOTEL TRANSILVANIA",Hotel Transilvania Transformanía (2022)
-http://latinanplad.com:8080/movie/Rodriguez26/Rodriguez26/112423.mp4
-#EXTINF:-1 group-title="HOTEL TRANSILVANIA",Hotel Transilvania: Transformanía (2022)
-http://latinanplad.com:8080/movie/Rodriguez26/Rodriguez26/112619.mkv
-
-#EXTINF:-1 group-title="LIGA DE SUPERMASCOTAS",Liga de supermascotas (2022)
-http://latinanplad.com:8080/movie/Rodriguez26/Rodriguez26/112501.mkv
-
 #EXTINF:-1 group-title="DOCTOR STRANGE",Doctor Strange en el multiverso de la locura (2022) 1080p
 http://hidra.live:80/movie/fwcgcnna/63WL3vuzm5/304628.mkv
 #EXTINF:-1 group-title="DOCTOR STRANGE",Doctor Strange en el multiverso de la locura (2022) 720p
 http://hidra.live:80/movie/fwcgcnna/63WL3vuzm5/304629.mkv
 
-#EXTINF:-1 group-title="JURASSIC",Jurassic World: Dominion (2022)
-http://latinanplad.com:8080/movie/Rodriguez26/Rodriguez26/112635.mp4
 #EXTINF:-1 group-title="JURASSIC",Jurassic World (4K)
 http://vod.tuxchannel.mx/peliculas4k/jurassic%20world.mkv
 
@@ -1523,18 +1295,6 @@ http://hidra.live:80/movie/fwcgcnna/63WL3vuzm5/304698.mkv
 http://tv-cool.com:25461/movie/2022850718/26f6d3a754/79858.mp4
 #EXTINF:-1 group-title="BATMAN",Batman vs. las Tortugas Ninja (2019)
 http://hidra.live:80/movie/fwcgcnna/63WL3vuzm5/250818.mkv
-#EXTINF:-1 group-title="BATMAN",The Batman (2022) HD
-http://latinanplad.com:8080/movie/Rodriguez26/Rodriguez26/115713.mkv
-
-#EXTINF:-1 group-title="TADEO",Tadeo Jones 3: La Tabla Esmeralda (2022)
-http://latinanplad.com:8080/movie/Rodriguez26/Rodriguez26/148475.mkv
-
-#EXTINF:-1 group-title="IRON MAN",Iron Man (2008)
-http://latinanplad.com:8080/movie/Rodriguez26/Rodriguez26/114979.mkv
-#EXTINF:-1 group-title="IRON MAN",Iron Man 2 (2010)
-http://latinanplad.com:8080/movie/Rodriguez26/Rodriguez26/114980.mkv
-#EXTINF:-1 group-title="IRON MAN",Iron Man 3 (2013)
-http://latinanplad.com:8080/movie/Rodriguez26/Rodriguez26/114981.mkv
 
 #EXTINF:-1 group-title="RESIDENT EVIL",Resident evil 1: El huesped maldito (4K)
 http://vod.tuxchannel.mx/peliculas4k/resident%20evil.mkv
