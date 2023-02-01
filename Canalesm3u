@@ -940,6 +940,44 @@ http://tv-cool.com:25461/2022850718/26f6d3a754/68025
 #EXTINF:-1 group-title="NBC",NBC Sports Philadelphia Plus
 http://tv-cool.com:25461/2022850718/26f6d3a754/68027
 
+#EXTINF:-1 group-title="CINE",VIP Cinema Comedia FHD
+http://hidra.live:80/yhehteog/NeN02o7t1o/50575
+#EXTINF:-1 group-title="CINE",VIP Cinema DC Comics FHD
+http://hidra.live:80/yhehteog/NeN02o7t1o/50576
+#EXTINF:-1 group-title="CINE",VIP Cinema DC Universe HD
+http://hidra.live:80/yhehteog/NeN02o7t1o/50577
+#EXTINF:-1 group-title="CINE",VIP Cinema Disney Family FHD
+http://hidra.live:80/yhehteog/NeN02o7t1o/50578
+#EXTINF:-1 group-title="CINE",VIP Cinema Disney Pixar FHD
+http://hidra.live:80/yhehteog/NeN02o7t1o/50579
+#EXTINF:-1 group-title="CINE",VIP Cinema Dreamworks FHD
+http://hidra.live:80/yhehteog/NeN02o7t1o/50580
+#EXTINF:-1 group-title="CINE",VIP Cinema Familia FHD
+http://hidra.live:80/yhehteog/NeN02o7t1o/50581
+#EXTINF:-1 group-title="CINE",VIP Moviecenter Kids FHD
+http://hidra.live:80/yhehteog/NeN02o7t1o/50622
+#EXTINF:-1 group-title="CINE",VIP Moviecenter Premium FHD
+http://hidra.live:80/yhehteog/NeN02o7t1o/50623
+#EXTINF:-1 group-title="CINE",VIP Moviecenter Premium Este FHD
+http://hidra.live:80/yhehteog/NeN02o7t1o/50624
+#EXTINF:-1 group-title="CINE",PPV: Cinema 01
+http://hidra.live:80/yhehteog/NeN02o7t1o/34477
+#EXTINF:-1 group-title="CINE",PPV: Cinema 05
+http://hidra.live:80/yhehteog/NeN02o7t1o/34481
+#EXTINF:-1 group-title="CINE",PPV: Cinema 07
+http://hidra.live:80/yhehteog/NeN02o7t1o/34483
+#EXTINF:-1 group-title="CINE",PPV: Cinema 10
+http://hidra.live:80/yhehteog/NeN02o7t1o/34486
+#EXTINF:-1 group-title="CINE",PPV: Cinema 11
+http://hidra.live:80/yhehteog/NeN02o7t1o/34487
+#EXTINF:-1 group-title="CINE",PPV: Cinema 15
+http://hidra.live:80/yhehteog/NeN02o7t1o/34491
+#EXTINF:-1 group-title="CINE",PPV: Cinema 27
+http://hidra.live:80/yhehteog/NeN02o7t1o/34503
+#EXTINF:-1 group-title="CINE",PPV: Cinema 28
+http://hidra.live:80/yhehteog/NeN02o7t1o/34504
+#EXTINF:-1 group-title="CINE",PPV: Cinema 36
+http://hidra.live:80/yhehteog/NeN02o7t1o/34512
 #EXTINF:-1 group-title="CINE",PPV: Cinema 02
 http://hidra.live:80/fwcgcnna/63WL3vuzm5/34478
 #EXTINF:-1 group-title="CINE",PPV: Cinema 04
@@ -1645,6 +1683,13 @@ http://hidra.live:80/series/fwcgcnna/63WL3vuzm5/265262.mp4
 #EXTINF:-1 group-title="AVENGERS",Avengers
 http://tv-cool.com:25461/2022850718/26f6d3a754/43119
 
+#EXTINF:-1 group-title="El Laboratorio de Dexter",VIP El Laboratorio de Dexter SD
+http://hidra.live:80/yhehteog/NeN02o7t1o/50598
+
+
+#EXTINF:-1 group-title="Los Locos Adams",VIP Los Locos Adams
+http://hidra.live:80/yhehteog/NeN02o7t1o/50615
+
 #EXTINF:-1 group-title="24/7",Alerta Aeropuerto HD
 http://tv-cool.com:25461/2022850718/26f6d3a754/117805
 #EXTINF:-1 group-title="24/7",Jhonny Bravo
@@ -2010,3 +2055,10 @@ http://hidra.live:80/fwcgcnna/63WL3vuzm5/312914
 http://hidra.live:80/fwcgcnna/63WL3vuzm5/312915
 #EXTINF:-1 group-title="HIDRA",Discovery Channel HD (LAT)*
 http://hidra.live:80/fwcgcnna/63WL3vuzm5/312917
+
+#EXTINF:-1 group-title="Pinguinos de Madagascar",VIP Pinguinos de Madagascar HD
+http://hidra.live:80/yhehteog/NeN02o7t1o/50628
+
+#EXTINF:-1 group-title="El Show de Garfield",VIP El Show de Garfield FHD
+http://hidra.live:80/yhehteog/NeN02o7t1o/58097
+
