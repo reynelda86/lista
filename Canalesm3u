@@ -694,12 +694,6 @@ http://tv-cool.com:25461/2022850718/26f6d3a754/123437
 #EXTINF:-1 group-title="NBA",NBA League Pass 10 ʜᴅ
 http://tv-cool.com:25461/2022850718/26f6d3a754/73035
 
-#EXTINF:-1 group-title="FOX DEPORTES",FOX DEPORTES
-http://teamnextlevel.xyz:25461/vicente/vicente/201596
-#EXTINF:-1 group-title="FOX DEPORTES",FOX DEPORTES
-http://teamnextlevel.xyz:25461/vicente/vicente/201606
-
-
 #EXTINF:-1 group-title="FOX SPORTS PREMIUM",Fox Sports Premium ᴍx
 http://tv-cool.com:25461/2022850718/26f6d3a754/79180
 #EXTINF:-1 group-title="FOX SPORTS PREMIUM",FOX SPORTS PREMIUM HD
@@ -837,8 +831,6 @@ http://latinanplad.com:8080/Rodriguez26/Rodriguez26/284
 http://latinanplad.com:8080/Rodriguez26/Rodriguez26/374
 #EXTINF:-1 group-title="FOX SPORTS",FOX SPORTS 1 MX [FHD]
 http://latinanplad.com:8080/Rodriguez26/Rodriguez26/375
-#EXTINF:-1 group-title="FOX SPORTS",FOX SPORTS [FHD]
-http://latinanplad.com:8080/Rodriguez26/Rodriguez26/376
 #EXTINF:-1 group-title="FOX SPORTS",FOX SPORTS 2 FHD LATINO
 http://latinanplad.com:8080/Rodriguez26/Rodriguez26/378
 #EXTINF:-1 group-title="FOX SPORTS",FOX SPORTS 2 FULL HD LATINO (N)
@@ -853,10 +845,6 @@ http://latinanplad.com:8080/Rodriguez26/Rodriguez26/384
 http://latinanplad.com:8080/Rodriguez26/Rodriguez26/523
 #EXTINF:-1 group-title="FOX SPORTS",FOX SPORTS [HD]
 http://latinanplad.com:8080/Rodriguez26/Rodriguez26/233
-#EXTINF:-1 group-title="FOX SPORTS",FOX SPORTS (OPC) [HD]
-http://latinanplad.com:8080/Rodriguez26/Rodriguez26/27860
-#EXTINF:-1 group-title="FOX SPORTS",FOX SPORT 3 (OPC)
-http://latinanplad.com:8080/Rodriguez26/Rodriguez26/27861
 #EXTINF:-1 group-title="AFIZZIONADOS",Afizzionados
 http://iptvtree.es:80/qtvbox/w6kqBNLz48yf/71117.ts
 #EXTINF:-1 group-title="AFIZZIONADOS",Afizzionados FHD
@@ -960,18 +948,10 @@ http://tv-cool.com:25461/2022850718/26f6d3a754/78449
 http://kp-thebestiptv.com:8080/Galindo21/5anJqAHmvb/63967
 #EXTINF:-1 group-title="ESPN",ESPN 3 SUR FHD
 http://kp-thebestiptv.com:8080/Galindo21/5anJqAHmvb/63969
-#EXTINF:-1 group-title="ESPN",ESPN 2 HD MEXICO
-http://teamnextlevel.xyz:25461/vicente/vicente/201545
-#EXTINF:-1 group-title="ESPN",ESPN 3 HD MEXICO
-http://teamnextlevel.xyz:25461/vicente/vicente/201546
 #EXTINF:-1 group-title="ESPN",ESPN 2 HD ARGENTINA
 http://teamnextlevel.xyz:25461/vicente/vicente/201551
-#EXTINF:-1 group-title="ESPN",ESPN 3 HD ARGENTINA
-http://teamnextlevel.xyz:25461/vicente/vicente/201552
 #EXTINF:-1 group-title="ESPN",Espn 1
 http://iptvtree.es:80/qtvbox/w6kqBNLz48yf/71118.ts
-#EXTINF:-1 group-title="ESPN",Espn 3
-http://iptvtree.es:80/qtvbox/w6kqBNLz48yf/71125.ts
 #EXTINF:-1 group-title="ESPN",Espn Extra
 http://iptvtree.es:80/qtvbox/w6kqBNLz48yf/71127.ts
 #EXTINF:-1 group-title="ESPN",ESPN+
@@ -986,74 +966,13 @@ http://allstar.is-by.us:25461/CELIAPLAN/DS23Xum3dh/140218
 http://allstar.is-by.us:25461/CELIAPLAN/DS23Xum3dh/140316
 #EXTINF:-1 group-title="ESPN",ESPN PREMIUM ARG
 http://allstar.is-by.us:25461/CELIAPLAN/DS23Xum3dh/140317
-#EXTINF:-1 group-title="ESPN",ESPN CHILE HD
-http://latinanplad.com:8080/Rodriguez26/Rodriguez26/522
-#EXTINF:-1 group-title="ESPN",ESPN ARG HD
-http://latinanplad.com:8080/Rodriguez26/Rodriguez26/92
-#EXTINF:-1 group-title="ESPN",ESPN ARG SD
-http://latinanplad.com:8080/Rodriguez26/Rodriguez26/93
-#EXTINF:-1 group-title="ESPN",ESPN ARG HD
-http://latinanplad.com:8080/Rodriguez26/Rodriguez26/135
-#EXTINF:-1 group-title="ESPN",ESPN ARG HD
-http://latinanplad.com:8080/Rodriguez26/Rodriguez26/136
-#EXTINF:-1 group-title="ESPN",ESPN MEX FHD
-http://latinanplad.com:8080/Rodriguez26/Rodriguez26/365
-#EXTINF:-1 group-title="ESPN",ESPN MEX
-http://latinanplad.com:8080/Rodriguez26/Rodriguez26/366
-#EXTINF:-1 group-title="ESPN",ESPN CO FHD
-http://latinanplad.com:8080/Rodriguez26/Rodriguez26/367
-#EXTINF:-1 group-title="ESPN",ESPN ARG FHD
-http://latinanplad.com:8080/Rodriguez26/Rodriguez26/368
-#EXTINF:-1 group-title="ESPN",ESPN 2 MEX
-http://latinanplad.com:8080/Rodriguez26/Rodriguez26/369
-#EXTINF:-1 group-title="ESPN",ESPN 2 CO
-http://latinanplad.com:8080/Rodriguez26/Rodriguez26/370
-#EXTINF:-1 group-title="ESPN",ESPN 3 HD MEX
-http://latinanplad.com:8080/Rodriguez26/Rodriguez26/371
-#EXTINF:-1 group-title="ESPN",ESPN 4 ARG HD
-http://latinanplad.com:8080/Rodriguez26/Rodriguez26/661
-#EXTINF:-1 group-title="ESPN",ESPN 2 ARG HD
-http://latinanplad.com:8080/Rodriguez26/Rodriguez26/662
-#EXTINF:-1 group-title="ESPN",ESPN 2 HD
-http://latinanplad.com:8080/Rodriguez26/Rodriguez26/26543
-#EXTINF:-1 group-title="ESPN",ESPN 3 HD
-http://latinanplad.com:8080/Rodriguez26/Rodriguez26/26544
-#EXTINF:-1 group-title="ESPN",ESPN 2
-http://latinanplad.com:8080/Rodriguez26/Rodriguez26/27778
-#EXTINF:-1 group-title="ESPN",ESPN 3
-http://latinanplad.com:8080/Rodriguez26/Rodriguez26/27779
-#EXTINF:-1 group-title="ESPN",ESPN 1 OP ARGHD
-http://latinanplad.com:8080/Rodriguez26/Rodriguez26/27780
-#EXTINF:-1 group-title="ESPN",ESPN 2 OP HD
-http://latinanplad.com:8080/Rodriguez26/Rodriguez26/27781
-#EXTINF:-1 group-title="ESPN",ESPN 3 OP HD
-http://latinanplad.com:8080/Rodriguez26/Rodriguez26/27782
-#EXTINF:-1 group-title="ESPN",ESPN CO OP FHD
-http://latinanplad.com:8080/Rodriguez26/Rodriguez26/27783
-#EXTINF:-1 group-title="ESPN",ESPN OP2 SD
-http://latinanplad.com:8080/Rodriguez26/Rodriguez26/27853
-#EXTINF:-1 group-title="ESPN",ESPN 2 OP2 HD
-http://latinanplad.com:8080/Rodriguez26/Rodriguez26/27854
-#EXTINF:-1 group-title="ESPN",ESPN 3 OP2 HD
-http://latinanplad.com:8080/Rodriguez26/Rodriguez26/27855
-#EXTINF:-1 group-title="ESPN",ESPN OP HD
-http://latinanplad.com:8080/Rodriguez26/Rodriguez26/27856
-#EXTINF:-1 group-title="ESPN",ESPN 4 ARGFHD
-http://latinanplad.com:8080/Rodriguez26/Rodriguez26/27980
-#EXTINF:-1 group-title="ESPN",ESPN 2 MX HD
-http://latinanplad.com:8080/Rodriguez26/Rodriguez26/33823
 
 #EXTINF:-1 group-title="ESPN DEPORTES",ESPN DEPORTES
 http://kp-thebestiptv.com:8080/Galindo21/5anJqAHmvb/74909
-#EXTINF:-1 group-title="ESPN DEPORTES",ESPN DEPORTES HD
-http://teamnextlevel.xyz:25461/vicente/vicente/201562
 #EXTINF:-1 group-title="ESPN DEPORTES",ESPN DEPORTES
 http://iptvtree.es:80/qtvbox/w6kqBNLz48yf/1971.ts
 #EXTINF:-1 group-title="ESPN DEPORTES",ESPN DEPORTES HD
 http://allstar.is-by.us:25461/CELIAPLAN/DS23Xum3dh/140318
-#EXTINF:-1 group-title="ESPN DEPORTES",ESPN DEPORTES
-http://latinanplad.com:8080/Rodriguez26/Rodriguez26/1246
-
 
 #EXTINF:-1 group-title="CARACOL",Caracol
 http://tv-cool.com:25461/2022850718/26f6d3a754/64120
