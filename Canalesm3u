@@ -691,8 +691,10 @@ http://iptvglobal.site:25461/Jonathan2023/Jonathan2023/147386
 #EXTINF:-1 group-title="NBA",Oklahoma City Thunder
 http://iptvglobal.site:25461/Jonathan2023/Jonathan2023/147387
 
-
-
+#EXTINF:-1 group-title="FOX SPORTS PREMIUM",Fox Sports Premium MX
+http://45.90.105.74:25461/Universochingatuculo/HA280622/53540
+#EXTINF:-1 group-title="FOX SPORTS PREMIUM",Fox Sports Premium MX
+http://45.90.105.74:25461/Universochingatuculo/HA280622/53549
 #EXTINF:-1 group-title="FOX SPORTS PREMIUM",FOX SPORTS PREMIUM
 http://tv.dominiotv.xyz:25461/live/iptvprivado/K8XNXMTMm9/164581.ts
 #EXTINF:-1 group-title="FOX SPORTS PREMIUM",FOX SPORTS PREMIUM HD
@@ -715,6 +717,28 @@ http://45.90.105.74:25461/Universochingatuculo/HA280622/40911
 #EXTINF:-1 group-title="FOX DEPORTES",FOX DEPORTES
 http://tv.dominiotv.xyz:25461/live/iptvprivado/K8XNXMTMm9/92437.ts
 
+#EXTINF:-1 group-title="FOX SPORTS",FOX Sports HD
+http://45.90.105.74:25461/Universochingatuculo/HA280622/44176
+#EXTINF:-1 group-title="FOX SPORTS",FOX Sports HD Latino
+http://45.90.105.74:25461/Universochingatuculo/HA280622/44074
+#EXTINF:-1 group-title="FOX SPORTS",FOX SPORTS LQ
+http://45.90.105.74:25461/Universochingatuculo/HA280622/16552
+#EXTINF:-1 group-title="FOX SPORTS",FOX SPORTS MX HD
+http://45.90.105.74:25461/Universochingatuculo/HA280622/30338
+#EXTINF:-1 group-title="FOX SPORTS",FOX SPORTS MX SD
+http://45.90.105.74:25461/Universochingatuculo/HA280622/3170
+#EXTINF:-1 group-title="FOX SPORTS",Fox Sports 2 HD
+http://45.90.105.74:25461/Universochingatuculo/HA280622/3172
+#EXTINF:-1 group-title="FOX SPORTS",FOX SPORTS 2 LQ
+http://45.90.105.74:25461/Universochingatuculo/HA280622/16550
+#EXTINF:-1 group-title="FOX SPORTS",FOX SPORTS 2 MX SD
+http://45.90.105.74:25461/Universochingatuculo/HA280622/30336
+#EXTINF:-1 group-title="FOX SPORTS",Fox Sports 3 HD
+http://45.90.105.74:25461/Universochingatuculo/HA280622/3785
+#EXTINF:-1 group-title="FOX SPORTS",FOX SPORTS 3 LQ
+http://45.90.105.74:25461/Universochingatuculo/HA280622/16551
+#EXTINF:-1 group-title="FOX SPORTS",FOX SPORTS 3 MX SD
+http://45.90.105.74:25461/Universochingatuculo/HA280622/30337
 #EXTINF:-1 group-title="FOX SPORTS",FOX SPORTS 1  (SUR)
 http://tv.dominiotv.xyz:25461/live/iptvprivado/K8XNXMTMm9/85775.ts
 #EXTINF:-1 group-title="FOX SPORTS",FOX SPORTS 1 HD (SUR)
