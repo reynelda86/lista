@@ -1016,6 +1016,12 @@ http://hidra.live:80/fwcgcnna/63WL3vuzm5/34512
 #EXTINF:-1 group-title="CINE",PPV: Cinema 37
 http://hidra.live:80/fwcgcnna/63WL3vuzm5/34513
 
+#EXTINF:-1 group-title="CARTOON NETWORK",CARTOON NETWORK HD
+http://45.90.105.74:25461/Universochingatuculo/HA280622/30316
+#EXTINF:-1 group-title="CARTOON NETWORK",CARTOON NETWORK LQ
+http://45.90.105.74:25461/Universochingatuculo/HA280622/16523
+#EXTINF:-1 group-title="CARTOON NETWORK",Cartoon Network SD
+http://45.90.105.74:25461/Universochingatuculo/HA280622/3133
 #EXTINF:-1 group-title="CARTOON NETWORK",Cartoon Network FHD (E)
 http://hidra.live:80/fwcgcnna/63WL3vuzm5/35222
 #EXTINF:-1 group-title="CARTOON NETWORK",Cartoon Network
@@ -1029,6 +1035,12 @@ http://kp-thebestiptv.com:8080/Galindo21/5anJqAHmvb/61341
 #EXTINF:-1 group-title="CARTOON NETWORK",CARTOON NETWORK
 http://allstar.is-by.us:25461/CELIAPLAN/DS23Xum3dh/140142
 
+#EXTINF:-1 group-title="BOOMERANG",Cartoonito HD
+http://45.90.105.74:25461/Universochingatuculo/HA280622/30314
+#EXTINF:-1 group-title="BOOMERANG",Cartoonito LQ
+http://45.90.105.74:25461/Universochingatuculo/HA280622/16511
+#EXTINF:-1 group-title="BOOMERANG",CARTOONITO SD
+http://45.90.105.74:25461/Universochingatuculo/HA280622/52087
 #EXTINF:-1 group-title="BOOMERANG",Cartoonito HD (LAT)*
 http://hidra.live:80/fwcgcnna/63WL3vuzm5/312921
 #EXTINF:-1 group-title="BOOMERANG",Cartoonito HD (LAT)*
