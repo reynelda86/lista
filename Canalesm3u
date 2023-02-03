@@ -1342,6 +1342,12 @@ http://45.90.105.74:25461/Universochingatuculo/HA280622/30328
 http://45.90.105.74:25461/Universochingatuculo/HA280622/16540
 #EXTINF:-1 group-title="DISNEY CHANNEL",Disney Junior SD
 http://45.90.105.74:25461/Universochingatuculo/HA280622/3127
+#EXTINF:-1 group-title="DISNEY CHANNEL",Disney Channel
+http://51.222.25.50:25461/m0nk3ynew/sMbK7mENr5/82
+#EXTINF:-1 group-title="DISNEY CHANNEL",Disney Jr
+http://51.222.25.50:25461/m0nk3ynew/sMbK7mENr5/83
+#EXTINF:-1 group-title="DISNEY CHANNEL",Disney XD
+http://51.222.25.50:25461/m0nk3ynew/sMbK7mENr5/84
 #EXTINF:-1 group-title="DISNEY CHANNEL",DISNEY CHANNEL
 http://allstar.is-by.us:25461/CELIAPLAN/DS23Xum3dh/140143
 #EXTINF:-1 group-title="DISNEY CHANNEL",Disney Channel HD (LAT)*
