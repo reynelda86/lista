@@ -151,8 +151,6 @@ http://tv-cool.com:25461/2022850718/26f6d3a754/128512
 http://tv-cool.com:25461/2022850718/26f6d3a754/76353
 #EXTINF:-1 group-title="UNIVERSAL",Universal Crime ʜᴅ
 http://tv-cool.com:25461/2022850718/26f6d3a754/74000
-#EXTINF:-1 group-title="UNIVERSAL",Universal
-http://190.61.102.67:31589/play/a03d/index.m3u8
 #EXTINF:-1 group-title="UNIVERSAL",Universal Cinema
 http://kp-thebestiptv.com:8080/Galindo21/5anJqAHmvb/60980
 #EXTINF:-1 group-title="UNIVERSAL",Universal Cinema SD
@@ -200,8 +198,6 @@ http://hidra.live:80/fwcgcnna/63WL3vuzm5/35235
 #EXTINF:-1 group-title="CINECANAL",Cinecanal 2ᴍʙ
 http://tv-cool.com:25461/2022850718/26f6d3a754/30661
 #EXTINF:-1 group-title="CINECANAL",CINECANAL
-http://190.61.102.67:31589/play/a04q/index.m3u8
-#EXTINF:-1 group-title="CINECANAL",CINECANAL
 http://streamgo.vip:8008/nando/nando/147284
 #EXTINF:-1 group-title="CINECANAL",CINECANAL  HD
 http://streamgo.vip:8008/nando/nando/147283
@@ -246,8 +242,6 @@ http://hidra.live:80/fwcgcnna/63WL3vuzm5/34962
 #EXTINF:-1 group-title="TNT",TNT Series HD (LAT)
 http://hidra.live:80/fwcgcnna/63WL3vuzm5/34963
 
-#EXTINF:-1 group-title="HISTORY CHANNEL",History Channel SD (MX)
-http://hidra.live:80/fwcgcnna/63WL3vuzm5/34829
 #EXTINF:-1 group-title="HISTORY CHANNEL",History Channel FHD (MX)
 http://hidra.live:80/fwcgcnna/63WL3vuzm5/34830
 #EXTINF:-1 group-title="HISTORY CHANNEL",History Channel FHD (LAT)
@@ -314,8 +308,6 @@ http://hidra.live:80/fwcgcnna/63WL3vuzm5/34975
 http://tv-cool.com:25461/2022850718/26f6d3a754/77007
 #EXTINF:-1 group-title="FX",FX 2ᴍʙ
 http://tv-cool.com:25461/2022850718/26f6d3a754/31135
-#EXTINF:-1 group-title="FX",FX
-http://190.61.102.67:31589/play/a05z/index.m3u8
 #EXTINF:-1 group-title="FX",FX HD
 http://streamgo.vip:8008/nando/nando/147304
 #EXTINF:-1 group-title="FX",FXM HD
@@ -338,8 +330,6 @@ http://hidra.live:80/fwcgcnna/63WL3vuzm5/50586
 http://hidra.live:80/fwcgcnna/63WL3vuzm5/34968
 #EXTINF:-1 group-title="SPACE",Space
 http://hidra.live:80/fwcgcnna/63WL3vuzm5/302719
-#EXTINF:-1 group-title="SPACE",Space MX
-http://190.61.102.67:31589/play/a04x/index.m3u8
 #EXTINF:-1 group-title="SPACE",SPACE CHANEL  HD
 http://streamgo.vip:8008/nando/nando/147308
 #EXTINF:-1 group-title="SPACE",SPACE CHANEL SD
@@ -390,8 +380,6 @@ http://tv-cool.com:25461/2022850718/26f6d3a754/29776
 
 #EXTINF:-1 group-title="CINEMAX",Cinemax HD (LAT)*
 http://hidra.live:80/fwcgcnna/63WL3vuzm5/312966
-#EXTINF:-1 group-title="CINEMAX",Cinemax SD (MX)
-http://hidra.live:80/fwcgcnna/63WL3vuzm5/34995
 #EXTINF:-1 group-title="CINEMAX",Cinemax ʜᴅ
 http://tv-cool.com:25461/2022850718/26f6d3a754/29735
 #EXTINF:-1 group-title="CINEMAX",Cinemax ғʜᴅ
@@ -496,16 +484,12 @@ http://allstar.is-by.us:25461/CELIAPLAN/DS23Xum3dh/140227
 
 #EXTINF:-1 group-title="LAS ESTRELLAS",Estrellas HD (MX VIP)
 http://hidra.live:80/yhehteog/NeN02o7t1o/302641
-#EXTINF:-1 group-title="LAS ESTRELLAS",Estrellas Meos 2hrs HD (MX VIP)
-http://hidra.live:80/yhehteog/NeN02o7t1o/302642
 #EXTINF:-1 group-title="LAS ESTRELLAS",Las Estrellas 2ᴍʙ
 http://tv-cool.com:25461/2022850718/26f6d3a754/31120
 #EXTINF:-1 group-title="LAS ESTRELLAS",Las Estrellas -1HRs HD (MX VIP)
 http://hidra.live:80/fwcgcnna/63WL3vuzm5/304504
 #EXTINF:-1 group-title="LAS ESTRELLAS",Las Estrellas ғʜᴅ
 http://tv-cool.com:25461/2022850718/26f6d3a754/43719
-#EXTINF:-1 group-title="LAS ESTRELLAS",LAS ESTRELLAS
-http://190.61.102.67:31589/play/a00g/index.m3u8
 #EXTINF:-1 group-title="LAS ESTRELLAS",LAS ESTRELLAS
 http://kp-thebestiptv.com:8080/Galindo21/5anJqAHmvb/246
 #EXTINF:-1 group-title="LAS ESTRELLAS",Las Estrellas -2
@@ -514,8 +498,6 @@ http://tv-cool.com:25461/2022850718/26f6d3a754/114732
 http://kp-thebestiptv.com:8080/Galindo21/5anJqAHmvb/245
 #EXTINF:-1 group-title="LAS ESTRELLAS",Las Estrellas Vix+
 http://kp-thebestiptv.com:8080/Galindo21/5anJqAHmvb/143224
-#EXTINF:-1 group-title="LAS ESTRELLAS",Las Estrellas -1 Hr Vix+
-http://kp-thebestiptv.com:8080/Galindo21/5anJqAHmvb/143225
 #EXTINF:-1 group-title="LAS ESTRELLAS",Las Estrellas -2 Hrs Vix+
 http://kp-thebestiptv.com:8080/Galindo21/5anJqAHmvb/143226
 
@@ -567,24 +549,6 @@ http://tv-cool.com:25461/2022850718/26f6d3a754/113729
 #EXTINF:-1 group-title="NFL",NFL Redzone HD
 http://tv-cool.com:25461/2022850718/26f6d3a754/30156
 
-#EXTINF:-1 group-title="NBA",NBA League Pass 1
-http://king-play.newtvhd.com:7070/User339/qaa6xt60/182841
-#EXTINF:-1 group-title="NBA",NBA League Pass 2
-http://king-play.newtvhd.com:7070/User339/qaa6xt60/182842
-#EXTINF:-1 group-title="NBA",NBA League Pass 3
-http://king-play.newtvhd.com:7070/User339/qaa6xt60/182843
-#EXTINF:-1 group-title="NBA",NBA League Pass 4
-http://king-play.newtvhd.com:7070/User339/qaa6xt60/182846
-#EXTINF:-1 group-title="NBA",NBA League Pass 5
-http://king-play.newtvhd.com:7070/User339/qaa6xt60/182844
-#EXTINF:-1 group-title="NBA",NBA League Pass 6
-http://king-play.newtvhd.com:7070/User339/qaa6xt60/182845
-#EXTINF:-1 group-title="NBA",NBA League Pass 7
-http://king-play.newtvhd.com:7070/User339/qaa6xt60/182847
-#EXTINF:-1 group-title="NBA",NBA League Pass 8
-http://king-play.newtvhd.com:7070/User339/qaa6xt60/182848
-#EXTINF:-1 group-title="NBA",NBA League Pass 9
-http://king-play.newtvhd.com:7070/User339/qaa6xt60/182849
 #EXTINF:-1 group-title="NBA",NBA HD
 http://tv.dominiotv.xyz:25461/live/iptvprivado/K8XNXMTMm9/94135.ts
 #EXTINF:-1 group-title="NBA",NBA TV
@@ -598,13 +562,6 @@ http://kp-thebestiptv.com:8080/Galindo21/5anJqAHmvb/65907
 #EXTINF:-1 group-title="NBA",NBA HD
 http://allstar.is-by.us:25461/CELIAPLAN/DS23Xum3dh/140201
 #EXTINF:-1 group-title="NBA",NBA 01 HD
-http://tv.dominiotv.xyz:25461/live/iptvprivado/K8XNXMTMm9/346078.ts
-#EXTINF:-1 group-title="NBA",NBA 02 HD
-http://tv.dominiotv.xyz:25461/live/iptvprivado/K8XNXMTMm9/346079.ts
-#EXTINF:-1 group-title="NBA",NBA 04 HD
-http://tv.dominiotv.xyz:25461/live/iptvprivado/K8XNXMTMm9/346081.ts
-#EXTINF:-1 group-title="NBA",NBA 05 HD
-http://tv.dominiotv.xyz:25461/live/iptvprivado/K8XNXMTMm9/346082.ts
 #EXTINF:-1 group-title="NBA",NBA League Pass 01
 http://tv-cool.com:25461/2022850718/26f6d3a754/123428
 #EXTINF:-1 group-title="NBA",NBA League Pass 02 ʜᴅ
@@ -623,34 +580,16 @@ http://tv-cool.com:25461/2022850718/26f6d3a754/73034
 http://tv-cool.com:25461/2022850718/26f6d3a754/123437
 #EXTINF:-1 group-title="NBA",NBA League Pass 10 ʜᴅ
 http://tv-cool.com:25461/2022850718/26f6d3a754/73035
-#EXTINF:-1 group-title="NBA",NBA  Game 9
-http://iptvglobal.site:25461/Jonathan2023/Jonathan2023/172510
-#EXTINF:-1 group-title="NBA",NBA Game 1
-http://iptvglobal.site:25461/Jonathan2023/Jonathan2023/172511
-#EXTINF:-1 group-title="NBA",NBA  Game 2
-http://iptvglobal.site:25461/Jonathan2023/Jonathan2023/172512
-#EXTINF:-1 group-title="NBA",NBA  Game 4
-http://iptvglobal.site:25461/Jonathan2023/Jonathan2023/172514
-#EXTINF:-1 group-title="NBA",NBA  Game 5
-http://iptvglobal.site:25461/Jonathan2023/Jonathan2023/172515
-#EXTINF:-1 group-title="NBA",NBA  Game 6
-http://iptvglobal.site:25461/Jonathan2023/Jonathan2023/172516
-#EXTINF:-1 group-title="NBA",NBA  Game 7
-http://iptvglobal.site:25461/Jonathan2023/Jonathan2023/172517
 #EXTINF:-1 group-title="NBA",NBA TV
 http://iptvglobal.site:25461/Jonathan2023/Jonathan2023/147389
 #EXTINF:-1 group-title="NBA",NBA PASS1 - 76ers
 http://iptvglobal.site:25461/Jonathan2023/Jonathan2023/158926
 #EXTINF:-1 group-title="NBA",NBA PASS 3-Bulls
 http://iptvglobal.site:25461/Jonathan2023/Jonathan2023/158928
-#EXTINF:-1 group-title="NBA",NBA PASS 5-Celtics
-http://iptvglobal.site:25461/Jonathan2023/Jonathan2023/158930
 #EXTINF:-1 group-title="NBA",NBA PASS 8-Hawks
 http://iptvglobal.site:25461/Jonathan2023/Jonathan2023/158933
 #EXTINF:-1 group-title="NBA",NBA PASS 10-Heat
 http://iptvglobal.site:25461/Jonathan2023/Jonathan2023/158934
-#EXTINF:-1 group-title="NBA",NBA PASS 10-Hornets
-http://iptvglobal.site:25461/Jonathan2023/Jonathan2023/158935
 #EXTINF:-1 group-title="NBA",NBA PASS - Jazz
 http://iptvglobal.site:25461/Jonathan2023/Jonathan2023/158936
 #EXTINF:-1 group-title="NBA",NBA PASS -Kings
@@ -661,18 +600,10 @@ http://iptvglobal.site:25461/Jonathan2023/Jonathan2023/158938
 http://iptvglobal.site:25461/Jonathan2023/Jonathan2023/158939
 #EXTINF:-1 group-title="NBA",NBA PASS - Magic
 http://iptvglobal.site:25461/Jonathan2023/Jonathan2023/158940
-#EXTINF:-1 group-title="NBA",NBA PASS - Mavericks
-http://iptvglobal.site:25461/Jonathan2023/Jonathan2023/158941
-#EXTINF:-1 group-title="NBA",NBA PASS - Nets
-http://iptvglobal.site:25461/Jonathan2023/Jonathan2023/158942
-#EXTINF:-1 group-title="NBA",NBA PASS - Nuggets
-http://iptvglobal.site:25461/Jonathan2023/Jonathan2023/158943
 #EXTINF:-1 group-title="NBA",NBA PASS - Pacers
 http://iptvglobal.site:25461/Jonathan2023/Jonathan2023/158944
 #EXTINF:-1 group-title="NBA",NBA PASS - Pelicans
 http://iptvglobal.site:25461/Jonathan2023/Jonathan2023/158945
-#EXTINF:-1 group-title="NBA",NBA PASS -Pistons
-http://iptvglobal.site:25461/Jonathan2023/Jonathan2023/158946
 #EXTINF:-1 group-title="NBA",NBA PASS -Raptors
 http://iptvglobal.site:25461/Jonathan2023/Jonathan2023/158947
 #EXTINF:-1 group-title="NBA",NBA PASS - Rockets
@@ -687,8 +618,6 @@ http://iptvglobal.site:25461/Jonathan2023/Jonathan2023/158951
 http://iptvglobal.site:25461/Jonathan2023/Jonathan2023/158952
 #EXTINF:-1 group-title="NBA",NBA PASS1 - Timberwolves
 http://iptvglobal.site:25461/Jonathan2023/Jonathan2023/158953
-#EXTINF:-1 group-title="NBA",NBA PASS1 - Warriors
-http://iptvglobal.site:25461/Jonathan2023/Jonathan2023/158954
 #EXTINF:-1 group-title="NBA",NBA PASS1 -Wizards
 http://iptvglobal.site:25461/Jonathan2023/Jonathan2023/158955
 #EXTINF:-1 group-title="NBA",Sky Sport NBA
@@ -711,34 +640,12 @@ http://iptvglobal.site:25461/Jonathan2023/Jonathan2023/147363
 http://iptvglobal.site:25461/Jonathan2023/Jonathan2023/147364
 #EXTINF:-1 group-title="NBA",Los Angeles Lakers
 http://iptvglobal.site:25461/Jonathan2023/Jonathan2023/147365
-#EXTINF:-1 group-title="NBA",Indiana Pacers
-http://iptvglobal.site:25461/Jonathan2023/Jonathan2023/147367
-#EXTINF:-1 group-title="NBA",Houston Rockets
-http://iptvglobal.site:25461/Jonathan2023/Jonathan2023/147368
-#EXTINF:-1 group-title="NBA",Denver Nuggets
-http://iptvglobal.site:25461/Jonathan2023/Jonathan2023/147370
-#EXTINF:-1 group-title="NBA",Dallas Mavericks
-http://iptvglobal.site:25461/Jonathan2023/Jonathan2023/147371
-#EXTINF:-1 group-title="NBA",Brooklyn Nets
-http://iptvglobal.site:25461/Jonathan2023/Jonathan2023/147373
-#EXTINF:-1 group-title="NBA",Boston Celtics
-http://iptvglobal.site:25461/Jonathan2023/Jonathan2023/147374
 #EXTINF:-1 group-title="NBA",Utah Jazz
 http://iptvglobal.site:25461/Jonathan2023/Jonathan2023/147375
 #EXTINF:-1 group-title="NBA",Washington Wizards
 http://iptvglobal.site:25461/Jonathan2023/Jonathan2023/147376
 #EXTINF:-1 group-title="NBA",SAN ANTONIO SPURS
 http://iptvglobal.site:25461/Jonathan2023/Jonathan2023/147377
-#EXTINF:-1 group-title="NBA",Detroit Pistons
-http://iptvglobal.site:25461/Jonathan2023/Jonathan2023/147379
-#EXTINF:-1 group-title="NBA",Chicago Bulls
-http://iptvglobal.site:25461/Jonathan2023/Jonathan2023/147380
-#EXTINF:-1 group-title="NBA",Charlotte Hornets
-http://iptvglobal.site:25461/Jonathan2023/Jonathan2023/147381
-#EXTINF:-1 group-title="NBA",Phoenix Suns
-http://iptvglobal.site:25461/Jonathan2023/Jonathan2023/147382
-#EXTINF:-1 group-title="NBA",Atlanta Hawks
-http://iptvglobal.site:25461/Jonathan2023/Jonathan2023/147383
 #EXTINF:-1 group-title="NBA",Portland Trail Blazers
 http://iptvglobal.site:25461/Jonathan2023/Jonathan2023/147384
 #EXTINF:-1 group-title="NBA",Miami Heat
@@ -807,8 +714,6 @@ http://kp-thebestiptv.com:8080/Galindo21/5anJqAHmvb/60988
 #EXTINF:-1 group-title="FOX SPORTS",Fox Sports
 http://kp-thebestiptv.com:8080/Galindo21/5anJqAHmvb/63964
 #EXTINF:-1 group-title="FOX SPORTS",Fox Sports 2
-http://kp-thebestiptv.com:8080/Galindo21/5anJqAHmvb/60985
-#EXTINF:-1 group-title="FOX SPORTS",Fox Sports 2
 http://kp-thebestiptv.com:8080/Galindo21/5anJqAHmvb/63965
 #EXTINF:-1 group-title="FOX SPORTS",FOX SPORTS 1 MX
 http://kp-thebestiptv.com:8080/Galindo21/5anJqAHmvb/414
@@ -824,8 +729,6 @@ http://kp-thebestiptv.com:8080/Galindo21/5anJqAHmvb/457
 http://kp-thebestiptv.com:8080/Galindo21/5anJqAHmvb/48298
 #EXTINF:-1,#EXTINF:-1 group-title="FOX SPORTS",FOX SPORTS 1 ARG
 http://kp-thebestiptv.com:8080/Galindo21/5anJqAHmvb/48299
-#EXTINF:-1 group-title="FOX SPORTS",Fox Sports 2 SD
-http://kp-thebestiptv.com:8080/Galindo21/5anJqAHmvb/60985
 #EXTINF:-1 group-title="FOX SPORTS",Fox Sports 3 SD
 http://kp-thebestiptv.com:8080/Galindo21/5anJqAHmvb/60987
 #EXTINF:-1 group-title="FOX SPORTS",Fox Sports SD
@@ -869,8 +772,6 @@ http://iptvtree.es:80/qtvbox/w6kqBNLz48yf/19188.ts
 http://allstar.is-by.us:25461/CELIAPLAN/DS23Xum3dh/140312
 
 #EXTINF:-1 group-title="TUDN",TUDN
-http://190.61.102.67:31589/play/a08j/index.m3u8
-#EXTINF:-1 group-title="TUDN",TUDN
 http://kp-thebestiptv.com:8080/Galindo21/5anJqAHmvb/73630
 #EXTINF:-1 group-title="TUDN",TUDN
 http://kp-thebestiptv.com:8080/Galindo21/5anJqAHmvb/354
@@ -894,10 +795,6 @@ http://tv-cool.com:25461/2022850718/26f6d3a754/79411
 
 #EXTINF:-1 group-title="DIRECTV SPORTS",Directv Sports 1 ʜᴅ ᴄʟ
 http://tv-cool.com:25461/2022850718/26f6d3a754/61856
-#EXTINF:-1 group-title="DIRECTV SPORTS",Directv Sports 1 ʜᴅ ᴘᴇʀ
-http://tv-cool.com:25461/2022850718/26f6d3a754/76985
-#EXTINF:-1 group-title="DIRECTV SPORTS",Directv Sports 2 ʜᴅ ᴀʀɢ
-http://tv-cool.com:25461/2022850718/26f6d3a754/62551
 #EXTINF:-1 group-title="DIRECTV SPORTS",Directv Sports 2 ʜᴅ ᴄᴏ
 http://tv-cool.com:25461/2022850718/26f6d3a754/76986
 #EXTINF:-1 group-title="DIRECTV SPORTS",Directv Sports Plus ʜᴅ
@@ -937,12 +834,6 @@ http://hidra.live:80/fwcgcnna/63WL3vuzm5/302638
 http://hidra.live:80/fwcgcnna/63WL3vuzm5/302639
 #EXTINF:-1 group-title="ESPN",ESPN 3 (MX VIP)
 http://hidra.live:80/fwcgcnna/63WL3vuzm5/302640
-#EXTINF:-1 group-title="ESPN",ESPN
-http://190.61.102.67:31589/play/a064/index.m3u8
-#EXTINF:-1 group-title="ESPN",ESPN 2
-http://190.61.102.67:31589/play/a063/index.m3u8
-#EXTINF:-1 group-title="ESPN",ESPN3
-http://190.61.102.67:31589/play/a03n/index.m3u8
 #EXTINF:-1 group-title="ESPN",ESPN 1 ʜᴅ ᴄᴏ
 http://tv-cool.com:25461/2022850718/26f6d3a754/30250
 #EXTINF:-1 group-title="ESPN",ESPN 1 ғʜᴅ ᴄᴏ
@@ -1109,8 +1000,6 @@ http://hidra.live:80/fwcgcnna/63WL3vuzm5/34513
 
 #EXTINF:-1 group-title="CARTOON NETWORK",Cartoon Network FHD (E)
 http://hidra.live:80/fwcgcnna/63WL3vuzm5/35222
-#EXTINF:-1 group-title="CARTOON NETWORK",Cartoon Network 2ᴍʙ
-http://tv-cool.com:25461/2022850718/26f6d3a754/30665
 #EXTINF:-1 group-title="CARTOON NETWORK",Cartoon Network
 http://tv-cool.com:25461/2022850718/26f6d3a754/29799
 #EXTINF:-1 group-title="CARTOON NETWORK",Cartoon Network ғʜᴅ
@@ -1119,8 +1008,6 @@ http://tv-cool.com:25461/2022850718/26f6d3a754/29733
 http://kp-thebestiptv.com:8080/Galindo21/5anJqAHmvb/330
 #EXTINF:-1 group-title="CARTOON NETWORK",Cartoon Network SD
 http://kp-thebestiptv.com:8080/Galindo21/5anJqAHmvb/61341
-#EXTINF:-1 group-title="CARTOON NETWORK",Cartoon Network
-http://iptvglobal.site:25461/rrtv/rrtv12345/87435
 #EXTINF:-1 group-title="CARTOON NETWORK",CARTOON NETWORK
 http://allstar.is-by.us:25461/CELIAPLAN/DS23Xum3dh/140142
 
@@ -1164,8 +1051,6 @@ http://allstar.is-by.us:25461/CELIAPLAN/DS23Xum3dh/140145
 #EXTINF:-1 group-title="UNIVERSAL KIDS",UNIVERSAL KIDS HD
 http://allstar.is-by.us:25461/CELIAPLAN/DS23Xum3dh/140148
 
-#EXTINF:-1 group-title="NICKELODEON",Nickelodeon SD (MX)
-http://hidra.live:80/fwcgcnna/63WL3vuzm5/34768
 #EXTINF:-1 group-title="NICKELODEON",Nickelodeon FHD (LAT)
 http://hidra.live:80/fwcgcnna/63WL3vuzm5/34772
 #EXTINF:-1 group-title="NICKELODEON",TeenNick FHD (LAT)
@@ -1218,18 +1103,12 @@ http://kp-thebestiptv.com:8080/Galindo21/5anJqAHmvb/251
 http://kp-thebestiptv.com:8080/Galindo21/5anJqAHmvb/51197
 #EXTINF:-1 group-title="AZTECA",Azteca Uno SD
 http://kp-thebestiptv.com:8080/Galindo21/5anJqAHmvb/61336
-#EXTINF:-1 group-title="AZTECA",ADN40 FHD (MX)
-http://hidra.live:80/fwcgcnna/63WL3vuzm5/43619
 #EXTINF:-1 group-title="AZTECA",AZTECA 1 (XHDF-TDT)
 http://allstar.is-by.us:25461/CELIAPLAN/DS23Xum3dh/140111
 #EXTINF:-1 group-title="AZTECA",Azteca 7 SD
 http://kp-thebestiptv.com:8080/Galindo21/5anJqAHmvb/61335
-#EXTINF:-1 group-title="AZTECA",AZTECA 7 (XHIMT)
-http://allstar.is-by.us:25461/CELIAPLAN/DS23Xum3dh/140112
 #EXTINF:-1 group-title="AZTECA",Azteca Cinema SD (MX)
 http://hidra.live:80/fwcgcnna/63WL3vuzm5/43614
-#EXTINF:-1 group-title="AZTECA",Azteca Mundo SD (MX)
-http://hidra.live:80/fwcgcnna/63WL3vuzm5/43616
 
 #EXTINF:-1 group-title="MULTIMEDIOS",Multimedios SD (MX)
 http://hidra.live:80/fwcgcnna/63WL3vuzm5/43632
@@ -1242,14 +1121,10 @@ http://hidra.live:80/fwcgcnna/63WL3vuzm5/312959
 http://hidra.live:80/fwcgcnna/63WL3vuzm5/35012
 #EXTINF:-1 group-title="MUSICA",MTV Hits SD (LAT)
 http://hidra.live:80/fwcgcnna/63WL3vuzm5/35019
-#EXTINF:-1 group-title="MUSICA",MTV Live SD (MX)
-http://hidra.live:80/fwcgcnna/63WL3vuzm5/35020
 #EXTINF:-1 group-title="MUSICA",Concert Channel SD (LAT)
 http://hidra.live:80/fwcgcnna/63WL3vuzm5/35022
 #EXTINF:-1 group-title="MUSICA",Concert Channel FHD (LAT)
 http://hidra.live:80/fwcgcnna/63WL3vuzm5/35023
-#EXTINF:-1 group-title="MUSICA",Telehit SD (MX)
-http://hidra.live:80/fwcgcnna/63WL3vuzm5/35030
 #EXTINF:-1 group-title="MUSICA",Telehit FHD (MX)
 http://hidra.live:80/fwcgcnna/63WL3vuzm5/35031
 #EXTINF:-1 group-title="MUSICA",MTV 00S FHD (LAT)
@@ -2095,8 +1970,6 @@ http://hidra.live:80/fwcgcnna/63WL3vuzm5/302706
 http://hidra.live:80/fwcgcnna/63WL3vuzm5/302710
 #EXTINF:-1 group-title="HIDRA",Nicktoons HD (MX VIP)
 http://hidra.live:80/fwcgcnna/63WL3vuzm5/302713
-#EXTINF:-1 group-title="HIDRA",Paramount HD (MX VIP)
-http://hidra.live:80/fwcgcnna/63WL3vuzm5/302716
 #EXTINF:-1 group-title="HIDRA",Sony HD (MX VIP)
 http://hidra.live:80/fwcgcnna/63WL3vuzm5/302718
 #EXTINF:-1 group-title="HIDRA",StarTV HD (MX VIP)
