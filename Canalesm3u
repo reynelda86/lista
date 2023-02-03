@@ -706,6 +706,12 @@ http://tv-cool.com:25461/2022850718/26f6d3a754/79179
 #EXTINF:-1 group-title="FOX SPORTS PREMIUM",FOX SPORTS PREMIUM HD
 http://tv-cool.com:25461/2022850718/26f6d3a754/61284
 
+#EXTINF:-1 group-title="FOX DEPORTES",FOX Deportes HD
+http://45.90.105.74:25461/Universochingatuculo/HA280622/40910
+#EXTINF:-1 group-title="FOX DEPORTES",Fox Deportes SD
+http://45.90.105.74:25461/Universochingatuculo/HA280622/1510
+#EXTINF:-1 group-title="FOX DEPORTES",FOX Deportes HD
+http://45.90.105.74:25461/Universochingatuculo/HA280622/40911
 #EXTINF:-1 group-title="FOX DEPORTES",FOX DEPORTES
 http://tv.dominiotv.xyz:25461/live/iptvprivado/K8XNXMTMm9/92437.ts
 
