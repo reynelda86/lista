@@ -1066,6 +1066,12 @@ http://51.222.25.50:25461/m0nk3ynew/sMbK7mENr5/3990
 http://51.222.25.50:25461/m0nk3ynew/sMbK7mENr5/3991
 #EXTINF:-1 group-title="ESPN",ESPN 3
 http://51.222.25.50:25461/m0nk3ynew/sMbK7mENr5/3992
+#EXTINF:-1 group-title="ESPN",ESPN 1 MX
+http://51.222.25.50:25461/m0nk3ynew/sMbK7mENr5/3958
+#EXTINF:-1 group-title="ESPN",ESPN 2 MX
+http://51.222.25.50:25461/m0nk3ynew/sMbK7mENr5/3959
+#EXTINF:-1 group-title="ESPN",ESPN 3 MX
+http://51.222.25.50:25461/m0nk3ynew/sMbK7mENr5/3960
 #EXTINF:-1 group-title="ESPN",ESPN 1 (COL)
 http://tv.dominiotv.xyz:25461/live/iptvprivado/K8XNXMTMm9/82236.ts
 #EXTINF:-1 group-title="ESPN",ESPN 1 (MX)
