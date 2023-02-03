@@ -428,6 +428,8 @@ http://allstar.is-by.us:25461/CELIAPLAN/DS23Xum3dh/59116
 #EXTINF:-1 group-title="FX",FX HD SUR
 http://allstar.is-by.us:25461/CELIAPLAN/DS23Xum3dh/140169
 
+#EXTINF:-1 group-title="MARVEL",Cine Marvel
+https://v3.playerlatino.live/stream/m3u8/697
 #EXTINF:-1 group-title="MARVEL",Cinema Marvel Studios Oeste FHD
 http://hidra.live:80/fwcgcnna/63WL3vuzm5/58068
 #EXTINF:-1 group-title="MARVEL",VIP Cinema Marvel Animated FHD
@@ -1214,6 +1216,20 @@ http://tv-cool.com:25461/2022850718/26f6d3a754/68025
 #EXTINF:-1 group-title="NBC",NBC Sports Philadelphia Plus
 http://tv-cool.com:25461/2022850718/26f6d3a754/68027
 
+#EXTINF:-1 group-title="CINE",Cine Accion Sagas
+https://v3.playerlatino.live/stream/m3u8/700
+#EXTINF:-1 group-title="CINE",Cine Ficcion/Fantasia 1
+https://v3.playerlatino.live/stream/m3u8/709
+#EXTINF:-1 group-title="CINE",Cine Ficcion/Fantasia 2
+https://v3.playerlatino.live/stream/m3u8/710
+#EXTINF:-1 group-title="CINE",Cine Ficcion/Fantasia Sagas
+https://v3.playerlatino.live/stream/m3u8/711
+#EXTINF:-1 group-title="CINE",Cine Infantil
+https://v3.playerlatino.live/stream/m3u8/687
+#EXTINF:-1 group-title="CINE",Cine Infantil Sagas
+https://v3.playerlatino.live/stream/m3u8/694
+#EXTINF:-1 group-title="CINE",Cine Latino
+https://v3.playerlatino.live/stream/m3u8/295
 #EXTINF:-1 group-title="CINE",NeT Flix Action HD
 http://45.90.105.74:25461/Universochingatuculo/HA280622/76232
 #EXTINF:-1 group-title="CINE",NeT Flix Adventure HD
