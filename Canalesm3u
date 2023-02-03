@@ -257,9 +257,21 @@ http://hidra.live:80/fwcgcnna/63WL3vuzm5/34830
 #EXTINF:-1 group-title="HISTORY CHANNEL",History Channel FHD (LAT)
 http://hidra.live:80/fwcgcnna/63WL3vuzm5/34833
 
-#EXTINF:-1 group-title="H&H",Discovery H&H HD (LAT)
+#EXTINF:-1 group-title="DISCOVERY H&H",DISCOVERY H&H
+http://45.90.105.74:25461/Universochingatuculo/HA280622/38469
+#EXTINF:-1 group-title="DISCOVERY H&H",DISCOVERY H&H HD
+http://45.90.105.74:25461/Universochingatuculo/HA280622/30322
+#EXTINF:-1 group-title="DISCOVERY H&H",DISCOVERY H&H HD (i)
+http://45.90.105.74:25461/Universochingatuculo/HA280622/37994
+#EXTINF:-1 group-title="DISCOVERY H&H",DISCOVERY H&H HD (p)
+http://45.90.105.74:25461/Universochingatuculo/HA280622/3314
+#EXTINF:-1 group-title="DISCOVERY H&H",DISCOVERY H&H SD
+http://45.90.105.74:25461/Universochingatuculo/HA280622/34308
+#EXTINF:-1 group-title="DISCOVERY H&H",DISCOVERY HOME & HEALTH LQ
+http://45.90.105.74:25461/Universochingatuculo/HA280622/16532
+#EXTINF:-1 group-title="DISCOVERY H&H",Discovery H&H HD (LAT)
 http://hidra.live:80/fwcgcnna/63WL3vuzm5/34815
-#EXTINF:-1 group-title="H&H",Discovery H&H FHD (LAT)
+#EXTINF:-1 group-title="DISCOVERY H&H",Discovery H&H FHD (LAT)
 http://hidra.live:80/fwcgcnna/63WL3vuzm5/34816
 
 #EXTINF:-1 group-title="ANIMAL PLANET",Animal Planet SD (LAT)
