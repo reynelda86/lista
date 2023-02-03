@@ -609,6 +609,10 @@ http://45.90.105.74:25461/Universochingatuculo/HA280622/3310
 http://45.90.105.74:25461/Universochingatuculo/HA280622/30356
 #EXTINF:-1 group-title="LAS ESTRELLAS",LAS ESTRELLAS HD - 2 HORAS HD
 http://45.90.105.74:25461/Universochingatuculo/HA280622/37792
+#EXTINF:-1 group-title="LAS ESTRELLAS",Canal de las Estrellas
+https://v3.playerlatino.live/stream/m3u8/411
+#EXTINF:-1 group-title="LAS ESTRELLAS",Canal de las Estrellas Sur
+https://v3.playerlatino.live/stream/m3u8/736
 #EXTINF:-1 group-title="LAS ESTRELLAS",Estrellas HD (MX VIP)
 http://hidra.live:80/yhehteog/NeN02o7t1o/302641
 #EXTINF:-1 group-title="LAS ESTRELLAS",Las Estrellas 2ᴍʙ
