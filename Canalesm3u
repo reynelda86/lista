@@ -1289,6 +1289,10 @@ http://hidra.live:80/fwcgcnna/63WL3vuzm5/34512
 #EXTINF:-1 group-title="CINE",PPV: Cinema 37
 http://hidra.live:80/fwcgcnna/63WL3vuzm5/34513
 
+#EXTINF:-1 group-title="CARTOON NETWORK",Cartoon Network
+https://v3.playerlatino.live/stream/m3u8/17
+#EXTINF:-1 group-title="CARTOON NETWORK",Cartoon Network Sur
+https://v3.playerlatino.live/stream/m3u8/737
 #EXTINF:-1 group-title="CARTOON NETWORK",CARTOON NETWORK HD
 http://45.90.105.74:25461/Universochingatuculo/HA280622/30316
 #EXTINF:-1 group-title="CARTOON NETWORK",CARTOON NETWORK LQ
