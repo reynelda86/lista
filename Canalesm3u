@@ -320,6 +320,14 @@ http://allstar.is-by.us:25461/CELIAPLAN/DS23Xum3dh/59099
 #EXTINF:-1 group-title="WARNER",Warner TV
 http://allstar.is-by.us:25461/CELIAPLAN/DS23Xum3dh/140181
 
+#EXTINF:-1 group-title="FX",FX HD
+http://45.90.105.74:25461/Universochingatuculo/HA280622/30339
+#EXTINF:-1 group-title="FX",FX HD
+http://45.90.105.74:25461/Universochingatuculo/HA280622/37987
+#EXTINF:-1 group-title="FX",FX LQ
+http://45.90.105.74:25461/Universochingatuculo/HA280622/16553
+#EXTINF:-1 group-title="FX",FX SD
+http://45.90.105.74:25461/Universochingatuculo/HA280622/3102
 #EXTINF:-1 group-title="FX",FX HD (LAT)*
 http://hidra.live:80/fwcgcnna/63WL3vuzm5/312926
 #EXTINF:-1 group-title="FX",FX SD (MX)
