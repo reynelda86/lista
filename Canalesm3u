@@ -38,10 +38,6 @@ http://tv-cool.com:25461/2022850718/26f6d3a754/31288
 http://tv-cool.com:25461/2022850718/26f6d3a754/47469
 #EXTINF:-1 group-title="HBO",HBO Family 2ᴍʙ
 http://tv-cool.com:25461/2022850718/26f6d3a754/31139
-#EXTINF:-1 group-title="HBO",HBO Plus 2ᴍʙ
-http://tv-cool.com:25461/2022850718/26f6d3a754/45929
-#EXTINF:-1 group-title="HBO",HBO
-http://streamgo.vip:8008/nando/nando/147272
 #EXTINF:-1 group-title="HBO",HBO PLUS
 http://kp-thebestiptv.com:8080/Galindo21/5anJqAHmvb/64059
 #EXTINF:-1 group-title="HBO",HBO 2 SD
@@ -52,26 +48,6 @@ http://kp-thebestiptv.com:8080/Galindo21/5anJqAHmvb/60992
 http://kp-thebestiptv.com:8080/Galindo21/5anJqAHmvb/60993
 #EXTINF:-1 group-title="HBO",HBO SD
 http://kp-thebestiptv.com:8080/Galindo21/5anJqAHmvb/60994
-#EXTINF:-1 group-title="HBO",HBO 2  SD
-http://streamgo.vip:8008/nando/nando/147260
-#EXTINF:-1 group-title="HBO",HBO SIGNATURE  HD
-http://streamgo.vip:8008/nando/nando/147262
-#EXTINF:-1 group-title="HBO",HBO PLUS  HD
-http://streamgo.vip:8008/nando/nando/147265
-#EXTINF:-1 group-title="HBO",HBO PLUS  SD
-http://streamgo.vip:8008/nando/nando/147266
-#EXTINF:-1 group-title="HBO",HBO FAMILY  HD
-http://streamgo.vip:8008/nando/nando/147268
-#EXTINF:-1 group-title="HBO",HBO FAMILY  SD
-http://streamgo.vip:8008/nando/nando/147269
-#EXTINF:-1 group-title="HBO",,HBO  HD
-http://streamgo.vip:8008/nando/nando/147271
-#EXTINF:-1 group-title="HBO",HBO  SD
-http://streamgo.vip:8008/nando/nando/147272
-#EXTINF:-1 group-title="HBO",HBO POP  HD
-http://streamgo.vip:8008/nando/nando/147274
-#EXTINF:-1 group-title="HBO",HBO POP  SD
-http://streamgo.vip:8008/nando/nando/147275
 #EXTINF:-1 group-title="HBO",HBO
 http://iptvglobal.site:25461/rrtv/rrtv12345/87462
 #EXTINF:-1 group-title="HBO",HBO Plus
@@ -155,12 +131,6 @@ http://kp-thebestiptv.com:8080/Galindo21/5anJqAHmvb/60981
 http://kp-thebestiptv.com:8080/Galindo21/5anJqAHmvb/60983
 #EXTINF:-1 group-title="UNIVERSAL",Universal Premium SD
 http://kp-thebestiptv.com:8080/Galindo21/5anJqAHmvb/60984
-#EXTINF:-1 group-title="UNIVERSAL",UNIVERSAL CHANEL  HD
-http://streamgo.vip:8008/nando/nando/147298
-#EXTINF:-1 group-title="UNIVERSAL",STUDIO UNIVERSAL  HD
-http://streamgo.vip:8008/nando/nando/147301
-#EXTINF:-1 group-title="UNIVERSAL",STUDIO UNIVERSAL  SD
-http://streamgo.vip:8008/nando/nando/147302
 #EXTINF:-1 group-title="UNIVERSAL",Studio Universal
 http://iptvglobal.site:25461/rrtv/rrtv12345/131131
 #EXTINF:-1 group-title="UNIVERSAL",universal Premier
@@ -254,10 +224,6 @@ http://hidra.live:80/fwcgcnna/63WL3vuzm5/34803
 http://hidra.live:80/fwcgcnna/63WL3vuzm5/34927
 #EXTINF:-1 group-title="STAR CHANNEL",STAR CHANNEL
 http://kp-thebestiptv.com:8080/Galindo21/5anJqAHmvb/60989
-#EXTINF:-1 group-title="STAR CHANNEL",STAR CHANNEL
-http://streamgo.vip:8008/nando/nando/147257
-#EXTINF:-1 group-title="STAR CHANNEL",STAR CHANNEL  HD
-http://streamgo.vip:8008/nando/nando/147256
 #EXTINF:-1 group-title="STAR CHANNEL",STAR CHANNEL MX
 http://allstar.is-by.us:25461/CELIAPLAN/DS23Xum3dh/59119
 #EXTINF:-1 group-title="STAR CHANNEL",STAR SERIES HD
@@ -277,10 +243,6 @@ http://allstar.is-by.us:25461/CELIAPLAN/DS23Xum3dh/59077
 
 #EXTINF:-1 group-title="WARNER",WARNER
 http://kp-thebestiptv.com:8080/Galindo21/5anJqAHmvb/254
-#EXTINF:-1 group-title="WARNER",WARNER  HD
-http://streamgo.vip:8008/nando/nando/147289
-#EXTINF:-1 group-title="WARNER",WARNER  SD
-http://streamgo.vip:8008/nando/nando/147290
 #EXTINF:-1 group-title="WARNER",Warner HD
 http://iptvglobal.site:25461/rrtv/rrtv12345/131129
 #EXTINF:-1 group-title="WARNER",WARNER CHANNEL
@@ -298,10 +260,6 @@ http://hidra.live:80/fwcgcnna/63WL3vuzm5/34975
 http://tv-cool.com:25461/2022850718/26f6d3a754/77007
 #EXTINF:-1 group-title="FX",FX 2ᴍʙ
 http://tv-cool.com:25461/2022850718/26f6d3a754/31135
-#EXTINF:-1 group-title="FX",FX HD
-http://streamgo.vip:8008/nando/nando/147304
-#EXTINF:-1 group-title="FX",FXM HD
-http://streamgo.vip:8008/nando/nando/147306
 #EXTINF:-1 group-title="FX",FX
 http://iptvglobal.site:25461/rrtv/rrtv12345/87458
 #EXTINF:-1 group-title="FX",FX ESP
@@ -320,10 +278,6 @@ http://hidra.live:80/fwcgcnna/63WL3vuzm5/50586
 http://hidra.live:80/fwcgcnna/63WL3vuzm5/34968
 #EXTINF:-1 group-title="SPACE",Space
 http://hidra.live:80/fwcgcnna/63WL3vuzm5/302719
-#EXTINF:-1 group-title="SPACE",SPACE CHANEL  HD
-http://streamgo.vip:8008/nando/nando/147308
-#EXTINF:-1 group-title="SPACE",SPACE CHANEL SD
-http://streamgo.vip:8008/nando/nando/147309
 #EXTINF:-1 group-title="SPACE",SPACE LATINO HD
 http://allstar.is-by.us:25461/CELIAPLAN/DS23Xum3dh/59184
 #EXTINF:-1 group-title="SPACE",SPACE MEXICO
@@ -337,10 +291,6 @@ http://hidra.live:80/fwcgcnna/63WL3vuzm5/34984
 http://tv-cool.com:25461/2022850718/26f6d3a754/47470
 #EXTINF:-1 group-title="PARAMOUNT",Paramount Plus
 http://tv-cool.com:25461/2022850718/26f6d3a754/114568
-#EXTINF:-1 group-title="PARAMOUNT",PARAMOUNT CHANEL HD
-http://streamgo.vip:8008/nando/nando/147323
-#EXTINF:-1 group-title="PARAMOUNT",PARAMOUNT CHANEL SD
-http://streamgo.vip:8008/nando/nando/147324
 #EXTINF:-1 group-title="PARAMOUNT",Paramount
 http://iptvglobal.site:25461/rrtv/rrtv12345/131130
 #EXTINF:-1 group-title="PARAMOUNT",PARAMOUNT
@@ -374,10 +324,6 @@ http://hidra.live:80/fwcgcnna/63WL3vuzm5/312966
 http://tv-cool.com:25461/2022850718/26f6d3a754/29735
 #EXTINF:-1 group-title="CINEMAX",Cinemax ғʜᴅ
 http://tv-cool.com:25461/2022850718/26f6d3a754/41010
-#EXTINF:-1 group-title="CINEMAX",CINEMAX
-http://streamgo.vip:8008/nando/nando/147255
-#EXTINF:-1 group-title="CINEMAX",CINEMAX HD
-http://streamgo.vip:8008/nando/nando/147254
 #EXTINF:-1 group-title="CINEMAX",CINEMAX ESP
 http://allstar.is-by.us:25461/CELIAPLAN/DS23Xum3dh/59079
 #EXTINF:-1 group-title="CINEMAX",CINEMAX HD
@@ -499,8 +445,6 @@ http://allstar.is-by.us:25461/CELIAPLAN/DS23Xum3dh/140213
 http://hidra.live:80/fwcgcnna/63WL3vuzm5/35108
 #EXTINF:-1 group-title="UNIMAS",Unimas Dallas HD (US)
 http://hidra.live:80/fwcgcnna/63WL3vuzm5/35114
-#EXTINF:-1 group-title="UNIMAS",Unimas Atlanta (WUVG)
-http://tv-cool.com:25461/2022850718/26f6d3a754/59670
 #EXTINF:-1 group-title="UNIMAS",Unimas Austin (KTFO)
 http://tv-cool.com:25461/2022850718/26f6d3a754/68007
 #EXTINF:-1 group-title="UNIMAS",Unimas Miami (WAMI)
@@ -550,7 +494,6 @@ http://hidra.live:80/fwcgcnna/63WL3vuzm5/34737
 http://kp-thebestiptv.com:8080/Galindo21/5anJqAHmvb/65907
 #EXTINF:-1 group-title="NBA",NBA HD
 http://allstar.is-by.us:25461/CELIAPLAN/DS23Xum3dh/140201
-#EXTINF:-1 group-title="NBA",NBA 01 HD
 #EXTINF:-1 group-title="NBA",NBA League Pass 01
 http://tv-cool.com:25461/2022850718/26f6d3a754/123428
 #EXTINF:-1 group-title="NBA",NBA League Pass 02 ʜᴅ
@@ -569,78 +512,6 @@ http://tv-cool.com:25461/2022850718/26f6d3a754/73034
 http://tv-cool.com:25461/2022850718/26f6d3a754/123437
 #EXTINF:-1 group-title="NBA",NBA League Pass 10 ʜᴅ
 http://tv-cool.com:25461/2022850718/26f6d3a754/73035
-#EXTINF:-1 group-title="NBA",NBA TV
-http://iptvglobal.site:25461/Jonathan2023/Jonathan2023/147389
-#EXTINF:-1 group-title="NBA",NBA PASS1 - 76ers
-http://iptvglobal.site:25461/Jonathan2023/Jonathan2023/158926
-#EXTINF:-1 group-title="NBA",NBA PASS 3-Bulls
-http://iptvglobal.site:25461/Jonathan2023/Jonathan2023/158928
-#EXTINF:-1 group-title="NBA",NBA PASS 8-Hawks
-http://iptvglobal.site:25461/Jonathan2023/Jonathan2023/158933
-#EXTINF:-1 group-title="NBA",NBA PASS 10-Heat
-http://iptvglobal.site:25461/Jonathan2023/Jonathan2023/158934
-#EXTINF:-1 group-title="NBA",NBA PASS - Jazz
-http://iptvglobal.site:25461/Jonathan2023/Jonathan2023/158936
-#EXTINF:-1 group-title="NBA",NBA PASS -Kings
-http://iptvglobal.site:25461/Jonathan2023/Jonathan2023/158937
-#EXTINF:-1 group-title="NBA",NBA PASS -Knicks
-http://iptvglobal.site:25461/Jonathan2023/Jonathan2023/158938
-#EXTINF:-1 group-title="NBA",NBA PASS -Lakers
-http://iptvglobal.site:25461/Jonathan2023/Jonathan2023/158939
-#EXTINF:-1 group-title="NBA",NBA PASS - Magic
-http://iptvglobal.site:25461/Jonathan2023/Jonathan2023/158940
-#EXTINF:-1 group-title="NBA",NBA PASS - Pacers
-http://iptvglobal.site:25461/Jonathan2023/Jonathan2023/158944
-#EXTINF:-1 group-title="NBA",NBA PASS - Pelicans
-http://iptvglobal.site:25461/Jonathan2023/Jonathan2023/158945
-#EXTINF:-1 group-title="NBA",NBA PASS -Raptors
-http://iptvglobal.site:25461/Jonathan2023/Jonathan2023/158947
-#EXTINF:-1 group-title="NBA",NBA PASS - Rockets
-http://iptvglobal.site:25461/Jonathan2023/Jonathan2023/158948
-#EXTINF:-1 group-title="NBA",NBA PASS - Spurs
-http://iptvglobal.site:25461/Jonathan2023/Jonathan2023/158949
-#EXTINF:-1 group-title="NBA",NBA PASS - Suns
-http://iptvglobal.site:25461/Jonathan2023/Jonathan2023/158950
-#EXTINF:-1 group-title="NBA",NBA PASS - Thunder
-http://iptvglobal.site:25461/Jonathan2023/Jonathan2023/158951
-#EXTINF:-1 group-title="NBA",NBA PASS - Trail Blazers
-http://iptvglobal.site:25461/Jonathan2023/Jonathan2023/158952
-#EXTINF:-1 group-title="NBA",NBA PASS1 - Timberwolves
-http://iptvglobal.site:25461/Jonathan2023/Jonathan2023/158953
-#EXTINF:-1 group-title="NBA",NBA PASS1 -Wizards
-http://iptvglobal.site:25461/Jonathan2023/Jonathan2023/158955
-#EXTINF:-1 group-title="NBA",Sky Sport NBA
-http://iptvglobal.site:25461/Jonathan2023/Jonathan2023/163076
-#EXTINF:-1 group-title="NBA",NBA TV HD
-http://iptvglobal.site:25461/Jonathan2023/Jonathan2023/86299
-#EXTINF:-1 group-title="NBA",NBA TV
-http://iptvglobal.site:25461/Jonathan2023/Jonathan2023/156577
-#EXTINF:-1 group-title="NBA",NBA-TV (OPC 2)
-http://iptvglobal.site:25461/Jonathan2023/Jonathan2023/70773
-#EXTINF:-1 group-title="NBA",Toronto Raptors
-http://iptvglobal.site:25461/Jonathan2023/Jonathan2023/147360
-#EXTINF:-1 group-title="NBA",Orlando Magic
-http://iptvglobal.site:25461/Jonathan2023/Jonathan2023/147361
-#EXTINF:-1 group-title="NBA",New York Knicks
-http://iptvglobal.site:25461/Jonathan2023/Jonathan2023/147362
-#EXTINF:-1 group-title="NBA",New Orleans Pelicans
-http://iptvglobal.site:25461/Jonathan2023/Jonathan2023/147363
-#EXTINF:-1 group-title="NBA",Minnesota Timberwolves
-http://iptvglobal.site:25461/Jonathan2023/Jonathan2023/147364
-#EXTINF:-1 group-title="NBA",Los Angeles Lakers
-http://iptvglobal.site:25461/Jonathan2023/Jonathan2023/147365
-#EXTINF:-1 group-title="NBA",Utah Jazz
-http://iptvglobal.site:25461/Jonathan2023/Jonathan2023/147375
-#EXTINF:-1 group-title="NBA",Washington Wizards
-http://iptvglobal.site:25461/Jonathan2023/Jonathan2023/147376
-#EXTINF:-1 group-title="NBA",SAN ANTONIO SPURS
-http://iptvglobal.site:25461/Jonathan2023/Jonathan2023/147377
-#EXTINF:-1 group-title="NBA",Portland Trail Blazers
-http://iptvglobal.site:25461/Jonathan2023/Jonathan2023/147384
-#EXTINF:-1 group-title="NBA",Miami Heat
-http://iptvglobal.site:25461/Jonathan2023/Jonathan2023/147386
-#EXTINF:-1 group-title="NBA",Oklahoma City Thunder
-http://iptvglobal.site:25461/Jonathan2023/Jonathan2023/147387
 
 #EXTINF:-1 group-title="FOX SPORTS PREMIUM",FOX SPORTS PREMIUM
 http://tv.dominiotv.xyz:25461/live/iptvprivado/K8XNXMTMm9/164581.ts
@@ -992,8 +863,6 @@ http://hidra.live:80/fwcgcnna/63WL3vuzm5/34486
 http://hidra.live:80/fwcgcnna/63WL3vuzm5/34488
 #EXTINF:-1 group-title="CINE",PPV: Cinema 16
 http://hidra.live:80/fwcgcnna/63WL3vuzm5/34492
-#EXTINF:-1 group-title="CINE",PPV: Cinema 22
-http://hidra.live:80/fwcgcnna/63WL3vuzm5/34498
 #EXTINF:-1 group-title="CINE",PPV: Cinema 32
 http://hidra.live:80/fwcgcnna/63WL3vuzm5/34508
 #EXTINF:-1 group-title="CINE",PPV: Cinema 35
@@ -1039,8 +908,6 @@ http://allstar.is-by.us:25461/CELIAPLAN/DS23Xum3dh/140143
 http://hidra.live:80/fwcgcnna/63WL3vuzm5/312928
 #EXTINF:-1 group-title="DISNEY CHANNEL",DISNEY JR HD
 http://allstar.is-by.us:25461/CELIAPLAN/DS23Xum3dh/140144
-#EXTINF:-1 group-title="DISNEY CHANNEL",Disney Channel ʜᴅ (ᴍx)
-http://tv-cool.com:25461/2022850718/26f6d3a754/29746
 #EXTINF:-1 group-title="DISNEY CHANNEL",Disney Junior
 http://tv-cool.com:25461/2022850718/26f6d3a754/41284
 #EXTINF:-1 group-title="DISNEY CHANNEL",Disney Junior ғʜᴅ
@@ -1446,8 +1313,6 @@ http://tv-cool.com:25461/movie/2022850718/26f6d3a754/96369.mp4
 http://tv-cool.com:25461/movie/2022850718/26f6d3a754/96373.mp4
 
 
-#EXTINF:-1 group-title="Black Panther",Wakanda Forever DUAL
-http://iptvglobal.site:25461/movie/Jonathan2023/Jonathan2023/172278.mkv
 #EXTINF:-1 group-title="Black Panther",LEGO Marvel Black Panther Trouble in Wakanda
 http://live.geoiptv.org:8880/movie/mateus1/mateus/541008.mp4
 #EXTINF:-1 group-title="Black Panther",Black Panther (2018)
@@ -1935,8 +1800,6 @@ http://hidra.live:80/fwcgcnna/63WL3vuzm5/302668
 http://hidra.live:80/fwcgcnna/63WL3vuzm5/302669
 #EXTINF:-1 group-title="HIDRA",HBO Signature HD (MX VIP)
 http://hidra.live:80/fwcgcnna/63WL3vuzm5/302670
-#EXTINF:-1 group-title="HIDRA",Heraldo HD (MX VIP)
-http://hidra.live:80/fwcgcnna/63WL3vuzm5/302671
 #EXTINF:-1 group-title="HIDRA",Imagen HD (MX VIP)
 http://hidra.live:80/fwcgcnna/63WL3vuzm5/302675
 #EXTINF:-1 group-title="HIDRA",AZMundo FHD (MX VIP)
@@ -1963,8 +1826,6 @@ http://hidra.live:80/fwcgcnna/63WL3vuzm5/302700
 http://hidra.live:80/fwcgcnna/63WL3vuzm5/302703
 #EXTINF:-1 group-title="HIDRA",Multimedios MTY HD (MX VIP)
 http://hidra.live:80/fwcgcnna/63WL3vuzm5/302704
-#EXTINF:-1 group-title="HIDRA",Mvstv HD (MX VIP)
-http://hidra.live:80/fwcgcnna/63WL3vuzm5/302705
 #EXTINF:-1 group-title="HIDRA",NatGeo
 http://hidra.live:80/fwcgcnna/63WL3vuzm5/302706
 #EXTINF:-1 group-title="HIDRA",Nick HD (MX VIP)
