@@ -1,61 +1,3 @@
-#EXTINF:-1 group-title="HBO",HBO + HD
-http://45.90.105.74:25461/Universochingatuculo/HA280622/37999
-#EXTINF:-1 group-title="HBO",HBO + HD
-http://45.90.105.74:25461/Universochingatuculo/HA280622/30343
-#EXTINF:-1 group-title="HBO",HBO + LQ
-http://45.90.105.74:25461/Universochingatuculo/HA280622/16557
-#EXTINF:-1 group-title="HBO",HBO + OEM Latino America
-http://45.90.105.74:25461/Universochingatuculo/HA280622/38450
-#EXTINF:-1 group-title="HBO",HBO 2 HD
-http://45.90.105.74:25461/Universochingatuculo/HA280622/30344
-#EXTINF:-1 group-title="HBO",HBO 2 LATINO
-http://45.90.105.74:25461/Universochingatuculo/HA280622/37985
-#EXTINF:-1 group-title="HBO",HBO 2 LQ
-http://45.90.105.74:25461/Universochingatuculo/HA280622/16558
-#EXTINF:-1 group-title="HBO",HBO 2 Mexico
-http://45.90.105.74:25461/Universochingatuculo/HA280622/37996
-#EXTINF:-1 group-title="HBO",HBO 2 SD
-http://45.90.105.74:25461/Universochingatuculo/HA280622/3322
-#EXTINF:-1 group-title="HBO",HBO FAMILY HD
-http://45.90.105.74:25461/Universochingatuculo/HA280622/30345
-#EXTINF:-1 group-title="HBO",HBO FAMILY LQ
-http://45.90.105.74:25461/Universochingatuculo/HA280622/16559
-#EXTINF:-1 group-title="HBO",HBO Family SD (p)
-http://45.90.105.74:25461/Universochingatuculo/HA280622/3323
-#EXTINF:-1 group-title="HBO",HBO HD
-http://45.90.105.74:25461/Universochingatuculo/HA280622/30346
-#EXTINF:-1 group-title="HBO",HBO HD
-http://45.90.105.74:25461/Universochingatuculo/HA280622/37988
-#EXTINF:-1 group-title="HBO",HBO HD
-http://45.90.105.74:25461/Universochingatuculo/HA280622/37998
-#EXTINF:-1 group-title="HBO",HBO Mundi
-http://45.90.105.74:25461/Universochingatuculo/HA280622/3324
-#EXTINF:-1 group-title="HBO",HBO MUNDI HD
-http://45.90.105.74:25461/Universochingatuculo/HA280622/30347
-#EXTINF:-1 group-title="HBO",HBO Mundi HD
-http://45.90.105.74:25461/Universochingatuculo/HA280622/37979
-#EXTINF:-1 group-title="HBO",HBO Plus SD
-http://45.90.105.74:25461/Universochingatuculo/HA280622/3321
-#EXTINF:-1 group-title="HBO",HBO POP HD
-http://45.90.105.74:25461/Universochingatuculo/HA280622/30348
-#EXTINF:-1 group-title="HBO",HBO POP SD
-http://45.90.105.74:25461/Universochingatuculo/HA280622/3159
-#EXTINF:-1 group-title="HBO",HBO SD
-http://45.90.105.74:25461/Universochingatuculo/HA280622/3299
-#EXTINF:-1 group-title="HBO",HBO SIGNATURE HD
-http://45.90.105.74:25461/Universochingatuculo/HA280622/30349
-#EXTINF:-1 group-title="HBO",HBO Signature HD
-http://45.90.105.74:25461/Universochingatuculo/HA280622/37986
-#EXTINF:-1 group-title="HBO",HBO SIGNATURE LQ
-http://45.90.105.74:25461/Universochingatuculo/HA280622/16563
-#EXTINF:-1 group-title="HBO",HBO Signature SD
-http://45.90.105.74:25461/Universochingatuculo/HA280622/3325
-#EXTINF:-1 group-title="HBO",HBO XTREME HD
-http://45.90.105.74:25461/Universochingatuculo/HA280622/30350
-#EXTINF:-1 group-title="HBO",HBO XTREME HD
-http://45.90.105.74:25461/Universochingatuculo/HA280622/37993
-#EXTINF:-1 group-title="HBO",HBO Xtreme SD
-http://45.90.105.74:25461/Universochingatuculo/HA280622/3326
 #EXTINF:-1 group-title="HBO",HBO FHD (MX E)
 http://hidra.live:80/fwcgcnna/63WL3vuzm5/35286
 #EXTINF:-1 group-title="HBO",HBO 2 FHD (MX E)
@@ -181,12 +123,6 @@ http://allstar.is-by.us:25461/CELIAPLAN/DS23Xum3dh/140178
 #EXTINF:-1 group-title="HBO",HBO EXTREME
 http://allstar.is-by.us:25461/CELIAPLAN/DS23Xum3dh/140179
 
-#EXTINF:-1 group-title="STARZ",Starz Cinema (ᴅᴜᴀʟ ᴀᴜᴅɪᴏ)
-http://tv-cool.com:25461/2022850718/26f6d3a754/102320
-#EXTINF:-1 group-title="STARZ",Starz Comedy (ᴅᴜᴀʟ ᴀᴜᴅɪᴏ)
-http://tv-cool.com:25461/2022850718/26f6d3a754/102321
-
-
 #EXTINF:-1 group-title="UNIVERSAL",Universal Premiere HD (LAT)*
 http://hidra.live:80/fwcgcnna/63WL3vuzm5/312947
 #EXTINF:-1 group-title="UNIVERSAL",Studio Universal FHD (MX)
@@ -251,14 +187,6 @@ http://kp-thebestiptv.com:8080/Galindo21/5anJqAHmvb/259
 #EXTINF:-1 group-title="MULTIPLEMIER",Multipremier
 http://tv-cool.com:25461/2022850718/26f6d3a754/30495
 
-#EXTINF:-1 group-title="CINECANAL",CINECANAL HD
-http://45.90.105.74:25461/Universochingatuculo/HA280622/3282
-#EXTINF:-1 group-title="CINECANAL",Cinecanal HD Latino
-http://45.90.105.74:25461/Universochingatuculo/HA280622/37995
-#EXTINF:-1 group-title="CINECANAL",CINECANAL LQ
-http://45.90.105.74:25461/Universochingatuculo/HA280622/16525
-#EXTINF:-1 group-title="CINECANAL",CINECANAL SD
-http://45.90.105.74:25461/Universochingatuculo/HA280622/34309
 #EXTINF:-1 group-title="CINECANAL",Cinecanal FHD
 http://hidra.live:80/fwcgcnna/63WL3vuzm5/35235
 #EXTINF:-1 group-title="CINECANAL",Cinecanal 2ᴍʙ
@@ -292,8 +220,6 @@ http://tv-cool.com:25461/2022850718/26f6d3a754/45928
 #EXTINF:-1 group-title="AMC",AMC ʜᴅ
 http://tv-cool.com:25461/2022850718/26f6d3a754/45874
 
-#EXTINF:-1 group-title="AXN",AXN HD
-http://45.90.105.74:25461/Universochingatuculo/HA280622/22697
 #EXTINF:-1 group-title="AXN",AXN HD (LAT)*
 http://hidra.live:80/fwcgcnna/63WL3vuzm5/312922
 #EXTINF:-1 group-title="AXN",AXN 2ᴍʙ
@@ -318,18 +244,6 @@ http://hidra.live:80/fwcgcnna/63WL3vuzm5/34830
 #EXTINF:-1 group-title="HISTORY CHANNEL",History Channel FHD (LAT)
 http://hidra.live:80/fwcgcnna/63WL3vuzm5/34833
 
-#EXTINF:-1 group-title="DISCOVERY H&H",DISCOVERY H&H
-http://45.90.105.74:25461/Universochingatuculo/HA280622/38469
-#EXTINF:-1 group-title="DISCOVERY H&H",DISCOVERY H&H HD
-http://45.90.105.74:25461/Universochingatuculo/HA280622/30322
-#EXTINF:-1 group-title="DISCOVERY H&H",DISCOVERY H&H HD (i)
-http://45.90.105.74:25461/Universochingatuculo/HA280622/37994
-#EXTINF:-1 group-title="DISCOVERY H&H",DISCOVERY H&H HD (p)
-http://45.90.105.74:25461/Universochingatuculo/HA280622/3314
-#EXTINF:-1 group-title="DISCOVERY H&H",DISCOVERY H&H SD
-http://45.90.105.74:25461/Universochingatuculo/HA280622/34308
-#EXTINF:-1 group-title="DISCOVERY H&H",DISCOVERY HOME & HEALTH LQ
-http://45.90.105.74:25461/Universochingatuculo/HA280622/16532
 #EXTINF:-1 group-title="DISCOVERY H&H",Discovery H&H HD (LAT)
 http://hidra.live:80/fwcgcnna/63WL3vuzm5/34815
 #EXTINF:-1 group-title="DISCOVERY H&H",Discovery H&H FHD (LAT)
@@ -342,17 +256,6 @@ http://hidra.live:80/fwcgcnna/63WL3vuzm5/34802
 #EXTINF:-1 group-title="ANIMAL PLANET",Animal Planet FHD (LAT)
 http://hidra.live:80/fwcgcnna/63WL3vuzm5/34803
 
-
-#EXTINF:-1 group-title="STAR CHANNEL",STAR CHANNEL HD
-http://45.90.105.74:25461/Universochingatuculo/HA280622/30369
-#EXTINF:-1 group-title="STAR CHANNEL",STAR CHANNEL LQ
-http://45.90.105.74:25461/Universochingatuculo/HA280622/16585
-#EXTINF:-1 group-title="STAR CHANNEL",Star Channel Mexico FHD
-http://45.90.105.74:25461/Universochingatuculo/HA280622/38000
-#EXTINF:-1 group-title="STAR CHANNEL",Star Channel SD
-http://45.90.105.74:25461/Universochingatuculo/HA280622/2449
-#EXTINF:-1 group-title="STAR CHANNEL",STAR CHANNEL SD
-http://45.90.105.74:25461/Universochingatuculo/HA280622/26287
 #EXTINF:-1 group-title="STAR CHANNEL",Star Channel HD (LAT)
 http://hidra.live:80/fwcgcnna/63WL3vuzm5/34927
 #EXTINF:-1 group-title="STAR CHANNEL",STAR CHANNEL
@@ -378,14 +281,6 @@ http://allstar.is-by.us:25461/CELIAPLAN/DS23Xum3dh/59076
 #EXTINF:-1 group-title="STAR CHANNEL",STAR ACTION HD
 http://allstar.is-by.us:25461/CELIAPLAN/DS23Xum3dh/59077
 
-#EXTINF:-1 group-title="WARNER",Warner Channel HD
-http://45.90.105.74:25461/Universochingatuculo/HA280622/37991
-#EXTINF:-1 group-title="WARNER",WARNER LQ
-http://45.90.105.74:25461/Universochingatuculo/HA280622/16607
-#EXTINF:-1 group-title="WARNER",WARNER SD
-http://45.90.105.74:25461/Universochingatuculo/HA280622/30387
-#EXTINF:-1 group-title="WARNER",Warner Tv SD
-http://45.90.105.74:25461/Universochingatuculo/HA280622/3067
 #EXTINF:-1 group-title="WARNER",WARNER
 http://kp-thebestiptv.com:8080/Galindo21/5anJqAHmvb/254
 #EXTINF:-1 group-title="WARNER",WARNER  HD
@@ -399,14 +294,6 @@ http://allstar.is-by.us:25461/CELIAPLAN/DS23Xum3dh/59099
 #EXTINF:-1 group-title="WARNER",Warner TV
 http://allstar.is-by.us:25461/CELIAPLAN/DS23Xum3dh/140181
 
-#EXTINF:-1 group-title="FX",FX HD
-http://45.90.105.74:25461/Universochingatuculo/HA280622/30339
-#EXTINF:-1 group-title="FX",FX HD
-http://45.90.105.74:25461/Universochingatuculo/HA280622/37987
-#EXTINF:-1 group-title="FX",FX LQ
-http://45.90.105.74:25461/Universochingatuculo/HA280622/16553
-#EXTINF:-1 group-title="FX",FX SD
-http://45.90.105.74:25461/Universochingatuculo/HA280622/3102
 #EXTINF:-1 group-title="FX",FX HD (LAT)*
 http://hidra.live:80/fwcgcnna/63WL3vuzm5/312926
 #EXTINF:-1 group-title="FX",FX SD (MX)
@@ -428,8 +315,6 @@ http://allstar.is-by.us:25461/CELIAPLAN/DS23Xum3dh/59116
 #EXTINF:-1 group-title="FX",FX HD SUR
 http://allstar.is-by.us:25461/CELIAPLAN/DS23Xum3dh/140169
 
-#EXTINF:-1 group-title="MARVEL",Cine Marvel
-https://v3.playerlatino.live/stream/m3u8/697
 #EXTINF:-1 group-title="MARVEL",Cinema Marvel Studios Oeste FHD
 http://hidra.live:80/fwcgcnna/63WL3vuzm5/58068
 #EXTINF:-1 group-title="MARVEL",VIP Cinema Marvel Animated FHD
@@ -592,29 +477,6 @@ http://allstar.is-by.us:25461/CELIAPLAN/DS23Xum3dh/140226
 #EXTINF:-1 group-title="UNIVISION",UNIVISION MOUNT
 http://allstar.is-by.us:25461/CELIAPLAN/DS23Xum3dh/140227
 
-
-#EXTINF:-1 group-title="LAS ESTRELLAS",Las Estrellas 102 XEW HD
-http://45.90.105.74:25461/Universochingatuculo/HA280622/52807
-#EXTINF:-1 group-title="LAS ESTRELLAS",LAS ESTRELLAS FHD
-http://45.90.105.74:25461/Universochingatuculo/HA280622/37786
-#EXTINF:-1 group-title="LAS ESTRELLAS",Las Estrellas HD
-http://45.90.105.74:25461/Universochingatuculo/HA280622/25306
-#EXTINF:-1 group-title="LAS ESTRELLAS",Las Estrellas HD
-http://45.90.105.74:25461/Universochingatuculo/HA280622/37810
-#EXTINF:-1 group-title="LAS ESTRELLAS",LAS ESTRELLAS SD
-http://45.90.105.74:25461/Universochingatuculo/HA280622/37791
-#EXTINF:-1 group-title="LAS ESTRELLAS",Las Estrellas SD
-http://45.90.105.74:25461/Universochingatuculo/HA280622/22670
-#EXTINF:-1 group-title="LAS ESTRELLAS",LAS ESTRELLAS -2 HORAS HD
-http://45.90.105.74:25461/Universochingatuculo/HA280622/3310
-#EXTINF:-1 group-title="LAS ESTRELLAS",LAS ESTRELLAS -2 HORAS SD
-http://45.90.105.74:25461/Universochingatuculo/HA280622/30356
-#EXTINF:-1 group-title="LAS ESTRELLAS",LAS ESTRELLAS HD - 2 HORAS HD
-http://45.90.105.74:25461/Universochingatuculo/HA280622/37792
-#EXTINF:-1 group-title="LAS ESTRELLAS",Canal de las Estrellas
-https://v3.playerlatino.live/stream/m3u8/411
-#EXTINF:-1 group-title="LAS ESTRELLAS",Canal de las Estrellas Sur
-https://v3.playerlatino.live/stream/m3u8/736
 #EXTINF:-1 group-title="LAS ESTRELLAS",Estrellas HD (MX VIP)
 http://hidra.live:80/yhehteog/NeN02o7t1o/302641
 #EXTINF:-1 group-title="LAS ESTRELLAS",Las Estrellas 2ᴍʙ
@@ -682,22 +544,6 @@ http://tv-cool.com:25461/2022850718/26f6d3a754/113729
 #EXTINF:-1 group-title="NFL",NFL Redzone HD
 http://tv-cool.com:25461/2022850718/26f6d3a754/30156
 
-#EXTINF:-1 group-title="NBA",NBA League Pass 2 HD US
-http://45.90.105.74:25461/Universochingatuculo/HA280622/39084
-#EXTINF:-1 group-title="NBA",NBA League Pass 3 HD US
-http://45.90.105.74:25461/Universochingatuculo/HA280622/39082
-#EXTINF:-1 group-title="NBA",NBA League Pass 4 HD US
-http://45.90.105.74:25461/Universochingatuculo/HA280622/39083
-#EXTINF:-1 group-title="NBA",NBA League Pass 5 HD US
-http://45.90.105.74:25461/Universochingatuculo/HA280622/39081
-#EXTINF:-1 group-title="NBA",NBA League Pass 6 HD US
-http://45.90.105.74:25461/Universochingatuculo/HA280622/39080
-#EXTINF:-1 group-title="NBA",NBA League Pass 8 HD US
-http://45.90.105.74:25461/Universochingatuculo/HA280622/39079
-#EXTINF:-1 group-title="NBA",NBA League Pass 9 HD US
-http://45.90.105.74:25461/Universochingatuculo/HA280622/39078
-#EXTINF:-1 group-title="NBA",NBA League Pass 10 HD US
-http://45.90.105.74:25461/Universochingatuculo/HA280622/39077
 #EXTINF:-1 group-title="NBA",NBA HD
 http://tv.dominiotv.xyz:25461/live/iptvprivado/K8XNXMTMm9/94135.ts
 #EXTINF:-1 group-title="NBA",NBA TV
@@ -802,18 +648,6 @@ http://iptvglobal.site:25461/Jonathan2023/Jonathan2023/147386
 #EXTINF:-1 group-title="NBA",Oklahoma City Thunder
 http://iptvglobal.site:25461/Jonathan2023/Jonathan2023/147387
 
-#EXTINF:-1 group-title="FOX SPORTS PREMIUM",Fox Sports Premium MX
-http://45.90.105.74:25461/Universochingatuculo/HA280622/53540
-#EXTINF:-1 group-title="FOX SPORTS PREMIUM",Fox Sports Premium MX
-http://45.90.105.74:25461/Universochingatuculo/HA280622/53549
-#EXTINF:-1 group-title="FOX SPORTS PREMIUM",FOX SPORTS PREMIUM FHD
-http://51.222.25.50:25461/m0nk3ynew/sMbK7mENr5/3987
-#EXTINF:-1 group-title="FOX SPORTS PREMIUM",FOX SPORTS PREMIUM HD
-http://51.222.25.50:25461/m0nk3ynew/sMbK7mENr5/3988
-#EXTINF:-1 group-title="FOX SPORTS PREMIUM",FOX SPORTS PREMIUM SD
-http://51.222.25.50:25461/m0nk3ynew/sMbK7mENr5/3989
-#EXTINF:-1 group-title="FOX SPORTS PREMIUM",Fox Sports Premium
-https://v3.playerlatino.live/stream/m3u8/512
 #EXTINF:-1 group-title="FOX SPORTS PREMIUM",FOX SPORTS PREMIUM
 http://tv.dominiotv.xyz:25461/live/iptvprivado/K8XNXMTMm9/164581.ts
 #EXTINF:-1 group-title="FOX SPORTS PREMIUM",FOX SPORTS PREMIUM HD
@@ -827,91 +661,9 @@ http://tv-cool.com:25461/2022850718/26f6d3a754/79179
 #EXTINF:-1 group-title="FOX SPORTS PREMIUM",FOX SPORTS PREMIUM HD
 http://tv-cool.com:25461/2022850718/26f6d3a754/61284
 
-#EXTINF:-1 group-title="FOX DEPORTES",FOX Deportes HD
-http://45.90.105.74:25461/Universochingatuculo/HA280622/40910
-#EXTINF:-1 group-title="FOX DEPORTES",Fox Deportes SD
-http://45.90.105.74:25461/Universochingatuculo/HA280622/1510
-#EXTINF:-1 group-title="FOX DEPORTES",FOX Deportes HD
-http://45.90.105.74:25461/Universochingatuculo/HA280622/40911
 #EXTINF:-1 group-title="FOX DEPORTES",FOX DEPORTES
 http://tv.dominiotv.xyz:25461/live/iptvprivado/K8XNXMTMm9/92437.ts
 
-#EXTINF:-1 group-title="FOX SPORTS",FOX Sports HD
-http://45.90.105.74:25461/Universochingatuculo/HA280622/44176
-#EXTINF:-1 group-title="FOX SPORTS",FOX Sports HD Latino
-http://45.90.105.74:25461/Universochingatuculo/HA280622/44074
-#EXTINF:-1 group-title="FOX SPORTS",FOX SPORTS LQ
-http://45.90.105.74:25461/Universochingatuculo/HA280622/16552
-#EXTINF:-1 group-title="FOX SPORTS",FOX SPORTS MX HD
-http://45.90.105.74:25461/Universochingatuculo/HA280622/30338
-#EXTINF:-1 group-title="FOX SPORTS",FOX SPORTS MX SD
-http://45.90.105.74:25461/Universochingatuculo/HA280622/3170
-#EXTINF:-1 group-title="FOX SPORTS",I-FOX Sports 1
-http://45.90.105.74:25461/Universochingatuculo/HA280622/37833
-#EXTINF:-1 group-title="FOX SPORTS",I-FOX Sports 2
-http://45.90.105.74:25461/Universochingatuculo/HA280622/37834
-#EXTINF:-1 group-title="FOX SPORTS",I-FOX Sports 2 HD
-http://45.90.105.74:25461/Universochingatuculo/HA280622/38545
-#EXTINF:-1 group-title="FOX SPORTS",I-FOX Sports 2 HD
-http://45.90.105.74:25461/Universochingatuculo/HA280622/38566
-#EXTINF:-1 group-title="FOX SPORTS",I-FOX Sports 2 HD
-http://45.90.105.74:25461/Universochingatuculo/HA280622/38572
-#EXTINF:-1 group-title="FOX SPORTS",I-FOX Sports 2 HD MX
-http://45.90.105.74:25461/Universochingatuculo/HA280622/37826
-#EXTINF:-1 group-title="FOX SPORTS",I-FOX Sports 3 HD (CO)
-http://45.90.105.74:25461/Universochingatuculo/HA280622/38567
-#EXTINF:-1 group-title="FOX SPORTS",I-FOX Sports 3 MX
-http://45.90.105.74:25461/Universochingatuculo/HA280622/37827
-#EXTINF:-1 group-title="FOX SPORTS",I-FOX Sports HD (CL)
-http://45.90.105.74:25461/Universochingatuculo/HA280622/38544
-#EXTINF:-1 group-title="FOX SPORTS",I-FOX Sports HD (CO)
-http://45.90.105.74:25461/Universochingatuculo/HA280622/38565
-#EXTINF:-1 group-title="FOX SPORTS",I-FOX Sports MX
-http://45.90.105.74:25461/Universochingatuculo/HA280622/37825
-#EXTINF:-1 group-title="FOX SPORTS",Fox Sports 2 HD
-http://45.90.105.74:25461/Universochingatuculo/HA280622/3172
-#EXTINF:-1 group-title="FOX SPORTS",FOX SPORTS 2 LQ
-http://45.90.105.74:25461/Universochingatuculo/HA280622/16550
-#EXTINF:-1 group-title="FOX SPORTS",FOX SPORTS 2 MX SD
-http://45.90.105.74:25461/Universochingatuculo/HA280622/30336
-#EXTINF:-1 group-title="FOX SPORTS",Fox Sports 3 HD
-http://45.90.105.74:25461/Universochingatuculo/HA280622/3785
-#EXTINF:-1 group-title="FOX SPORTS",FOX SPORTS 3 LQ
-http://45.90.105.74:25461/Universochingatuculo/HA280622/16551
-#EXTINF:-1 group-title="FOX SPORTS",FOX SPORTS 3 MX SD
-http://45.90.105.74:25461/Universochingatuculo/HA280622/30337
-#EXTINF:-1 group-title="FOX SPORTS",ARG DEP FOX SPORTS  1 SD
-http://51.222.25.50:25461/m0nk3ynew/sMbK7mENr5/3983
-#EXTINF:-1 group-title="FOX SPORTS",ARG DEP FOX SPORTS  2
-http://51.222.25.50:25461/m0nk3ynew/sMbK7mENr5/3984
-#EXTINF:-1 group-title="FOX SPORTS",ARG DEP FOX SPORTS  3
-http://51.222.25.50:25461/m0nk3ynew/sMbK7mENr5/3985
-#EXTINF:-1 group-title="FOX SPORTS",ARG DEP FOX SPORTS 1
-http://51.222.25.50:25461/m0nk3ynew/sMbK7mENr5/3986
-#EXTINF:-1 group-title="FOX SPORTS",FOX SPORTS 1 MX
-http://51.222.25.50:25461/m0nk3ynew/sMbK7mENr5/3975
-#EXTINF:-1 group-title="FOX SPORTS",FOX SPORTS 2 MX
-http://51.222.25.50:25461/m0nk3ynew/sMbK7mENr5/3976
-#EXTINF:-1 group-title="FOX SPORTS",FOX SPORTS 3 MX
-http://51.222.25.50:25461/m0nk3ynew/sMbK7mENr5/3977
-#EXTINF:-1 group-title="FOX SPORTS",Fox Sports
-https://v3.playerlatino.live/stream/m3u8/52
-#EXTINF:-1 group-title="FOX SPORTS",Fox Sports MX
-https://v3.playerlatino.live/stream/m3u8/527
-#EXTINF:-1 group-title="FOX SPORTS",Fox Sports MX Sur
-https://v3.playerlatino.live/stream/m3u8/748
-#EXTINF:-1 group-title="FOX SPORTS",Fox Sports Sur
-https://v3.playerlatino.live/stream/m3u8/402
-#EXTINF:-1 group-title="FOX SPORTS",Fox Sports 2
-https://v3.playerlatino.live/stream/m3u8/53
-#EXTINF:-1 group-title="FOX SPORTS",Fox Sports 2 MX
-https://v3.playerlatino.live/stream/m3u8/528
-#EXTINF:-1 group-title="FOX SPORTS",Fox Sports Sur 2
-https://v3.playerlatino.live/stream/m3u8/410
-#EXTINF:-1 group-title="FOX SPORTS",Fox Sports 3
-https://v3.playerlatino.live/stream/m3u8/54
-#EXTINF:-1 group-title="FOX SPORTS",Fox Sports Sur 3
-https://v3.playerlatino.live/stream/m3u8/511
 #EXTINF:-1 group-title="FOX SPORTS",FOX SPORTS 1  (SUR)
 http://tv.dominiotv.xyz:25461/live/iptvprivado/K8XNXMTMm9/85775.ts
 #EXTINF:-1 group-title="FOX SPORTS",FOX SPORTS 1 HD (SUR)
@@ -1047,60 +799,6 @@ http://hidra.live:80/yhehteog/NeN02o7t1o/302638
 http://hidra.live:80/yhehteog/NeN02o7t1o/302639
 #EXTINF:-1 group-title="ESPN",ESPN 3 HD (MX VIP)
 http://hidra.live:80/yhehteog/NeN02o7t1o/302640
-#EXTINF:-1 group-title="ESPN",ESPN HD Latino
-http://45.90.105.74:25461/Universochingatuculo/HA280622/69927
-#EXTINF:-1 group-title="ESPN",ESPN 2 HD Latino
-http://45.90.105.74:25461/Universochingatuculo/HA280622/69926
-#EXTINF:-1 group-title="ESPN",ESPN 2 MX
-http://45.90.105.74:25461/Universochingatuculo/HA280622/74602
-#EXTINF:-1 group-title="ESPN",ESPN HD
-http://45.90.105.74:25461/Universochingatuculo/HA280622/30334
-#EXTINF:-1 group-title="ESPN",ESPN HD
-http://45.90.105.74:25461/Universochingatuculo/HA280622/3166
-#EXTINF:-1 group-title="ESPN",ESPN MX HD
-http://45.90.105.74:25461/Universochingatuculo/HA280622/37811
-#EXTINF:-1 group-title="ESPN",ESPN SD
-http://45.90.105.74:25461/Universochingatuculo/HA280622/32405
-#EXTINF:-1 group-title="ESPN",ESPN 2 HD
-http://45.90.105.74:25461/Universochingatuculo/HA280622/3167
-#EXTINF:-1 group-title="ESPN",ESPN 2 LQ
-http://45.90.105.74:25461/Universochingatuculo/HA280622/16545
-#EXTINF:-1 group-title="ESPN",ESPN 2 MX HD (i)
-http://45.90.105.74:25461/Universochingatuculo/HA280622/37812
-#EXTINF:-1 group-title="ESPN",ESPN 3 HD
-http://45.90.105.74:25461/Universochingatuculo/HA280622/30332
-#EXTINF:-1 group-title="ESPN",ESPN 3 HD (p)
-http://45.90.105.74:25461/Universochingatuculo/HA280622/3168
-#EXTINF:-1 group-title="ESPN",ESPN 3 HD (p)
-http://45.90.105.74:25461/Universochingatuculo/HA280622/14269
-#EXTINF:-1 group-title="ESPN",ESPN 3 LQ
-http://45.90.105.74:25461/Universochingatuculo/HA280622/16546
-#EXTINF:-1 group-title="ESPN",ESPN 3 MX HD (i)
-http://45.90.105.74:25461/Universochingatuculo/HA280622/37813
-#EXTINF:-1 group-title="ESPN",ESPN 3 SD
-http://45.90.105.74:25461/Universochingatuculo/HA280622/1648
-#EXTINF:-1 group-title="ESPN",ARG DEP ESPN
-http://51.222.25.50:25461/m0nk3ynew/sMbK7mENr5/3978
-#EXTINF:-1 group-title="ESPN",ARG DEP ESPN 1 HD
-http://51.222.25.50:25461/m0nk3ynew/sMbK7mENr5/3979
-#EXTINF:-1 group-title="ESPN",ARG DEP ESPN 2
-http://51.222.25.50:25461/m0nk3ynew/sMbK7mENr5/3980
-#EXTINF:-1 group-title="ESPN",ARG DEP ESPN 3
-http://51.222.25.50:25461/m0nk3ynew/sMbK7mENr5/3981
-#EXTINF:-1 group-title="ESPN",ARG DEP ESPN PLUS
-http://51.222.25.50:25461/m0nk3ynew/sMbK7mENr5/3982
-#EXTINF:-1 group-title="ESPN",ESPN
-http://51.222.25.50:25461/m0nk3ynew/sMbK7mENr5/3990
-#EXTINF:-1 group-title="ESPN",ESPN 2
-http://51.222.25.50:25461/m0nk3ynew/sMbK7mENr5/3991
-#EXTINF:-1 group-title="ESPN",ESPN 3
-http://51.222.25.50:25461/m0nk3ynew/sMbK7mENr5/3992
-#EXTINF:-1 group-title="ESPN",ESPN 1 MX
-http://51.222.25.50:25461/m0nk3ynew/sMbK7mENr5/3958
-#EXTINF:-1 group-title="ESPN",ESPN 2 MX
-http://51.222.25.50:25461/m0nk3ynew/sMbK7mENr5/3959
-#EXTINF:-1 group-title="ESPN",ESPN 3 MX
-http://51.222.25.50:25461/m0nk3ynew/sMbK7mENr5/3960
 #EXTINF:-1 group-title="ESPN",ESPN 1 (COL)
 http://tv.dominiotv.xyz:25461/live/iptvprivado/K8XNXMTMm9/82236.ts
 #EXTINF:-1 group-title="ESPN",ESPN 1 (MX)
@@ -1250,20 +948,6 @@ https://v3.playerlatino.live/stream/m3u8/687
 https://v3.playerlatino.live/stream/m3u8/694
 #EXTINF:-1 group-title="CINE",Cine Latino
 https://v3.playerlatino.live/stream/m3u8/295
-#EXTINF:-1 group-title="CINE",NeT Flix Action HD
-http://45.90.105.74:25461/Universochingatuculo/HA280622/76232
-#EXTINF:-1 group-title="CINE",NeT Flix Adventure HD
-http://45.90.105.74:25461/Universochingatuculo/HA280622/76234
-#EXTINF:-1 group-title="CINE",NeT Flix Cience HD
-http://45.90.105.74:25461/Universochingatuculo/HA280622/76235
-#EXTINF:-1 group-title="CINE",NeT Flix CINEMAX Hits HD
-http://45.90.105.74:25461/Universochingatuculo/HA280622/76237
-#EXTINF:-1 group-title="CINE",NeT Flix Horror HD
-http://45.90.105.74:25461/Universochingatuculo/HA280622/76239
-#EXTINF:-1 group-title="CINE",NeT Flix MAX HD
-http://45.90.105.74:25461/Universochingatuculo/HA280622/76236
-#EXTINF:-1 group-title="CINE",NeT Flix SCI-FI HD
-http://45.90.105.74:25461/Universochingatuculo/HA280622/76233
 #EXTINF:-1 group-title="CINE",VIP Cinema Comedia FHD
 http://hidra.live:80/yhehteog/NeN02o7t1o/50575
 #EXTINF:-1 group-title="CINE",VIP Cinema DC Comics FHD
@@ -1325,16 +1009,6 @@ http://hidra.live:80/fwcgcnna/63WL3vuzm5/34512
 #EXTINF:-1 group-title="CINE",PPV: Cinema 37
 http://hidra.live:80/fwcgcnna/63WL3vuzm5/34513
 
-#EXTINF:-1 group-title="CARTOON NETWORK",Cartoon Network
-https://v3.playerlatino.live/stream/m3u8/17
-#EXTINF:-1 group-title="CARTOON NETWORK",Cartoon Network Sur
-https://v3.playerlatino.live/stream/m3u8/737
-#EXTINF:-1 group-title="CARTOON NETWORK",CARTOON NETWORK HD
-http://45.90.105.74:25461/Universochingatuculo/HA280622/30316
-#EXTINF:-1 group-title="CARTOON NETWORK",CARTOON NETWORK LQ
-http://45.90.105.74:25461/Universochingatuculo/HA280622/16523
-#EXTINF:-1 group-title="CARTOON NETWORK",Cartoon Network SD
-http://45.90.105.74:25461/Universochingatuculo/HA280622/3133
 #EXTINF:-1 group-title="CARTOON NETWORK",Cartoon Network FHD (E)
 http://hidra.live:80/fwcgcnna/63WL3vuzm5/35222
 #EXTINF:-1 group-title="CARTOON NETWORK",Cartoon Network
@@ -1348,14 +1022,6 @@ http://kp-thebestiptv.com:8080/Galindo21/5anJqAHmvb/61341
 #EXTINF:-1 group-title="CARTOON NETWORK",CARTOON NETWORK
 http://allstar.is-by.us:25461/CELIAPLAN/DS23Xum3dh/140142
 
-#EXTINF:-1 group-title="BOOMERANG",Boomerang HD Mexico
-http://45.90.105.74:25461/Universochingatuculo/HA280622/4
-#EXTINF:-1 group-title="BOOMERANG",Cartoonito HD
-http://45.90.105.74:25461/Universochingatuculo/HA280622/30314
-#EXTINF:-1 group-title="BOOMERANG",Cartoonito LQ
-http://45.90.105.74:25461/Universochingatuculo/HA280622/16511
-#EXTINF:-1 group-title="BOOMERANG",CARTOONITO SD
-http://45.90.105.74:25461/Universochingatuculo/HA280622/52087
 #EXTINF:-1 group-title="BOOMERANG",Cartoonito HD (LAT)*
 http://hidra.live:80/fwcgcnna/63WL3vuzm5/312921
 #EXTINF:-1 group-title="BOOMERANG",Cartoonito HD (LAT)*
@@ -1373,28 +1039,6 @@ http://iptvglobal.site:25461/rrtv/rrtv12345/87434
 #EXTINF:-1 group-title="BOOMERANG",CARTOONITO MX
 http://allstar.is-by.us:25461/CELIAPLAN/DS23Xum3dh/140141
 
-#EXTINF:-1 group-title="DISNEY CHANNEL",DISNEY CHANNEL HD
-http://45.90.105.74:25461/Universochingatuculo/HA280622/30327
-#EXTINF:-1 group-title="DISNEY CHANNEL",DISNEY CHANNEL LQ
-http://45.90.105.74:25461/Universochingatuculo/HA280622/16539
-#EXTINF:-1 group-title="DISNEY CHANNEL",Disney Channel SD
-http://45.90.105.74:25461/Universochingatuculo/HA280622/3126
-#EXTINF:-1 group-title="DISNEY CHANNEL",DISNEY JR  HD
-http://45.90.105.74:25461/Universochingatuculo/HA280622/37258
-#EXTINF:-1 group-title="DISNEY CHANNEL",Disney Junior (i)
-http://45.90.105.74:25461/Universochingatuculo/HA280622/50006
-#EXTINF:-1 group-title="DISNEY CHANNEL",DISNEY JUNIOR HD
-http://45.90.105.74:25461/Universochingatuculo/HA280622/30328
-#EXTINF:-1 group-title="DISNEY CHANNEL",DISNEY JUNIOR LQ
-http://45.90.105.74:25461/Universochingatuculo/HA280622/16540
-#EXTINF:-1 group-title="DISNEY CHANNEL",Disney Junior SD
-http://45.90.105.74:25461/Universochingatuculo/HA280622/3127
-#EXTINF:-1 group-title="DISNEY CHANNEL",Disney Channel
-http://51.222.25.50:25461/m0nk3ynew/sMbK7mENr5/82
-#EXTINF:-1 group-title="DISNEY CHANNEL",Disney Jr
-http://51.222.25.50:25461/m0nk3ynew/sMbK7mENr5/83
-#EXTINF:-1 group-title="DISNEY CHANNEL",Disney XD
-http://51.222.25.50:25461/m0nk3ynew/sMbK7mENr5/84
 #EXTINF:-1 group-title="DISNEY CHANNEL",DISNEY CHANNEL
 http://allstar.is-by.us:25461/CELIAPLAN/DS23Xum3dh/140143
 #EXTINF:-1 group-title="DISNEY CHANNEL",Disney Channel HD (LAT)*
@@ -1408,14 +1052,6 @@ http://tv-cool.com:25461/2022850718/26f6d3a754/41284
 #EXTINF:-1 group-title="DISNEY CHANNEL",Disney Junior ғʜᴅ
 http://tv-cool.com:25461/2022850718/26f6d3a754/62555
 
-#EXTINF:-1 group-title="DISCOVERY KIDS",DISCOVERY KIDS HD
-http://45.90.105.74:25461/Universochingatuculo/HA280622/30323
-#EXTINF:-1 group-title="DISCOVERY KIDS",DISCOVERY KIDS LQ
-http://45.90.105.74:25461/Universochingatuculo/HA280622/16533
-#EXTINF:-1 group-title="DISCOVERY KIDS",Discovery Kids LQ
-http://45.90.105.74:25461/Universochingatuculo/HA280622/16555
-#EXTINF:-1 group-title="DISCOVERY KIDS",DISCOVERY KIDS SD
-http://45.90.105.74:25461/Universochingatuculo/HA280622/3315
 #EXTINF:-1 group-title="DISCOVERY KIDS",Discovery Kids SD (LAT)
 http://hidra.live:80/fwcgcnna/63WL3vuzm5/34783
 #EXTINF:-1 group-title="DISCOVERY KIDS",Discovery Kids HD (LAT)
@@ -1470,16 +1106,6 @@ http://tv-cool.com:25461/2022850718/26f6d3a754/78604
 #EXTINF:-1 group-title="ABC",ABC San Diego
 http://tv-cool.com:25461/2022850718/26f6d3a754/78609
 
-#EXTINF:-1 group-title="AZTECA",Azteca UNO
-http://45.90.105.74:25461/Universochingatuculo/HA280622/2129
-#EXTINF:-1 group-title="AZTECA",Azteca UNO
-http://45.90.105.74:25461/Universochingatuculo/HA280622/3563
-#EXTINF:-1 group-title="AZTECA",AZTECA UNO
-http://45.90.105.74:25461/Universochingatuculo/HA280622/12635
-#EXTINF:-1 group-title="AZTECA",AZTECA UNO FHD
-http://45.90.105.74:25461/Universochingatuculo/HA280622/37790
-#EXTINF:-1 group-title="AZTECA",AZTECA UNO HD
-http://45.90.105.74:25461/Universochingatuculo/HA280622/30310
 #EXTINF:-1 group-title="AZTECA",AZTECA UNO
 http://kp-thebestiptv.com:8080/Galindo21/5anJqAHmvb/50654
 #EXTINF:-1 group-title="AZTECA",AZTECA UNO
@@ -1521,12 +1147,6 @@ http://hidra.live:80/fwcgcnna/63WL3vuzm5/35031
 #EXTINF:-1 group-title="MUSICA",MTV 00S FHD (LAT)
 http://hidra.live:80/fwcgcnna/63WL3vuzm5/35035
 
-#EXTINF:-1 group-title="1 AMERICA TV",America TV
-http://51.222.25.50:25461/m0nk3ynew/sMbK7mENr5/459
-#EXTINF:-1 group-title="1 AMERICA TV",AMERICA TV SD
-http://51.222.25.50:25461/m0nk3ynew/sMbK7mENr5/3998
-#EXTINF:-1 group-title="1 AMERICA TV",AMERICA TV SD 1
-http://51.222.25.50:25461/m0nk3ynew/sMbK7mENr5/3999
 #EXTINF:-1 group-title="1 AMERICA TV",America TV HD (PE)
 http://hidra.live:80/fwcgcnna/63WL3vuzm5/304290
 #EXTINF:-1 group-title="1 AMERICA TV",America TV. SD (PE)
@@ -1779,8 +1399,6 @@ http://vod.tuxchannel.mx/peliculas4k/thor.mkv
 #EXTINF:-1 group-title="THOR",Thor: El mundo oscuro (4K)
 http://vod.tuxchannel.mx/peliculas4k/thor%20the%20dark%20world.mkv
 
-#EXTINF:-1 group-title="BOB ESPONJA",BOB ESPONJA
-http://51.222.25.50:25461/m0nk3ynew/sMbK7mENr5/2946
 #EXTINF:-1 group-title="BOB ESPONJA",Bob Esponja SD
 http://hidra.live:80/fwcgcnna/63WL3vuzm5/58076
 
@@ -2455,55 +2073,6 @@ http://hidra.live:80/yhehteog/NeN02o7t1o/50628
 
 #EXTINF:-1 group-title="El Show de Garfield",VIP El Show de Garfield FHD
 http://hidra.live:80/yhehteog/NeN02o7t1o/58097
-
-
-#EXTINF:-1 group-title="BOING",BOING SD
-http://45.90.105.74:25461/Universochingatuculo/HA280622/11803
-
-#EXTINF:-1 group-title="EL CHAVO ANIMADO",EL CHAVO ANIMADO
-http://45.90.105.74:25461/Universochingatuculo/HA280622/12023
-
-#EXTINF:-1 group-title="ESTRELLA TV",ESTRELLA TV SD
-http://45.90.105.74:25461/Universochingatuculo/HA280622/8611
-
-
-#EXTINF:-1 group-title="SKY",SKY Premiere 1 Chip y Chop: Los guardianes rescatadores HD
-http://45.90.105.74:25461/Universochingatuculo/HA280622/71318
-#EXTINF:-1 group-title="SKY",SKY Premiere 2 Corazon de Fuego HD
-http://45.90.105.74:25461/Universochingatuculo/HA280622/71319
-#EXTINF:-1 group-title="SKY",SKY Premiere 3 Rumble: La Liga de los Monstruos HD
-http://45.90.105.74:25461/Universochingatuculo/HA280622/71320
-#EXTINF:-1 group-title="SKY",SKY Premiere 4 Canta  2 HD
-http://45.90.105.74:25461/Universochingatuculo/HA280622/71321
-#EXTINF:-1 group-title="SKY",SKY Premiere 5 Al Sur del Cielo HD
-http://45.90.105.74:25461/Universochingatuculo/HA280622/71322
-#EXTINF:-1 group-title="SKY",SKY Premiere 6 Scream 5 HD
-http://45.90.105.74:25461/Universochingatuculo/HA280622/71323
-#EXTINF:-1 group-title="SKY",SKY Premiere 7 El aparcacoches HD
-http://45.90.105.74:25461/Universochingatuculo/HA280622/71324
-#EXTINF:-1 group-title="SKY",SKY Premiere 8 Jackass Por Siempre HD
-http://45.90.105.74:25461/Universochingatuculo/HA280622/71325
-#EXTINF:-1 group-title="SKY",SKY Premiere 9 La escuela de Animales Magicos HD
-http://45.90.105.74:25461/Universochingatuculo/HA280622/71326
-#EXTINF:-1 group-title="SKY",SKY Premiere 10 Ocupacion: Proyecto Lluvia HD
-http://45.90.105.74:25461/Universochingatuculo/HA280622/71327
-#EXTINF:-1 group-title="SKY",SKY Premiere 12 Querido Evan Hansen HD
-http://45.90.105.74:25461/Universochingatuculo/HA280622/71329
-#EXTINF:-1 group-title="SKY",SKY Premiere 13 Doctor Strange en el multiverso de la locura HD
-http://45.90.105.74:25461/Universochingatuculo/HA280622/71330
-#EXTINF:-1 group-title="SKY",SKY Premiere 14 Red HD
-http://45.90.105.74:25461/Universochingatuculo/HA280622/71331
-#EXTINF:-1 group-title="SKY",SKY Premiere 15 Sonic 2 HD
-http://45.90.105.74:25461/Universochingatuculo/HA280622/71332
-#EXTINF:-1 group-title="SKY",SKY Premiere 16 Together HD
-http://45.90.105.74:25461/Universochingatuculo/HA280622/71333
-#EXTINF:-1 group-title="SKY",SKY Premiere 17 The Birthday Cake HD
-http://45.90.105.74:25461/Universochingatuculo/HA280622/71334
-#EXTINF:-1 group-title="SKY",SKY Premiere 19 One Shot (Mision de rescate) HD
-http://45.90.105.74:25461/Universochingatuculo/HA280622/71335
-
-#EXTINF:-1 group-title="Tom y Jerry",Tom y Jerry
-https://v3.playerlatino.live/stream/m3u8/421
 
 #EXTINF:-1 group-title="Novelas",Pasiones
 http://streamgo.vip:8008/nando/nando/135433
