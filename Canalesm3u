@@ -487,6 +487,8 @@ http://hidra.live:80/fwcgcnna/63WL3vuzm5/302709
 http://hidra.live:80/fwcgcnna/63WL3vuzm5/34705
 #EXTINF:-1 group-title="NFL",NFL HD
 http://allstar.is-by.us:25461/CELIAPLAN/DS23Xum3dh/140200
+#EXTINF:-1 group-title="NFL",NFL NETWORK
+http://kp-thebestiptv.com:8080/Galindo21/5anJqAHmvb/98
 
 
 #EXTINF:-1 group-title="3 NBA",NBA League Pass 1
@@ -1938,5 +1940,5 @@ http://hidra.live:80/fwcgcnna/63WL3vuzm5/34512
 #EXTINF:-1 group-title="CINE",PPV Cinema 37
 http://hidra.live:80/fwcgcnna/63WL3vuzm5/34513
 
-#EXTINF:-1,24/7 Bob Esponja
+#EXTINF:-1 group-title="BOB ESPONJA",Bob Esponja 24/7
 http://kp-thebestiptv.com:8080/Galindo21/5anJqAHmvb/7
