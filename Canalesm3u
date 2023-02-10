@@ -1082,6 +1082,10 @@ http://hidra.live:80/fwcgcnna/63WL3vuzm5/35031
 http://hidra.live:80/fwcgcnna/63WL3vuzm5/304290
 #EXTINF:-1 group-title="1 AMERICA TV",America TV. SD (PE)
 http://hidra.live:80/fwcgcnna/63WL3vuzm5/304291
+#EXTINF:-1 group-title="1 AMERICA TV",America TV PY
+http://190.108.85.114:8000/play/a0a9/index.m3u8
+#EXTINF:-1 group-title="1 AMERICA TV",AmericaTV cla
+http://190.108.85.114:8000/play/a0a2/index.m3u8
 #EXTINF:-1 group-title="1 AMERICA TV",AMERICA PERU
 http://kp-thebestiptv.com:8080/Galindo21/5anJqAHmvb/42952
 #EXTINF:-1 group-title="1 AMERICA TV",AMERICA PERU
