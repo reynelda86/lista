@@ -76,8 +76,6 @@ http://hidra.live:80/fwcgcnna/63WL3vuzm5/312765
 http://allstar.is-by.us:25461/CELIAPLAN/DS23Xum3dh/59133
 #EXTINF:-1 group-title="HBO",HBO MUNDI HD
 http://allstar.is-by.us:25461/CELIAPLAN/DS23Xum3dh/126317
-#EXTINF:-1 group-title="HBO",HBO MUNDI
-http://allstar.is-by.us:25461/CELIAPLAN/DS23Xum3dh/140178
 
 
 #EXTINF:-1 group-title="UNIVERSAL",UNIVERSAL Channel HD
@@ -86,8 +84,6 @@ http://allstar.is-by.us:25461/CELIAPLAN/DS23Xum3dh/140160
 http://txm.flysat.live:2089/152018884933620/152021106724749/198368
 #EXTINF:-1 group-title="UNIVERSAL",Studio Universal FHD (MX)
 http://hidra.live:80/fwcgcnna/63WL3vuzm5/34966
-#EXTINF:-1 group-title="UNIVERSAL",Studio Universal HD (LAT)
-http://hidra.live:80/fwcgcnna/63WL3vuzm5/312777
 #EXTINF:-1 group-title="UNIVERSAL",Studio Universal
 http://iptvglobal.site:25461/rrtv/rrtv12345/131131
 #EXTINF:-1 group-title="UNIVERSAL",STUDIO UNIVERSAL
@@ -98,8 +94,6 @@ http://allstar.is-by.us:25461/CELIAPLAN/DS23Xum3dh/140159
 http://hidra.live:80/fwcgcnna/63WL3vuzm5/312947
 #EXTINF:-1 group-title="UNIVERSAL",Universal Comedy SD (LAT)
 http://hidra.live:80/fwcgcnna/63WL3vuzm5/34854
-#EXTINF:-1 group-title="UNIVERSAL",Universal Comedy HD (LAT)
-http://hidra.live:80/fwcgcnna/63WL3vuzm5/34855
 #EXTINF:-1 group-title="UNIVERSAL",Universal Comedy FHD (LAT)
 http://hidra.live:80/fwcgcnna/63WL3vuzm5/34856
 #EXTINF:-1 group-title="UNIVERSAL",UNIVERSAL COMEDY
@@ -158,16 +152,12 @@ http://hidra.live:80/fwcgcnna/63WL3vuzm5/312922
 
 #EXTINF:-1 group-title="TNT",TNT
 http://txm.flysat.live:2089/152018884933620/152021106724749/198365
-#EXTINF:-1 group-title="TNT",TNT HD (LAT)
-http://hidra.live:80/fwcgcnna/63WL3vuzm5/34958
 #EXTINF:-1 group-title="TNT",TNT SERIES
 http://txm.flysat.live:2089/152018884933620/152021106724749/198366
 #EXTINF:-1 group-title="TNT",TNT Series FHD (MX)
 http://hidra.live:80/fwcgcnna/63WL3vuzm5/34961
 #EXTINF:-1 group-title="TNT",TNT Series SD (LAT)
 http://hidra.live:80/fwcgcnna/63WL3vuzm5/34962
-#EXTINF:-1 group-title="TNT",TNT Series HD (LAT)
-http://hidra.live:80/fwcgcnna/63WL3vuzm5/34963
 
 
 #EXTINF:-1 group-title="TNT USA",TNT
@@ -323,8 +313,6 @@ http://allstar.is-by.us:25461/CELIAPLAN/DS23Xum3dh/140158
 
 #EXTINF:-1 group-title="DHE",DHE SD (LAT)
 http://hidra.live:80/fwcgcnna/63WL3vuzm5/35004
-#EXTINF:-1 group-title="DHE",DHE HD (LAT)
-http://hidra.live:80/fwcgcnna/63WL3vuzm5/35005
 #EXTINF:-1 group-title="DHE",DHE FHD (LAT)
 http://hidra.live:80/fwcgcnna/63WL3vuzm5/35006
 
@@ -860,8 +848,6 @@ http://allstar.is-by.us:25461/CELIAPLAN/DS23Xum3dh/126315
 #EXTINF:-1 group-title="HBO",HBO ESTE
 http://txm.flysat.live:2089/152018884933620/152021106724749/198408
 #EXTINF:-1 group-title="HBO",HBO FHD (MX E)
-http://hidra.live:80/NbuuHuMf/MFkk20VH/35286
-#EXTINF:-1 group-title="HBO",HBO FHD (MX E)
 http://hidra.live:80/fwcgcnna/63WL3vuzm5/35286
 #EXTINF:-1 group-title="HBO",HBO FHD (LAT)
 http://hidra.live:80/fwcgcnna/63WL3vuzm5/34883
@@ -886,8 +872,6 @@ http://allstar.is-by.us:25461/CELIAPLAN/DS23Xum3dh/126308
 #EXTINF:-1 group-title="HBO",HBO PLUS
 http://txm.flysat.live:2089/152018884933620/152021106724749/198411
 #EXTINF:-1 group-title="HBO",HBO Plus FHD (MX E)
-http://hidra.live:80/NbuuHuMf/MFkk20VH/35290
-#EXTINF:-1 group-title="HBO",HBO Plus FHD (MX E)
 http://hidra.live:80/fwcgcnna/63WL3vuzm5/35290
 #EXTINF:-1 group-title="HBO",HBO PLUS
 http://kp-thebestiptv.com:8080/Galindo21/5anJqAHmvb/64059
@@ -901,8 +885,6 @@ http://iptvglobal.site:25461/rrtv/rrtv12345/131117
 http://allstar.is-by.us:25461/CELIAPLAN/DS23Xum3dh/126307
 #EXTINF:-1 group-title="HBO",HBO FAMILY
 http://txm.flysat.live:2089/152018884933620/152021106724749/198410
-#EXTINF:-1 group-title="HBO",HBO Family HD (LAT)*
-http://hidra.live:80/NbuuHuMf/MFkk20VH/312908
 #EXTINF:-1 group-title="HBO",HBO Family SD
 http://kp-thebestiptv.com:8080/Galindo21/5anJqAHmvb/60992
 #EXTINF:-1 group-title="HBO",Hbo Family
@@ -913,16 +895,12 @@ http://allstar.is-by.us:25461/CELIAPLAN/DS23Xum3dh/126309
 http://allstar.is-by.us:25461/CELIAPLAN/DS23Xum3dh/126314
 #EXTINF:-1 group-title="HBO",HBO SIGNATURE
 http://txm.flysat.live:2089/152018884933620/152021106724749/198409
-#EXTINF:-1 group-title="HBO",HBO Signature HD (LAT)*
-http://hidra.live:80/NbuuHuMf/MFkk20VH/312907
 #EXTINF:-1 group-title="HBO",HBO Signature FHD (MX Dual)
 http://hidra.live:80/fwcgcnna/63WL3vuzm5/34902
 #EXTINF:-1 group-title="HBO",HBO SIGNATURE HD R
 http://allstar.is-by.us:25461/CELIAPLAN/DS23Xum3dh/126311
 #EXTINF:-1 group-title="HBO",HBO SIGNATURE
 http://allstar.is-by.us:25461/CELIAPLAN/DS23Xum3dh/140177
-#EXTINF:-1 group-title="HBO",HBO Xtreme FHD (MX E)
-http://hidra.live:80/NbuuHuMf/MFkk20VH/35258
 #EXTINF:-1 group-title="HBO",HBO Xtreme FHD (MX E)
 http://hidra.live:80/fwcgcnna/63WL3vuzm5/35258
 #EXTINF:-1 group-title="HBO",HBO Xtreme FHD
@@ -945,23 +923,10 @@ http://hidra.live:80/fwcgcnna/63WL3vuzm5/312765
 http://allstar.is-by.us:25461/CELIAPLAN/DS23Xum3dh/59133
 #EXTINF:-1 group-title="HBO",HBO MUNDI HD
 http://allstar.is-by.us:25461/CELIAPLAN/DS23Xum3dh/126317
-#EXTINF:-1 group-title="HBO",HBO MUNDI
-http://allstar.is-by.us:25461/CELIAPLAN/DS23Xum3dh/140178
 
 
-
-#EXTINF:-1 group-title="UNIVERSAL",Universal Channel HD (LAT)*
-http://hidra.live:80/NbuuHuMf/MFkk20VH/312892
-#EXTINF:-1 group-title="UNIVERSAL",Universal Channel SD (CO.) (E)
-http://hidra.live:80/NbuuHuMf/MFkk20VH/35265
-#EXTINF:-1 group-title="UNIVERSAL",Universal Channel FHD (MX E)
-http://hidra.live:80/NbuuHuMf/MFkk20VH/35266
 #EXTINF:-1 group-title="UNIVERSAL",UNIVERSAL Channel HD
 http://allstar.is-by.us:25461/CELIAPLAN/DS23Xum3dh/140160
-#EXTINF:-1 group-title="UNIVERSAL",Studio Channel HD (LAT)*
-http://hidra.live:80/NbuuHuMf/MFkk20VH/312897
-#EXTINF:-1 group-title="UNIVERSAL",Studio Universal FHD (MX E)
-http://hidra.live:80/NbuuHuMf/MFkk20VH/35267
 #EXTINF:-1 group-title="UNIVERSAL",STUDIO UNIVERSAL
 http://txm.flysat.live:2089/152018884933620/152021106724749/198368
 #EXTINF:-1 group-title="UNIVERSAL",Studio Universal FHD (MX)
@@ -1008,8 +973,6 @@ http://kp-thebestiptv.com:8080/Galindo21/5anJqAHmvb/259
 
 #EXTINF:-1 group-title="CINECANAL",CINECANAL
 http://txm.flysat.live:2089/152018884933620/152021106724749/198377
-#EXTINF:-1 group-title="CINECANAL",Cinecanal FHD (CO.) (E)
-http://hidra.live:80/NbuuHuMf/MFkk20VH/35235
 #EXTINF:-1 group-title="CINECANAL",Cinecanal FHD
 http://hidra.live:80/fwcgcnna/63WL3vuzm5/35235
 #EXTINF:-1 group-title="CINECANAL",Cinecanal
