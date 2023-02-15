@@ -440,20 +440,12 @@ http://allstar.is-by.us:25461/CELIAPLAN/DS23Xum3dh/78486
 http://allstar.is-by.us:25461/CELIAPLAN/DS23Xum3dh/78489
 #EXTINF:-1 group-title="3 NBA",Cleveland Cavaliers
 http://allstar.is-by.us:25461/CELIAPLAN/DS23Xum3dh/78492
-#EXTINF:-1 group-title="3 NBA",SAN ANTONIO SPURS
-http://allstar.is-by.us:25461/CELIAPLAN/DS23Xum3dh/78496
-#EXTINF:-1 group-title="3 NBA",Detroit Pistons
-http://allstar.is-by.us:25461/CELIAPLAN/DS23Xum3dh/78499
 #EXTINF:-1 group-title="3 NBA",Atlanta Hawks
 http://allstar.is-by.us:25461/CELIAPLAN/DS23Xum3dh/78502
 #EXTINF:-1 group-title="3 NBA",Phoenix Suns
 http://allstar.is-by.us:25461/CELIAPLAN/DS23Xum3dh/78504
 #EXTINF:-1 group-title="3 NBA",NBA ON TNT
 http://allstar.is-by.us:25461/CELIAPLAN/DS23Xum3dh/59664
-#EXTINF:-1 group-title="3 NBA",NBA TV LHD
-http://185.156.74.135:80/universal123/universal123/176154.ts
-#EXTINF:-1 group-title="3 NBA",NBA TV UHD
-http://185.156.74.135:80/universal123/universal123/395217.ts
 #EXTINF:-1 group-title="3 NBA",NBA TV SD
 http://185.156.74.135:80/universal123/universal123/1284155.ts
 #EXTINF:-1 group-title="3 NBA",NBA HD
@@ -780,8 +772,6 @@ http://flysilo.top:8080/live/1411661635036000/1661661635036000/50980.ts
 http://flysilo.top:8080/live/1411661635036000/1661661635036000/50982.ts
 #EXTINF:-1 group-title="3.8 NBA",VIP NBA SACRAMENTO KINGS
 http://flysilo.top:8080/live/1411661635036000/1661661635036000/50983.ts
-#EXTINF:-1 group-title="3.8 NBA",VIP NBA MEMPHIS GRIZZLIES
-http://flysilo.top:8080/live/1411661635036000/1661661635036000/50985.ts
 #EXTINF:-1 group-title="3.8 NBA",VIP NBA MIAMI HEAT
 http://flysilo.top:8080/live/1411661635036000/1661661635036000/50986.ts
 #EXTINF:-1 group-title="3.8 NBA",VIP NBA NEW YORK KNICKS
@@ -999,12 +989,8 @@ http://hidra.live:80/fwcgcnna/63WL3vuzm5/312922
 
 #EXTINF:-1 group-title="TNT",TNT
 http://txm.flysat.live:2089/152018884933620/152021106724749/198365
-#EXTINF:-1 group-title="TNT",TNT HD (LAT)*
-http://hidra.live:80/NbuuHuMf/MFkk20VH/312894
 #EXTINF:-1 group-title="TNT",TNT SERIES
 http://txm.flysat.live:2089/152018884933620/152021106724749/198366
-#EXTINF:-1 group-title="TNT",TNT Series HD (LAT)*
-http://hidra.live:80/NbuuHuMf/MFkk20VH/312893
 #EXTINF:-1 group-title="TNT",TNT Series FHD (MX)
 http://hidra.live:80/fwcgcnna/63WL3vuzm5/34961
 #EXTINF:-1 group-title="TNT",TNT Series SD (LAT)
@@ -1037,14 +1023,6 @@ http://txm.flysat.live:2089/152018884933620/152021106724749/198331
 http://txm.flysat.live:2089/152018884933620/152021106724749/198330
 #EXTINF:-1 group-title="DISCOVERY",DISCOVERY SCIENCE
 http://txm.flysat.live:2089/152018884933620/152021106724749/198329
-#EXTINF:-1 group-title="DISCOVERY",Discovery Science FHD (CO.) (E)
-http://hidra.live:80/NbuuHuMf/MFkk20VH/46563
-#EXTINF:-1 group-title="DISCOVERY",Discovery ID FHD (CO) (E)
-http://hidra.live:80/NbuuHuMf/MFkk20VH/46562
-#EXTINF:-1 group-title="DISCOVERY",Discovery Theater FHD (E)
-http://hidra.live:80/NbuuHuMf/MFkk20VH/35206
-#EXTINF:-1 group-title="DISCOVERY",Discovery World FHD (MX E)
-http://hidra.live:80/NbuuHuMf/MFkk20VH/35207
 
 
 #EXTINF:-1 group-title="DISCOVERY KIDS",DISCOVERY KIDS
@@ -1053,8 +1031,6 @@ http://txm.flysat.live:2089/152018884933620/152021106724749/198332
 
 #EXTINF:-1 group-title="ANIMAL PLANET",ANIMAL PLANET
 http://txm.flysat.live:2089/152018884933620/152021106724749/198328
-#EXTINF:-1 group-title="ANIMAL PLANET",Animal Planet FHD (CO)
-http://hidra.live:80/NbuuHuMf/MFkk20VH/35195
 #EXTINF:-1 group-title="ANIMAL PLANET",Animal Planet SD (LAT)
 http://hidra.live:80/fwcgcnna/63WL3vuzm5/34801
 #EXTINF:-1 group-title="ANIMAL PLANET",Animal Planet HD (LAT)
@@ -1127,8 +1103,6 @@ http://allstar.is-by.us:25461/CELIAPLAN/DS23Xum3dh/140169
 
 #EXTINF:-1 group-title="SPACE",SPACE
 http://txm.flysat.live:2089/152018884933620/152021106724749/198369
-#EXTINF:-1 group-title="SPACE",Space HD (LAT)
-http://hidra.live:80/NbuuHuMf/MFkk20VH/312898
 #EXTINF:-1 group-title="SPACE",Space SD (MX)
 http://hidra.live:80/fwcgcnna/63WL3vuzm5/34968
 #EXTINF:-1 group-title="SPACE",Space
@@ -1271,12 +1245,6 @@ http://allstar.is-by.us:25461/CELIAPLAN/DS23Xum3dh/140228
 http://allstar.is-by.us:25461/CELIAPLAN/DS23Xum3dh/140229
 
 
-#EXTINF:-1 group-title="GALAVISION",GALAVISION EAST
-http://allstar.is-by.us:25461/CELIAPLAN/DS23Xum3dh/140230
-#EXTINF:-1 group-title="GALAVISION",GALAVISION WEST
-http://allstar.is-by.us:25461/CELIAPLAN/DS23Xum3dh/140231
-
-
 #EXTINF:-1 group-title="NFL",NFL Network HD (MX VIP)
 http://hidra.live:80/fwcgcnna/63WL3vuzm5/302709
 #EXTINF:-1 group-title="NFL",NFL Network HD (US)
@@ -1291,8 +1259,6 @@ http://kp-thebestiptv.com:8080/Galindo21/5anJqAHmvb/98
 http://iptvmedia.live:8080/bubullea83/092df5a7953b/198961
 #EXTINF:-1 group-title="3 NBA",NBA Live 1 Match Time HD US
 http://mytv.fun:80/Fred_Sjoerd/v45CCb78Ac/688198
-#EXTINF:-1 group-title="3 NBA",NBA 01
-http://185.156.74.135:80/universal123/universal123/395251.ts
 #EXTINF:-1 group-title="3 NBA",NBA 02
 http://185.156.74.135:80/universal123/universal123/395253.ts
 #EXTINF:-1 group-title="3 NBA",NBA 03
@@ -1379,8 +1345,6 @@ http://satline.xyz:8080/live/9271659859001279/3361659859001279/51003.ts
 http://satline.xyz:8080/live/9271659859001279/3361659859001279/51005.ts
 #EXTINF:-1 group-title="3.1 NBA",VIP NBA CHICAGO BULLS
 http://satline.xyz:8080/live/9271659859001279/3361659859001279/51007.ts
-#EXTINF:-1 group-title="3.1 NBA",VIP NBA TV
-http://satline.xyz:8080/live/9271659859001279/3361659859001279/51009.ts
 
 
 #EXTINF:-1 group-title="3.2 NBA",NBA TV
@@ -1758,8 +1722,6 @@ http://allstar.is-by.us:25461/CELIAPLAN/DS23Xum3dh/140196
 http://allstar.is-by.us:25461/CELIAPLAN/DS23Xum3dh/140325
 
 
-#EXTINF:-1 group-title="AFIZZIONADOS",Afizzionados
-http://iptvtree.es:80/qtvbox/w6kqBNLz48yf/71117.ts
 #EXTINF:-1 group-title="AFIZZIONADOS",Afizzionados FHD
 http://iptvtree.es:80/qtvbox/w6kqBNLz48yf/19188.ts
 #EXTINF:-1 group-title="AFIZZIONADOS",Afizzionados HD
@@ -1772,8 +1734,6 @@ http://txm.flysat.live:2089/152018884933620/152021106724749/198318
 http://kp-thebestiptv.com:8080/Galindo21/5anJqAHmvb/73630
 #EXTINF:-1 group-title="TUDN",TUDN
 http://kp-thebestiptv.com:8080/Galindo21/5anJqAHmvb/354
-#EXTINF:-1 group-title="TUDN",TUDN (USA)
-http://iptvtree.es:80/qtvbox/w6kqBNLz48yf/71140.ts
 #EXTINF:-1 group-title="TUDN",TUDN MX
 http://allstar.is-by.us:25461/CELIAPLAN/DS23Xum3dh/140278
 #EXTINF:-1 group-title="TUDN",Zona TUDN US
