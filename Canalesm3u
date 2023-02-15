@@ -10,8 +10,6 @@ http://hidra.live:80/NbuuHuMf/MFkk20VH/35286
 http://hidra.live:80/fwcgcnna/63WL3vuzm5/35286
 #EXTINF:-1 group-title="HBO",HBO SD (LAT)
 http://hidra.live:80/fwcgcnna/63WL3vuzm5/34881
-#EXTINF:-1 group-title="HBO",HBO HD (LAT)
-http://hidra.live:80/fwcgcnna/63WL3vuzm5/34882
 #EXTINF:-1 group-title="HBO",HBO FHD (LAT)
 http://hidra.live:80/fwcgcnna/63WL3vuzm5/34883
 #EXTINF:-1 group-title="HBO",HBO SD
@@ -36,8 +34,6 @@ http://iptvglobal.site:25461/rrtv/rrtv12345/131122
 http://allstar.is-by.us:25461/CELIAPLAN/DS23Xum3dh/126308
 #EXTINF:-1 group-title="HBO",HBO PLUS
 http://txm.flysat.live:2089/152018884933620/152021106724749/198411
-#EXTINF:-1 group-title="HBO",HBO PLUS
-http://allstar.is-by.us:25461/CELIAPLAN/DS23Xum3dh/140175
 #EXTINF:-1 group-title="HBO",HBO Plus FHD (MX E)
 http://hidra.live:80/NbuuHuMf/MFkk20VH/35290
 #EXTINF:-1 group-title="HBO",HBO Plus FHD (MX E)
@@ -265,8 +261,6 @@ http://hidra.live:80/fwcgcnna/63WL3vuzm5/34803
 
 #EXTINF:-1 group-title="STAR CHANNEL",Star Channel HD (LAT)
 http://hidra.live:80/fwcgcnna/63WL3vuzm5/34927
-#EXTINF:-1 group-title="STAR CHANNEL",STAR CHANNEL
-http://kp-thebestiptv.com:8080/Galindo21/5anJqAHmvb/60989
 #EXTINF:-1 group-title="STAR CHANNEL",STAR CHANNEL MX
 http://allstar.is-by.us:25461/CELIAPLAN/DS23Xum3dh/59119
 #EXTINF:-1 group-title="STAR CHANNEL",FOX
@@ -505,7 +499,6 @@ http://185.156.74.135:80/universal123/universal123/1818831.ts
 http://185.156.74.135:80/universal123/universal123/395254.ts
 #EXTINF:-1 group-title="3 NBA",NBA 06
 http://185.156.74.135:80/universal123/universal123/395256.ts
-http://allstar.is-by.us:25461/CELIAPLAN/DS23Xum3dh/78481
 #EXTINF:-1 group-title="3 NBA",New Orleans Pelicans
 http://allstar.is-by.us:25461/CELIAPLAN/DS23Xum3dh/78483
 #EXTINF:-1 group-title="3 NBA",Los Angeles Clippers
@@ -552,10 +545,6 @@ http://satline.xyz:8080/live/9271659859001279/3361659859001279/50980.ts
 http://satline.xyz:8080/live/9271659859001279/3361659859001279/50982.ts
 #EXTINF:-1 group-title="4 NBA",VIP NBA SACRAMENTO KINGS
 http://satline.xyz:8080/live/9271659859001279/3361659859001279/50983.ts
-#EXTINF:-1 group-title="4 NBA",VIP NBA PORTLAND TRAIL BLAZERS
-http://satline.xyz:8080/live/9271659859001279/3361659859001279/50984.ts
-#EXTINF:-1 group-title="4 NBA",VIP NBA MEMPHIS GRIZZLIES
-http://satline.xyz:8080/live/9271659859001279/3361659859001279/50985.ts
 #EXTINF:-1 group-title="4 NBA",VIP NBA MIAMI HEAT
 http://satline.xyz:8080/live/9271659859001279/3361659859001279/50986.ts
 #EXTINF:-1 group-title="4 NBA",VIP NBA MILWAUKEE BUCKS
@@ -686,12 +675,6 @@ http://satline.xyz:8080/live/9271659859001279/3361659859001279/50979.ts
 http://satline.xyz:8080/live/9271659859001279/3361659859001279/50980.ts
 #EXTINF:-1 group-title="6 NBA",SAN ANTONIO SPURS
 http://satline.xyz:8080/live/9271659859001279/3361659859001279/50982.ts
-#EXTINF:-1 group-title="6 NBA",SACRAMENTO KINGS
-http://satline.xyz:8080/live/9271659859001279/3361659859001279/50983.ts
-#EXTINF:-1 group-title="6 NBA",PORTLAND TRAIL BLAZERS
-http://satline.xyz:8080/live/9271659859001279/3361659859001279/50984.ts
-#EXTINF:-1 group-title="6 NBA",MEMPHIS GRIZZLIES
-http://satline.xyz:8080/live/9271659859001279/3361659859001279/50985.ts
 #EXTINF:-1 group-title="6 NBA",MIAMI HEAT
 http://satline.xyz:8080/live/9271659859001279/3361659859001279/50986.ts
 #EXTINF:-1 group-title="6 NBA",MINNESOTA TIMBERWOLVES
@@ -708,8 +691,6 @@ http://satline.xyz:8080/live/9271659859001279/3361659859001279/50994.ts
 http://satline.xyz:8080/live/9271659859001279/3361659859001279/50996.ts
 #EXTINF:-1 group-title="6 NBA",DETROIT PISTONS
 http://satline.xyz:8080/live/9271659859001279/3361659859001279/50998.ts
-#EXTINF:-1 group-title="6 NBA",GOLDEN STATE WARRIORS
-http://satline.xyz:8080/live/9271659859001279/3361659859001279/50999.ts
 #EXTINF:-1 group-title="6 NBA",HOUSTON ROCKETS
 http://satline.xyz:8080/live/9271659859001279/3361659859001279/51000.ts
 #EXTINF:-1 group-title="6 NBA",LOS ANGLES CLIPPERS
