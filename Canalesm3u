@@ -18,7 +18,7 @@ http://allstar.is-by.us:25461/CELIAPLAN/DS23Xum3dh/126316
 http://txm.flysat.live:2089/152018884933620/152021106724749/198412
 #EXTINF:-1 group-title="HBO",HBO 2 FHD (MX E)
 http://hidra.live:80/fwcgcnna/63WL3vuzm5/35288
-#EXTINF:-1 group-title="HBO",HBO 2 SD
+#EXTINF:-1 group-title="HBO",HBO 2 SD2
 http://kp-thebestiptv.com:8080/Galindo21/5anJqAHmvb/60991
 #EXTINF:-1 group-title="HBO",HBO 2
 http://iptvglobal.site:25461/rrtv/rrtv12345/131122
@@ -440,10 +440,6 @@ http://allstar.is-by.us:25461/CELIAPLAN/DS23Xum3dh/78486
 http://allstar.is-by.us:25461/CELIAPLAN/DS23Xum3dh/78489
 #EXTINF:-1 group-title="3 NBA",Cleveland Cavaliers
 http://allstar.is-by.us:25461/CELIAPLAN/DS23Xum3dh/78492
-#EXTINF:-1 group-title="3 NBA",Atlanta Hawks
-http://allstar.is-by.us:25461/CELIAPLAN/DS23Xum3dh/78502
-#EXTINF:-1 group-title="3 NBA",Phoenix Suns
-http://allstar.is-by.us:25461/CELIAPLAN/DS23Xum3dh/78504
 #EXTINF:-1 group-title="3 NBA",NBA ON TNT
 http://allstar.is-by.us:25461/CELIAPLAN/DS23Xum3dh/59664
 #EXTINF:-1 group-title="3 NBA",NBA TV SD
@@ -494,8 +490,6 @@ http://satline.xyz:8080/live/9271659859001279/3361659859001279/50996.ts
 http://satline.xyz:8080/live/9271659859001279/3361659859001279/50997.ts
 #EXTINF:-1 group-title="3.1 NBA",VIP NBA DETROIT PISTONS
 http://satline.xyz:8080/live/9271659859001279/3361659859001279/50998.ts
-#EXTINF:-1 group-title="3.1 NBA",VIP NBA GOLDEN STATE WARRIORS
-http://satline.xyz:8080/live/9271659859001279/3361659859001279/50999.ts
 #EXTINF:-1 group-title="3.1 NBA",VIP NBA HOUSTON ROCKETS
 http://satline.xyz:8080/live/9271659859001279/3361659859001279/51000.ts
 #EXTINF:-1 group-title="3.1 NBA",VIP NBA INDIANA PACERS
@@ -518,18 +512,12 @@ http://satline.xyz:8080/live/9271659859001279/3361659859001279/51009.ts
 
 #EXTINF:-1 group-title="3.2 NBA",NBA TV
 http://kp-thebestiptv.com:8080/Galindo21/5anJqAHmvb/387
-#EXTINF:-1 group-title="3.2 NBA",Toronto Raptors
-http://kp-thebestiptv.com:8080/Galindo21/5anJqAHmvb/550
 #EXTINF:-1 group-title="3.2 NBA",Sacramento Kings
 http://kp-thebestiptv.com:8080/Galindo21/5anJqAHmvb/551
-#EXTINF:-1 group-title="3.2 NBA",Orlando Magic
-http://kp-thebestiptv.com:8080/Galindo21/5anJqAHmvb/552
 #EXTINF:-1 group-title="3.2 NBA",New York Knicks
 http://kp-thebestiptv.com:8080/Galindo21/5anJqAHmvb/553
 #EXTINF:-1 group-title="3.2 NBA",New Orleans Pelicans
 http://kp-thebestiptv.com:8080/Galindo21/5anJqAHmvb/554
-#EXTINF:-1 group-title="3.2 NBA",Minnesota Timberwolves
-http://kp-thebestiptv.com:8080/Galindo21/5anJqAHmvb/555
 #EXTINF:-1 group-title="3.2 NBA",Los Angeles Lakers
 http://kp-thebestiptv.com:8080/Galindo21/5anJqAHmvb/556
 #EXTINF:-1 group-title="3.2 NBA",Los Angeles Clippers
@@ -540,44 +528,24 @@ http://kp-thebestiptv.com:8080/Galindo21/5anJqAHmvb/558
 http://kp-thebestiptv.com:8080/Galindo21/5anJqAHmvb/559
 #EXTINF:-1 group-title="3.2 NBA",Golden State Warriors
 http://kp-thebestiptv.com:8080/Galindo21/5anJqAHmvb/560
-#EXTINF:-1 group-title="3.2 NBA",Denver Nuggets
-http://kp-thebestiptv.com:8080/Galindo21/5anJqAHmvb/561
 #EXTINF:-1 group-title="3.2 NBA",Dallas Mavericks
 http://kp-thebestiptv.com:8080/Galindo21/5anJqAHmvb/562
 #EXTINF:-1 group-title="3.2 NBA",Cleveland Cavaliers
 http://kp-thebestiptv.com:8080/Galindo21/5anJqAHmvb/563
-#EXTINF:-1 group-title="3.2 NBA",Brooklyn Nets
-http://kp-thebestiptv.com:8080/Galindo21/5anJqAHmvb/564
 #EXTINF:-1 group-title="3.2 NBA",Boston Celtics
 http://kp-thebestiptv.com:8080/Galindo21/5anJqAHmvb/565
 #EXTINF:-1 group-title="3.2 NBA",Utah Jazz
 http://kp-thebestiptv.com:8080/Galindo21/5anJqAHmvb/566
 #EXTINF:-1 group-title="3.2 NBA",San Antonio Spurs
 http://kp-thebestiptv.com:8080/Galindo21/5anJqAHmvb/567
-#EXTINF:-1 group-title="3.2 NBA",Washington Wizards
-http://kp-thebestiptv.com:8080/Galindo21/5anJqAHmvb/568
 #EXTINF:-1 group-title="3.2 NBA",Milwaukee Bucks
 http://kp-thebestiptv.com:8080/Galindo21/5anJqAHmvb/569
 #EXTINF:-1 group-title="3.2 NBA",Detroit Pistons
 http://kp-thebestiptv.com:8080/Galindo21/5anJqAHmvb/570
-#EXTINF:-1 group-title="3.2 NBA",Chicago Bulls
-http://kp-thebestiptv.com:8080/Galindo21/5anJqAHmvb/571
-#EXTINF:-1 group-title="3.2 NBA",Charlotte Hornets
-http://kp-thebestiptv.com:8080/Galindo21/5anJqAHmvb/572
-#EXTINF:-1 group-title="3.2 NBA",Atlanta Hawks
-http://kp-thebestiptv.com:8080/Galindo21/5anJqAHmvb/573
-#EXTINF:-1 group-title="3.2 NBA",Portland Trail Blazers
-http://kp-thebestiptv.com:8080/Galindo21/5anJqAHmvb/574
-#EXTINF:-1 group-title="3.2 NBA",Phoenix Suns
-http://kp-thebestiptv.com:8080/Galindo21/5anJqAHmvb/575
 #EXTINF:-1 group-title="3.2 NBA",Philadelphia 76ers
 http://kp-thebestiptv.com:8080/Galindo21/5anJqAHmvb/576
-#EXTINF:-1 group-title="3.2 NBA",Oklahoma City Thunder
-http://kp-thebestiptv.com:8080/Galindo21/5anJqAHmvb/577
 #EXTINF:-1 group-title="3.2 NBA",Miami Heat
 http://kp-thebestiptv.com:8080/Galindo21/5anJqAHmvb/578
-#EXTINF:-1 group-title="3.2 NBA",Memphis Grizzlies
-http://kp-thebestiptv.com:8080/Galindo21/5anJqAHmvb/579
 #EXTINF:-1 group-title="3.2 NBA",NBA ON ESPN
 http://kp-thebestiptv.com:8080/Galindo21/5anJqAHmvb/65907
 #EXTINF:-1 group-title="3.2 NBA",NBA ON FOX SPORTS
@@ -750,8 +718,7 @@ http://kp-thebestiptv.com:8080/Galindo21/5anJqAHmvb/48299
 http://kp-thebestiptv.com:8080/Galindo21/5anJqAHmvb/60988
 #EXTINF:-1 group-title="FOX SPORTS",FOX SPORTS 1 SUR FHD
 http://kp-thebestiptv.com:8080/Galindo21/5anJqAHmvb/63964
-#EXTINF:-1 group-title="FOX SPORTS",FOX SPORTS HD MEX
-http://allstar.is-by.us:25461/CELIAPLAN/DS23Xum3dh/140323#EXTINF:-1 group-title="HBO",HBO
+#EXTINF:-1 group-title="HBO",HBO
 http://txm.flysat.live:2089/152018884933620/152021106724749/198413
 #EXTINF:-1 group-title="HBO",HBO LATINO R
 http://allstar.is-by.us:25461/CELIAPLAN/DS23Xum3dh/126315
@@ -877,8 +844,6 @@ http://allstar.is-by.us:25461/CELIAPLAN/DS23Xum3dh/73321
 http://allstar.is-by.us:25461/CELIAPLAN/DS23Xum3dh/140163
 #EXTINF:-1 group-title="UNIVERSAL",UNIVERSAL CRIMEN
 http://allstar.is-by.us:25461/CELIAPLAN/DS23Xum3dh/140164
-#EXTINF:-1 group-title="UNIVERSAL",UNIVERSO
-http://kp-thebestiptv.com:8080/Galindo21/5anJqAHmvb/259
 
 
 #EXTINF:-1 group-title="CINECANAL",CINECANAL
@@ -1199,10 +1164,6 @@ http://allstar.is-by.us:25461/CELIAPLAN/DS23Xum3dh/78492
 http://allstar.is-by.us:25461/CELIAPLAN/DS23Xum3dh/78496
 #EXTINF:-1 group-title="3 NBA",Detroit Pistons
 http://allstar.is-by.us:25461/CELIAPLAN/DS23Xum3dh/78499
-#EXTINF:-1 group-title="3 NBA",Atlanta Hawks
-http://allstar.is-by.us:25461/CELIAPLAN/DS23Xum3dh/78502
-#EXTINF:-1 group-title="3 NBA",Phoenix Suns
-http://allstar.is-by.us:25461/CELIAPLAN/DS23Xum3dh/78504
 #EXTINF:-1 group-title="3 NBA",NBA ON TNT
 http://allstar.is-by.us:25461/CELIAPLAN/DS23Xum3dh/59664
 #EXTINF:-1 group-title="3 NBA",NBA TV SD
@@ -1249,8 +1210,6 @@ http://satline.xyz:8080/live/9271659859001279/3361659859001279/50994.ts
 http://satline.xyz:8080/live/9271659859001279/3361659859001279/50995.ts
 #EXTINF:-1 group-title="3.1 NBA",VIP NBA DALLAS MAVERICKS
 http://satline.xyz:8080/live/9271659859001279/3361659859001279/50996.ts
-#EXTINF:-1 group-title="3.1 NBA",VIP NBA DENVER NUGGETS
-http://satline.xyz:8080/live/9271659859001279/3361659859001279/50997.ts
 #EXTINF:-1 group-title="3.1 NBA",VIP NBA DETROIT PISTONS
 http://satline.xyz:8080/live/9271659859001279/3361659859001279/50998.ts
 #EXTINF:-1 group-title="3.1 NBA",VIP NBA HOUSTON ROCKETS
@@ -1269,18 +1228,12 @@ http://satline.xyz:8080/live/9271659859001279/3361659859001279/51007.ts
 
 #EXTINF:-1 group-title="3.2 NBA",NBA TV
 http://kp-thebestiptv.com:8080/Galindo21/5anJqAHmvb/387
-#EXTINF:-1 group-title="3.2 NBA",Toronto Raptors
-http://kp-thebestiptv.com:8080/Galindo21/5anJqAHmvb/550
 #EXTINF:-1 group-title="3.2 NBA",Sacramento Kings
 http://kp-thebestiptv.com:8080/Galindo21/5anJqAHmvb/551
-#EXTINF:-1 group-title="3.2 NBA",Orlando Magic
-http://kp-thebestiptv.com:8080/Galindo21/5anJqAHmvb/552
 #EXTINF:-1 group-title="3.2 NBA",New York Knicks
 http://kp-thebestiptv.com:8080/Galindo21/5anJqAHmvb/553
 #EXTINF:-1 group-title="3.2 NBA",New Orleans Pelicans
 http://kp-thebestiptv.com:8080/Galindo21/5anJqAHmvb/554
-#EXTINF:-1 group-title="3.2 NBA",Minnesota Timberwolves
-http://kp-thebestiptv.com:8080/Galindo21/5anJqAHmvb/555
 #EXTINF:-1 group-title="3.2 NBA",Los Angeles Lakers
 http://kp-thebestiptv.com:8080/Galindo21/5anJqAHmvb/556
 #EXTINF:-1 group-title="3.2 NBA",Los Angeles Clippers
@@ -1291,44 +1244,25 @@ http://kp-thebestiptv.com:8080/Galindo21/5anJqAHmvb/558
 http://kp-thebestiptv.com:8080/Galindo21/5anJqAHmvb/559
 #EXTINF:-1 group-title="3.2 NBA",Golden State Warriors
 http://kp-thebestiptv.com:8080/Galindo21/5anJqAHmvb/560
-#EXTINF:-1 group-title="3.2 NBA",Denver Nuggets
-http://kp-thebestiptv.com:8080/Galindo21/5anJqAHmvb/561
 #EXTINF:-1 group-title="3.2 NBA",Dallas Mavericks
 http://kp-thebestiptv.com:8080/Galindo21/5anJqAHmvb/562
 #EXTINF:-1 group-title="3.2 NBA",Cleveland Cavaliers
 http://kp-thebestiptv.com:8080/Galindo21/5anJqAHmvb/563
-#EXTINF:-1 group-title="3.2 NBA",Brooklyn Nets
-http://kp-thebestiptv.com:8080/Galindo21/5anJqAHmvb/564
 #EXTINF:-1 group-title="3.2 NBA",Boston Celtics
 http://kp-thebestiptv.com:8080/Galindo21/5anJqAHmvb/565
 #EXTINF:-1 group-title="3.2 NBA",Utah Jazz
 http://kp-thebestiptv.com:8080/Galindo21/5anJqAHmvb/566
 #EXTINF:-1 group-title="3.2 NBA",San Antonio Spurs
 http://kp-thebestiptv.com:8080/Galindo21/5anJqAHmvb/567
-#EXTINF:-1 group-title="3.2 NBA",Washington Wizards
-http://kp-thebestiptv.com:8080/Galindo21/5anJqAHmvb/568
 #EXTINF:-1 group-title="3.2 NBA",Milwaukee Bucks
 http://kp-thebestiptv.com:8080/Galindo21/5anJqAHmvb/569
 #EXTINF:-1 group-title="3.2 NBA",Detroit Pistons
 http://kp-thebestiptv.com:8080/Galindo21/5anJqAHmvb/570
-#EXTINF:-1 group-title="3.2 NBA",Chicago Bulls
-http://kp-thebestiptv.com:8080/Galindo21/5anJqAHmvb/571
 #EXTINF:-1 group-title="3.2 NBA",Charlotte Hornets
-http://kp-thebestiptv.com:8080/Galindo21/5anJqAHmvb/572
-#EXTINF:-1 group-title="3.2 NBA",Atlanta Hawks
-http://kp-thebestiptv.com:8080/Galindo21/5anJqAHmvb/573
-#EXTINF:-1 group-title="3.2 NBA",Portland Trail Blazers
-http://kp-thebestiptv.com:8080/Galindo21/5anJqAHmvb/574
-#EXTINF:-1 group-title="3.2 NBA",Phoenix Suns
-http://kp-thebestiptv.com:8080/Galindo21/5anJqAHmvb/575
 #EXTINF:-1 group-title="3.2 NBA",Philadelphia 76ers
 http://kp-thebestiptv.com:8080/Galindo21/5anJqAHmvb/576
-#EXTINF:-1 group-title="3.2 NBA",Oklahoma City Thunder
-http://kp-thebestiptv.com:8080/Galindo21/5anJqAHmvb/577
 #EXTINF:-1 group-title="3.2 NBA",Miami Heat
 http://kp-thebestiptv.com:8080/Galindo21/5anJqAHmvb/578
-#EXTINF:-1 group-title="3.2 NBA",Memphis Grizzlies
-http://kp-thebestiptv.com:8080/Galindo21/5anJqAHmvb/579
 #EXTINF:-1 group-title="3.2 NBA",NBA ON ESPN
 http://kp-thebestiptv.com:8080/Galindo21/5anJqAHmvb/65907
 #EXTINF:-1 group-title="3.2 NBA",NBA ON FOX SPORTS
@@ -1504,8 +1438,6 @@ http://iptvtree.es:80/qtvbox/w6kqBNLz48yf/71130.ts
 http://iptvtree.es:80/qtvbox/w6kqBNLz48yf/1974.ts
 #EXTINF:-1 group-title="FOX SPORTS",FOX SPORTS
 http://allstar.is-by.us:25461/CELIAPLAN/DS23Xum3dh/140197
-#EXTINF:-1 group-title="FOX SPORTS",FOX SPORTS HD MEX
-http://allstar.is-by.us:25461/CELIAPLAN/DS23Xum3dh/140323
 #EXTINF:-1 group-title="FOX SPORTS",Fox Sports 1
 http://iptvtree.es:80/qtvbox/w6kqBNLz48yf/2020.ts
 #EXTINF:-1 group-title="FOX SPORTS",FOX SPORT 2
@@ -1572,10 +1504,6 @@ http://allstar.is-by.us:25461/CELIAPLAN/DS23Xum3dh/140312
 http://txm.flysat.live:2089/152018884933620/152021106724749/198318
 #EXTINF:-1 group-title="TUDN",TUDN
 http://kp-thebestiptv.com:8080/Galindo21/5anJqAHmvb/73630
-#EXTINF:-1 group-title="TUDN",TUDN
-http://kp-thebestiptv.com:8080/Galindo21/5anJqAHmvb/354
-#EXTINF:-1 group-title="TUDN",TUDN MX
-http://allstar.is-by.us:25461/CELIAPLAN/DS23Xum3dh/140278
 #EXTINF:-1 group-title="TUDN",Zona TUDN US
 http://allstar.is-by.us:25461/CELIAPLAN/DS23Xum3dh/140279
 #EXTINF:-1 group-title="TUDN",Zona TUDN MX
@@ -1654,8 +1582,6 @@ http://tv.dominiotv.xyz:25461/live/iptvprivado/K8XNXMTMm9/165275.ts
 http://kp-thebestiptv.com:8080/Galindo21/5anJqAHmvb/74909
 #EXTINF:-1 group-title="ESPN DEPORTES",ESPN DEPORTES
 http://iptvtree.es:80/qtvbox/w6kqBNLz48yf/1971.ts
-#EXTINF:-1 group-title="ESPN DEPORTES",ESPN DEPORTES HD
-http://allstar.is-by.us:25461/CELIAPLAN/DS23Xum3dh/140318
 #EXTINF:-1 group-title="ESPN DEPORTES",ESPN DEPORTES
 http://tv.dominiotv.xyz:25461/live/iptvprivado/K8XNXMTMm9/78749.ts
 #EXTINF:-1 group-title="ESPN DEPORTES",ESPN DEPORTES HD
@@ -1665,15 +1591,11 @@ http://tv.dominiotv.xyz:25461/live/iptvprivado/K8XNXMTMm9/94154.ts
 #EXTINF:-1 group-title="CARTOON NETWORK",CARTOON NETWORK
 http://txm.flysat.live:2089/152018884933620/152021106724749/198341
 #EXTINF:-1 group-title="CARTOON NETWORK",Cartoon Network FHD (E)
-http://hidra.live:80/NbuuHuMf/MFkk20VH/35222
-#EXTINF:-1 group-title="CARTOON NETWORK",Cartoon Network FHD (E)
 http://hidra.live:80/fwcgcnna/63WL3vuzm5/35222
 #EXTINF:-1 group-title="CARTOON NETWORK",CARTOON NETWORK
 http://kp-thebestiptv.com:8080/Galindo21/5anJqAHmvb/330
 #EXTINF:-1 group-title="CARTOON NETWORK",Cartoon Network SD
 http://kp-thebestiptv.com:8080/Galindo21/5anJqAHmvb/61341
-#EXTINF:-1 group-title="CARTOON NETWORK",CARTOON NETWORK
-http://allstar.is-by.us:25461/CELIAPLAN/DS23Xum3dh/140142
 
 
 #EXTINF:-1 group-title="BOOMERANG",Cartoonito HD (LAT)*
@@ -1692,10 +1614,6 @@ http://allstar.is-by.us:25461/CELIAPLAN/DS23Xum3dh/140141
 http://txm.flysat.live:2089/152018884933620/152021106724749/198352
 #EXTINF:-1 group-title="DISNEY CHANNEL",DISNEY JR
 http://txm.flysat.live:2089/152018884933620/152021106724749/198351
-#EXTINF:-1 group-title="DISNEY CHANNEL",Disney Channel FHD (MX E)
-http://hidra.live:80/NbuuHuMf/MFkk20VH/35228
-#EXTINF:-1 group-title="DISNEY CHANNEL",DISNEY CHANNEL
-http://allstar.is-by.us:25461/CELIAPLAN/DS23Xum3dh/140143
 #EXTINF:-1 group-title="DISNEY CHANNEL",Disney Channel HD (LAT)*
 http://hidra.live:80/fwcgcnna/63WL3vuzm5/312928
 #EXTINF:-1 group-title="DISNEY CHANNEL",DISNEY JR HD
@@ -1706,31 +1624,20 @@ http://allstar.is-by.us:25461/CELIAPLAN/DS23Xum3dh/140144
 http://hidra.live:80/fwcgcnna/63WL3vuzm5/34783
 #EXTINF:-1 group-title="DISCOVERY KIDS",Discovery Kids HD (LAT)
 http://hidra.live:80/fwcgcnna/63WL3vuzm5/34785
-#EXTINF:-1 group-title="DISCOVERY KIDS",DISCOVERY KIDS MX HD
-http://allstar.is-by.us:25461/CELIAPLAN/DS23Xum3dh/140145
-
-#EXTINF:-1 group-title="UNIVERSAL KIDS",UNIVERSAL KIDS HD
-http://allstar.is-by.us:25461/CELIAPLAN/DS23Xum3dh/140148
 
 
 #EXTINF:-1 group-title="NICKELODEON",NICK JR
 http://txm.flysat.live:2089/152018884933620/152021106724749/198350
 #EXTINF:-1 group-title="NICKELODEON",NICKELODEON
 http://txm.flysat.live:2089/152018884933620/152021106724749/198347
-#EXTINF:-1 group-title="NICKELODEON",Nickelodeon FHD (E)
-http://hidra.live:80/NbuuHuMf/MFkk20VH/35224
 #EXTINF:-1 group-title="NICKELODEON",Nickelodeon FHD (LAT)
 http://hidra.live:80/fwcgcnna/63WL3vuzm5/34772
-#EXTINF:-1 group-title="NICKELODEON",Nick HD (LAT)*
-http://hidra.live:80/NbuuHuMf/MFkk20VH/312901
 #EXTINF:-1 group-title="NICKELODEON",NICK 2
 http://txm.flysat.live:2089/152018884933620/152021106724749/198349
 #EXTINF:-1 group-title="NICKELODEON",Nick JR SD (MX)
 http://hidra.live:80/fwcgcnna/63WL3vuzm5/34778
 #EXTINF:-1 group-title="NICKELODEON",Nick JR FHD (MX)
 http://hidra.live:80/fwcgcnna/63WL3vuzm5/34779
-#EXTINF:-1 group-title="NICKELODEON",TeenNick HD (LAT)*
-http://hidra.live:80/NbuuHuMf/MFkk20VH/312902
 #EXTINF:-1 group-title="NICKELODEON",TeenNick FHD (LAT)
 http://hidra.live:80/fwcgcnna/63WL3vuzm5/34777
 
@@ -1769,11 +1676,6 @@ http://txm.flysat.live:2089/152018884933620/152021106724749/198379
 http://txm.flysat.live:2089/152018884933620/152021106724749/198378
 
 
-#EXTINF:-1 group-title="MULTIMEDIOS",Multimedios SD (MX)
-http://hidra.live:80/fwcgcnna/63WL3vuzm5/43632
-
-#EXTINF:-1 group-title="MUSICA",MTV
-http://txm.flysat.live:2089/152018884933620/152021106724749/198308
 #EXTINF:-1 group-title="MUSICA",MTV HD (LAT)*
 http://hidra.live:80/fwcgcnna/63WL3vuzm5/312963
 #EXTINF:-1 group-title="MUSICA",MTV 00S FHD (LAT)
@@ -2403,8 +2305,6 @@ http://hidra.live:80/fwcgcnna/63WL3vuzm5/35265
 http://hidra.live:80/fwcgcnna/63WL3vuzm5/35266
 #EXTINF:-1 group-title="VARIOS",Studio Universal FHD (MX E)
 http://hidra.live:80/fwcgcnna/63WL3vuzm5/35267
-#EXTINF:-1 group-title="VARIOS",AMC HD (MX VIP)
-http://hidra.live:80/fwcgcnna/63WL3vuzm5/302605
 #EXTINF:-1 group-title="VARIOS",Animal Planet HD (MX VIP)
 http://hidra.live:80/fwcgcnna/63WL3vuzm5/302606
 #EXTINF:-1 group-title="VARIOS",AXN Series HD (MX VIP)
@@ -2581,8 +2481,6 @@ http://hidra.live:80/fwcgcnna/63WL3vuzm5/312903
 http://hidra.live:80/fwcgcnna/63WL3vuzm5/312909
 #EXTINF:-1 group-title="VARIOS",Star Channel HD (LAT)*
 http://hidra.live:80/fwcgcnna/63WL3vuzm5/312910
-#EXTINF:-1 group-title="VARIOS",Universal Premiere HD (LAT)*
-http://hidra.live:80/fwcgcnna/63WL3vuzm5/312912
 #EXTINF:-1 group-title="VARIOS",Discovery World HD (LAT)*
 http://hidra.live:80/fwcgcnna/63WL3vuzm5/312913
 #EXTINF:-1 group-title="VARIOS",Discovery Theater HD (LAT)*
@@ -2597,14 +2495,8 @@ http://hidra.live:80/fwcgcnna/63WL3vuzm5/312917
 http://hidra.live:80/yhehteog/NeN02o7t1o/50628
 
 
-#EXTINF:-1 group-title="NOVELAS",TLnovelas
-http://streamgo.vip:8008/nando/nando/135434
-#EXTINF:-1 group-title="NOVELAS",TLnovelas
-http://streamgo.vip:8008/nando/nando/135436
 #EXTINF:-1 group-title="NOVELAS",PASIONES
 http://txm.flysat.live:2089/152018884933620/152021106724749/198415
-#EXTINF:-1 group-title="NOVELAS",Pasiones
-http://streamgo.vip:8008/nando/nando/135433
 #EXTINF:-1 group-title="NOVELAS",UNIVISION TELENOVELAS
 http://txm.flysat.live:2089/152018884933620/152021106724749/198400
 #EXTINF:-1 group-title="NOVELAS",TELENOVELAS
@@ -2806,10 +2698,6 @@ http://allstar.is-by.us:25461/CELIAPLAN/DS23Xum3dh/140312
 http://txm.flysat.live:2089/152018884933620/152021106724749/198318
 #EXTINF:-1 group-title="TUDN",TUDN
 http://kp-thebestiptv.com:8080/Galindo21/5anJqAHmvb/73630
-#EXTINF:-1 group-title="TUDN",TUDN
-http://kp-thebestiptv.com:8080/Galindo21/5anJqAHmvb/354
-#EXTINF:-1 group-title="TUDN",TUDN MX
-http://allstar.is-by.us:25461/CELIAPLAN/DS23Xum3dh/140278
 #EXTINF:-1 group-title="TUDN",Zona TUDN US
 http://allstar.is-by.us:25461/CELIAPLAN/DS23Xum3dh/140279
 #EXTINF:-1 group-title="TUDN",Zona TUDN MX
@@ -2890,8 +2778,6 @@ http://hidra.live:80/fwcgcnna/63WL3vuzm5/35222
 http://kp-thebestiptv.com:8080/Galindo21/5anJqAHmvb/330
 #EXTINF:-1 group-title="CARTOON NETWORK",Cartoon Network SD
 http://kp-thebestiptv.com:8080/Galindo21/5anJqAHmvb/61341
-#EXTINF:-1 group-title="CARTOON NETWORK",CARTOON NETWORK
-http://allstar.is-by.us:25461/CELIAPLAN/DS23Xum3dh/140142
 
 
 #EXTINF:-1 group-title="BOOMERANG",Cartoonito HD (LAT)*
@@ -2910,8 +2796,6 @@ http://allstar.is-by.us:25461/CELIAPLAN/DS23Xum3dh/140141
 http://txm.flysat.live:2089/152018884933620/152021106724749/198352
 #EXTINF:-1 group-title="DISNEY CHANNEL",DISNEY JR
 http://txm.flysat.live:2089/152018884933620/152021106724749/198351
-#EXTINF:-1 group-title="DISNEY CHANNEL",DISNEY CHANNEL
-http://allstar.is-by.us:25461/CELIAPLAN/DS23Xum3dh/140143
 #EXTINF:-1 group-title="DISNEY CHANNEL",Disney Channel HD (LAT)*
 http://hidra.live:80/fwcgcnna/63WL3vuzm5/312928
 #EXTINF:-1 group-title="DISNEY CHANNEL",DISNEY JR HD
@@ -2922,8 +2806,6 @@ http://allstar.is-by.us:25461/CELIAPLAN/DS23Xum3dh/140144
 http://hidra.live:80/fwcgcnna/63WL3vuzm5/34783
 #EXTINF:-1 group-title="DISCOVERY KIDS",Discovery Kids HD (LAT)
 http://hidra.live:80/fwcgcnna/63WL3vuzm5/34785
-#EXTINF:-1 group-title="DISCOVERY KIDS",DISCOVERY KIDS MX HD
-http://allstar.is-by.us:25461/CELIAPLAN/DS23Xum3dh/140145
 
 
 #EXTINF:-1 group-title="NICKELODEON",NICK JR
@@ -2976,8 +2858,6 @@ http://txm.flysat.live:2089/152018884933620/152021106724749/198379
 http://txm.flysat.live:2089/152018884933620/152021106724749/198378
 
 
-#EXTINF:-1 group-title="MUSICA",MTV
-http://txm.flysat.live:2089/152018884933620/152021106724749/198308
 #EXTINF:-1 group-title="MUSICA",MTV HD (LAT)*
 http://hidra.live:80/fwcgcnna/63WL3vuzm5/312963
 #EXTINF:-1 group-title="MUSICA",MTV 00S FHD (LAT)
@@ -3785,8 +3665,6 @@ http://hidra.live:80/fwcgcnna/63WL3vuzm5/312908
 http://hidra.live:80/fwcgcnna/63WL3vuzm5/312909
 #EXTINF:-1 group-title="VARIOS",Star Channel HD (LAT)*
 http://hidra.live:80/fwcgcnna/63WL3vuzm5/312910
-#EXTINF:-1 group-title="VARIOS",Universal Premiere HD (LAT)*
-http://hidra.live:80/fwcgcnna/63WL3vuzm5/312912
 #EXTINF:-1 group-title="VARIOS",Discovery World HD (LAT)*
 http://hidra.live:80/fwcgcnna/63WL3vuzm5/312913
 #EXTINF:-1 group-title="VARIOS",Discovery Theater HD (LAT)*
@@ -3803,8 +3681,6 @@ http://hidra.live:80/yhehteog/NeN02o7t1o/50628
 
 #EXTINF:-1 group-title="NOVELAS",PASIONES
 http://txm.flysat.live:2089/152018884933620/152021106724749/198415
-#EXTINF:-1 group-title="NOVELAS",Pasiones
-http://streamgo.vip:8008/nando/nando/135433
 #EXTINF:-1 group-title="NOVELAS",UNIVISION TELENOVELAS
 http://txm.flysat.live:2089/152018884933620/152021106724749/198400
 #EXTINF:-1 group-title="NOVELAS",TELENOVELAS
