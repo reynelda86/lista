@@ -4,16 +4,10 @@ http://txm.flysat.live:2089/152018884933620/152021106724749/198413
 http://allstar.is-by.us:25461/CELIAPLAN/DS23Xum3dh/126315
 #EXTINF:-1 group-title="HBO",HBO ESTE
 http://txm.flysat.live:2089/152018884933620/152021106724749/198408
-#EXTINF:-1 group-title="HBO",HBO FHD (MX E)
-http://hidra.live:80/fwcgcnna/63WL3vuzm5/35286
-#EXTINF:-1 group-title="HBO",HBO SD (LAT)
-http://hidra.live:80/fwcgcnna/63WL3vuzm5/34881
 #EXTINF:-1 group-title="HBO",HBO FHD (LAT)
 http://hidra.live:80/fwcgcnna/63WL3vuzm5/34883
 #EXTINF:-1 group-title="HBO",HBO SD
 http://kp-thebestiptv.com:8080/Galindo21/5anJqAHmvb/60994
-#EXTINF:-1 group-title="HBO",HBO
-http://iptvglobal.site:25461/rrtv/rrtv12345/87462
 #EXTINF:-1 group-title="HBO",HBO HD IN
 http://allstar.is-by.us:25461/CELIAPLAN/DS23Xum3dh/68650
 #EXTINF:-1 group-title="HBO",HBO HD
@@ -32,8 +26,6 @@ http://iptvglobal.site:25461/rrtv/rrtv12345/131122
 http://allstar.is-by.us:25461/CELIAPLAN/DS23Xum3dh/126308
 #EXTINF:-1 group-title="HBO",HBO PLUS
 http://txm.flysat.live:2089/152018884933620/152021106724749/198411
-#EXTINF:-1 group-title="HBO",HBO Plus FHD (MX E)
-http://hidra.live:80/fwcgcnna/63WL3vuzm5/35290
 #EXTINF:-1 group-title="HBO",HBO PLUS
 http://kp-thebestiptv.com:8080/Galindo21/5anJqAHmvb/64059
 #EXTINF:-1 group-title="HBO",HBO Plus SD
@@ -56,8 +48,6 @@ http://allstar.is-by.us:25461/CELIAPLAN/DS23Xum3dh/126309
 http://allstar.is-by.us:25461/CELIAPLAN/DS23Xum3dh/126314
 #EXTINF:-1 group-title="HBO",HBO SIGNATURE
 http://txm.flysat.live:2089/152018884933620/152021106724749/198409
-#EXTINF:-1 group-title="HBO",HBO Signature HD (LAT)
-http://hidra.live:80/fwcgcnna/63WL3vuzm5/34900
 #EXTINF:-1 group-title="HBO",HBO Signature FHD (MX Dual)
 http://hidra.live:80/fwcgcnna/63WL3vuzm5/34902
 #EXTINF:-1 group-title="HBO",HBO SIGNATURE HD R
@@ -873,14 +863,10 @@ http://txm.flysat.live:2089/152018884933620/152021106724749/198408
 http://hidra.live:80/NbuuHuMf/MFkk20VH/35286
 #EXTINF:-1 group-title="HBO",HBO FHD (MX E)
 http://hidra.live:80/fwcgcnna/63WL3vuzm5/35286
-#EXTINF:-1 group-title="HBO",HBO SD (LAT)
-http://hidra.live:80/fwcgcnna/63WL3vuzm5/34881
 #EXTINF:-1 group-title="HBO",HBO FHD (LAT)
 http://hidra.live:80/fwcgcnna/63WL3vuzm5/34883
 #EXTINF:-1 group-title="HBO",HBO SD
 http://kp-thebestiptv.com:8080/Galindo21/5anJqAHmvb/60994
-#EXTINF:-1 group-title="HBO",HBO
-http://iptvglobal.site:25461/rrtv/rrtv12345/87462
 #EXTINF:-1 group-title="HBO",HBO HD IN
 http://allstar.is-by.us:25461/CELIAPLAN/DS23Xum3dh/68650
 #EXTINF:-1 group-title="HBO",HBO HD
@@ -929,8 +915,6 @@ http://allstar.is-by.us:25461/CELIAPLAN/DS23Xum3dh/126314
 http://txm.flysat.live:2089/152018884933620/152021106724749/198409
 #EXTINF:-1 group-title="HBO",HBO Signature HD (LAT)*
 http://hidra.live:80/NbuuHuMf/MFkk20VH/312907
-#EXTINF:-1 group-title="HBO",HBO Signature HD (LAT)
-http://hidra.live:80/fwcgcnna/63WL3vuzm5/34900
 #EXTINF:-1 group-title="HBO",HBO Signature FHD (MX Dual)
 http://hidra.live:80/fwcgcnna/63WL3vuzm5/34902
 #EXTINF:-1 group-title="HBO",HBO SIGNATURE HD R
@@ -982,8 +966,6 @@ http://hidra.live:80/NbuuHuMf/MFkk20VH/35267
 http://txm.flysat.live:2089/152018884933620/152021106724749/198368
 #EXTINF:-1 group-title="UNIVERSAL",Studio Universal FHD (MX)
 http://hidra.live:80/fwcgcnna/63WL3vuzm5/34966
-#EXTINF:-1 group-title="UNIVERSAL",Studio Universal HD (LAT)
-http://hidra.live:80/fwcgcnna/63WL3vuzm5/312777
 #EXTINF:-1 group-title="UNIVERSAL",Studio Universal
 http://iptvglobal.site:25461/rrtv/rrtv12345/131131
 #EXTINF:-1 group-title="UNIVERSAL",STUDIO UNIVERSAL
@@ -994,8 +976,6 @@ http://allstar.is-by.us:25461/CELIAPLAN/DS23Xum3dh/140159
 http://hidra.live:80/fwcgcnna/63WL3vuzm5/312947
 #EXTINF:-1 group-title="UNIVERSAL",Universal Comedy SD (LAT)
 http://hidra.live:80/fwcgcnna/63WL3vuzm5/34854
-#EXTINF:-1 group-title="UNIVERSAL",Universal Comedy HD (LAT)
-http://hidra.live:80/fwcgcnna/63WL3vuzm5/34855
 #EXTINF:-1 group-title="UNIVERSAL",Universal Comedy FHD (LAT)
 http://hidra.live:80/fwcgcnna/63WL3vuzm5/34856
 #EXTINF:-1 group-title="UNIVERSAL",UNIVERSAL COMEDY
@@ -1058,8 +1038,6 @@ http://hidra.live:80/fwcgcnna/63WL3vuzm5/312922
 http://txm.flysat.live:2089/152018884933620/152021106724749/198365
 #EXTINF:-1 group-title="TNT",TNT HD (LAT)*
 http://hidra.live:80/NbuuHuMf/MFkk20VH/312894
-#EXTINF:-1 group-title="TNT",TNT HD (LAT)
-http://hidra.live:80/fwcgcnna/63WL3vuzm5/34958
 #EXTINF:-1 group-title="TNT",TNT SERIES
 http://txm.flysat.live:2089/152018884933620/152021106724749/198366
 #EXTINF:-1 group-title="TNT",TNT Series HD (LAT)*
@@ -1068,8 +1046,6 @@ http://hidra.live:80/NbuuHuMf/MFkk20VH/312893
 http://hidra.live:80/fwcgcnna/63WL3vuzm5/34961
 #EXTINF:-1 group-title="TNT",TNT Series SD (LAT)
 http://hidra.live:80/fwcgcnna/63WL3vuzm5/34962
-#EXTINF:-1 group-title="TNT",TNT Series HD (LAT)
-http://hidra.live:80/fwcgcnna/63WL3vuzm5/34963
 
 
 #EXTINF:-1 group-title="TNT USA",TNT
@@ -1237,8 +1213,6 @@ http://allstar.is-by.us:25461/CELIAPLAN/DS23Xum3dh/140158
 
 #EXTINF:-1 group-title="DHE",DHE SD (LAT)
 http://hidra.live:80/fwcgcnna/63WL3vuzm5/35004
-#EXTINF:-1 group-title="DHE",DHE HD (LAT)
-http://hidra.live:80/fwcgcnna/63WL3vuzm5/35005
 #EXTINF:-1 group-title="DHE",DHE FHD (LAT)
 http://hidra.live:80/fwcgcnna/63WL3vuzm5/35006
 
@@ -1382,10 +1356,6 @@ http://allstar.is-by.us:25461/CELIAPLAN/DS23Xum3dh/78502
 http://allstar.is-by.us:25461/CELIAPLAN/DS23Xum3dh/78504
 #EXTINF:-1 group-title="3 NBA",NBA ON TNT
 http://allstar.is-by.us:25461/CELIAPLAN/DS23Xum3dh/59664
-#EXTINF:-1 group-title="3 NBA",NBA TV LHD
-http://185.156.74.135:80/universal123/universal123/176154.ts
-#EXTINF:-1 group-title="3 NBA",NBA TV UHD
-http://185.156.74.135:80/universal123/universal123/395217.ts
 #EXTINF:-1 group-title="3 NBA",NBA TV SD
 http://185.156.74.135:80/universal123/universal123/1284155.ts
 #EXTINF:-1 group-title="3 NBA",NBA HD
@@ -1434,8 +1404,6 @@ http://satline.xyz:8080/live/9271659859001279/3361659859001279/50996.ts
 http://satline.xyz:8080/live/9271659859001279/3361659859001279/50997.ts
 #EXTINF:-1 group-title="3.1 NBA",VIP NBA DETROIT PISTONS
 http://satline.xyz:8080/live/9271659859001279/3361659859001279/50998.ts
-#EXTINF:-1 group-title="3.1 NBA",VIP NBA GOLDEN STATE WARRIORS
-http://satline.xyz:8080/live/9271659859001279/3361659859001279/50999.ts
 #EXTINF:-1 group-title="3.1 NBA",VIP NBA HOUSTON ROCKETS
 http://satline.xyz:8080/live/9271659859001279/3361659859001279/51000.ts
 #EXTINF:-1 group-title="3.1 NBA",VIP NBA INDIANA PACERS
@@ -1444,12 +1412,8 @@ http://satline.xyz:8080/live/9271659859001279/3361659859001279/51001.ts
 http://satline.xyz:8080/live/9271659859001279/3361659859001279/51002.ts
 #EXTINF:-1 group-title="3.1 NBA",VIP NBA LOS ANGELES LAKERS
 http://satline.xyz:8080/live/9271659859001279/3361659859001279/51003.ts
-#EXTINF:-1 group-title="3.1 NBA",VIP NBA BOSTON CELTICS
-http://satline.xyz:8080/live/9271659859001279/3361659859001279/51004.ts
 #EXTINF:-1 group-title="3.1 NBA",VIP NBA BROOKLYN NETS
 http://satline.xyz:8080/live/9271659859001279/3361659859001279/51005.ts
-#EXTINF:-1 group-title="3.1 NBA",VIP NBA CHARLOTTE HORNETS
-http://satline.xyz:8080/live/9271659859001279/3361659859001279/51006.ts
 #EXTINF:-1 group-title="3.1 NBA",VIP NBA CHICAGO BULLS
 http://satline.xyz:8080/live/9271659859001279/3361659859001279/51007.ts
 #EXTINF:-1 group-title="3.1 NBA",VIP NBA TV
@@ -1712,12 +1676,6 @@ http://flysilo.top:8080/live/1411661635036000/1661661635036000/50980.ts
 http://flysilo.top:8080/live/1411661635036000/1661661635036000/50982.ts
 #EXTINF:-1 group-title="3.8 NBA",VIP NBA SACRAMENTO KINGS
 http://flysilo.top:8080/live/1411661635036000/1661661635036000/50983.ts
-#EXTINF:-1 group-title="3.8 NBA",VIP NBA MEMPHIS GRIZZLIES
-http://flysilo.top:8080/live/1411661635036000/1661661635036000/50985.ts
-#EXTINF:-1 group-title="3.8 NBA",VIP NBA MIAMI HEAT
-http://flysilo.top:8080/live/1411661635036000/1661661635036000/50986.ts
-#EXTINF:-1 group-title="3.8 NBA",VIP NBA NEW YORK KNICKS
-http://flysilo.top:8080/live/1411661635036000/1661661635036000/50990.ts
 #EXTINF:-1 group-title="3.8 NBA",VIP NBA ORLANDO MAGIC
 http://flysilo.top:8080/live/1411661635036000/1661661635036000/50992.ts
 #EXTINF:-1 group-title="3.8 NBA",VIP NBA PHILADELPHIA 76ERS
@@ -2856,10 +2814,6 @@ http://hidra.live:80/fwcgcnna/63WL3vuzm5/312899
 http://hidra.live:80/fwcgcnna/63WL3vuzm5/312901
 #EXTINF:-1 group-title="VARIOS",Natgeo HD (LAT)*
 http://hidra.live:80/fwcgcnna/63WL3vuzm5/312903
-#EXTINF:-1 group-title="VARIOS",HBO Signature HD (LAT)*
-http://hidra.live:80/fwcgcnna/63WL3vuzm5/312907
-#EXTINF:-1 group-title="VARIOS",HBO Family HD (LAT)*
-http://hidra.live:80/fwcgcnna/63WL3vuzm5/312908
 #EXTINF:-1 group-title="VARIOS",History 2 HD (LAT)*
 http://hidra.live:80/fwcgcnna/63WL3vuzm5/312909
 #EXTINF:-1 group-title="VARIOS",Star Channel HD (LAT)*
