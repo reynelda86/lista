@@ -92,8 +92,6 @@ http://allstar.is-by.us:25461/CELIAPLAN/DS23Xum3dh/140159
 http://hidra.live:80/fwcgcnna/63WL3vuzm5/312947
 #EXTINF:-1 group-title="UNIVERSAL",Universal Comedy SD (LAT)
 http://hidra.live:80/fwcgcnna/63WL3vuzm5/34854
-#EXTINF:-1 group-title="UNIVERSAL",Universal Comedy FHD (LAT)
-http://hidra.live:80/fwcgcnna/63WL3vuzm5/34856
 #EXTINF:-1 group-title="UNIVERSAL",UNIVERSAL COMEDY
 http://allstar.is-by.us:25461/CELIAPLAN/DS23Xum3dh/140161
 #EXTINF:-1 group-title="UNIVERSAL",Universal Cinema
@@ -152,10 +150,6 @@ http://txm.flysat.live:2089/152018884933620/152021106724749/198366
 http://hidra.live:80/fwcgcnna/63WL3vuzm5/34961
 #EXTINF:-1 group-title="TNT",TNT Series SD (LAT)
 http://hidra.live:80/fwcgcnna/63WL3vuzm5/34962
-
-
-#EXTINF:-1 group-title="TNT USA",TNT
-http://51.222.25.50:25461/m0nk3ynew/sMbK7mENr5/372
 
 
 #EXTINF:-1 group-title="HISTORY CHANNEL",History Channel FHD (LAT)
@@ -436,30 +430,8 @@ http://kp-thebestiptv.com:8080/Galindo21/5anJqAHmvb/65907
 http://allstar.is-by.us:25461/CELIAPLAN/DS23Xum3dh/140201
 
 
-#EXTINF:-1 group-title="3.1 NBA",VIP NBA WASHINGTON WIZARDS
-http://satline.xyz:8080/live/9271659859001279/3361659859001279/50979.ts
-#EXTINF:-1 group-title="3.1 NBA",VIP NBA UTAH JAZZ
-http://satline.xyz:8080/live/9271659859001279/3361659859001279/50980.ts
-#EXTINF:-1 group-title="3.1 NBA",VIP NBA MIAMI HEAT
-http://satline.xyz:8080/live/9271659859001279/3361659859001279/50986.ts
-#EXTINF:-1 group-title="3.1 NBA",VIP NBA NEW ORLEANS PELICANS
-http://satline.xyz:8080/live/9271659859001279/3361659859001279/50989.ts
-#EXTINF:-1 group-title="3.1 NBA",VIP NBA NEW YORK KNICKS
-http://satline.xyz:8080/live/9271659859001279/3361659859001279/50990.ts
-#EXTINF:-1 group-title="3.1 NBA",VIP NBA ORLANDO MAGIC
-http://satline.xyz:8080/live/9271659859001279/3361659859001279/50992.ts
 #EXTINF:-1 group-title="3.1 NBA",VIP NBA PHILADELPHIA 76ERS
 http://satline.xyz:8080/live/9271659859001279/3361659859001279/50993.ts
-#EXTINF:-1 group-title="3.1 NBA",VIP NBA PHOENIX SUNS
-http://satline.xyz:8080/live/9271659859001279/3361659859001279/50994.ts
-#EXTINF:-1 group-title="3.1 NBA",VIP NBA DALLAS MAVERICKS
-http://satline.xyz:8080/live/9271659859001279/3361659859001279/50996.ts
-#EXTINF:-1 group-title="3.1 NBA",VIP NBA DETROIT PISTONS
-http://satline.xyz:8080/live/9271659859001279/3361659859001279/50998.ts
-#EXTINF:-1 group-title="3.1 NBA",VIP NBA INDIANA PACERS
-http://satline.xyz:8080/live/9271659859001279/3361659859001279/51001.ts
-#EXTINF:-1 group-title="3.1 NBA",VIP NBA CHARLOTTE HORNETS
-http://satline.xyz:8080/live/9271659859001279/3361659859001279/51006.ts
 #EXTINF:-1 group-title="3.1 NBA",VIP NBA CHICAGO BULLS
 http://satline.xyz:8080/live/9271659859001279/3361659859001279/51007.ts
 
@@ -514,28 +486,8 @@ http://kp-thebestiptv.com:8080/Galindo21/5anJqAHmvb/108963
 http://kp-thebestiptv.com:8080/Galindo21/5anJqAHmvb/127844
 
 
-#EXTINF:-1 group-title="3.3 NBA",NBA TV
-http://satline.xyz:8080/live/9271659859001279/3361659859001279/52308.ts
 #EXTINF:-1 group-title="3.3 NBA",WASHINGTON WIZARDS
 http://satline.xyz:8080/live/9271659859001279/3361659859001279/50979.ts
-#EXTINF:-1 group-title="3.3 NBA",MIAMI HEAT
-http://satline.xyz:8080/live/9271659859001279/3361659859001279/50986.ts
-#EXTINF:-1 group-title="3.3 NBA",NEW ORLEANS PELICANS
-http://satline.xyz:8080/live/9271659859001279/3361659859001279/50989.ts
-#EXTINF:-1 group-title="3.3 NBA",NEW YORK KNICKS
-http://satline.xyz:8080/live/9271659859001279/3361659859001279/50990.ts
-#EXTINF:-1 group-title="3.3 NBA",ORLANDO MAGIC
-http://satline.xyz:8080/live/9271659859001279/3361659859001279/50992.ts
-#EXTINF:-1 group-title="3.3 NBA",PHOENIX SUNS
-http://satline.xyz:8080/live/9271659859001279/3361659859001279/50994.ts
-#EXTINF:-1 group-title="3.3 NBA",DALLAS MAVERICKS
-http://satline.xyz:8080/live/9271659859001279/3361659859001279/50996.ts
-#EXTINF:-1 group-title="3.3 NBA",DETROIT PISTONS
-http://satline.xyz:8080/live/9271659859001279/3361659859001279/50998.ts
-#EXTINF:-1 group-title="3.3 NBA",BOSTON CELTICS
-http://satline.xyz:8080/live/9271659859001279/3361659859001279/51004.ts
-#EXTINF:-1 group-title="3.3 NBA",CHARLOTTE HORNETS
-http://satline.xyz:8080/live/9271659859001279/3361659859001279/51006.ts
 
 
 #EXTINF:-1 group-title="3.4 NBA",NBA League Pass 1 HD US
@@ -625,36 +577,15 @@ http://satline.xyz:8080/live/6471662500044998/621662500044998/50980.ts
 http://satline.xyz:8080/live/6471662500044998/621662500044998/50982.ts
 #EXTINF:-1 group-title="3.7 NBA",VIP NBA PORTLAND TRAIL BLAZERS
 http://satline.xyz:8080/live/6471662500044998/621662500044998/50984.ts
-#EXTINF:-1 group-title="3.7 NBA",VIP NBA MIAMI HEAT
-http://satline.xyz:8080/live/6471662500044998/621662500044998/50986.ts
 #EXTINF:-1 group-title="3.7 NBA",VIP NBA MINNESOTA TIMBERWOLVES
 http://satline.xyz:8080/live/6471662500044998/621662500044998/50988.ts
-#EXTINF:-1 group-title="3.7 NBA",VIP NBA NEW YORK KNICKS
-http://satline.xyz:8080/live/6471662500044998/621662500044998/50990.ts
-#EXTINF:-1 group-title="3.7 NBA",VIP NBA PHOENIX SUNS
-http://satline.xyz:8080/live/6471662500044998/621662500044998/50994.ts
-#EXTINF:-1 group-title="3.7 NBA",VIP NBA ATLANTA HAWKS
-http://satline.xyz:8080/live/6471662500044998/621662500044998/50995.ts
-#EXTINF:-1 group-title="3.7 NBA",VIP NBA DALLAS MAVERICKS
-http://satline.xyz:8080/live/6471662500044998/621662500044998/50996.ts
 #EXTINF:-1 group-title="3.7 NBA",VIP NBA BROOKLYN NETS
 http://satline.xyz:8080/live/6471662500044998/621662500044998/51005.ts
 
 
-#EXTINF:-1 group-title="3.8 NBA",VIP NBA ORLANDO MAGIC
-http://flysilo.top:8080/live/1411661635036000/1661661635036000/50992.ts
 #EXTINF:-1 group-title="3.8 NBA",VIP NBA PHILADELPHIA 76ERS
 http://flysilo.top:8080/live/1411661635036000/1661661635036000/50993.ts
-#EXTINF:-1 group-title="3.8 NBA",VIP NBA PHOENIX SUNS
-http://flysilo.top:8080/live/1411661635036000/1661661635036000/50994.ts
-#EXTINF:-1 group-title="3.8 NBA",VIP NBA ATLANTA HAWKS
-http://flysilo.top:8080/live/1411661635036000/1661661635036000/50995.ts
-#EXTINF:-1 group-title="3.8 NBA",VIP NBA LOS ANGLES CLIPPERS
-http://flysilo.top:8080/live/1411661635036000/1661661635036000/51002.ts
-#EXTINF:-1 group-title="3.8 NBA",VIP NBA BOSTON CELTICS
-http://flysilo.top:8080/live/1411661635036000/1661661635036000/51004.ts
-#EXTINF:-1 group-title="3.8 NBA",VIP NBA CHARLOTTE HORNETS
-http://flysilo.top:8080/live/1411661635036000/1661661635036000/51006.ts
+
 #EXTINF:-1 group-title="3.8 NBA",NBA TV
 http://flysilo.top:8080/live/1411661635036000/1661661635036000/23760.ts
 
@@ -859,8 +790,6 @@ http://allstar.is-by.us:25461/CELIAPLAN/DS23Xum3dh/140159
 http://hidra.live:80/fwcgcnna/63WL3vuzm5/312947
 #EXTINF:-1 group-title="UNIVERSAL",Universal Comedy SD (LAT)
 http://hidra.live:80/fwcgcnna/63WL3vuzm5/34854
-#EXTINF:-1 group-title="UNIVERSAL",Universal Comedy FHD (LAT)
-http://hidra.live:80/fwcgcnna/63WL3vuzm5/34856
 #EXTINF:-1 group-title="UNIVERSAL",UNIVERSAL COMEDY
 http://allstar.is-by.us:25461/CELIAPLAN/DS23Xum3dh/140161
 #EXTINF:-1 group-title="UNIVERSAL",Universal Cinema
@@ -917,10 +846,6 @@ http://txm.flysat.live:2089/152018884933620/152021106724749/198366
 http://hidra.live:80/fwcgcnna/63WL3vuzm5/34961
 #EXTINF:-1 group-title="TNT",TNT Series SD (LAT)
 http://hidra.live:80/fwcgcnna/63WL3vuzm5/34962
-
-
-#EXTINF:-1 group-title="TNT USA",TNT
-http://51.222.25.50:25461/m0nk3ynew/sMbK7mENr5/372
 
 
 #EXTINF:-1 group-title="HISTORY CHANNEL",History Channel FHD (LAT)
@@ -1177,22 +1102,10 @@ http://allstar.is-by.us:25461/CELIAPLAN/DS23Xum3dh/140201
 
 #EXTINF:-1 group-title="3.1 NBA",VIP NBA UTAH JAZZ
 http://satline.xyz:8080/live/9271659859001279/3361659859001279/50980.ts
-#EXTINF:-1 group-title="3.1 NBA",VIP NBA MIAMI HEAT
-http://satline.xyz:8080/live/9271659859001279/3361659859001279/50986.ts
 #EXTINF:-1 group-title="3.1 NBA",VIP NBA MINNESOTA TIMBERWOLVES
 http://satline.xyz:8080/live/9271659859001279/3361659859001279/50988.ts
-#EXTINF:-1 group-title="3.1 NBA",VIP NBA NEW ORLEANS PELICANS
-http://satline.xyz:8080/live/9271659859001279/3361659859001279/50989.ts
 #EXTINF:-1 group-title="3.1 NBA",VIP NBA PHILADELPHIA 76ERS
 http://satline.xyz:8080/live/9271659859001279/3361659859001279/50993.ts
-#EXTINF:-1 group-title="3.1 NBA",VIP NBA PHOENIX SUNS
-http://satline.xyz:8080/live/9271659859001279/3361659859001279/50994.ts
-#EXTINF:-1 group-title="3.1 NBA",VIP NBA DETROIT PISTONS
-http://satline.xyz:8080/live/9271659859001279/3361659859001279/50998.ts
-#EXTINF:-1 group-title="3.1 NBA",VIP NBA INDIANA PACERS
-http://satline.xyz:8080/live/9271659859001279/3361659859001279/51001.ts
-#EXTINF:-1 group-title="3.1 NBA",VIP NBA LOS ANGLES CLIPPERS
-http://satline.xyz:8080/live/9271659859001279/3361659859001279/51002.ts
 #EXTINF:-1 group-title="3.1 NBA",VIP NBA BROOKLYN NETS
 http://satline.xyz:8080/live/9271659859001279/3361659859001279/51005.ts
 
@@ -1248,20 +1161,8 @@ http://kp-thebestiptv.com:8080/Galindo21/5anJqAHmvb/108963
 http://kp-thebestiptv.com:8080/Galindo21/5anJqAHmvb/127844
 
 
-#EXTINF:-1 group-title="3.3 NBA",NBA TV
-http://satline.xyz:8080/live/9271659859001279/3361659859001279/52308.ts
-#EXTINF:-1 group-title="3.3 NBA",WASHINGTON WIZARDS
-http://satline.xyz:8080/live/9271659859001279/3361659859001279/50979.ts
 #EXTINF:-1 group-title="3.3 NBA",UTAH JAZZ
 http://satline.xyz:8080/live/9271659859001279/3361659859001279/50980.ts
-#EXTINF:-1 group-title="3.3 NBA",NEW ORLEANS PELICANS
-http://satline.xyz:8080/live/9271659859001279/3361659859001279/50989.ts
-#EXTINF:-1 group-title="3.3 NBA",PHOENIX SUNS
-http://satline.xyz:8080/live/9271659859001279/3361659859001279/50994.ts
-#EXTINF:-1 group-title="3.3 NBA",DALLAS MAVERICKS
-http://satline.xyz:8080/live/9271659859001279/3361659859001279/50996.ts
-#EXTINF:-1 group-title="3.3 NBA",HOUSTON ROCKETS
-http://satline.xyz:8080/live/9271659859001279/3361659859001279/51000.ts
 
 
 #EXTINF:-1 group-title="3.4 NBA",NBA League Pass 1 HD US
@@ -1324,20 +1225,8 @@ http://tv.dominiotv.xyz:25461/live/iptvprivado/K8XNXMTMm9/346868.ts
 http://tv.dominiotv.xyz:25461/live/iptvprivado/K8XNXMTMm9/346869.ts
 
 
-#EXTINF:-1 group-title="3.8 NBA",VIP NBA UTAH JAZZ
-http://flysilo.top:8080/live/1411661635036000/1661661635036000/50980.ts
-#EXTINF:-1 group-title="3.8 NBA",VIP NBA ORLANDO MAGIC
-http://flysilo.top:8080/live/1411661635036000/1661661635036000/50992.ts
 #EXTINF:-1 group-title="3.8 NBA",VIP NBA PHILADELPHIA 76ERS
 http://flysilo.top:8080/live/1411661635036000/1661661635036000/50993.ts
-#EXTINF:-1 group-title="3.8 NBA",VIP NBA PHOENIX SUNS
-http://flysilo.top:8080/live/1411661635036000/1661661635036000/50994.ts
-#EXTINF:-1 group-title="3.8 NBA",VIP NBA ATLANTA HAWKS
-http://flysilo.top:8080/live/1411661635036000/1661661635036000/50995.ts
-#EXTINF:-1 group-title="3.8 NBA",VIP NBA LOS ANGLES CLIPPERS
-http://flysilo.top:8080/live/1411661635036000/1661661635036000/51002.ts
-#EXTINF:-1 group-title="3.8 NBA",VIP NBA BOSTON CELTICS
-http://flysilo.top:8080/live/1411661635036000/1661661635036000/51004.ts
 
 
 #EXTINF:-1 group-title="FOX SPORTS PREMIUM",FOX SPORTS PREMIUM
@@ -1442,8 +1331,6 @@ http://allstar.is-by.us:25461/CELIAPLAN/DS23Xum3dh/140312
 
 
 #EXTINF:-1 group-title="TUDN",TUDN
-http://txm.flysat.live:2089/152018884933620/152021106724749/198318
-#EXTINF:-1 group-title="TUDN",TUDN
 http://kp-thebestiptv.com:8080/Galindo21/5anJqAHmvb/73630
 #EXTINF:-1 group-title="TUDN",Zona TUDN US
 http://allstar.is-by.us:25461/CELIAPLAN/DS23Xum3dh/140279
@@ -1511,8 +1398,6 @@ http://allstar.is-by.us:25461/CELIAPLAN/DS23Xum3dh/140218
 
 #EXTINF:-1 group-title="ESPN PREMIUM",ESPN PREMIUM ARG
 http://allstar.is-by.us:25461/CELIAPLAN/DS23Xum3dh/140317
-#EXTINF:-1 group-title="ESPN PREMIUM",ESPN PREMIUM
-http://tv.dominiotv.xyz:25461/live/iptvprivado/K8XNXMTMm9/165275.ts
 
 
 #EXTINF:-1 group-title="ESPN DEPORTES",ESPN DEPORTES
@@ -2590,8 +2475,8 @@ http://higherpro.xyz:8080/deam1974@gmail.com/Zgstw527/12278
 http://higherpro.xyz:8080/deam1974@gmail.com/Zgstw527/12279
 #EXTINF:-1 group-title="CINEMA 1",Cine Ficcion/Fantasia Sagas
 http://higherpro.xyz:8080/deam1974@gmail.com/Zgstw527/12280
-#EXTINF:-1 group-title="CINEMA 1",Cine Infantil
-http://higherpro.xyz:8080/deam1974@gmail.com/Zgstw527/12281
+
+
 #EXTINF:-1 group-title="CINEMA 1",Cine Infantil HD
 http://higherpro.xyz:8080/deam1974@gmail.com/Zgstw527/12282
 #EXTINF:-1 group-title="CINEMA 1",Cine Infantil Sagas
@@ -2966,8 +2851,6 @@ http://allstar.is-by.us:25461/CELIAPLAN/DS23Xum3dh/140218
 
 #EXTINF:-1 group-title="ESPN PREMIUM",ESPN PREMIUM ARG
 http://allstar.is-by.us:25461/CELIAPLAN/DS23Xum3dh/140317
-#EXTINF:-1 group-title="ESPN PREMIUM",ESPN PREMIUM
-http://tv.dominiotv.xyz:25461/live/iptvprivado/K8XNXMTMm9/165275.ts
 
 
 #EXTINF:-1 group-title="ESPN DEPORTES",ESPN DEPORTES
