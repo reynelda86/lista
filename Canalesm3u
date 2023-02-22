@@ -4,8 +4,6 @@ http://txm.flysat.live:2089/152018884933620/152021106724749/198413
 http://allstar.is-by.us:25461/CELIAPLAN/DS23Xum3dh/126315
 #EXTINF:-1 group-title="HBO",HBO ESTE
 http://txm.flysat.live:2089/152018884933620/152021106724749/198408
-#EXTINF:-1 group-title="HBO",HBO FHD (LAT)
-http://hidra.live:80/fwcgcnna/63WL3vuzm5/34883
 #EXTINF:-1 group-title="HBO",HBO SD
 http://kp-thebestiptv.com:8080/Galindo21/5anJqAHmvb/60994
 #EXTINF:-1 group-title="HBO",HBO HD IN
@@ -16,8 +14,6 @@ http://allstar.is-by.us:25461/CELIAPLAN/DS23Xum3dh/140173
 http://allstar.is-by.us:25461/CELIAPLAN/DS23Xum3dh/126316
 #EXTINF:-1 group-title="HBO",HBO 2
 http://txm.flysat.live:2089/152018884933620/152021106724749/198412
-#EXTINF:-1 group-title="HBO",HBO 2 FHD (MX E)
-http://hidra.live:80/fwcgcnna/63WL3vuzm5/35288
 #EXTINF:-1 group-title="HBO",HBO 2 SD2
 http://kp-thebestiptv.com:8080/Galindo21/5anJqAHmvb/60991
 #EXTINF:-1 group-title="HBO",HBO 2
@@ -48,14 +44,10 @@ http://allstar.is-by.us:25461/CELIAPLAN/DS23Xum3dh/126309
 http://allstar.is-by.us:25461/CELIAPLAN/DS23Xum3dh/126314
 #EXTINF:-1 group-title="HBO",HBO SIGNATURE
 http://txm.flysat.live:2089/152018884933620/152021106724749/198409
-#EXTINF:-1 group-title="HBO",HBO Signature FHD (MX Dual)
-http://hidra.live:80/fwcgcnna/63WL3vuzm5/34902
 #EXTINF:-1 group-title="HBO",HBO SIGNATURE HD R
 http://allstar.is-by.us:25461/CELIAPLAN/DS23Xum3dh/126311
 #EXTINF:-1 group-title="HBO",HBO SIGNATURE
 http://allstar.is-by.us:25461/CELIAPLAN/DS23Xum3dh/140177
-#EXTINF:-1 group-title="HBO",HBO Xtreme FHD (MX E)
-http://hidra.live:80/fwcgcnna/63WL3vuzm5/35258
 #EXTINF:-1 group-title="HBO",HBO Xtreme FHD
 http://allstar.is-by.us:25461/CELIAPLAN/DS23Xum3dh/59135
 #EXTINF:-1 group-title="HBO",HBO XTREME FHD R
@@ -78,16 +70,10 @@ http://allstar.is-by.us:25461/CELIAPLAN/DS23Xum3dh/126317
 http://allstar.is-by.us:25461/CELIAPLAN/DS23Xum3dh/140160
 #EXTINF:-1 group-title="UNIVERSAL",STUDIO UNIVERSAL
 http://txm.flysat.live:2089/152018884933620/152021106724749/198368
-#EXTINF:-1 group-title="UNIVERSAL",Studio Universal FHD (MX)
-http://hidra.live:80/fwcgcnna/63WL3vuzm5/34966
 #EXTINF:-1 group-title="UNIVERSAL",STUDIO UNIVERSAL
 http://allstar.is-by.us:25461/CELIAPLAN/DS23Xum3dh/59061
 #EXTINF:-1 group-title="UNIVERSAL",STUDIO UNIVERSAL HD
 http://allstar.is-by.us:25461/CELIAPLAN/DS23Xum3dh/140159
-#EXTINF:-1 group-title="UNIVERSAL",Universal Premiere HD (LAT)*
-http://hidra.live:80/fwcgcnna/63WL3vuzm5/312947
-#EXTINF:-1 group-title="UNIVERSAL",Universal Comedy SD (LAT)
-http://hidra.live:80/fwcgcnna/63WL3vuzm5/34854
 #EXTINF:-1 group-title="UNIVERSAL",UNIVERSAL COMEDY
 http://allstar.is-by.us:25461/CELIAPLAN/DS23Xum3dh/140161
 #EXTINF:-1 group-title="UNIVERSAL",Universal Cinema
@@ -114,8 +100,6 @@ http://kp-thebestiptv.com:8080/Galindo21/5anJqAHmvb/259
 
 #EXTINF:-1 group-title="CINECANAL",CINECANAL
 http://txm.flysat.live:2089/152018884933620/152021106724749/198377
-#EXTINF:-1 group-title="CINECANAL",Cinecanal FHD
-http://hidra.live:80/fwcgcnna/63WL3vuzm5/35235
 #EXTINF:-1 group-title="CINECANAL",Cinecanal
 http://iptvglobal.site:25461/rrtv/rrtv12345/87436
 #EXTINF:-1 group-title="CINECANAL",Cinecanal
@@ -126,12 +110,6 @@ http://allstar.is-by.us:25461/CELIAPLAN/DS23Xum3dh/59082
 http://allstar.is-by.us:25461/CELIAPLAN/DS23Xum3dh/140151
 
 
-#EXTINF:-1 group-title="A&E",A&E HD (LAT)
-http://hidra.live:80/fwcgcnna/63WL3vuzm5/34947
-#EXTINF:-1 group-title="A&E",A&E FHD (LAT)
-http://hidra.live:80/fwcgcnna/63WL3vuzm5/34948
-
-
 #EXTINF:-1 group-title="AXN",AXN
 http://txm.flysat.live:2089/152018884933620/152021106724749/198386
 
@@ -140,18 +118,8 @@ http://txm.flysat.live:2089/152018884933620/152021106724749/198386
 http://txm.flysat.live:2089/152018884933620/152021106724749/198365
 #EXTINF:-1 group-title="TNT",TNT SERIES
 http://txm.flysat.live:2089/152018884933620/152021106724749/198366
-#EXTINF:-1 group-title="TNT",TNT Series FHD (MX)
-http://hidra.live:80/fwcgcnna/63WL3vuzm5/34961
-#EXTINF:-1 group-title="TNT",TNT Series SD (LAT)
-http://hidra.live:80/fwcgcnna/63WL3vuzm5/34962
 
 
-#EXTINF:-1 group-title="HISTORY CHANNEL",History Channel FHD (LAT)
-http://hidra.live:80/fwcgcnna/63WL3vuzm5/34833
-
-
-#EXTINF:-1 group-title="DISCOVERY",Discovery H&H HD (LAT)
-http://hidra.live:80/fwcgcnna/63WL3vuzm5/34815
 #EXTINF:-1 group-title="DISCOVERY",DISCOVERY HOME&HEALTH
 http://txm.flysat.live:2089/152018884933620/152021106724749/198333
 #EXTINF:-1 group-title="DISCOVERY",DISCOVERY CHANNEL
@@ -172,16 +140,8 @@ http://txm.flysat.live:2089/152018884933620/152021106724749/198332
 
 #EXTINF:-1 group-title="ANIMAL PLANET",ANIMAL PLANET
 http://txm.flysat.live:2089/152018884933620/152021106724749/198328
-#EXTINF:-1 group-title="ANIMAL PLANET",Animal Planet SD (LAT)
-http://hidra.live:80/fwcgcnna/63WL3vuzm5/34801
-#EXTINF:-1 group-title="ANIMAL PLANET",Animal Planet HD (LAT)
-http://hidra.live:80/fwcgcnna/63WL3vuzm5/34802
-#EXTINF:-1 group-title="ANIMAL PLANET",Animal Planet FHD (LAT)
-http://hidra.live:80/fwcgcnna/63WL3vuzm5/34803
 
 
-#EXTINF:-1 group-title="STAR CHANNEL",Star Channel HD (LAT)
-http://hidra.live:80/fwcgcnna/63WL3vuzm5/34927
 #EXTINF:-1 group-title="STAR CHANNEL",STAR CHANNEL MX
 http://allstar.is-by.us:25461/CELIAPLAN/DS23Xum3dh/59119
 #EXTINF:-1 group-title="STAR CHANNEL",FOX
@@ -227,9 +187,6 @@ http://allstar.is-by.us:25461/CELIAPLAN/DS23Xum3dh/140181
 #EXTINF:-1 group-title="FX",FX
 http://txm.flysat.live:2089/152018884933620/152021106724749/198394
 #EXTINF:-1 group-title="FX",FX SD (MX)
-http://hidra.live:80/fwcgcnna/63WL3vuzm5/34973
-#EXTINF:-1 group-title="FX",FX SD (LAT)
-http://hidra.live:80/fwcgcnna/63WL3vuzm5/34975
 #EXTINF:-1 group-title="FX",FX
 http://iptvglobal.site:25461/rrtv/rrtv12345/87458
 #EXTINF:-1 group-title="FX",FX ESP
@@ -240,8 +197,6 @@ http://allstar.is-by.us:25461/CELIAPLAN/DS23Xum3dh/140169
 
 #EXTINF:-1 group-title="SPACE",SPACE
 http://txm.flysat.live:2089/152018884933620/152021106724749/198369
-#EXTINF:-1 group-title="SPACE",Space SD (MX)
-http://hidra.live:80/fwcgcnna/63WL3vuzm5/34968
 #EXTINF:-1 group-title="SPACE",SPACE LATINO HD
 http://allstar.is-by.us:25461/CELIAPLAN/DS23Xum3dh/59184
 #EXTINF:-1 group-title="SPACE",SPACE MEXICO
@@ -249,9 +204,6 @@ http://allstar.is-by.us:25461/CELIAPLAN/DS23Xum3dh/140157
 
 
 #EXTINF:-1 group-title="PARAMOUNT",Paramount Channel FHD (MX)
-http://hidra.live:80/fwcgcnna/63WL3vuzm5/34981
-#EXTINF:-1 group-title="PARAMOUNT",Paramount Channel FHD (LAT)
-http://hidra.live:80/fwcgcnna/63WL3vuzm5/34984
 #EXTINF:-1 group-title="PARAMOUNT",Paramount
 http://iptvglobal.site:25461/rrtv/rrtv12345/131130
 #EXTINF:-1 group-title="PARAMOUNT",PARAMOUNT
@@ -260,25 +212,14 @@ http://allstar.is-by.us:25461/CELIAPLAN/DS23Xum3dh/140155
 
 #EXTINF:-1 group-title="SYFY",SYFY
 http://txm.flysat.live:2089/152018884933620/152021106724749/198395
-#EXTINF:-1 group-title="SYFY",SyFy FHD (MX)
-http://hidra.live:80/fwcgcnna/63WL3vuzm5/35011
 
 
-#EXTINF:-1 group-title="SONY",Sony Entertainment FHD (LAT)
-http://hidra.live:80/fwcgcnna/63WL3vuzm5/34938
-#EXTINF:-1 group-title="SONY",Sony HD (LAT)*
-http://hidra.live:80/fwcgcnna/63WL3vuzm5/312933
-
-#EXTINF:-1 group-title="CINEMAX",Cinemax HD (LAT)*
-http://hidra.live:80/fwcgcnna/63WL3vuzm5/312966
 #EXTINF:-1 group-title="CINEMAX",CINEMAX ESP
 http://allstar.is-by.us:25461/CELIAPLAN/DS23Xum3dh/59079
 #EXTINF:-1 group-title="CINEMAX",CINEMAX HD
 http://allstar.is-by.us:25461/CELIAPLAN/DS23Xum3dh/140158
 
 
-#EXTINF:-1 group-title="MULTIPREMIER",Multipremier SD (LAT)
-http://hidra.live:80/fwcgcnna/63WL3vuzm5/35003
 #EXTINF:-1 group-title="MULTIPREMIER",MULTIPREMIER
 http://txm.flysat.live:2089/152018884933620/152021106724749/198376
 
@@ -455,18 +396,13 @@ http://allstar.is-by.us:25461/CELIAPLAN/DS23Xum3dh/140123
 http://allstar.is-by.us:25461/CELIAPLAN/DS23Xum3dh/140213
 
 
-#EXTINF:-1 group-title="UNIMAS",Unimas Los Angeles HD (US)
-http://hidra.live:80/fwcgcnna/63WL3vuzm5/35108
-#EXTINF:-1 group-title="UNIMAS",Unimas Dallas HD (US)
-http://hidra.live:80/fwcgcnna/63WL3vuzm5/35114
+
 #EXTINF:-1 group-title="UNIMAS",UNIMAS EAST
 http://allstar.is-by.us:25461/CELIAPLAN/DS23Xum3dh/140228
 #EXTINF:-1 group-title="UNIMAS",UNIMAS WEST
 http://allstar.is-by.us:25461/CELIAPLAN/DS23Xum3dh/140229
 
 
-#EXTINF:-1 group-title="NFL",NFL Network HD (US)
-http://hidra.live:80/fwcgcnna/63WL3vuzm5/34705
 #EXTINF:-1 group-title="NFL",NFL HD
 http://allstar.is-by.us:25461/CELIAPLAN/DS23Xum3dh/140200
 #EXTINF:-1 group-title="NFL",NFL NETWORK
@@ -493,8 +429,6 @@ http://tv.dominiotv.xyz:25461/live/iptvprivado/K8XNXMTMm9/94135.ts
 http://tv.dominiotv.xyz:25461/live/iptvprivado/K8XNXMTMm9/92744.ts
 #EXTINF:-1 group-title="3 NBA",NBA ON TNT
 http://kp-thebestiptv.com:8080/Galindo21/5anJqAHmvb/65910
-#EXTINF:-1 group-title="3 NBA",Sky Sports NBA HQ (IT)
-http://hidra.live:80/fwcgcnna/63WL3vuzm5/34737
 #EXTINF:-1 group-title="3 NBA",NBA ON ESPN
 http://kp-thebestiptv.com:8080/Galindo21/5anJqAHmvb/65907
 #EXTINF:-1 group-title="3 NBA",NBA HD
@@ -945,10 +879,6 @@ http://txm.flysat.live:2089/152018884933620/152021106724749/198320
 http://tv.dominiotv.xyz:25461/live/iptvprivado/K8XNXMTMm9/85775.ts
 #EXTINF:-1 group-title="FOX SPORTS",FOX SPORTS 1 HD (SUR)
 http://tv.dominiotv.xyz:25461/live/iptvprivado/K8XNXMTMm9/48959.ts
-#EXTINF:-1 group-title="FOX SPORTS",Fox Sports 1 FHD (CL)
-http://hidra.live:80/fwcgcnna/63WL3vuzm5/34632
-#EXTINF:-1 group-title="FOX SPORTS",Fox Sports SD (ARG)
-http://hidra.live:80/fwcgcnna/63WL3vuzm5/34639
 #EXTINF:-1 group-title="FOX SPORTS",Fox Sports
 http://kp-thebestiptv.com:8080/Galindo21/5anJqAHmvb/60988
 #EXTINF:-1 group-title="FOX SPORTS",Fox Sports
@@ -969,10 +899,6 @@ http://txm.flysat.live:2089/152018884933620/152021106724749/198413
 http://allstar.is-by.us:25461/CELIAPLAN/DS23Xum3dh/126315
 #EXTINF:-1 group-title="HBO",HBO ESTE
 http://txm.flysat.live:2089/152018884933620/152021106724749/198408
-#EXTINF:-1 group-title="HBO",HBO FHD (MX E)
-http://hidra.live:80/fwcgcnna/63WL3vuzm5/35286
-#EXTINF:-1 group-title="HBO",HBO FHD (LAT)
-http://hidra.live:80/fwcgcnna/63WL3vuzm5/34883
 #EXTINF:-1 group-title="HBO",HBO SD
 http://kp-thebestiptv.com:8080/Galindo21/5anJqAHmvb/60994
 #EXTINF:-1 group-title="HBO",HBO HD IN
@@ -983,8 +909,6 @@ http://allstar.is-by.us:25461/CELIAPLAN/DS23Xum3dh/140173
 http://allstar.is-by.us:25461/CELIAPLAN/DS23Xum3dh/126316
 #EXTINF:-1 group-title="HBO",HBO 2
 http://txm.flysat.live:2089/152018884933620/152021106724749/198412
-#EXTINF:-1 group-title="HBO",HBO 2 FHD (MX E)
-http://hidra.live:80/fwcgcnna/63WL3vuzm5/35288
 #EXTINF:-1 group-title="HBO",HBO 2 SD
 http://kp-thebestiptv.com:8080/Galindo21/5anJqAHmvb/60991
 #EXTINF:-1 group-title="HBO",HBO 2
@@ -993,8 +917,6 @@ http://iptvglobal.site:25461/rrtv/rrtv12345/131122
 http://allstar.is-by.us:25461/CELIAPLAN/DS23Xum3dh/126308
 #EXTINF:-1 group-title="HBO",HBO PLUS
 http://txm.flysat.live:2089/152018884933620/152021106724749/198411
-#EXTINF:-1 group-title="HBO",HBO Plus FHD (MX E)
-http://hidra.live:80/fwcgcnna/63WL3vuzm5/35290
 #EXTINF:-1 group-title="HBO",HBO PLUS
 http://kp-thebestiptv.com:8080/Galindo21/5anJqAHmvb/64059
 #EXTINF:-1 group-title="HBO",HBO Plus SD
@@ -1017,14 +939,10 @@ http://allstar.is-by.us:25461/CELIAPLAN/DS23Xum3dh/126309
 http://allstar.is-by.us:25461/CELIAPLAN/DS23Xum3dh/126314
 #EXTINF:-1 group-title="HBO",HBO SIGNATURE
 http://txm.flysat.live:2089/152018884933620/152021106724749/198409
-#EXTINF:-1 group-title="HBO",HBO Signature FHD (MX Dual)
-http://hidra.live:80/fwcgcnna/63WL3vuzm5/34902
 #EXTINF:-1 group-title="HBO",HBO SIGNATURE HD R
 http://allstar.is-by.us:25461/CELIAPLAN/DS23Xum3dh/126311
 #EXTINF:-1 group-title="HBO",HBO SIGNATURE
 http://allstar.is-by.us:25461/CELIAPLAN/DS23Xum3dh/140177
-#EXTINF:-1 group-title="HBO",HBO Xtreme FHD (MX E)
-http://hidra.live:80/fwcgcnna/63WL3vuzm5/35258
 #EXTINF:-1 group-title="HBO",HBO Xtreme FHD
 http://allstar.is-by.us:25461/CELIAPLAN/DS23Xum3dh/59135
 #EXTINF:-1 group-title="HBO",HBO XTREME FHD R
@@ -1047,16 +965,11 @@ http://allstar.is-by.us:25461/CELIAPLAN/DS23Xum3dh/126317
 http://allstar.is-by.us:25461/CELIAPLAN/DS23Xum3dh/140160
 #EXTINF:-1 group-title="UNIVERSAL",STUDIO UNIVERSAL
 http://txm.flysat.live:2089/152018884933620/152021106724749/198368
-#EXTINF:-1 group-title="UNIVERSAL",Studio Universal FHD (MX)
-http://hidra.live:80/fwcgcnna/63WL3vuzm5/34966
+
 #EXTINF:-1 group-title="UNIVERSAL",STUDIO UNIVERSAL
 http://allstar.is-by.us:25461/CELIAPLAN/DS23Xum3dh/59061
 #EXTINF:-1 group-title="UNIVERSAL",STUDIO UNIVERSAL HD
 http://allstar.is-by.us:25461/CELIAPLAN/DS23Xum3dh/140159
-#EXTINF:-1 group-title="UNIVERSAL",Universal Premiere HD (LAT)*
-http://hidra.live:80/fwcgcnna/63WL3vuzm5/312947
-#EXTINF:-1 group-title="UNIVERSAL",Universal Comedy SD (LAT)
-http://hidra.live:80/fwcgcnna/63WL3vuzm5/34854
 #EXTINF:-1 group-title="UNIVERSAL",UNIVERSAL COMEDY
 http://allstar.is-by.us:25461/CELIAPLAN/DS23Xum3dh/140161
 #EXTINF:-1 group-title="UNIVERSAL",Universal Cinema
@@ -1093,12 +1006,6 @@ http://allstar.is-by.us:25461/CELIAPLAN/DS23Xum3dh/59082
 http://allstar.is-by.us:25461/CELIAPLAN/DS23Xum3dh/140151
 
 
-#EXTINF:-1 group-title="A&E",A&E HD (LAT)
-http://hidra.live:80/fwcgcnna/63WL3vuzm5/34947
-#EXTINF:-1 group-title="A&E",A&E FHD (LAT)
-http://hidra.live:80/fwcgcnna/63WL3vuzm5/34948
-
-
 #EXTINF:-1 group-title="AXN",AXN
 http://txm.flysat.live:2089/152018884933620/152021106724749/198386
 
@@ -1107,18 +1014,8 @@ http://txm.flysat.live:2089/152018884933620/152021106724749/198386
 http://txm.flysat.live:2089/152018884933620/152021106724749/198365
 #EXTINF:-1 group-title="TNT",TNT SERIES
 http://txm.flysat.live:2089/152018884933620/152021106724749/198366
-#EXTINF:-1 group-title="TNT",TNT Series FHD (MX)
-http://hidra.live:80/fwcgcnna/63WL3vuzm5/34961
-#EXTINF:-1 group-title="TNT",TNT Series SD (LAT)
-http://hidra.live:80/fwcgcnna/63WL3vuzm5/34962
 
 
-#EXTINF:-1 group-title="HISTORY CHANNEL",History Channel FHD (LAT)
-http://hidra.live:80/fwcgcnna/63WL3vuzm5/34833
-
-
-#EXTINF:-1 group-title="DISCOVERY",Discovery H&H HD (LAT)
-http://hidra.live:80/fwcgcnna/63WL3vuzm5/34815
 #EXTINF:-1 group-title="DISCOVERY",DISCOVERY HOME&HEALTH
 http://txm.flysat.live:2089/152018884933620/152021106724749/198333
 #EXTINF:-1 group-title="DISCOVERY",DISCOVERY CHANNEL
@@ -1137,16 +1034,8 @@ http://txm.flysat.live:2089/152018884933620/152021106724749/198332
 
 #EXTINF:-1 group-title="ANIMAL PLANET",ANIMAL PLANET
 http://txm.flysat.live:2089/152018884933620/152021106724749/198328
-#EXTINF:-1 group-title="ANIMAL PLANET",Animal Planet SD (LAT)
-http://hidra.live:80/fwcgcnna/63WL3vuzm5/34801
-#EXTINF:-1 group-title="ANIMAL PLANET",Animal Planet HD (LAT)
-http://hidra.live:80/fwcgcnna/63WL3vuzm5/34802
-#EXTINF:-1 group-title="ANIMAL PLANET",Animal Planet FHD (LAT)
-http://hidra.live:80/fwcgcnna/63WL3vuzm5/34803
 
 
-#EXTINF:-1 group-title="STAR CHANNEL",Star Channel HD (LAT)
-http://hidra.live:80/fwcgcnna/63WL3vuzm5/34927
 #EXTINF:-1 group-title="STAR CHANNEL",STAR CHANNEL MX
 http://allstar.is-by.us:25461/CELIAPLAN/DS23Xum3dh/59119
 #EXTINF:-1 group-title="STAR CHANNEL",FOX
@@ -1191,10 +1080,6 @@ http://allstar.is-by.us:25461/CELIAPLAN/DS23Xum3dh/140181
 
 #EXTINF:-1 group-title="FX",FX
 http://txm.flysat.live:2089/152018884933620/152021106724749/198394
-#EXTINF:-1 group-title="FX",FX SD (MX)
-http://hidra.live:80/fwcgcnna/63WL3vuzm5/34973
-#EXTINF:-1 group-title="FX",FX SD (LAT)
-http://hidra.live:80/fwcgcnna/63WL3vuzm5/34975
 #EXTINF:-1 group-title="FX",FX
 http://iptvglobal.site:25461/rrtv/rrtv12345/87458
 #EXTINF:-1 group-title="FX",FX ESP
@@ -1205,18 +1090,12 @@ http://allstar.is-by.us:25461/CELIAPLAN/DS23Xum3dh/140169
 
 #EXTINF:-1 group-title="SPACE",SPACE
 http://txm.flysat.live:2089/152018884933620/152021106724749/198369
-#EXTINF:-1 group-title="SPACE",Space SD (MX)
-http://hidra.live:80/fwcgcnna/63WL3vuzm5/34968
 #EXTINF:-1 group-title="SPACE",SPACE LATINO HD
 http://allstar.is-by.us:25461/CELIAPLAN/DS23Xum3dh/59184
 #EXTINF:-1 group-title="SPACE",SPACE MEXICO
 http://allstar.is-by.us:25461/CELIAPLAN/DS23Xum3dh/140157
 
 
-#EXTINF:-1 group-title="PARAMOUNT",Paramount Channel FHD (MX)
-http://hidra.live:80/fwcgcnna/63WL3vuzm5/34981
-#EXTINF:-1 group-title="PARAMOUNT",Paramount Channel FHD (LAT)
-http://hidra.live:80/fwcgcnna/63WL3vuzm5/34984
 #EXTINF:-1 group-title="PARAMOUNT",Paramount
 http://iptvglobal.site:25461/rrtv/rrtv12345/131130
 #EXTINF:-1 group-title="PARAMOUNT",PARAMOUNT
@@ -1226,48 +1105,18 @@ http://allstar.is-by.us:25461/CELIAPLAN/DS23Xum3dh/140155
 #EXTINF:-1 group-title="SYFY",SYFY
 http://txm.flysat.live:2089/152018884933620/152021106724749/198395
 #EXTINF:-1 group-title="SYFY",SyFy FHD (MX)
-http://hidra.live:80/fwcgcnna/63WL3vuzm5/35011
 
 
-#EXTINF:-1 group-title="SONY",Sony Entertainment FHD (LAT)
-http://hidra.live:80/fwcgcnna/63WL3vuzm5/34938
-#EXTINF:-1 group-title="SONY",Sony HD (LAT)*
-http://hidra.live:80/fwcgcnna/63WL3vuzm5/312933
-
-#EXTINF:-1 group-title="CINEMAX",Cinemax HD (LAT)*
-http://hidra.live:80/fwcgcnna/63WL3vuzm5/312966
 #EXTINF:-1 group-title="CINEMAX",CINEMAX ESP
 http://allstar.is-by.us:25461/CELIAPLAN/DS23Xum3dh/59079
 #EXTINF:-1 group-title="CINEMAX",CINEMAX HD
 http://allstar.is-by.us:25461/CELIAPLAN/DS23Xum3dh/140158
 
 
-#EXTINF:-1 group-title="MULTIPREMIER",Multipremier SD (LAT)
-http://hidra.live:80/fwcgcnna/63WL3vuzm5/35003
 #EXTINF:-1 group-title="MULTIPREMIER",MULTIPREMIER
 http://txm.flysat.live:2089/152018884933620/152021106724749/198376
 
 
-#EXTINF:-1 group-title="TELEMUNDO",Telemundo Dallas 39 HQ (US)
-http://hidra.live:80/fwcgcnna/63WL3vuzm5/35091
-#EXTINF:-1 group-title="TELEMUNDO",Telemundo Las Vegas HQ (US)
-http://hidra.live:80/fwcgcnna/63WL3vuzm5/35096
-#EXTINF:-1 group-title="TELEMUNDO",Telemundo Miami HQ (US)
-http://hidra.live:80/fwcgcnna/63WL3vuzm5/35098
-#EXTINF:-1 group-title="TELEMUNDO",Telemundo San Francisco HQ (US)
-http://hidra.live:80/fwcgcnna/63WL3vuzm5/35103
-#EXTINF:-1 group-title="TELEMUNDO",Telemundo East HQ (US)
-http://hidra.live:80/fwcgcnna/63WL3vuzm5/312994
-#EXTINF:-1 group-title="TELEMUNDO",Telemundo West HQ (US)
-http://hidra.live:80/fwcgcnna/63WL3vuzm5/312996
-#EXTINF:-1 group-title="TELEMUNDO",Telemundo Atlanta HQ (US)
-http://hidra.live:80/fwcgcnna/63WL3vuzm5/312999
-#EXTINF:-1 group-title="TELEMUNDO",Telemundo C HQ (US)
-http://hidra.live:80/fwcgcnna/63WL3vuzm5/313000
-#EXTINF:-1 group-title="TELEMUNDO",Telemundo Colorado HQ (US)
-http://hidra.live:80/fwcgcnna/63WL3vuzm5/313001
-#EXTINF:-1 group-title="TELEMUNDO",Telemundo Salt Lake City HQ (US)
-http://hidra.live:80/fwcgcnna/63WL3vuzm5/313017
 #EXTINF:-1 group-title="TELEMUNDO",Telemundo West HH ESP
 http://allstar.is-by.us:25461/CELIAPLAN/DS23Xum3dh/140232
 #EXTINF:-1 group-title="TELEMUNDO",Telemundo East HD ESP
@@ -1275,20 +1124,7 @@ http://allstar.is-by.us:25461/CELIAPLAN/DS23Xum3dh/140233
 #EXTINF:-1 group-title="TELEMUNDO",Telemundo Mountain HD ESP
 http://allstar.is-by.us:25461/CELIAPLAN/DS23Xum3dh/140234
 
-#EXTINF:-1 group-title="UNIVISION",Univision Austin HD (US)
-http://hidra.live:80/fwcgcnna/63WL3vuzm5/312973
-#EXTINF:-1 group-title="UNIVISION",Univision Cleveland HD (US)
-http://hidra.live:80/fwcgcnna/63WL3vuzm5/312975
-#EXTINF:-1 group-title="UNIVISION",Univision Dallas HD (US)
-http://hidra.live:80/fwcgcnna/63WL3vuzm5/312976
-#EXTINF:-1 group-title="UNIVISION",Univision Network HD (US)
-http://hidra.live:80/fwcgcnna/63WL3vuzm5/312980
-#EXTINF:-1 group-title="UNIVISION",Univision Philadelphia HD (US)
-http://hidra.live:80/fwcgcnna/63WL3vuzm5/312982
-#EXTINF:-1 group-title="UNIVISION",Univision San Antonio HD (US)
-http://hidra.live:80/fwcgcnna/63WL3vuzm5/312984
-#EXTINF:-1 group-title="UNIVISION",Univision Los Angeles HD (US)
-http://hidra.live:80/fwcgcnna/63WL3vuzm5/35152
+
 #EXTINF:-1 group-title="UNIVISION",UNIVISION WEST
 http://allstar.is-by.us:25461/CELIAPLAN/DS23Xum3dh/140224
 #EXTINF:-1 group-title="UNIVISION",UNIVISION MOUNT
@@ -1307,18 +1143,12 @@ http://allstar.is-by.us:25461/CELIAPLAN/DS23Xum3dh/140123
 http://allstar.is-by.us:25461/CELIAPLAN/DS23Xum3dh/140213
 
 
-#EXTINF:-1 group-title="UNIMAS",Unimas Los Angeles HD (US)
-http://hidra.live:80/fwcgcnna/63WL3vuzm5/35108
-#EXTINF:-1 group-title="UNIMAS",Unimas Dallas HD (US)
-http://hidra.live:80/fwcgcnna/63WL3vuzm5/35114
 #EXTINF:-1 group-title="UNIMAS",UNIMAS EAST
 http://allstar.is-by.us:25461/CELIAPLAN/DS23Xum3dh/140228
 #EXTINF:-1 group-title="UNIMAS",UNIMAS WEST
 http://allstar.is-by.us:25461/CELIAPLAN/DS23Xum3dh/140229
 
 
-#EXTINF:-1 group-title="NFL",NFL Network HD (US)
-http://hidra.live:80/fwcgcnna/63WL3vuzm5/34705
 #EXTINF:-1 group-title="NFL",NFL HD
 http://allstar.is-by.us:25461/CELIAPLAN/DS23Xum3dh/140200
 #EXTINF:-1 group-title="NFL",NFL NETWORK
@@ -1345,8 +1175,6 @@ http://tv.dominiotv.xyz:25461/live/iptvprivado/K8XNXMTMm9/94135.ts
 http://tv.dominiotv.xyz:25461/live/iptvprivado/K8XNXMTMm9/92744.ts
 #EXTINF:-1 group-title="3 NBA",NBA ON TNT
 http://kp-thebestiptv.com:8080/Galindo21/5anJqAHmvb/65910
-#EXTINF:-1 group-title="3 NBA",Sky Sports NBA HQ (IT)
-http://hidra.live:80/fwcgcnna/63WL3vuzm5/34737
 #EXTINF:-1 group-title="3 NBA",NBA ON ESPN
 http://kp-thebestiptv.com:8080/Galindo21/5anJqAHmvb/65907
 #EXTINF:-1 group-title="3 NBA",NBA HD
@@ -1457,10 +1285,6 @@ http://txm.flysat.live:2089/152018884933620/152021106724749/198320
 http://tv.dominiotv.xyz:25461/live/iptvprivado/K8XNXMTMm9/85775.ts
 #EXTINF:-1 group-title="FOX SPORTS",FOX SPORTS 1 HD (SUR)
 http://tv.dominiotv.xyz:25461/live/iptvprivado/K8XNXMTMm9/48959.ts
-#EXTINF:-1 group-title="FOX SPORTS",Fox Sports 1 FHD (CL)
-http://hidra.live:80/fwcgcnna/63WL3vuzm5/34632
-#EXTINF:-1 group-title="FOX SPORTS",Fox Sports SD (ARG)
-http://hidra.live:80/fwcgcnna/63WL3vuzm5/34639
 #EXTINF:-1 group-title="FOX SPORTS",Fox Sports
 http://kp-thebestiptv.com:8080/Galindo21/5anJqAHmvb/60988
 #EXTINF:-1 group-title="FOX SPORTS",Fox Sports
@@ -1487,14 +1311,6 @@ http://iptvtree.es:80/qtvbox/w6kqBNLz48yf/2020.ts
 http://txm.flysat.live:2089/152018884933620/152021106724749/198319
 #EXTINF:-1 group-title="FOX SPORTS",FOX SPORTS 2 HD (SUR)
 http://tv.dominiotv.xyz:25461/live/iptvprivado/K8XNXMTMm9/66643.ts
-#EXTINF:-1 group-title="FOX SPORTS",Fox Sports 2 SD (MX)
-http://hidra.live:80/fwcgcnna/63WL3vuzm5/34623
-#EXTINF:-1 group-title="FOX SPORTS",Fox Sports 2 FHD (MX)
-http://hidra.live:80/fwcgcnna/63WL3vuzm5/34624
-#EXTINF:-1 group-title="FOX SPORTS",Fox Sports 2 FHD (CL)
-http://hidra.live:80/fwcgcnna/63WL3vuzm5/34635
-#EXTINF:-1 group-title="FOX SPORTS",Fox Sports 2 SD (ARG)
-http://hidra.live:80/fwcgcnna/63WL3vuzm5/34642
 #EXTINF:-1 group-title="FOX SPORTS",Fox Sports 2
 http://kp-thebestiptv.com:8080/Galindo21/5anJqAHmvb/63965
 #EXTINF:-1 group-title="FOX SPORTS",FOX SPORTS 2 MX
@@ -1519,8 +1335,6 @@ http://tv.dominiotv.xyz:25461/live/iptvprivado/K8XNXMTMm9/324630.ts
 http://tv.dominiotv.xyz:25461/live/iptvprivado/K8XNXMTMm9/49002.ts
 #EXTINF:-1 group-title="FOX SPORTS",FOX SPORTS 3 HD (SUR)
 http://tv.dominiotv.xyz:25461/live/iptvprivado/K8XNXMTMm9/48963.ts
-#EXTINF:-1 group-title="FOX SPORTS",Fox Sports 3 SD (MX)
-http://hidra.live:80/fwcgcnna/63WL3vuzm5/34625
 #EXTINF:-1 group-title="FOX SPORTS",FOX SPORTS 3 MX
 http://kp-thebestiptv.com:8080/Galindo21/5anJqAHmvb/415
 #EXTINF:-1 group-title="FOX SPORTS",Fox Sports 3 SD
@@ -1611,8 +1425,6 @@ http://tv.dominiotv.xyz:25461/live/iptvprivado/K8XNXMTMm9/94154.ts
 
 #EXTINF:-1 group-title="CARTOON NETWORK",CARTOON NETWORK
 http://txm.flysat.live:2089/152018884933620/152021106724749/198341
-#EXTINF:-1 group-title="CARTOON NETWORK",Cartoon Network FHD (E)
-http://hidra.live:80/fwcgcnna/63WL3vuzm5/35222
 #EXTINF:-1 group-title="CARTOON NETWORK",CARTOON NETWORK
 http://kp-thebestiptv.com:8080/Galindo21/5anJqAHmvb/330
 #EXTINF:-1 group-title="CARTOON NETWORK",Cartoon Network SD
@@ -1635,30 +1447,14 @@ http://txm.flysat.live:2089/152018884933620/152021106724749/198351
 http://allstar.is-by.us:25461/CELIAPLAN/DS23Xum3dh/140144
 
 
-#EXTINF:-1 group-title="DISCOVERY KIDS",Discovery Kids SD (LAT)
-http://hidra.live:80/fwcgcnna/63WL3vuzm5/34783
-#EXTINF:-1 group-title="DISCOVERY KIDS",Discovery Kids HD (LAT)
-http://hidra.live:80/fwcgcnna/63WL3vuzm5/34785
-
-
 #EXTINF:-1 group-title="NICKELODEON",NICK JR
 http://txm.flysat.live:2089/152018884933620/152021106724749/198350
 #EXTINF:-1 group-title="NICKELODEON",NICKELODEON
 http://txm.flysat.live:2089/152018884933620/152021106724749/198347
-#EXTINF:-1 group-title="NICKELODEON",Nickelodeon FHD (LAT)
-http://hidra.live:80/fwcgcnna/63WL3vuzm5/34772
 #EXTINF:-1 group-title="NICKELODEON",NICK 2
 http://txm.flysat.live:2089/152018884933620/152021106724749/198349
-#EXTINF:-1 group-title="NICKELODEON",Nick JR SD (MX)
-http://hidra.live:80/fwcgcnna/63WL3vuzm5/34778
-#EXTINF:-1 group-title="NICKELODEON",Nick JR FHD (MX)
-http://hidra.live:80/fwcgcnna/63WL3vuzm5/34779
-#EXTINF:-1 group-title="NICKELODEON",TeenNick FHD (LAT)
-http://hidra.live:80/fwcgcnna/63WL3vuzm5/34777
 
 
-#EXTINF:-1 group-title="TOONCAST",Tooncast SD (MX)
-http://hidra.live:80/fwcgcnna/63WL3vuzm5/34796
 #EXTINF:-1 group-title="TOONCAST",Tooncast
 http://kp-thebestiptv.com:8080/Galindo21/5anJqAHmvb/61383
 #EXTINF:-1 group-title="TOONCAST",Tooncast
@@ -1683,30 +1479,15 @@ http://txm.flysat.live:2089/152018884933620/152021106724749/198381
 http://kp-thebestiptv.com:8080/Galindo21/5anJqAHmvb/61335
 #EXTINF:-1 group-title="AZTECA",AZTECA CINEMA
 http://txm.flysat.live:2089/152018884933620/152021106724749/198380
-#EXTINF:-1 group-title="AZTECA",Azteca Cinema SD (MX)
-http://hidra.live:80/fwcgcnna/63WL3vuzm5/43614
 #EXTINF:-1 group-title="AZTECA",AZTECA CORAZON
 http://txm.flysat.live:2089/152018884933620/152021106724749/198379
 #EXTINF:-1 group-title="AZTECA",AZTECA CLIC
 http://txm.flysat.live:2089/152018884933620/152021106724749/198378
 
 
-#EXTINF:-1 group-title="MUSICA",MTV HD (LAT)*
-http://hidra.live:80/fwcgcnna/63WL3vuzm5/312963
-#EXTINF:-1 group-title="MUSICA",MTV 00S FHD (LAT)
-http://hidra.live:80/fwcgcnna/63WL3vuzm5/35035
-#EXTINF:-1 group-title="MUSICA",MTV Hits SD (LAT)
-http://hidra.live:80/fwcgcnna/63WL3vuzm5/35019
+
 #EXTINF:-1 group-title="MUSICA",VH1
 http://txm.flysat.live:2089/152018884933620/152021106724749/198306
-#EXTINF:-1 group-title="MUSICA",VH1+ HD (LAT)*
-http://hidra.live:80/fwcgcnna/63WL3vuzm5/312959
-#EXTINF:-1 group-title="MUSICA",Concert Channel SD (LAT)
-http://hidra.live:80/fwcgcnna/63WL3vuzm5/35022
-#EXTINF:-1 group-title="MUSICA",Concert Channel FHD (LAT)
-http://hidra.live:80/fwcgcnna/63WL3vuzm5/35023
-#EXTINF:-1 group-title="MUSICA",Telehit FHD (MX)
-http://hidra.live:80/fwcgcnna/63WL3vuzm5/35031
 
 
 #EXTINF:-1 group-title="1 AMERICA TV",AMERICA TV HD
@@ -1759,8 +1540,6 @@ http://kp-thebestiptv.com:8080/Galindo21/5anJqAHmvb/55632
 http://iptvtree.es:80/qtvbox/w6kqBNLz48yf/26.ts
 #EXTINF:-1 group-title="1.1 AMERICA TV",AMERICA TV
 http://allstar.is-by.us:25461/CELIAPLAN/DS23Xum3dh/59398
-#EXTINF:-1 group-title="1.1 AMERICA TV",America TV HD (PE)
-http://hidra.live:80/fwcgcnna/63WL3vuzm5/304290
 #EXTINF:-1 group-title="1.1 AMERICA TV",AmericaTV
 http://191.98.171.198:4000/play/a01a/index.m3u8
 #EXTINF:-1 group-title="1.1 AMERICA TV",AMERICA PERU
@@ -1983,10 +1762,6 @@ http://vod.tuxchannel.mx/peliculas4k/thor.mkv
 http://vod.tuxchannel.mx/peliculas4k/thor%20the%20dark%20world.mkv
 
 
-#EXTINF:-1 group-title="DOCTOR STRANGE",Doctor Strange en el multiverso de la locura (2022) 1080p
-http://hidra.live:80/movie/fwcgcnna/63WL3vuzm5/304628.mkv
-#EXTINF:-1 group-title="DOCTOR STRANGE",Doctor Strange en el multiverso de la locura (2022) 720p
-http://hidra.live:80/movie/fwcgcnna/63WL3vuzm5/304629.mkv
 #EXTINF:-1 group-title="DOCTOR STRANGE",Doctor Strange en el multiverso de la locura (2022)
 https://ppss6.tk/Uploads/Fantasia/Doctor-Strange-en-el-multiverso-de-la-locura-2022-lat.mp4
 
@@ -1994,21 +1769,6 @@ https://ppss6.tk/Uploads/Fantasia/Doctor-Strange-en-el-multiverso-de-la-locura-2
 #EXTINF:-1 group-title="JURASSIC",Jurassic World (4K)
 http://vod.tuxchannel.mx/peliculas4k/jurassic%20world.mkv
 
-
-#EXTINF:-1 group-title="CHIP Y DALE",Chip y Dale: Al rescate (2022)
-http://hidra.live:80/movie/fwcgcnna/63WL3vuzm5/304665.mkv
-
-
-#EXTINF:-1 group-title="AMBULANCIA",Ambulance: Plan de Huida (2022) 720p
-http://hidra.live:80/movie/fwcgcnna/63WL3vuzm5/304680.mkv
-#EXTINF:-1 group-title="AMBULANCIA",Ambulance: Plan de Huida (2022) 1080p
-http://hidra.live:80/movie/fwcgcnna/63WL3vuzm5/304681.mkv
-
-
-#EXTINF:-1 group-title="BATMAN",The Batman (2022)720p
-http://hidra.live:80/movie/fwcgcnna/63WL3vuzm5/304698.mkv
-#EXTINF:-1 group-title="BATMAN",Batman vs. las Tortugas Ninja (2019)
-http://hidra.live:80/movie/fwcgcnna/63WL3vuzm5/250818.mkv
 
 
 #EXTINF:-1 group-title="RESIDENT EVIL",Resident evil 1: El huesped maldito (4K)
@@ -2043,96 +1803,17 @@ http://tv.nousiptv.com:8080/movie/Yonkers400/Marcela100/1146909.mp4
 http://tv.nousiptv.com:8080/movie/Yonkers400/Marcela100/1150253.mkv
 #EXTINF:-1 group-title="BLACK PANTHER",LEGO Marvel Black Panther Trouble in Wakanda
 http://live.geoiptv.org:8880/movie/mateus1/mateus/541008.mp4
-#EXTINF:-1 group-title="BLACK PANTHER",Black Panther (2018)
-http://hidra.live:80/movie/fwcgcnna/63WL3vuzm5/248330.mp4
 
 
 #EXTINF:-1 group-title="M3GAN",M3GAN - 2023
 http://tv.nousiptv.com:8080/movie/Yonkers400/Marcela100/1148848.mkv
 
 
-#EXTINF:-1 group-title="SCOOBY DOO SERIES",Scooby Doo: Dónde estás? SD
-http://hidra.live:80/fwcgcnna/63WL3vuzm5/35493
-#EXTINF:-1 group-title="SCOOBY DOO SERIES",Scooby Doo HD
-http://hidra.live:80/fwcgcnna/63WL3vuzm5/35533
-#EXTINF:-1 group-title="SCOOBY DOO SERIES",Las Nuevas Peliculas De Scooby Doo SD
-http://hidra.live:80/fwcgcnna/63WL3vuzm5/58300
-
 
 #EXTINF:-1 group-title="ALF 24/7",alf 24/7
 http://odenfull.co:2086/Waltersoto03/Soto/39486
 #EXTINF:-1 group-title="ALF 24/7",Alf
 http://46.21.250.55:8080/5df2CsICWe/RWmw46FccP/461010
-#EXTINF:-1 group-title="ALF 24/7",Alf SD
-http://hidra.live:80/fwcgcnna/63WL3vuzm5/34475
-#EXTINF:-1 group-title="ALF 24/7",ALF SD
-http://hidra.live:80/fwcgcnna/63WL3vuzm5/58260
-
-
-#EXTINF:-1 group-title="LOS LOCOS ADAMS",Los Locos Addams SD
-http://hidra.live:80/fwcgcnna/63WL3vuzm5/58306
-
-
-#EXTINF:-1 group-title="DEPREDADOR",Predator: La presa (2022) 1080p
-http://hidra.live:80/movie/fwcgcnna/63WL3vuzm5/304581.mkv
-#EXTINF:-1 group-title="DEPREDADOR",Predator: La presa (2022) 720p
-http://hidra.live:80/movie/fwcgcnna/63WL3vuzm5/304582.mkv
-
-
-#EXTINF:-1 group-title="TORTUGA NINJA",El ascenso de las Tortugas Ninja: La película (2022)
-http://hidra.live:80/movie/fwcgcnna/63WL3vuzm5/304599.mkv
-
-
-#EXTINF:-1 group-title="MINIONS",Minions: El origen de Gru (2022) 1080p
-http://hidra.live:80/movie/fwcgcnna/63WL3vuzm5/304615.mkv
-#EXTINF:-1 group-title="MINIONS",Minions: El origen de Gru (2022) 720p
-http://hidra.live:80/movie/fwcgcnna/63WL3vuzm5/304616.mkv
-
-
-#EXTINF:-1 group-title="KING KONG",Godzilla vs Kong (2021) 720p
-http://hidra.live:80/movie/fwcgcnna/63WL3vuzm5/305021.mkv
-
-
-#EXTINF:-1 group-title="VENOM",Venom: Habrá Matanza (2021) 720P
-http://hidra.live:80/movie/fwcgcnna/63WL3vuzm5/304960.mkv
-
-
-#EXTINF:-1 group-title="CAZAFANTASMA",Cazafantasmas: El Legado (2021) 1080p
-http://hidra.live:80/movie/fwcgcnna/63WL3vuzm5/304891.mkv
-
-
-#EXTINF:-1 group-title="SING",¡Canta! 2 (2021) SING 2 1080P
-http://hidra.live:80/movie/fwcgcnna/63WL3vuzm5/304890.mp4
-
-
-#EXTINF:-1 group-title="SONIC",SONIC Y SU BANDA SERIE COMPLETA SD 24/7.
-http://odenfull.co:2086/Waltersoto03/Soto/39500
-#EXTINF:-1 group-title="SONIC",Sonic 2: La Película 720p (2022)
-http://hidra.live:80/movie/fwcgcnna/63WL3vuzm5/304679.mkv
-
-
-#EXTINF:-1 group-title="PAJARO LOCO",El Pájaro Loco SD
-http://hidra.live:80/fwcgcnna/63WL3vuzm5/35495
-
-
-#EXTINF:-1 group-title="LOS PICAPIEDRA",Los Picapiedras SD
-http://hidra.live:80/fwcgcnna/63WL3vuzm5/35497
-
-
-#EXTINF:-1 group-title="TRANSFORMERS",Transformers SD
-http://hidra.live:80/fwcgcnna/63WL3vuzm5/35487
-
-
-#EXTINF:-1 group-title="LOONEY TUNES",Looney Tunes Platinum SD
-http://hidra.live:80/fwcgcnna/63WL3vuzm5/35481
-
-
-#EXTINF:-1 group-title="CAPITANA MARVEL",Capitana Marvel 4K (2019) Dual Audio
-http://hidra.live:80/movie/fwcgcnna/63WL3vuzm5/251022.mkv
-
-
-#EXTINF:-1 group-title="MR BEAN",Mr.Bean SD
-http://hidra.live:80/fwcgcnna/63WL3vuzm5/58123
 
 
 #EXTINF:-1 group-title="PINGUINOS",VIP Pinguinos de Madagascar HD
@@ -2156,15 +1837,6 @@ http://txm.flysat.live:2089/152018884933620/152021106724749/198336
 #EXTINF:-1 group-title="MARVEL",Cine Marvel
 http://higherpro.xyz:8080/deam1974@gmail.com/Zgstw527/12286
 #EXTINF:-1 group-title="MARVEL",Cinema Marvel Studios Oeste FHD
-http://hidra.live:80/fwcgcnna/63WL3vuzm5/58068
-#EXTINF:-1 group-title="MARVEL",VIP Cinema Marvel Studios FHD
-http://hidra.live:80/fwcgcnna/63WL3vuzm5/50586
-#EXTINF:-1 group-title="MARVEL",Cinema Marvel Studios FHD
-http://hidra.live:80/fwcgcnna/63WL3vuzm5/50586
-
-
-#EXTINF:-1 group-title="LEGO",Cinema Lego Movies FHD
-http://hidra.live:80/fwcgcnna/63WL3vuzm5/50584
 
 
 #EXTINF:-1 group-title="PIXAR",VIP Cinema Disney Pixar FHD
@@ -2175,8 +1847,6 @@ http://hidra.live:80/yhehteog/NeN02o7t1o/50579
 http://hidra.live:80/yhehteog/NeN02o7t1o/50580
 
 
-#EXTINF:-1 group-title="DC",Cinema DC Comics FHD
-http://hidra.live:80/fwcgcnna/63WL3vuzm5/50576
 #EXTINF:-1 group-title="DC",VIP Cinema DC Comics FHD
 http://hidra.live:80/yhehteog/NeN02o7t1o/50576
 
@@ -2545,14 +2215,6 @@ http://tv.dominiotv.xyz:25461/live/iptvprivado/K8XNXMTMm9/342704.ts
 http://txm.flysat.live:2089/152018884933620/152021106724749/198319
 #EXTINF:-1 group-title="FOX SPORTS",FOX SPORTS 2 HD (SUR)
 http://tv.dominiotv.xyz:25461/live/iptvprivado/K8XNXMTMm9/66643.ts
-#EXTINF:-1 group-title="FOX SPORTS",Fox Sports 2 SD (MX)
-http://hidra.live:80/fwcgcnna/63WL3vuzm5/34623
-#EXTINF:-1 group-title="FOX SPORTS",Fox Sports 2 FHD (MX)
-http://hidra.live:80/fwcgcnna/63WL3vuzm5/34624
-#EXTINF:-1 group-title="FOX SPORTS",Fox Sports 2 FHD (CL)
-http://hidra.live:80/fwcgcnna/63WL3vuzm5/34635
-#EXTINF:-1 group-title="FOX SPORTS",Fox Sports 2 SD (ARG)
-http://hidra.live:80/fwcgcnna/63WL3vuzm5/34642
 #EXTINF:-1 group-title="FOX SPORTS",Fox Sports 2
 http://kp-thebestiptv.com:8080/Galindo21/5anJqAHmvb/63965
 #EXTINF:-1 group-title="FOX SPORTS",FOX SPORTS 2 MX
@@ -2577,8 +2239,6 @@ http://tv.dominiotv.xyz:25461/live/iptvprivado/K8XNXMTMm9/324630.ts
 http://tv.dominiotv.xyz:25461/live/iptvprivado/K8XNXMTMm9/49002.ts
 #EXTINF:-1 group-title="FOX SPORTS",FOX SPORTS 3 HD (SUR)
 http://tv.dominiotv.xyz:25461/live/iptvprivado/K8XNXMTMm9/48963.ts
-#EXTINF:-1 group-title="FOX SPORTS",Fox Sports 3 SD (MX)
-http://hidra.live:80/fwcgcnna/63WL3vuzm5/34625
 #EXTINF:-1 group-title="FOX SPORTS",FOX SPORTS 3 MX
 http://kp-thebestiptv.com:8080/Galindo21/5anJqAHmvb/415
 #EXTINF:-1 group-title="FOX SPORTS",Fox Sports 3 SD
@@ -2611,30 +2271,22 @@ http://allstar.is-by.us:25461/CELIAPLAN/DS23Xum3dh/140281
 
 #EXTINF:-1 group-title="ESPN",ESPN
 http://txm.flysat.live:2089/152018884933620/152021106724749/198323
-#EXTINF:-1 group-title="ESPN",ESPN 1 HD (MX VIP)
-http://hidra.live:80/yhehteog/NeN02o7t1o/302638
 #EXTINF:-1 group-title="ESPN",,ESPN 1 (COL)
 http://tv.dominiotv.xyz:25461/live/iptvprivado/K8XNXMTMm9/82236.ts
 #EXTINF:-1 group-title="ESPN",ESPN 1 (MX)
 http://tv.dominiotv.xyz:25461/live/iptvprivado/K8XNXMTMm9/48983.ts
 #EXTINF:-1 group-title="ESPN",ESPN 1 SUR
 http://tv.dominiotv.xyz:25461/live/iptvprivado/K8XNXMTMm9/113714.ts
-#EXTINF:-1 group-title="ESPN",ESPN 1 (MX VIP)
-http://hidra.live:80/fwcgcnna/63WL3vuzm5/302638
 #EXTINF:-1 group-title="ESPN",ESPN 1 SUR FHD
 http://kp-thebestiptv.com:8080/Galindo21/5anJqAHmvb/63967
 #EXTINF:-1 group-title="ESPN",ESPN HD
 http://allstar.is-by.us:25461/CELIAPLAN/DS23Xum3dh/140203
 #EXTINF:-1 group-title="ESPN",ESPN 2
 http://txm.flysat.live:2089/152018884933620/152021106724749/198322
-#EXTINF:-1 group-title="ESPN",ESPN 2 HD (MX VIP)
-http://hidra.live:80/yhehteog/NeN02o7t1o/302639
 #EXTINF:-1 group-title="ESPN",ESPN 2 (MX)
 http://tv.dominiotv.xyz:25461/live/iptvprivado/K8XNXMTMm9/82220.ts
 #EXTINF:-1 group-title="ESPN",ESPN 2 SUR
 http://tv.dominiotv.xyz:25461/live/iptvprivado/K8XNXMTMm9/48967.ts
-#EXTINF:-1 group-title="ESPN",ESPN 2 (MX VIP)
-http://hidra.live:80/fwcgcnna/63WL3vuzm5/302639
 #EXTINF:-1 group-title="ESPN",ESPN 2 HD
 http://allstar.is-by.us:25461/CELIAPLAN/DS23Xum3dh/140204
 #EXTINF:-1 group-title="ESPN",ESPN 3
@@ -2645,8 +2297,6 @@ http://hidra.live:80/yhehteog/NeN02o7t1o/302640
 http://tv.dominiotv.xyz:25461/live/iptvprivado/K8XNXMTMm9/102612.ts
 #EXTINF:-1 group-title="ESPN",ESPN 3 (MX)
 http://tv.dominiotv.xyz:25461/live/iptvprivado/K8XNXMTMm9/48987.ts
-#EXTINF:-1 group-title="ESPN",ESPN 3 (MX VIP)
-http://hidra.live:80/fwcgcnna/63WL3vuzm5/302640
 #EXTINF:-1 group-title="ESPN",ESPN 3 SUR FHD
 http://kp-thebestiptv.com:8080/Galindo21/5anJqAHmvb/63969
 #EXTINF:-1 group-title="ESPN",ESPN 4
@@ -2673,8 +2323,6 @@ http://tv.dominiotv.xyz:25461/live/iptvprivado/K8XNXMTMm9/94154.ts
 
 #EXTINF:-1 group-title="CARTOON NETWORK",CARTOON NETWORK
 http://txm.flysat.live:2089/152018884933620/152021106724749/198341
-#EXTINF:-1 group-title="CARTOON NETWORK",Cartoon Network FHD (E)
-http://hidra.live:80/fwcgcnna/63WL3vuzm5/35222
 #EXTINF:-1 group-title="CARTOON NETWORK",CARTOON NETWORK
 http://kp-thebestiptv.com:8080/Galindo21/5anJqAHmvb/330
 #EXTINF:-1 group-title="CARTOON NETWORK",Cartoon Network SD
@@ -2697,30 +2345,14 @@ http://txm.flysat.live:2089/152018884933620/152021106724749/198351
 http://allstar.is-by.us:25461/CELIAPLAN/DS23Xum3dh/140144
 
 
-#EXTINF:-1 group-title="DISCOVERY KIDS",Discovery Kids SD (LAT)
-http://hidra.live:80/fwcgcnna/63WL3vuzm5/34783
-#EXTINF:-1 group-title="DISCOVERY KIDS",Discovery Kids HD (LAT)
-http://hidra.live:80/fwcgcnna/63WL3vuzm5/34785
-
-
 #EXTINF:-1 group-title="NICKELODEON",NICK JR
 http://txm.flysat.live:2089/152018884933620/152021106724749/198350
 #EXTINF:-1 group-title="NICKELODEON",NICKELODEON
 http://txm.flysat.live:2089/152018884933620/152021106724749/198347
-#EXTINF:-1 group-title="NICKELODEON",Nickelodeon FHD (LAT)
-http://hidra.live:80/fwcgcnna/63WL3vuzm5/34772
 #EXTINF:-1 group-title="NICKELODEON",NICK 2
 http://txm.flysat.live:2089/152018884933620/152021106724749/198349
-#EXTINF:-1 group-title="NICKELODEON",Nick JR SD (MX)
-http://hidra.live:80/fwcgcnna/63WL3vuzm5/34778
-#EXTINF:-1 group-title="NICKELODEON",Nick JR FHD (MX)
-http://hidra.live:80/fwcgcnna/63WL3vuzm5/34779
-#EXTINF:-1 group-title="NICKELODEON",TeenNick FHD (LAT)
-http://hidra.live:80/fwcgcnna/63WL3vuzm5/34777
 
 
-#EXTINF:-1 group-title="TOONCAST",Tooncast SD (MX)
-http://hidra.live:80/fwcgcnna/63WL3vuzm5/34796
 #EXTINF:-1 group-title="TOONCAST",Tooncast
 http://kp-thebestiptv.com:8080/Galindo21/5anJqAHmvb/61383
 #EXTINF:-1 group-title="TOONCAST",Tooncast
@@ -2745,30 +2377,15 @@ http://txm.flysat.live:2089/152018884933620/152021106724749/198381
 http://kp-thebestiptv.com:8080/Galindo21/5anJqAHmvb/61335
 #EXTINF:-1 group-title="AZTECA",AZTECA CINEMA
 http://txm.flysat.live:2089/152018884933620/152021106724749/198380
-#EXTINF:-1 group-title="AZTECA",Azteca Cinema SD (MX)
-http://hidra.live:80/fwcgcnna/63WL3vuzm5/43614
 #EXTINF:-1 group-title="AZTECA",AZTECA CORAZON
 http://txm.flysat.live:2089/152018884933620/152021106724749/198379
 #EXTINF:-1 group-title="AZTECA",AZTECA CLIC
 http://txm.flysat.live:2089/152018884933620/152021106724749/198378
 
 
-#EXTINF:-1 group-title="MUSICA",MTV HD (LAT)*
-http://hidra.live:80/fwcgcnna/63WL3vuzm5/312963
-#EXTINF:-1 group-title="MUSICA",MTV 00S FHD (LAT)
-http://hidra.live:80/fwcgcnna/63WL3vuzm5/35035
-#EXTINF:-1 group-title="MUSICA",MTV Hits SD (LAT)
-http://hidra.live:80/fwcgcnna/63WL3vuzm5/35019
 #EXTINF:-1 group-title="MUSICA",VH1
 http://txm.flysat.live:2089/152018884933620/152021106724749/198306
-#EXTINF:-1 group-title="MUSICA",VH1+ HD (LAT)*
-http://hidra.live:80/fwcgcnna/63WL3vuzm5/312959
-#EXTINF:-1 group-title="MUSICA",Concert Channel SD (LAT)
-http://hidra.live:80/fwcgcnna/63WL3vuzm5/35022
-#EXTINF:-1 group-title="MUSICA",Concert Channel FHD (LAT)
-http://hidra.live:80/fwcgcnna/63WL3vuzm5/35023
-#EXTINF:-1 group-title="MUSICA",Telehit FHD (MX)
-http://hidra.live:80/fwcgcnna/63WL3vuzm5/35031
+
 
 
 #EXTINF:-1 group-title="NOTICIAS",FORO TV
@@ -2983,10 +2600,6 @@ http://vod.tuxchannel.mx/peliculas4k/thor.mkv
 http://vod.tuxchannel.mx/peliculas4k/thor%20the%20dark%20world.mkv
 
 
-#EXTINF:-1 group-title="DOCTOR STRANGE",Doctor Strange en el multiverso de la locura (2022) 1080p
-http://hidra.live:80/movie/fwcgcnna/63WL3vuzm5/304628.mkv
-#EXTINF:-1 group-title="DOCTOR STRANGE",Doctor Strange en el multiverso de la locura (2022) 720p
-http://hidra.live:80/movie/fwcgcnna/63WL3vuzm5/304629.mkv
 #EXTINF:-1 group-title="DOCTOR STRANGE",Doctor Strange en el multiverso de la locura (2022)
 https://ppss6.tk/Uploads/Fantasia/Doctor-Strange-en-el-multiverso-de-la-locura-2022-lat.mp4
 
@@ -2994,21 +2607,6 @@ https://ppss6.tk/Uploads/Fantasia/Doctor-Strange-en-el-multiverso-de-la-locura-2
 #EXTINF:-1 group-title="JURASSIC",Jurassic World (4K)
 http://vod.tuxchannel.mx/peliculas4k/jurassic%20world.mkv
 
-
-#EXTINF:-1 group-title="CHIP Y DALE",Chip y Dale: Al rescate (2022)
-http://hidra.live:80/movie/fwcgcnna/63WL3vuzm5/304665.mkv
-
-
-#EXTINF:-1 group-title="AMBULANCIA",Ambulance: Plan de Huida (2022) 720p
-http://hidra.live:80/movie/fwcgcnna/63WL3vuzm5/304680.mkv
-#EXTINF:-1 group-title="AMBULANCIA",Ambulance: Plan de Huida (2022) 1080p
-http://hidra.live:80/movie/fwcgcnna/63WL3vuzm5/304681.mkv
-
-
-#EXTINF:-1 group-title="BATMAN",The Batman (2022)720p
-http://hidra.live:80/movie/fwcgcnna/63WL3vuzm5/304698.mkv
-#EXTINF:-1 group-title="BATMAN",Batman vs. las Tortugas Ninja (2019)
-http://hidra.live:80/movie/fwcgcnna/63WL3vuzm5/250818.mkv
 
 
 #EXTINF:-1 group-title="RESIDENT EVIL",Resident evil 1: El huesped maldito (4K)
@@ -3035,87 +2633,6 @@ http://vod.tuxchannel.mx/peliculas/720/avengers%20infinity%20war.mkv
 
 #EXTINF:-1 group-title="BLACK PANTHER",LEGO Marvel Black Panther Trouble in Wakanda
 http://live.geoiptv.org:8880/movie/mateus1/mateus/541008.mp4
-#EXTINF:-1 group-title="BLACK PANTHER",Black Panther (2018)
-http://hidra.live:80/movie/fwcgcnna/63WL3vuzm5/248330.mp4
-
-
-#EXTINF:-1 group-title="SCOOBY DOO SERIES",Scooby Doo: Dónde estás? SD
-http://hidra.live:80/fwcgcnna/63WL3vuzm5/35493
-#EXTINF:-1 group-title="SCOOBY DOO SERIES",Scooby Doo HD
-http://hidra.live:80/fwcgcnna/63WL3vuzm5/35533
-#EXTINF:-1 group-title="SCOOBY DOO SERIES",Las Nuevas Peliculas De Scooby Doo SD
-http://hidra.live:80/fwcgcnna/63WL3vuzm5/58300
-
-
-#EXTINF:-1 group-title="ALF 24/7",Alf SD
-http://hidra.live:80/fwcgcnna/63WL3vuzm5/34475
-#EXTINF:-1 group-title="ALF 24/7",ALF SD
-http://hidra.live:80/fwcgcnna/63WL3vuzm5/58260
-
-
-
-#EXTINF:-1 group-title="LOS LOCOS ADAMS",Los Locos Addams SD
-http://hidra.live:80/fwcgcnna/63WL3vuzm5/58306
-
-
-#EXTINF:-1 group-title="DEPREDADOR",Predator: La presa (2022) 1080p
-http://hidra.live:80/movie/fwcgcnna/63WL3vuzm5/304581.mkv
-#EXTINF:-1 group-title="DEPREDADOR",Predator: La presa (2022) 720p
-http://hidra.live:80/movie/fwcgcnna/63WL3vuzm5/304582.mkv
-
-
-#EXTINF:-1 group-title="TORTUGA NINJA",El ascenso de las Tortugas Ninja: La película (2022)
-http://hidra.live:80/movie/fwcgcnna/63WL3vuzm5/304599.mkv
-
-
-#EXTINF:-1 group-title="MINIONS",Minions: El origen de Gru (2022) 1080p
-http://hidra.live:80/movie/fwcgcnna/63WL3vuzm5/304615.mkv
-#EXTINF:-1 group-title="MINIONS",Minions: El origen de Gru (2022) 720p
-http://hidra.live:80/movie/fwcgcnna/63WL3vuzm5/304616.mkv
-
-
-#EXTINF:-1 group-title="KING KONG",Godzilla vs Kong (2021) 720p
-http://hidra.live:80/movie/fwcgcnna/63WL3vuzm5/305021.mkv
-
-
-#EXTINF:-1 group-title="VENOM",Venom: Habrá Matanza (2021) 720P
-http://hidra.live:80/movie/fwcgcnna/63WL3vuzm5/304960.mkv
-
-
-#EXTINF:-1 group-title="CAZAFANTASMA",Cazafantasmas: El Legado (2021) 1080p
-http://hidra.live:80/movie/fwcgcnna/63WL3vuzm5/304891.mkv
-
-
-#EXTINF:-1 group-title="SING",¡Canta! 2 (2021) SING 2 1080P
-http://hidra.live:80/movie/fwcgcnna/63WL3vuzm5/304890.mp4
-
-
-#EXTINF:-1 group-title="SONIC",Sonic 2: La Película 720p (2022)
-http://hidra.live:80/movie/fwcgcnna/63WL3vuzm5/304679.mkv
-
-
-#EXTINF:-1 group-title="PAJARO LOCO",El Pájaro Loco SD
-http://hidra.live:80/fwcgcnna/63WL3vuzm5/35495
-
-
-#EXTINF:-1 group-title="LOS PICAPIEDRA",Los Picapiedras SD
-http://hidra.live:80/fwcgcnna/63WL3vuzm5/35497
-
-
-#EXTINF:-1 group-title="TRANSFORMERS",Transformers SD
-http://hidra.live:80/fwcgcnna/63WL3vuzm5/35487
-
-
-#EXTINF:-1 group-title="LOONEY TUNES",Looney Tunes Platinum SD
-http://hidra.live:80/fwcgcnna/63WL3vuzm5/35481
-
-
-#EXTINF:-1 group-title="CAPITANA MARVEL",Capitana Marvel 4K (2019) Dual Audio
-http://hidra.live:80/movie/fwcgcnna/63WL3vuzm5/251022.mkv
-
-
-#EXTINF:-1 group-title="MR BEAN",Mr.Bean SD
-http://hidra.live:80/fwcgcnna/63WL3vuzm5/58123
 
 
 #EXTINF:-1 group-title="PINGUINOS",VIP Pinguinos de Madagascar HD
@@ -3138,16 +2655,6 @@ http://txm.flysat.live:2089/152018884933620/152021106724749/198336
 
 #EXTINF:-1 group-title="MARVEL",Play! Cinema Marvel
 http://46.21.250.55:8080/5df2CsICWe/RWmw46FccP/460901
-#EXTINF:-1 group-title="MARVEL",Cinema Marvel Studios Oeste FHD
-http://hidra.live:80/fwcgcnna/63WL3vuzm5/58068
-#EXTINF:-1 group-title="MARVEL",VIP Cinema Marvel Studios FHD
-http://hidra.live:80/fwcgcnna/63WL3vuzm5/50586
-#EXTINF:-1 group-title="MARVEL",Cinema Marvel Studios FHD
-http://hidra.live:80/fwcgcnna/63WL3vuzm5/50586
-
-
-#EXTINF:-1 group-title="LEGO",Cinema Lego Movies FHD
-http://hidra.live:80/fwcgcnna/63WL3vuzm5/50584
 
 
 #EXTINF:-1 group-title="PIXAR",VIP Cinema Disney Pixar FHD
@@ -3158,8 +2665,6 @@ http://hidra.live:80/yhehteog/NeN02o7t1o/50579
 http://hidra.live:80/yhehteog/NeN02o7t1o/50580
 
 
-#EXTINF:-1 group-title="DC",Cinema DC Comics FHD
-http://hidra.live:80/fwcgcnna/63WL3vuzm5/50576
 #EXTINF:-1 group-title="DC",VIP Cinema DC Comics FHD
 http://hidra.live:80/yhehteog/NeN02o7t1o/50576
 
@@ -3767,10 +3272,6 @@ http://46.21.250.55:8080/5df2CsICWe/RWmw46FccP/461026
 
 #EXTINF:-1 group-title="Phineas y Ferb",Phineas y Ferb
 http://46.21.250.55:8080/5df2CsICWe/RWmw46FccP/461029
-
-
-#EXTINF:-1 group-title="31 Minutos",31 Minutos
-http://46.21.250.55:8080/5df2CsICWe/RWmw46FccP/460988
 
 
 #EXTINF:-1 group-title="1 PELICULAS 2022",The Lego Batman Movie 2 (2022)
