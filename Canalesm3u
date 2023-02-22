@@ -12,8 +12,6 @@ http://allstar.is-by.us:25461/CELIAPLAN/DS23Xum3dh/68650
 http://allstar.is-by.us:25461/CELIAPLAN/DS23Xum3dh/140173
 #EXTINF:-1 group-title="HBO",HBO
 http://allstar.is-by.us:25461/CELIAPLAN/DS23Xum3dh/126316
-#EXTINF:-1 group-title="HBO",HBO 2
-http://txm.flysat.live:2089/152018884933620/152021106724749/198412
 #EXTINF:-1 group-title="HBO",HBO 2 SD2
 http://kp-thebestiptv.com:8080/Galindo21/5anJqAHmvb/60991
 #EXTINF:-1 group-title="HBO",HBO 2
@@ -128,8 +126,6 @@ http://txm.flysat.live:2089/152018884933620/152021106724749/198335
 http://txm.flysat.live:2089/152018884933620/152021106724749/198334
 #EXTINF:-1 group-title="DISCOVERY",DISCOVERY TURBO
 http://txm.flysat.live:2089/152018884933620/152021106724749/198331
-#EXTINF:-1 group-title="DISCOVERY",DISCOVERY THEATER
-http://txm.flysat.live:2089/152018884933620/152021106724749/198330
 #EXTINF:-1 group-title="DISCOVERY",DISCOVERY SCIENCE
 http://txm.flysat.live:2089/152018884933620/152021106724749/198329
 
@@ -585,8 +581,6 @@ http://46.21.250.55:8080/5df2CsICWe/RWmw46FccP/546673
 http://46.21.250.55:8080/5df2CsICWe/RWmw46FccP/546674
 
 
-#EXTINF:-1 group-title="3.7 NBA",VIP NBA PORTLAND TRAIL BLAZERS
-http://satline.xyz:8080/live/6471662500044998/621662500044998/50984.ts
 #EXTINF:-1 group-title="3.7 NBA",VIP NBA BROOKLYN NETS
 http://satline.xyz:8080/live/6471662500044998/621662500044998/51005.ts
 
@@ -665,50 +659,10 @@ http://dns.k4livetv.com:8080/Dez1/Dez123/490406
 http://dns.k4livetv.com:8080/Dez1/Dez123/490407
 
 
-#EXTINF:-1 group-title="3.9.5 NBA",SPORT TV NBA
-http://satline.xyz:8080/live/211670276965062061/8331670276965062/24981.ts
-#EXTINF:-1 group-title="3.9.5 NBA",NBA TV
-http://satline.xyz:8080/live/211670276965062061/8331670276965062/51361.ts
 #EXTINF:-1 group-title="3.9.5 NBA",NBA PORTLAND TRAIL BLAZERS
 http://satline.xyz:8080/live/211670276965062061/8331670276965062/50984.ts
-#EXTINF:-1 group-title="3.9.5 NBA",NBA MEMPHIS GRIZZLIES
-http://satline.xyz:8080/live/211670276965062061/8331670276965062/50985.ts
-#EXTINF:-1 group-title="3.9.5 NBA",NBA MIAMI HEAT
-http://satline.xyz:8080/live/211670276965062061/8331670276965062/50986.ts
-#EXTINF:-1 group-title="3.9.5 NBA",NBA MILWAUKEE BUCKS
-http://satline.xyz:8080/live/211670276965062061/8331670276965062/50987.ts
-#EXTINF:-1 group-title="3.9.5 NBA",NBA NEW ORLEANS PELICANS
-http://satline.xyz:8080/live/211670276965062061/8331670276965062/50989.ts
-#EXTINF:-1 group-title="3.9.5 NBA",NBA NEW YORK KNICKS
-http://satline.xyz:8080/live/211670276965062061/8331670276965062/50990.ts
-#EXTINF:-1 group-title="3.9.5 NBA",NBA ORLANDO MAGIC
-http://satline.xyz:8080/live/211670276965062061/8331670276965062/50992.ts
-#EXTINF:-1 group-title="3.9.5 NBA",NBA PHOENIX SUNS
-http://satline.xyz:8080/live/211670276965062061/8331670276965062/50994.ts
-#EXTINF:-1 group-title="3.9.5 NBA",NBA ATLANTA HAWKS
-http://satline.xyz:8080/live/211670276965062061/8331670276965062/50995.ts
-#EXTINF:-1 group-title="3.9.5 NBA",NBA DALLAS MAVERICKS
-http://satline.xyz:8080/live/211670276965062061/8331670276965062/50996.ts
-#EXTINF:-1 group-title="3.9.5 NBA",NBA DENVER NUGGETS
-http://satline.xyz:8080/live/211670276965062061/8331670276965062/50997.ts
-#EXTINF:-1 group-title="3.9.5 NBA",NBA DETROIT PISTONS
-http://satline.xyz:8080/live/211670276965062061/8331670276965062/50998.ts
-#EXTINF:-1 group-title="3.9.5 NBA",NBA INDIANA PACERS
-http://satline.xyz:8080/live/211670276965062061/8331670276965062/51001.ts
-#EXTINF:-1 group-title="3.9.5 NBA",NBA LOS ANGLES CLIPPERS
-http://satline.xyz:8080/live/211670276965062061/8331670276965062/51002.ts
-#EXTINF:-1 group-title="3.9.5 NBA",NBA BOSTON CELTICS
-http://satline.xyz:8080/live/211670276965062061/8331670276965062/51004.ts
 #EXTINF:-1 group-title="3.9.5 NBA",NBA BROOKLYN NETS
 http://satline.xyz:8080/live/211670276965062061/8331670276965062/51005.ts
-#EXTINF:-1 group-title="3.9.5 NBA",NBA CHARLOTTE HORNETS
-http://satline.xyz:8080/live/211670276965062061/8331670276965062/51006.ts
-#EXTINF:-1 group-title="3.9.5 NBA",NBA CHICAGO BULLS
-http://satline.xyz:8080/live/211670276965062061/8331670276965062/51007.ts
-#EXTINF:-1 group-title="3.9.5 NBA",NBA TV
-http://satline.xyz:8080/live/211670276965062061/8331670276965062/51009.ts
-#EXTINF:-1 group-title="3.9.5 NBA",NBA TV
-http://satline.xyz:8080/live/211670276965062061/8331670276965062/23760.ts
 
 
 #EXTINF:-1 group-title="3.9.6 NBA",USA NBA TV UHD
@@ -907,8 +861,6 @@ http://allstar.is-by.us:25461/CELIAPLAN/DS23Xum3dh/68650
 http://allstar.is-by.us:25461/CELIAPLAN/DS23Xum3dh/140173
 #EXTINF:-1 group-title="HBO",HBO
 http://allstar.is-by.us:25461/CELIAPLAN/DS23Xum3dh/126316
-#EXTINF:-1 group-title="HBO",HBO 2
-http://txm.flysat.live:2089/152018884933620/152021106724749/198412
 #EXTINF:-1 group-title="HBO",HBO 2 SD
 http://kp-thebestiptv.com:8080/Galindo21/5anJqAHmvb/60991
 #EXTINF:-1 group-title="HBO",HBO 2
@@ -994,8 +946,6 @@ http://allstar.is-by.us:25461/CELIAPLAN/DS23Xum3dh/140164
 
 #EXTINF:-1 group-title="CINECANAL",CINECANAL
 http://txm.flysat.live:2089/152018884933620/152021106724749/198377
-#EXTINF:-1 group-title="CINECANAL",Cinecanal FHD
-http://hidra.live:80/fwcgcnna/63WL3vuzm5/35235
 #EXTINF:-1 group-title="CINECANAL",Cinecanal
 http://iptvglobal.site:25461/rrtv/rrtv12345/87436
 #EXTINF:-1 group-title="CINECANAL",Cinecanal
@@ -1024,8 +974,6 @@ http://txm.flysat.live:2089/152018884933620/152021106724749/198335
 http://txm.flysat.live:2089/152018884933620/152021106724749/198334
 #EXTINF:-1 group-title="DISCOVERY",DISCOVERY TURBO
 http://txm.flysat.live:2089/152018884933620/152021106724749/198331
-#EXTINF:-1 group-title="DISCOVERY",DISCOVERY THEATER
-http://txm.flysat.live:2089/152018884933620/152021106724749/19833034
 
 
 #EXTINF:-1 group-title="DISCOVERY KIDS",DISCOVERY KIDS
@@ -1185,8 +1133,6 @@ http://allstar.is-by.us:25461/CELIAPLAN/DS23Xum3dh/140201
 http://satline.xyz:8080/live/9271659859001279/3361659859001279/50980.ts
 #EXTINF:-1 group-title="3.1 NBA",VIP NBA PHILADELPHIA 76ERS
 http://satline.xyz:8080/live/9271659859001279/3361659859001279/50993.ts
-#EXTINF:-1 group-title="3.1 NBA",VIP NBA BROOKLYN NETS
-http://satline.xyz:8080/live/9271659859001279/3361659859001279/51005.ts
 
 
 #EXTINF:-1 group-title="3.2 NBA",NBA TV
@@ -1877,12 +1823,8 @@ http://hidra.live:80/yhehteog/NeN02o7t1o/50622
 http://higherpro.xyz:8080/deam1974@gmail.com/Zgstw527/12763
 #EXTINF:-1 group-title="CINEMA",Cinema 36 PPV
 http://higherpro.xyz:8080/deam1974@gmail.com/Zgstw527/12764
-#EXTINF:-1 group-title="CINEMA",Cinema 34 PPV
-http://higherpro.xyz:8080/deam1974@gmail.com/Zgstw527/12766
 #EXTINF:-1 group-title="CINEMA",Cinema 33 PPV
 http://higherpro.xyz:8080/deam1974@gmail.com/Zgstw527/12767
-#EXTINF:-1 group-title="CINEMA",Cinema 32 PPV
-http://higherpro.xyz:8080/deam1974@gmail.com/Zgstw527/12768
 #EXTINF:-1 group-title="CINEMA",Cinema 31 PPV
 http://higherpro.xyz:8080/deam1974@gmail.com/Zgstw527/12769
 #EXTINF:-1 group-title="CINEMA",Cinema 30 PPV
@@ -2139,8 +2081,6 @@ http://higherpro.xyz:8080/deam1974@gmail.com/Zgstw527/13743
 http://higherpro.xyz:8080/deam1974@gmail.com/Zgstw527/13742
 #EXTINF:-1 group-title="VARIOS 1",Starz HD_1080P
 http://higherpro.xyz:8080/deam1974@gmail.com/Zgstw527/13741
-#EXTINF:-1 group-title="VARIOS 1",Starz West HD_1080P
-http://higherpro.xyz:8080/deam1974@gmail.com/Zgstw527/13739
 #EXTINF:-1 group-title="VARIOS 1",Studio Universal
 http://higherpro.xyz:8080/deam1974@gmail.com/Zgstw527/13783
 #EXTINF:-1 group-title="VARIOS 1",Studio Universal HD
@@ -2776,8 +2716,6 @@ http://odenfull.co:2086/Waltersoto03/Soto/39548
 http://odenfull.co:2086/Waltersoto03/Soto/132903
 
 
-#EXTINF:-1 group-title="24/7.1.2",AVENGERS FHD
-http://go-nextlevel.xyz:25461/Victor2022/Victor2022/230043
 #EXTINF:-1 group-title="24/7.1.2",CINEMA DISNEY PIXAR 2 HD
 http://go-nextlevel.xyz:25461/Victor2022/Victor2022/230045
 #EXTINF:-1 group-title="24/7.1.2",DRAGON BALL Z
@@ -2844,8 +2782,6 @@ http://go-nextlevel.xyz:25461/Victor2022/Victor2022/230140
 http://go-nextlevel.xyz:25461/Victor2022/Victor2022/230188
 
 
-#EXTINF:-1 group-title="24/7.1.4",AVENGERS FHD
-http://playhispano.org:25461/skytvperu/e7aSxSPEmR/87700
 #EXTINF:-1 group-title="24/7.1.4",CINEMA DISNEY PIXAR 2 HD
 http://playhispano.org:25461/skytvperu/e7aSxSPEmR/87708
 #EXTINF:-1 group-title="24/7.1.4",ALF
@@ -3020,8 +2956,6 @@ http://hidra.live:80/Diego/Diego/58264
 http://hidra.live:80/Diego/Diego/58322
 
 
-#EXTINF:-1 group-title="24/7.1.6",La Familia Peluche
-http://dns.k4livetv.com:8080/Dez1/Dez123/302625
 #EXTINF:-1 group-title="24/7.1.6",La Hora Pico
 http://dns.k4livetv.com:8080/Dez1/Dez123/302626
 #EXTINF:-1 group-title="24/7.1.6",El chavo del 8
@@ -3196,8 +3130,6 @@ http://46.21.250.55:8080/5df2CsICWe/RWmw46FccP/460908
 http://46.21.250.55:8080/5df2CsICWe/RWmw46FccP/460909
 #EXTINF:-1 group-title="24/7.2",El Chavo del Ocho
 http://46.21.250.55:8080/5df2CsICWe/RWmw46FccP/460911
-#EXTINF:-1 group-title="24/7.2",El Chavo Animado
-http://46.21.250.55:8080/5df2CsICWe/RWmw46FccP/460912
 #EXTINF:-1 group-title="24/7.2",ThunderCats SD
 http://46.21.250.55:8080/5df2CsICWe/RWmw46FccP/460915
 #EXTINF:-1 group-title="24/7.2",SMALLVILLE
