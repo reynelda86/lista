@@ -433,48 +433,32 @@ http://allstar.is-by.us:25461/CELIAPLAN/DS23Xum3dh/140201
 
 #EXTINF:-1 group-title="3.1.2 NBA",NBA ATLANTA HAWKS
 http://mains.services:2086/0776777761/4665816537/375
-#EXTINF:-1 group-title="3.1.2 NBA",NBA BOSTON CELTICS
-http://mains.services:2086/0776777761/4665816537/380
 #EXTINF:-1 group-title="3.1.2 NBA",NBA BROOKLYN NETS
 http://mains.services:2086/0776777761/4665816537/66873
 #EXTINF:-1 group-title="3.1.2 NBA",NBA CHARLOTTE HORNETS
 http://mains.services:2086/0776777761/4665816537/374
 #EXTINF:-1 group-title="3.1.2 NBA",NBA CHICAGO BULLS
 http://mains.services:2086/0776777761/4665816537/369
-#EXTINF:-1 group-title="3.1.2 NBA",NBA CLEVELAND CAVALIERS
-http://mains.services:2086/0776777761/4665816537/379
 #EXTINF:-1 group-title="3.1.2 NBA",NBA DALLAS MAVERICKS
 http://mains.services:2086/0776777761/4665816537/55035
-#EXTINF:-1 group-title="3.1.2 NBA",NBA DENVER NUGGETS
-http://mains.services:2086/0776777761/4665816537/2893
 #EXTINF:-1 group-title="3.1.2 NBA",NBA DETROIT PISTONS
 http://mains.services:2086/0776777761/4665816537/378
 #EXTINF:-1 group-title="3.1.2 NBA",NBA GOLDEN STATE WARRIORS
 http://mains.services:2086/0776777761/4665816537/55030
 #EXTINF:-1 group-title="3.1.2 NBA",NBA HOUSTON ROCKETS
 http://mains.services:2086/0776777761/4665816537/55036
-#EXTINF:-1 group-title="3.1.2 NBA",NBA INDIANA PACERS
-http://mains.services:2086/0776777761/4665816537/377
-#EXTINF:-1 group-title="3.1.2 NBA",NBA LOS ANGELES LAKERS
-http://mains.services:2086/0776777761/4665816537/55032
 #EXTINF:-1 group-title="3.1.2 NBA",NBA MIAMI HEAT
 http://mains.services:2086/0776777761/4665816537/2896
-#EXTINF:-1 group-title="3.1.2 NBA",NBA MINNESOTA TIMBERWOLVES
-http://mains.services:2086/0776777761/4665816537/2892
 #EXTINF:-1 group-title="3.1.2 NBA",NBA NEW ORLEANS PELICANS
 http://mains.services:2086/0776777761/4665816537/55038
 #EXTINF:-1 group-title="3.1.2 NBA",NBA NEW YORK KNICKS
 http://mains.services:2086/0776777761/4665816537/372
-#EXTINF:-1 group-title="3.1.2 NBA",NBA ORLANDO MAGIC
-http://mains.services:2086/0776777761/4665816537/2895
 #EXTINF:-1 group-title="3.1.2 NBA",NBA PHOENIX SUNS
 http://mains.services:2086/0776777761/4665816537/55033
 #EXTINF:-1 group-title="3.1.2 NBA",NBA PORTLAND TRAIL BLAZERS
 http://mains.services:2086/0776777761/4665816537/2890
 #EXTINF:-1 group-title="3.1.2 NBA",NBA SAN ANTONIO SPURS
 http://mains.services:2086/0776777761/4665816537/55039
-#EXTINF:-1 group-title="3.1.2 NBA",NBA TORONTO RAPTORS
-http://mains.services:2086/0776777761/4665816537/370
 #EXTINF:-1 group-title="3.1.2 NBA",NBA TV FHD 1080
 http://mains.services:2086/0776777761/4665816537/64086
 #EXTINF:-1 group-title="3.1.2 NBA",NBA UTAH JAZZ
@@ -583,26 +567,6 @@ http://xtreamui.ddns.net:8000/xtreamui2/FJ7sowGK57/607
 http://xtreamui.ddns.net:8000/xtreamui2/FJ7sowGK57/608
 #EXTINF:-1 group-title="3.9.1 NBA",NBA 10
 http://xtreamui.ddns.net:8000/xtreamui2/FJ7sowGK57/609
-
-
-#EXTINF:-1 group-title="3.9.2 NBA",League Pass 01
-http://fullonline.es:8080/mahmoud/mahmoud/546666
-#EXTINF:-1 group-title="3.9.2 NBA",League Pass 02
-http://fullonline.es:8080/mahmoud/mahmoud/546667
-#EXTINF:-1 group-title="3.9.2 NBA",League Pass 03
-http://fullonline.es:8080/mahmoud/mahmoud/546668
-#EXTINF:-1 group-title="3.9.2 NBA",League Pass 04
-http://fullonline.es:8080/mahmoud/mahmoud/546669
-#EXTINF:-1 group-title="3.9.2 NBA",League Pass 05
-http://fullonline.es:8080/mahmoud/mahmoud/546670
-#EXTINF:-1 group-title="3.9.2 NBA",League Pass 06
-http://fullonline.es:8080/mahmoud/mahmoud/546671
-#EXTINF:-1 group-title="3.9.2 NBA",League Pass 07
-http://fullonline.es:8080/mahmoud/mahmoud/546672
-#EXTINF:-1 group-title="3.9.2 NBA",League Pass 08
-http://fullonline.es:8080/mahmoud/mahmoud/546673
-#EXTINF:-1 group-title="3.9.2 NBA",League Pass 09
-http://fullonline.es:8080/mahmoud/mahmoud/546674
 
 
 #EXTINF:-1 group-title="3.9.3 NBA",NBA LEAGUE PASS 01 (PPV)
@@ -757,8 +721,6 @@ http://p23.miami:80/live/000048474/3938488330/274598.ts
 
 #EXTINF:-1 group-title="3.9.9 NBA",NBA HD
 http://go-nextlevel.xyz:25461/Victor2022/Victor2022/201567
-#EXTINF:-1 group-title="3.9.9 NBA",Toronto Raptors
-http://go-nextlevel.xyz:25461/Victor2022/Victor2022/255199
 #EXTINF:-1 group-title="3.9.9 NBA",Minnesota Timberwolves
 http://go-nextlevel.xyz:25461/Victor2022/Victor2022/255203
 #EXTINF:-1 group-title="3.9.9 NBA",Dallas Mavericks
@@ -1083,12 +1045,6 @@ http://kp-thebestiptv.com:8080/Galindo21/5anJqAHmvb/65907
 http://allstar.is-by.us:25461/CELIAPLAN/DS23Xum3dh/140201
 
 
-#EXTINF:-1 group-title="3.1 NBA",VIP NBA UTAH JAZZ
-http://satline.xyz:8080/live/9271659859001279/3361659859001279/50980.ts
-#EXTINF:-1 group-title="3.1 NBA",VIP NBA PHILADELPHIA 76ERS
-http://satline.xyz:8080/live/9271659859001279/3361659859001279/50993.ts
-
-
 #EXTINF:-1 group-title="3.2 NBA",NBA TV
 http://kp-thebestiptv.com:8080/Galindo21/5anJqAHmvb/387
 #EXTINF:-1 group-title="3.2 NBA",Sacramento Kings
@@ -1138,10 +1094,6 @@ http://kp-thebestiptv.com:8080/Galindo21/5anJqAHmvb/108963
 http://kp-thebestiptv.com:8080/Galindo21/5anJqAHmvb/127844
 
 
-#EXTINF:-1 group-title="3.3 NBA",UTAH JAZZ
-http://satline.xyz:8080/live/9271659859001279/3361659859001279/50980.ts
-
-
 #EXTINF:-1 group-title="3.4 NBA",NBA League Pass 1 HD US
 http://45.90.105.74:25461/Universochingatuculo/HA280622/39085
 #EXTINF:-1 group-title="3.4 NBA",NBA League Pass 10 HD US
@@ -1162,10 +1114,6 @@ http://45.90.105.74:25461/Universochingatuculo/HA280622/39079
 http://45.90.105.74:25461/Universochingatuculo/HA280622/39078
 
 
-#EXTINF:-1 group-title="3.8 NBA",VIP NBA PHILADELPHIA 76ERS
-http://flysilo.top:8080/live/1411661635036000/1661661635036000/50993.ts
-
-
 #EXTINF:-1 group-title="FOX SPORTS PREMIUM",FOX SPORTS PREMIUM
 http://tv.dominiotv.xyz:25461/live/iptvprivado/K8XNXMTMm9/164581.ts
 #EXTINF:-1 group-title="FOX SPORTS PREMIUM",FOX SPORTS PREMIUM HD
@@ -1174,8 +1122,7 @@ http://tv.dominiotv.xyz:25461/live/iptvprivado/K8XNXMTMm9/48998.ts
 
 #EXTINF:-1 group-title="FOX SPORTS DEPORTES",FOX DEPORTES
 http://tv.dominiotv.xyz:25461/live/iptvprivado/K8XNXMTMm9/92437.ts
-#EXTINF:-1 group-title="FOX SPORTS DEPORTES",FOX DEPORTES
-http://iptvtree.es:80/qtvbox/w6kqBNLz48yf/1973.ts
+
 
 #EXTINF:-1 group-title="FOX SPORTS",FOX SPORT
 http://txm.flysat.live:2089/152018884933620/152021106724749/198320
@@ -1197,14 +1144,6 @@ http://kp-thebestiptv.com:8080/Galindo21/5anJqAHmvb/48299
 http://kp-thebestiptv.com:8080/Galindo21/5anJqAHmvb/60988
 #EXTINF:-1 group-title="FOX SPORTS",FOX SPORTS 1 SUR FHD
 http://kp-thebestiptv.com:8080/Galindo21/5anJqAHmvb/63964
-#EXTINF:-1 group-title="FOX SPORTS",Fox Sports 1
-http://iptvtree.es:80/qtvbox/w6kqBNLz48yf/71130.ts
-#EXTINF:-1 group-title="FOX SPORTS",FOX SPORTS 1
-http://iptvtree.es:80/qtvbox/w6kqBNLz48yf/1974.ts
-#EXTINF:-1 group-title="FOX SPORTS",FOX SPORTS
-http://allstar.is-by.us:25461/CELIAPLAN/DS23Xum3dh/140197
-#EXTINF:-1 group-title="FOX SPORTS",Fox Sports 1
-http://iptvtree.es:80/qtvbox/w6kqBNLz48yf/2020.ts
 #EXTINF:-1 group-title="FOX SPORTS",FOX SPORT 2
 http://txm.flysat.live:2089/152018884933620/152021106724749/198319
 #EXTINF:-1 group-title="FOX SPORTS",FOX SPORTS 2 HD (SUR)
@@ -1247,8 +1186,6 @@ http://allstar.is-by.us:25461/CELIAPLAN/DS23Xum3dh/140196
 http://allstar.is-by.us:25461/CELIAPLAN/DS23Xum3dh/140325
 
 
-#EXTINF:-1 group-title="AFIZZIONADOS",Afizzionados FHD
-http://iptvtree.es:80/qtvbox/w6kqBNLz48yf/19188.ts
 #EXTINF:-1 group-title="AFIZZIONADOS",Afizzionados HD
 http://allstar.is-by.us:25461/CELIAPLAN/DS23Xum3dh/140312
 
@@ -1313,8 +1250,6 @@ http://allstar.is-by.us:25461/CELIAPLAN/DS23Xum3dh/140317
 
 #EXTINF:-1 group-title="ESPN DEPORTES",ESPN DEPORTES
 http://kp-thebestiptv.com:8080/Galindo21/5anJqAHmvb/74909
-#EXTINF:-1 group-title="ESPN DEPORTES",ESPN DEPORTES
-http://iptvtree.es:80/qtvbox/w6kqBNLz48yf/1971.ts
 #EXTINF:-1 group-title="ESPN DEPORTES",ESPN DEPORTES
 http://tv.dominiotv.xyz:25461/live/iptvprivado/K8XNXMTMm9/78749.ts
 #EXTINF:-1 group-title="ESPN DEPORTES",ESPN DEPORTES HD
@@ -1422,8 +1357,6 @@ http://higherpro.xyz:8080/deam1974@gmail.com/Zgstw527/69795
 http://higherpro.xyz:8080/deam1974@gmail.com/Zgstw527/69796
 #EXTINF:-1 group-title="1.1 AMERICA TV",AMERICA TV FHD
 http://tv.nousiptv.com:8080/Yonkers400/Marcela100/1087194
-#EXTINF:-1 group-title="1.1 AMERICA TV",AMERICA
-http://flysilo.top:8080/live/1411661635036000/1661661635036000/10774.ts
 #EXTINF:-1 group-title="1.1 AMERICA TV",AmericaTV
 http://181.65.154.170:8000/play/a02f/index.m3u8
 #EXTINF:-1 group-title="1.1 AMERICA TV",America TV HD
@@ -2980,8 +2913,6 @@ http://higherpro.xyz:8080/Abelardo2022/Abelardo2022/9924
 http://higherpro.xyz:8080/Abelardo2022/Abelardo2022/9925
 #EXTINF:-1 group-title="24/7.1.8",EL SHOW DE LOS LOONEY TUNES
 http://higherpro.xyz:8080/Abelardo2022/Abelardo2022/9926
-#EXTINF:-1 group-title="24/7.1.8",DRAGON BALL SUPER
-http://higherpro.xyz:8080/Abelardo2022/Abelardo2022/9928
 #EXTINF:-1 group-title="24/7.1.8",DRAGON BALL GT
 http://higherpro.xyz:8080/Abelardo2022/Abelardo2022/9929
 #EXTINF:-1 group-title="24/7.1.8",ALF
