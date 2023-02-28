@@ -2227,6 +2227,8 @@ http://kp-thebestiptv.com:8080/Galindo21/5anJqAHmvb/7
 
 #EXTINF:-1 group-title="24/7",ALERTA AEROPUERTO
 http://tv.dominiotv.xyz:25461/live/iptvprivado/K8XNXMTMm9/65615.ts
+#EXTINF:-1 group-title="24/7",Alerta Aeropuerto SD
+http://sintoniaideal.com:25461/live/urzoliniResexcha397D/ApKK8he8dVRN/323271.ts
 #EXTINF:-1 group-title="24/7",CANTINFLA 1
 http://tv.dominiotv.xyz:25461/live/iptvprivado/K8XNXMTMm9/273153.ts
 #EXTINF:-1 group-title="24/7",COYOTE & CORRE CAMINO
@@ -3533,6 +3535,20 @@ http://185.209.15.152:37500/riad2023/riad2023/103653
 http://185.209.15.152:37500/riad2023/riad2023/103650
 
 
+#EXTINF:-1 group-title="2.0.2 LAS ESTRELLAS",Las Estrellas (MOVIL)
+http://sintoniaideal.com:25461/live/urzoliniResexcha397D/ApKK8he8dVRN/65737.ts
+#EXTINF:-1 group-title="2.0.2 LAS ESTRELLAS",Las Estrellas SD (MX)
+http://sintoniaideal.com:25461/live/urzoliniResexcha397D/ApKK8he8dVRN/4641.ts
+#EXTINF:-1 group-title="2.0.2 LAS ESTRELLAS",Las Estrellas FHD (MX)
+http://sintoniaideal.com:25461/live/urzoliniResexcha397D/ApKK8he8dVRN/16827.ts
+#EXTINF:-1 group-title="2.0.2 LAS ESTRELLAS",Las Estrellas SD (EU)
+http://sintoniaideal.com:25461/live/urzoliniResexcha397D/ApKK8he8dVRN/176537.ts
+#EXTINF:-1 group-title="2.0.2 LAS ESTRELLAS",Las Estrellas FHD (EU)
+http://sintoniaideal.com:25461/live/urzoliniResexcha397D/ApKK8he8dVRN/16826.ts
+#EXTINF:-1 group-title="2.0.2 LAS ESTRELLAS",Las Estrellas SD -2hr (MX)
+http://sintoniaideal.com:25461/live/urzoliniResexcha397D/ApKK8he8dVRN/176539.ts
+
+
 
 #EXTINF:-1 group-title="STAR CHANNEL 1",FOX CHANNEL HD
 http://playhispano.org:25461/skytvperu/e7aSxSPEmR/86982
@@ -3961,7 +3977,66 @@ http://tv-cool.com:25461/jnavarrete2022/4a0d01b115/117816
 http://tv-cool.com:25461/jnavarrete2022/4a0d01b115/117817
 #EXTINF:-1 group-title="24/7.0",Chespirito (1981)
 http://tv-cool.com:25461/jnavarrete2022/4a0d01b115/117818
-
+#EXTINF:-1 group-title="24/7.0",Animaniacs
+http://sintoniaideal.com:25461/live/urzoliniResexcha397D/ApKK8he8dVRN/24439.ts
+#EXTINF:-1 group-title="24/7.0",Los Picapiedras
+http://sintoniaideal.com:25461/live/urzoliniResexcha397D/ApKK8he8dVRN/24494.ts
+#EXTINF:-1 group-title="24/7.0",Transformers Mastersforce (1988)
+http://sintoniaideal.com:25461/live/urzoliniResexcha397D/ApKK8he8dVRN/24613.ts
+#EXTINF:-1 group-title="24/7.0",Futurama
+http://sintoniaideal.com:25461/live/urzoliniResexcha397D/ApKK8he8dVRN/24618.ts
+#EXTINF:-1 group-title="24/7.0",La Pantera Rosa
+http://sintoniaideal.com:25461/live/urzoliniResexcha397D/ApKK8he8dVRN/24674.ts
+#EXTINF:-1 group-title="24/7.0",Garfield
+http://sintoniaideal.com:25461/live/urzoliniResexcha397D/ApKK8he8dVRN/25127.ts
+#EXTINF:-1 group-title="24/7.0",Los Pitufos
+http://sintoniaideal.com:25461/live/urzoliniResexcha397D/ApKK8he8dVRN/25132.ts
+#EXTINF:-1 group-title="24/7.0",Capitan America y Los Planetarios
+http://sintoniaideal.com:25461/live/urzoliniResexcha397D/ApKK8he8dVRN/25138.ts
+#EXTINF:-1 group-title="24/7.0",Tom Y Jerry
+http://sintoniaideal.com:25461/live/urzoliniResexcha397D/ApKK8he8dVRN/25140.ts
+#EXTINF:-1 group-title="24/7.0",Tom Y Jerry Kids
+http://sintoniaideal.com:25461/live/urzoliniResexcha397D/ApKK8he8dVRN/25141.ts
+#EXTINF:-1 group-title="24/7.0",Angry Birds Toons
+http://sintoniaideal.com:25461/live/urzoliniResexcha397D/ApKK8he8dVRN/25148.ts
+#EXTINF:-1 group-title="24/7.0",La Vaca y el Pollito
+http://sintoniaideal.com:25461/live/urzoliniResexcha397D/ApKK8he8dVRN/25230.ts
+#EXTINF:-1 group-title="24/7.0",Scooby Doo
+http://sintoniaideal.com:25461/live/urzoliniResexcha397D/ApKK8he8dVRN/26412.ts
+#EXTINF:-1 group-title="24/7.0",Los Vengadores (Unidos)
+http://sintoniaideal.com:25461/live/urzoliniResexcha397D/ApKK8he8dVRN/26594.ts
+#EXTINF:-1 group-title="24/7.0",Fenomenoide
+http://sintoniaideal.com:25461/live/urzoliniResexcha397D/ApKK8he8dVRN/27259.ts
+#EXTINF:-1 group-title="24/7.0",La Hormiga y el Oso Hormiguero
+http://sintoniaideal.com:25461/live/urzoliniResexcha397D/ApKK8he8dVRN/27261.ts
+#EXTINF:-1 group-title="24/7.0",ThunderCats
+http://sintoniaideal.com:25461/live/urzoliniResexcha397D/ApKK8he8dVRN/40795.ts
+#EXTINF:-1 group-title="24/7.0",Guardianes de la Galaxia (Animado)
+http://sintoniaideal.com:25461/live/urzoliniResexcha397D/ApKK8he8dVRN/40854.ts
+#EXTINF:-1 group-title="24/7.0",Spiderwoman
+http://sintoniaideal.com:25461/live/urzoliniResexcha397D/ApKK8he8dVRN/101947.ts
+#EXTINF:-1 group-title="24/7.0",X-Men (Animada)
+http://sintoniaideal.com:25461/live/urzoliniResexcha397D/ApKK8he8dVRN/101958.ts
+#EXTINF:-1 group-title="24/7.0",ThunderCats (2011)
+http://sintoniaideal.com:25461/live/urzoliniResexcha397D/ApKK8he8dVRN/119707.ts
+#EXTINF:-1 group-title="24/7.0",Aquaman (1968)
+http://sintoniaideal.com:25461/live/urzoliniResexcha397D/ApKK8he8dVRN/250841.ts
+#EXTINF:-1 group-title="24/7.0",La Familia Peluche
+http://sintoniaideal.com:25461/live/urzoliniResexcha397D/ApKK8he8dVRN/24657.ts
+#EXTINF:-1 group-title="24/7.0",La Familia Peluche HD
+http://sintoniaideal.com:25461/live/urzoliniResexcha397D/ApKK8he8dVRN/327730.ts
+#EXTINF:-1 group-title="24/7.0",Una Familia de Diez
+http://sintoniaideal.com:25461/live/urzoliniResexcha397D/ApKK8he8dVRN/25119.ts
+#EXTINF:-1 group-title="24/7.0",Vecinos Temp 1
+http://sintoniaideal.com:25461/live/urzoliniResexcha397D/ApKK8he8dVRN/25120.ts
+#EXTINF:-1 group-title="24/7.0",Vecinos Temp 2
+http://sintoniaideal.com:25461/live/urzoliniResexcha397D/ApKK8he8dVRN/25179.ts
+#EXTINF:-1 group-title="24/7.0",Vecinos Temp 3
+http://sintoniaideal.com:25461/live/urzoliniResexcha397D/ApKK8he8dVRN/26181.ts
+#EXTINF:-1 group-title="24/7.0",Vecinos Temp 4
+http://sintoniaideal.com:25461/live/urzoliniResexcha397D/ApKK8he8dVRN/26433.ts
+#EXTINF:-1 group-title="24/7.0",Alienigenas Ancestrales
+http://sintoniaideal.com:25461/live/urzoliniResexcha397D/ApKK8he8dVRN/26585.ts
 
 
 #EXTINF:-1 group-title="DISNEY 1",Disney Junior
@@ -4105,3 +4180,310 @@ http://main-paneltv.com:8080/Tony/Tony/279041
 http://dns.k4livetv.com:8080/lisandro123/lisandro123/302766
 #EXTINF:-1 group-title="ALF 1",Alf
 http://tv-cool.com:25461/jnavarrete2022/4a0d01b115/30507
+
+
+
+#EXTINF:-1 group-title="Deportes Premier League",Sky Sports Premier League
+http://sintoniaideal.com:25461/live/urzoliniResexcha397D/ApKK8he8dVRN/282999.ts
+#EXTINF:-1 group-title="Deportes Premier League",Sky Sports Football
+http://sintoniaideal.com:25461/live/urzoliniResexcha397D/ApKK8he8dVRN/283000.ts
+#EXTINF:-1 group-title="Deportes Premier League",Sky Sports Main Event
+http://sintoniaideal.com:25461/live/urzoliniResexcha397D/ApKK8he8dVRN/283001.ts
+#EXTINF:-1 group-title="Deportes Premier League",Sky Sports Arena
+http://sintoniaideal.com:25461/live/urzoliniResexcha397D/ApKK8he8dVRN/283002.ts
+#EXTINF:-1 group-title="Deportes Premier League",Eurosport 1 HD
+http://sintoniaideal.com:25461/live/urzoliniResexcha397D/ApKK8he8dVRN/283005.ts
+#EXTINF:-1 group-title="Deportes Premier League",LFC FHD
+http://sintoniaideal.com:25461/live/urzoliniResexcha397D/ApKK8he8dVRN/283010.ts
+#EXTINF:-1 group-title="Deportes Premier League",Premier Sports 1
+http://sintoniaideal.com:25461/live/urzoliniResexcha397D/ApKK8he8dVRN/283015.ts
+#EXTINF:-1 group-title="Deportes Premier League",Premier Sports 2
+http://sintoniaideal.com:25461/live/urzoliniResexcha397D/ApKK8he8dVRN/283016.ts
+#EXTINF:-1 group-title="Deportes Premier League",Sky Sports Cricket
+http://sintoniaideal.com:25461/live/urzoliniResexcha397D/ApKK8he8dVRN/283018.ts
+#EXTINF:-1 group-title="Deportes Premier League",BT Sport 1 FHD
+http://sintoniaideal.com:25461/live/urzoliniResexcha397D/ApKK8he8dVRN/283023.ts
+#EXTINF:-1 group-title="Deportes Premier League",BT Sport 2 FHD
+http://sintoniaideal.com:25461/live/urzoliniResexcha397D/ApKK8he8dVRN/283024.ts
+#EXTINF:-1 group-title="Deportes Premier League",BT Sport 3 FHD
+http://sintoniaideal.com:25461/live/urzoliniResexcha397D/ApKK8he8dVRN/283025.ts
+#EXTINF:-1 group-title="Deportes Premier League",BT Sport ESPN FHD
+http://sintoniaideal.com:25461/live/urzoliniResexcha397D/ApKK8he8dVRN/283026.ts
+
+#EXTINF:-1 group-title="Deportes UEFA",Liga Campeones HD (ES)
+http://sintoniaideal.com:25461/live/urzoliniResexcha397D/ApKK8he8dVRN/232304.ts
+#EXTINF:-1 group-title="Deportes UEFA",ESPN 1 HD (LAT)
+http://sintoniaideal.com:25461/live/urzoliniResexcha397D/ApKK8he8dVRN/232314.ts
+#EXTINF:-1 group-title="Deportes UEFA",ESPN 2 HD (LAT)
+http://sintoniaideal.com:25461/live/urzoliniResexcha397D/ApKK8he8dVRN/232315.ts
+#EXTINF:-1 group-title="Deportes UEFA",ESPN 3 HD (LAT)
+http://sintoniaideal.com:25461/live/urzoliniResexcha397D/ApKK8he8dVRN/232316.ts
+#EXTINF:-1 group-title="Deportes UEFA",TUDN X1
+http://sintoniaideal.com:25461/live/urzoliniResexcha397D/ApKK8he8dVRN/232293.ts
+#EXTINF:-1 group-title="Deportes UEFA",TUDN X2
+http://sintoniaideal.com:25461/live/urzoliniResexcha397D/ApKK8he8dVRN/232294.ts
+#EXTINF:-1 group-title="Deportes UEFA",TUDN X3
+http://sintoniaideal.com:25461/live/urzoliniResexcha397D/ApKK8he8dVRN/232295.ts
+#EXTINF:-1 group-title="Deportes UEFA",TUDN X4
+http://sintoniaideal.com:25461/live/urzoliniResexcha397D/ApKK8he8dVRN/232296.ts
+#EXTINF:-1 group-title="Deportes UEFA",TUDN X5
+http://sintoniaideal.com:25461/live/urzoliniResexcha397D/ApKK8he8dVRN/232297.ts
+#EXTINF:-1 group-title="Deportes UEFA",TUDN X6
+http://sintoniaideal.com:25461/live/urzoliniResexcha397D/ApKK8he8dVRN/232298.ts
+#EXTINF:-1 group-title="Deportes UEFA",TUDN X8
+http://sintoniaideal.com:25461/live/urzoliniResexcha397D/ApKK8he8dVRN/232300.ts
+#EXTINF:-1 group-title="Deportes UEFA",TUDN X9
+http://sintoniaideal.com:25461/live/urzoliniResexcha397D/ApKK8he8dVRN/232301.ts
+#EXTINF:-1 group-title="Deportes UEFA",TUDN X10
+http://sintoniaideal.com:25461/live/urzoliniResexcha397D/ApKK8he8dVRN/232302.ts
+#EXTINF:-1 group-title="Deportes UEFA",TUDN HD (US)
+http://sintoniaideal.com:25461/live/urzoliniResexcha397D/ApKK8he8dVRN/232292.ts
+#EXTINF:-1 group-title="Deportes UEFA",BT Sport 1 HD (UK)
+http://sintoniaideal.com:25461/live/urzoliniResexcha397D/ApKK8he8dVRN/232305.ts
+#EXTINF:-1 group-title="Deportes UEFA",BT Sport 2 HD (UK)
+http://sintoniaideal.com:25461/live/urzoliniResexcha397D/ApKK8he8dVRN/232306.ts
+#EXTINF:-1 group-title="Deportes UEFA",BT Sport 3 HD (UK)
+http://sintoniaideal.com:25461/live/urzoliniResexcha397D/ApKK8he8dVRN/232307.ts
+#EXTINF:-1 group-title="Deportes UEFA",Eleven Sports 2 (PT)
+http://sintoniaideal.com:25461/live/urzoliniResexcha397D/ApKK8he8dVRN/232309.ts
+#EXTINF:-1 group-title="Deportes UEFA",Eleven Sports 4 (PT)
+http://sintoniaideal.com:25461/live/urzoliniResexcha397D/ApKK8he8dVRN/232311.ts
+
+
+
+#EXTINF:-1 group-title="Deportes La Liga",Dazn 2 HD
+http://sintoniaideal.com:25461/live/urzoliniResexcha397D/ApKK8he8dVRN/250850.ts
+#EXTINF:-1 group-title="Deportes La Liga",Dazn 3 HD
+http://sintoniaideal.com:25461/live/urzoliniResexcha397D/ApKK8he8dVRN/250852.ts
+#EXTINF:-1 group-title="Deportes La Liga",Dazn 4 HD
+http://sintoniaideal.com:25461/live/urzoliniResexcha397D/ApKK8he8dVRN/250854.ts
+#EXTINF:-1 group-title="Deportes La Liga",M. LaLiga SD
+http://sintoniaideal.com:25461/live/urzoliniResexcha397D/ApKK8he8dVRN/250859.ts
+#EXTINF:-1 group-title="Deportes La Liga",M. LaLiga HD
+http://sintoniaideal.com:25461/live/urzoliniResexcha397D/ApKK8he8dVRN/250861.ts
+#EXTINF:-1 group-title="Deportes La Liga",M. LaLiga 2
+http://sintoniaideal.com:25461/live/urzoliniResexcha397D/ApKK8he8dVRN/250871.ts
+#EXTINF:-1 group-title="Deportes La Liga",M. LaLiga 3 FHD
+http://sintoniaideal.com:25461/live/urzoliniResexcha397D/ApKK8he8dVRN/250874.ts
+#EXTINF:-1 group-title="Deportes La Liga",Barça TV
+http://sintoniaideal.com:25461/live/urzoliniResexcha397D/ApKK8he8dVRN/250914.ts
+#EXTINF:-1 group-title="Deportes La Liga",Real Madrid TV
+http://sintoniaideal.com:25461/live/urzoliniResexcha397D/ApKK8he8dVRN/250916.ts
+#EXTINF:-1 group-title="Deportes La Liga",Teledeporte
+http://sintoniaideal.com:25461/live/urzoliniResexcha397D/ApKK8he8dVRN/250918.ts
+#EXTINF:-1 group-title="Deportes La Liga",M. Deportes
+http://sintoniaideal.com:25461/live/urzoliniResexcha397D/ApKK8he8dVRN/250927.ts
+#EXTINF:-1 group-title="Deportes La Liga",M. Deportes HD
+http://sintoniaideal.com:25461/live/urzoliniResexcha397D/ApKK8he8dVRN/250928.ts
+#EXTINF:-1 group-title="Deportes La Liga",M. Deportes 1 (solo eventos)
+http://sintoniaideal.com:25461/live/urzoliniResexcha397D/ApKK8he8dVRN/250930.ts
+
+#EXTINF:-1 group-title="CINE 1",Sr Cine Navidad "Familiar" HD
+http://sintoniaideal.com:25461/live/urzoliniResexcha397D/ApKK8he8dVRN/102269.ts
+#EXTINF:-1 group-title="CINE 1",Sr Cine Películas Cristianas HD
+http://sintoniaideal.com:25461/live/urzoliniResexcha397D/ApKK8he8dVRN/160622.ts
+#EXTINF:-1 group-title="CINE 1",AMC (MOVIL)
+http://sintoniaideal.com:25461/live/urzoliniResexcha397D/ApKK8he8dVRN/64722.ts
+#EXTINF:-1 group-title="CINE 1",AMC HD (CO)
+http://sintoniaideal.com:25461/live/urzoliniResexcha397D/ApKK8he8dVRN/32180.ts
+#EXTINF:-1 group-title="CINE 1",AMC (MX)
+http://sintoniaideal.com:25461/live/urzoliniResexcha397D/ApKK8he8dVRN/24090.ts
+#EXTINF:-1 group-title="CINE 1",A&E (MOVIL)
+http://sintoniaideal.com:25461/live/urzoliniResexcha397D/ApKK8he8dVRN/64720.ts
+#EXTINF:-1 group-title="CINE 1",A&E (CO)
+http://sintoniaideal.com:25461/live/urzoliniResexcha397D/ApKK8he8dVRN/1813.ts
+#EXTINF:-1 group-title="CINE 1",A&E (MX)
+http://sintoniaideal.com:25461/live/urzoliniResexcha397D/ApKK8he8dVRN/24094.ts
+#EXTINF:-1 group-title="CINE 1",A&E Full HD (MX)
+http://sintoniaideal.com:25461/live/urzoliniResexcha397D/ApKK8he8dVRN/24095.ts
+#EXTINF:-1 group-title="CINE 1",AXN HD (CO)
+http://sintoniaideal.com:25461/live/urzoliniResexcha397D/ApKK8he8dVRN/32181.ts
+#EXTINF:-1 group-title="CINE 1",Cinecanal HD (CO)
+http://sintoniaideal.com:25461/live/urzoliniResexcha397D/ApKK8he8dVRN/32214.ts
+#EXTINF:-1 group-title="CINE 1",Cinecanal Full HD (MX)
+http://sintoniaideal.com:25461/live/urzoliniResexcha397D/ApKK8he8dVRN/32215.ts
+#EXTINF:-1 group-title="CINE 1",Cinemax (CO)
+http://sintoniaideal.com:25461/live/urzoliniResexcha397D/ApKK8he8dVRN/4615.ts
+#EXTINF:-1 group-title="CINE 1",Cinemax (MX)
+http://sintoniaideal.com:25461/live/urzoliniResexcha397D/ApKK8he8dVRN/1037.ts
+#EXTINF:-1 group-title="CINE 1",DHE
+http://sintoniaideal.com:25461/live/urzoliniResexcha397D/ApKK8he8dVRN/9738.ts
+#EXTINF:-1 group-title="CINE 1",DHE Full HD
+http://sintoniaideal.com:25461/live/urzoliniResexcha397D/ApKK8he8dVRN/1838.ts
+#EXTINF:-1 group-title="CINE 1",FX HD (CO)
+http://sintoniaideal.com:25461/live/urzoliniResexcha397D/ApKK8he8dVRN/102711.ts
+#EXTINF:-1 group-title="CINE 1",FX (MX)
+http://sintoniaideal.com:25461/live/urzoliniResexcha397D/ApKK8he8dVRN/102710.ts
+#EXTINF:-1 group-title="CINE 1",HBO (MOVIL)
+http://sintoniaideal.com:25461/live/urzoliniResexcha397D/ApKK8he8dVRN/65730.ts
+#EXTINF:-1 group-title="CINE 1",HBO
+http://sintoniaideal.com:25461/live/urzoliniResexcha397D/ApKK8he8dVRN/1799.ts
+#EXTINF:-1 group-title="CINE 1",HBO 2
+http://sintoniaideal.com:25461/live/urzoliniResexcha397D/ApKK8he8dVRN/1800.ts
+#EXTINF:-1 group-title="CINE 1",HBO 2 Full HD
+http://sintoniaideal.com:25461/live/urzoliniResexcha397D/ApKK8he8dVRN/1858.ts
+#EXTINF:-1 group-title="CINE 1",HBO Plus (MOVIL)
+http://sintoniaideal.com:25461/live/urzoliniResexcha397D/ApKK8he8dVRN/65732.ts
+#EXTINF:-1 group-title="CINE 1",HBO Plus HD
+http://sintoniaideal.com:25461/live/urzoliniResexcha397D/ApKK8he8dVRN/9754.ts
+#EXTINF:-1 group-title="CINE 1",HBO Xtreme
+http://sintoniaideal.com:25461/live/urzoliniResexcha397D/ApKK8he8dVRN/31811.ts
+#EXTINF:-1 group-title="CINE 1",HBO Xtreme Full HD
+http://sintoniaideal.com:25461/live/urzoliniResexcha397D/ApKK8he8dVRN/40829.ts
+#EXTINF:-1 group-title="CINE 1",HBO Xtreme (Dual Audio)(MOVIL)
+http://sintoniaideal.com:25461/live/urzoliniResexcha397D/ApKK8he8dVRN/103081.ts
+#EXTINF:-1 group-title="CINE 1",HBO Pop (MOVIL)
+http://sintoniaideal.com:25461/live/urzoliniResexcha397D/ApKK8he8dVRN/65733.ts
+#EXTINF:-1 group-title="CINE 1",HBO Pop
+http://sintoniaideal.com:25461/live/urzoliniResexcha397D/ApKK8he8dVRN/1808.ts
+#EXTINF:-1 group-title="CINE 1",HBO Pop Full HD
+http://sintoniaideal.com:25461/live/urzoliniResexcha397D/ApKK8he8dVRN/1860.ts
+#EXTINF:-1 group-title="CINE 1",HBO Signature
+http://sintoniaideal.com:25461/live/urzoliniResexcha397D/ApKK8he8dVRN/1803.ts
+#EXTINF:-1 group-title="CINE 1",HBO Signature HD
+http://sintoniaideal.com:25461/live/urzoliniResexcha397D/ApKK8he8dVRN/9755.ts
+#EXTINF:-1 group-title="CINE 1",HBO Signature Full HD (MX Dual)
+http://sintoniaideal.com:25461/live/urzoliniResexcha397D/ApKK8he8dVRN/1854.ts
+#EXTINF:-1 group-title="CINE 1",HBO Mundi (CO)
+http://sintoniaideal.com:25461/live/urzoliniResexcha397D/ApKK8he8dVRN/1807.ts
+#EXTINF:-1 group-title="CINE 1",TNT (MOVIL)
+http://sintoniaideal.com:25461/live/urzoliniResexcha397D/ApKK8he8dVRN/65810.ts
+#EXTINF:-1 group-title="CINE 1",TNT (CO)
+http://sintoniaideal.com:25461/live/urzoliniResexcha397D/ApKK8he8dVRN/1810.ts
+#EXTINF:-1 group-title="CINE 1",TNT (MX) (DUAL AUDIO)
+http://sintoniaideal.com:25461/live/urzoliniResexcha397D/ApKK8he8dVRN/24131.ts
+#EXTINF:-1 group-title="CINE 1",TNT HD (MX)
+http://sintoniaideal.com:25461/live/urzoliniResexcha397D/ApKK8he8dVRN/32320.ts
+#EXTINF:-1 group-title="CINE 1",TNT Full HD (MX)
+http://sintoniaideal.com:25461/live/urzoliniResexcha397D/ApKK8he8dVRN/24132.ts
+#EXTINF:-1 group-title="CINE 1",TNT Series (MOVIL)
+http://sintoniaideal.com:25461/live/urzoliniResexcha397D/ApKK8he8dVRN/65811.ts
+#EXTINF:-1 group-title="CINE 1",TNT Series (CO)
+http://sintoniaideal.com:25461/live/urzoliniResexcha397D/ApKK8he8dVRN/1811.ts
+#EXTINF:-1 group-title="CINE 1",TNT Series HD (CO)
+http://sintoniaideal.com:25461/live/urzoliniResexcha397D/ApKK8he8dVRN/32321.ts
+#EXTINF:-1 group-title="CINE 1",TNT Series Full HD (CO)
+http://sintoniaideal.com:25461/live/urzoliniResexcha397D/ApKK8he8dVRN/1865.ts
+#EXTINF:-1 group-title="CINE 1",TNT Series (MX)
+http://sintoniaideal.com:25461/live/urzoliniResexcha397D/ApKK8he8dVRN/24133.ts
+#EXTINF:-1 group-title="CINE 1",TNT Series Full HD (MX)
+http://sintoniaideal.com:25461/live/urzoliniResexcha397D/ApKK8he8dVRN/24134.ts
+#EXTINF:-1 group-title="CINE 1",Sony (MOVIL)
+http://sintoniaideal.com:25461/live/urzoliniResexcha397D/ApKK8he8dVRN/65804.ts
+#EXTINF:-1 group-title="CINE 1",Sony SD (CO)
+http://sintoniaideal.com:25461/live/urzoliniResexcha397D/ApKK8he8dVRN/1809.ts
+#EXTINF:-1 group-title="CINE 1",Sony (MX)
+http://sintoniaideal.com:25461/live/urzoliniResexcha397D/ApKK8he8dVRN/24138.ts
+#EXTINF:-1 group-title="CINE 1",Sony Full HD (MX)
+http://sintoniaideal.com:25461/live/urzoliniResexcha397D/ApKK8he8dVRN/24139.ts
+#EXTINF:-1 group-title="CINE 1",Space (MOVIL)
+http://sintoniaideal.com:25461/live/urzoliniResexcha397D/ApKK8he8dVRN/65805.ts
+#EXTINF:-1 group-title="CINE 1",Space (MX)
+http://sintoniaideal.com:25461/live/urzoliniResexcha397D/ApKK8he8dVRN/4004.ts
+#EXTINF:-1 group-title="CINE 1",Space Full HD (MX)
+http://sintoniaideal.com:25461/live/urzoliniResexcha397D/ApKK8he8dVRN/15129.ts
+#EXTINF:-1 group-title="CINE 1",Star Channel (MOVIL)
+http://sintoniaideal.com:25461/live/urzoliniResexcha397D/ApKK8he8dVRN/65062.ts
+#EXTINF:-1 group-title="CINE 1",Star Channel (CO)
+http://sintoniaideal.com:25461/live/urzoliniResexcha397D/ApKK8he8dVRN/1819.ts
+#EXTINF:-1 group-title="CINE 1",Star Channel HD (CO)
+http://sintoniaideal.com:25461/live/urzoliniResexcha397D/ApKK8he8dVRN/32316.ts
+#EXTINF:-1 group-title="CINE 1",Star Channel Full HD (CO)
+http://sintoniaideal.com:25461/live/urzoliniResexcha397D/ApKK8he8dVRN/1841.ts
+#EXTINF:-1 group-title="CINE 1",Star Channel (MX)
+http://sintoniaideal.com:25461/live/urzoliniResexcha397D/ApKK8he8dVRN/24124.ts
+#EXTINF:-1 group-title="CINE 1",Star Channel Full HD (MX)
+http://sintoniaideal.com:25461/live/urzoliniResexcha397D/ApKK8he8dVRN/24125.ts
+#EXTINF:-1 group-title="CINE 1",Studio Universal (MX)
+http://sintoniaideal.com:25461/live/urzoliniResexcha397D/ApKK8he8dVRN/24121.ts
+#EXTINF:-1 group-title="CINE 1",Studio Universal Full HD (MX)
+http://sintoniaideal.com:25461/live/urzoliniResexcha397D/ApKK8he8dVRN/24122.ts
+#EXTINF:-1 group-title="CINE 1",SyFy (MX)
+http://sintoniaideal.com:25461/live/urzoliniResexcha397D/ApKK8he8dVRN/26622.ts
+#EXTINF:-1 group-title="CINE 1",SyFy Full HD (MX)
+http://sintoniaideal.com:25461/live/urzoliniResexcha397D/ApKK8he8dVRN/26623.ts
+#EXTINF:-1 group-title="CINE 1",Universal Channel (MOVIL)
+http://sintoniaideal.com:25461/live/urzoliniResexcha397D/ApKK8he8dVRN/65803.ts
+#EXTINF:-1 group-title="CINE 1",Universal Channel (CO)
+http://sintoniaideal.com:25461/live/urzoliniResexcha397D/ApKK8he8dVRN/1812.ts
+#EXTINF:-1 group-title="CINE 1",Universal Channel (MX)
+http://sintoniaideal.com:25461/live/urzoliniResexcha397D/ApKK8he8dVRN/24119.ts
+#EXTINF:-1 group-title="CINE 1",Universal Cinema SD
+http://sintoniaideal.com:25461/live/urzoliniResexcha397D/ApKK8he8dVRN/313692.ts
+#EXTINF:-1 group-title="CINE 1",Universal Cinema HD
+http://sintoniaideal.com:25461/live/urzoliniResexcha397D/ApKK8he8dVRN/239632.ts
+#EXTINF:-1 group-title="CINE 1",Universal Crime HD
+http://sintoniaideal.com:25461/live/urzoliniResexcha397D/ApKK8he8dVRN/239633.ts
+#EXTINF:-1 group-title="CINE 1",Universal Crime FHD
+http://sintoniaideal.com:25461/live/urzoliniResexcha397D/ApKK8he8dVRN/313691.ts
+#EXTINF:-1 group-title="CINE 1",Universal Reality SD
+http://sintoniaideal.com:25461/live/urzoliniResexcha397D/ApKK8he8dVRN/313687.ts
+#EXTINF:-1 group-title="CINE 1",Universal Premiere SD
+http://sintoniaideal.com:25461/live/urzoliniResexcha397D/ApKK8he8dVRN/313683.ts
+#EXTINF:-1 group-title="CINE 1",Universal Premiere HD
+http://sintoniaideal.com:25461/live/urzoliniResexcha397D/ApKK8he8dVRN/239635.ts
+#EXTINF:-1 group-title="CINE 1",Universal Premiere FHD
+http://sintoniaideal.com:25461/live/urzoliniResexcha397D/ApKK8he8dVRN/313685.ts
+#EXTINF:-1 group-title="CINE 1",Warner Channel (MOVIL)
+http://sintoniaideal.com:25461/live/urzoliniResexcha397D/ApKK8he8dVRN/65809.ts
+#EXTINF:-1 group-title="CINE 1",Warner Channel Full HD (CO)
+http://sintoniaideal.com:25461/live/urzoliniResexcha397D/ApKK8he8dVRN/119658.ts
+#EXTINF:-1 group-title="CINE 1",Warner Channel (MX)
+http://sintoniaideal.com:25461/live/urzoliniResexcha397D/ApKK8he8dVRN/24635.ts
+#EXTINF:-1 group-title="CINE 1",Starz Encore Western Full HD
+http://sintoniaideal.com:25461/live/urzoliniResexcha397D/ApKK8he8dVRN/7065.ts
+#EXTINF:-1 group-title="CINE 1",Starz Encore Suspense Full HD
+http://sintoniaideal.com:25461/live/urzoliniResexcha397D/ApKK8he8dVRN/7066.ts
+#EXTINF:-1 group-title="CINE 1",Starz Encore Full HD
+http://sintoniaideal.com:25461/live/urzoliniResexcha397D/ApKK8he8dVRN/7067.ts
+#EXTINF:-1 group-title="CINE 1",Starz Encore Classic Full HD
+http://sintoniaideal.com:25461/live/urzoliniResexcha397D/ApKK8he8dVRN/7069.ts
+#EXTINF:-1 group-title="CINE 1",Starz Encore Action
+http://sintoniaideal.com:25461/live/urzoliniResexcha397D/ApKK8he8dVRN/7071.ts
+#EXTINF:-1 group-title="CINE 1",Starz East Full HD
+http://sintoniaideal.com:25461/live/urzoliniResexcha397D/ApKK8he8dVRN/7073.ts
+#EXTINF:-1 group-title="CINE 1",Starz Cinema Full HD
+http://sintoniaideal.com:25461/live/urzoliniResexcha397D/ApKK8he8dVRN/7075.ts
+#EXTINF:-1 group-title="CINE 1",Starz Black Full HD
+http://sintoniaideal.com:25461/live/urzoliniResexcha397D/ApKK8he8dVRN/7076.ts
+#EXTINF:-1 group-title="CINE 1",Cinema 02
+http://sintoniaideal.com:25461/live/urzoliniResexcha397D/ApKK8he8dVRN/24945.ts
+#EXTINF:-1 group-title="CINE 1",Cinema 06
+http://sintoniaideal.com:25461/live/urzoliniResexcha397D/ApKK8he8dVRN/24949.ts
+#EXTINF:-1 group-title="CINE 1",Cinema 07
+http://sintoniaideal.com:25461/live/urzoliniResexcha397D/ApKK8he8dVRN/24950.ts
+#EXTINF:-1 group-title="CINE 1",Cinema 08
+http://sintoniaideal.com:25461/live/urzoliniResexcha397D/ApKK8he8dVRN/24951.ts
+#EXTINF:-1 group-title="CINE 1",Cinema 09
+http://sintoniaideal.com:25461/live/urzoliniResexcha397D/ApKK8he8dVRN/24952.ts
+#EXTINF:-1 group-title="CINE 1",Cinema 12
+http://sintoniaideal.com:25461/live/urzoliniResexcha397D/ApKK8he8dVRN/24955.ts
+#EXTINF:-1 group-title="CINE 1",Cinema 14
+http://sintoniaideal.com:25461/live/urzoliniResexcha397D/ApKK8he8dVRN/24957.ts
+#EXTINF:-1 group-title="CINE 1",Cinema 15
+http://sintoniaideal.com:25461/live/urzoliniResexcha397D/ApKK8he8dVRN/24958.ts
+#EXTINF:-1 group-title="CINE 1",Cinema 16
+http://sintoniaideal.com:25461/live/urzoliniResexcha397D/ApKK8he8dVRN/24959.ts
+#EXTINF:-1 group-title="CINE 1",Cinema 17
+http://sintoniaideal.com:25461/live/urzoliniResexcha397D/ApKK8he8dVRN/24960.ts
+#EXTINF:-1 group-title="CINE 1",Cinema 18
+http://sintoniaideal.com:25461/live/urzoliniResexcha397D/ApKK8he8dVRN/24961.ts
+#EXTINF:-1 group-title="CINE 1",Cinema 22
+http://sintoniaideal.com:25461/live/urzoliniResexcha397D/ApKK8he8dVRN/24965.ts
+#EXTINF:-1 group-title="CINE 1",Cinema 26
+http://sintoniaideal.com:25461/live/urzoliniResexcha397D/ApKK8he8dVRN/24969.ts
+#EXTINF:-1 group-title="CINE 1",Cinema 30
+http://sintoniaideal.com:25461/live/urzoliniResexcha397D/ApKK8he8dVRN/24973.ts
+#EXTINF:-1 group-title="CINE 1",Cinema 31
+http://sintoniaideal.com:25461/live/urzoliniResexcha397D/ApKK8he8dVRN/24974.ts
+#EXTINF:-1 group-title="CINE 1",Cinema 32
+http://sintoniaideal.com:25461/live/urzoliniResexcha397D/ApKK8he8dVRN/24975.ts
+#EXTINF:-1 group-title="CINE 1",Cinema 34
+http://sintoniaideal.com:25461/live/urzoliniResexcha397D/ApKK8he8dVRN/24977.ts
+#EXTINF:-1 group-title="CINE 1",Cinema 35
+http://sintoniaideal.com:25461/live/urzoliniResexcha397D/ApKK8he8dVRN/24978.ts
+#EXTINF:-1 group-title="CINE 1",Cinema 36
+http://sintoniaideal.com:25461/live/urzoliniResexcha397D/ApKK8he8dVRN/24979.ts
+#EXTINF:-1 group-title="CINE 1",Cinema 37
+http://sintoniaideal.com:25461/live/urzoliniResexcha397D/ApKK8he8dVRN/24980.ts
+
